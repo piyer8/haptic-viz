@@ -1,0 +1,92 @@
+[
+    {
+        "signal_id": "150",
+        "emotional_keywords": [
+            {
+                "word": "fearful",
+                "emotion": "fear",
+                "intensity": "0.766"
+            },
+            {
+                "word": "fearful",
+                "emotion": "sadness",
+                "intensity": "0.766"
+            },
+            {
+                "word": "annoying",
+                "emotion": "anger",
+                "intensity": "0.470"
+            },
+            {
+                "word": "distressed",
+                "emotion": "fear",
+                "intensity": "0.406"
+            },
+            {
+                "word": "encouraged",
+                "emotion": "joy",
+                "intensity": "0.656"
+            },
+            {
+                "word": "urgency",
+                "emotion": "anticipation",
+                "intensity": "0.703"
+            },
+            {
+                "word": "urgency",
+                "emotion": "fear",
+                "intensity": "0.391"
+            },
+            {
+                "word": "urgency",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            },
+            {
+                "word": "excited",
+                "emotion": "anticipation",
+                "intensity": "0.859"
+            },
+            {
+                "word": "excited",
+                "emotion": "joy",
+                "intensity": "0.818"
+            },
+            {
+                "word": "excited",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "excited",
+                "emotion": "trust",
+                "intensity": "0.453"
+            },
+            {
+                "word": "weird",
+                "emotion": "disgust",
+                "intensity": "0.266"
+            },
+            {
+                "word": "discomfort",
+                "emotion": "sadness",
+                "intensity": "0.500"
+            },
+            {
+                "word": "fighting",
+                "emotion": "anger",
+                "intensity": "0.868"
+            }
+        ]
+    }
+]

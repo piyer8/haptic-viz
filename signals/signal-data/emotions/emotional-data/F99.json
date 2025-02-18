@@ -1,0 +1,57 @@
+[
+    {
+        "signal_id": "99",
+        "emotional_keywords": [
+            {
+                "word": "joyous",
+                "emotion": "joy",
+                "intensity": "0.922"
+            },
+            {
+                "word": "buzz",
+                "emotion": "anticipation",
+                "intensity": "0.594"
+            },
+            {
+                "word": "buzz",
+                "emotion": "fear",
+                "intensity": "0.234"
+            },
+            {
+                "word": "excitement",
+                "emotion": "anticipation",
+                "intensity": "0.820"
+            },
+            {
+                "word": "excitement",
+                "emotion": "joy",
+                "intensity": "0.922"
+            },
+            {
+                "word": "excitement",
+                "emotion": "surprise",
+                "intensity": "0.734"
+            },
+            {
+                "word": "irritated",
+                "emotion": "anger",
+                "intensity": "0.706"
+            },
+            {
+                "word": "relaxing",
+                "emotion": "joy",
+                "intensity": "0.652"
+            },
+            {
+                "word": "soothing",
+                "emotion": "joy",
+                "intensity": "0.531"
+            },
+            {
+                "word": "soothing",
+                "emotion": "trust",
+                "intensity": "0.562"
+            }
+        ]
+    }
+]

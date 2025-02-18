@@ -1,0 +1,102 @@
+[
+    {
+        "signal_id": "40",
+        "emotional_keywords": [
+            {
+                "word": "ready",
+                "emotion": "anticipation",
+                "intensity": "0.500"
+            },
+            {
+                "word": "interested",
+                "emotion": "disgust",
+                "intensity": "0.078"
+            },
+            {
+                "word": "interested",
+                "emotion": "sadness",
+                "intensity": "0.114"
+            },
+            {
+                "word": "profound",
+                "emotion": "trust",
+                "intensity": "0.625"
+            },
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            },
+            {
+                "word": "smile",
+                "emotion": "joy",
+                "intensity": "0.750"
+            },
+            {
+                "word": "smile",
+                "emotion": "surprise",
+                "intensity": "0.117"
+            },
+            {
+                "word": "smile",
+                "emotion": "trust",
+                "intensity": "0.578"
+            },
+            {
+                "word": "neutral",
+                "emotion": "anticipation",
+                "intensity": "0.148"
+            },
+            {
+                "word": "neutral",
+                "emotion": "joy",
+                "intensity": "0.114"
+            },
+            {
+                "word": "neutral",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "hopeful",
+                "emotion": "anticipation",
+                "intensity": "0.703"
+            },
+            {
+                "word": "hopeful",
+                "emotion": "joy",
+                "intensity": "0.559"
+            },
+            {
+                "word": "hopeful",
+                "emotion": "surprise",
+                "intensity": "0.234"
+            },
+            {
+                "word": "hopeful",
+                "emotion": "trust",
+                "intensity": "0.633"
+            },
+            {
+                "word": "thrilling",
+                "emotion": "anticipation",
+                "intensity": "0.781"
+            },
+            {
+                "word": "thrilling",
+                "emotion": "joy",
+                "intensity": "0.776"
+            },
+            {
+                "word": "thrilling",
+                "emotion": "surprise",
+                "intensity": "0.859"
+            }
+        ]
+    }
+]

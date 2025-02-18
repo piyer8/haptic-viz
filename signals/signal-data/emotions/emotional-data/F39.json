@@ -1,0 +1,77 @@
+[
+    {
+        "signal_id": "39",
+        "emotional_keywords": [
+            {
+                "word": "steady",
+                "emotion": "surprise",
+                "intensity": "0.094"
+            },
+            {
+                "word": "steady",
+                "emotion": "trust",
+                "intensity": "0.602"
+            },
+            {
+                "word": "patient",
+                "emotion": "anticipation",
+                "intensity": "0.328"
+            },
+            {
+                "word": "patient",
+                "emotion": "joy",
+                "intensity": "0.186"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "disgust",
+                "intensity": "0.477"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "sadness",
+                "intensity": "0.530"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "relaxing",
+                "emotion": "joy",
+                "intensity": "0.652"
+            },
+            {
+                "word": "relaxed",
+                "emotion": "joy",
+                "intensity": "0.442"
+            },
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            },
+            {
+                "word": "uneasy",
+                "emotion": "disgust",
+                "intensity": "0.273"
+            },
+            {
+                "word": "uneasy",
+                "emotion": "fear",
+                "intensity": "0.312"
+            },
+            {
+                "word": "discomfort",
+                "emotion": "sadness",
+                "intensity": "0.500"
+            }
+        ]
+    }
+]

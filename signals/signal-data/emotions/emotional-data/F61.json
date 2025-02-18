@@ -1,0 +1,92 @@
+[
+    {
+        "signal_id": "61",
+        "emotional_keywords": [
+            {
+                "word": "strong",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "disgust",
+                "intensity": "0.477"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "sadness",
+                "intensity": "0.530"
+            },
+            {
+                "word": "intense",
+                "emotion": "anger",
+                "intensity": "0.453"
+            },
+            {
+                "word": "intense",
+                "emotion": "disgust",
+                "intensity": "0.219"
+            },
+            {
+                "word": "intense",
+                "emotion": "fear",
+                "intensity": "0.279"
+            },
+            {
+                "word": "intense",
+                "emotion": "joy",
+                "intensity": "0.242"
+            },
+            {
+                "word": "intense",
+                "emotion": "surprise",
+                "intensity": "0.617"
+            },
+            {
+                "word": "intense",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "good",
+                "emotion": "anticipation",
+                "intensity": "0.383"
+            },
+            {
+                "word": "good",
+                "emotion": "joy",
+                "intensity": "0.547"
+            },
+            {
+                "word": "good",
+                "emotion": "surprise",
+                "intensity": "0.219"
+            },
+            {
+                "word": "good",
+                "emotion": "trust",
+                "intensity": "0.617"
+            },
+            {
+                "word": "warning",
+                "emotion": "fear",
+                "intensity": "0.297"
+            },
+            {
+                "word": "urgency",
+                "emotion": "anticipation",
+                "intensity": "0.703"
+            },
+            {
+                "word": "urgency",
+                "emotion": "fear",
+                "intensity": "0.391"
+            },
+            {
+                "word": "urgency",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            }
+        ]
+    }
+]

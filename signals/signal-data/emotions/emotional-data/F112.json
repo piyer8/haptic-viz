@@ -1,0 +1,92 @@
+[
+    {
+        "signal_id": "112",
+        "emotional_keywords": [
+            {
+                "word": "sensual",
+                "emotion": "anticipation",
+                "intensity": "0.539"
+            },
+            {
+                "word": "sensual",
+                "emotion": "joy",
+                "intensity": "0.576"
+            },
+            {
+                "word": "sensual",
+                "emotion": "surprise",
+                "intensity": "0.367"
+            },
+            {
+                "word": "sensual",
+                "emotion": "trust",
+                "intensity": "0.445"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "excited",
+                "emotion": "anticipation",
+                "intensity": "0.859"
+            },
+            {
+                "word": "excited",
+                "emotion": "joy",
+                "intensity": "0.818"
+            },
+            {
+                "word": "excited",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "excited",
+                "emotion": "trust",
+                "intensity": "0.453"
+            },
+            {
+                "word": "restless",
+                "emotion": "fear",
+                "intensity": "0.204"
+            },
+            {
+                "word": "happy",
+                "emotion": "anticipation",
+                "intensity": "0.555"
+            },
+            {
+                "word": "happy",
+                "emotion": "joy",
+                "intensity": "0.788"
+            },
+            {
+                "word": "happy",
+                "emotion": "trust",
+                "intensity": "0.609"
+            },
+            {
+                "word": "exciting",
+                "emotion": "anticipation",
+                "intensity": "0.797"
+            },
+            {
+                "word": "exciting",
+                "emotion": "joy",
+                "intensity": "0.853"
+            },
+            {
+                "word": "exciting",
+                "emotion": "surprise",
+                "intensity": "0.672"
+            },
+            {
+                "word": "rush",
+                "emotion": "fear",
+                "intensity": "0.281"
+            }
+        ]
+    }
+]

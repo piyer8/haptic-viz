@@ -1,0 +1,27 @@
+[
+    {
+        "signal_id": "15",
+        "emotional_keywords": [
+            {
+                "word": "discomfort",
+                "emotion": "sadness",
+                "intensity": "0.500"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "disgust",
+                "intensity": "0.477"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "sadness",
+                "intensity": "0.530"
+            },
+            {
+                "word": "distracted",
+                "emotion": "anger",
+                "intensity": "0.197"
+            }
+        ]
+    }
+]

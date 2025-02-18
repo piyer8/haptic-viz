@@ -1,0 +1,107 @@
+[
+    {
+        "signal_id": "105",
+        "emotional_keywords": [
+            {
+                "word": "intense",
+                "emotion": "anger",
+                "intensity": "0.453"
+            },
+            {
+                "word": "intense",
+                "emotion": "disgust",
+                "intensity": "0.219"
+            },
+            {
+                "word": "intense",
+                "emotion": "fear",
+                "intensity": "0.279"
+            },
+            {
+                "word": "intense",
+                "emotion": "joy",
+                "intensity": "0.242"
+            },
+            {
+                "word": "intense",
+                "emotion": "surprise",
+                "intensity": "0.617"
+            },
+            {
+                "word": "intense",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "excited",
+                "emotion": "anticipation",
+                "intensity": "0.859"
+            },
+            {
+                "word": "excited",
+                "emotion": "joy",
+                "intensity": "0.818"
+            },
+            {
+                "word": "excited",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "excited",
+                "emotion": "trust",
+                "intensity": "0.453"
+            },
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "disgust",
+                "intensity": "0.477"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "sadness",
+                "intensity": "0.530"
+            },
+            {
+                "word": "annoying",
+                "emotion": "anger",
+                "intensity": "0.470"
+            },
+            {
+                "word": "nasty",
+                "emotion": "anger",
+                "intensity": "0.672"
+            },
+            {
+                "word": "nasty",
+                "emotion": "disgust",
+                "intensity": "0.703"
+            },
+            {
+                "word": "nasty",
+                "emotion": "fear",
+                "intensity": "0.466"
+            },
+            {
+                "word": "nasty",
+                "emotion": "sadness",
+                "intensity": "0.484"
+            },
+            {
+                "word": "morning",
+                "emotion": "joy",
+                "intensity": "0.250"
+            }
+        ]
+    }
+]

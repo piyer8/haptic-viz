@@ -1,0 +1,117 @@
+[
+    {
+        "signal_id": "17",
+        "emotional_keywords": [
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "disgust",
+                "intensity": "0.477"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "sadness",
+                "intensity": "0.530"
+            },
+            {
+                "word": "unknown",
+                "emotion": "anticipation",
+                "intensity": "0.469"
+            },
+            {
+                "word": "unknown",
+                "emotion": "fear",
+                "intensity": "0.369"
+            },
+            {
+                "word": "annoyed",
+                "emotion": "anger",
+                "intensity": "0.485"
+            },
+            {
+                "word": "exciting",
+                "emotion": "anticipation",
+                "intensity": "0.797"
+            },
+            {
+                "word": "exciting",
+                "emotion": "joy",
+                "intensity": "0.853"
+            },
+            {
+                "word": "exciting",
+                "emotion": "surprise",
+                "intensity": "0.672"
+            },
+            {
+                "word": "neutral",
+                "emotion": "anticipation",
+                "intensity": "0.148"
+            },
+            {
+                "word": "neutral",
+                "emotion": "joy",
+                "intensity": "0.114"
+            },
+            {
+                "word": "neutral",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "scared",
+                "emotion": "fear",
+                "intensity": "0.734"
+            },
+            {
+                "word": "falling",
+                "emotion": "sadness",
+                "intensity": "0.422"
+            },
+            {
+                "word": "excitement",
+                "emotion": "anticipation",
+                "intensity": "0.820"
+            },
+            {
+                "word": "excitement",
+                "emotion": "joy",
+                "intensity": "0.922"
+            },
+            {
+                "word": "excitement",
+                "emotion": "surprise",
+                "intensity": "0.734"
+            },
+            {
+                "word": "anxiety",
+                "emotion": "anger",
+                "intensity": "0.344"
+            },
+            {
+                "word": "anxiety",
+                "emotion": "anticipation",
+                "intensity": "0.609"
+            },
+            {
+                "word": "anxiety",
+                "emotion": "fear",
+                "intensity": "0.594"
+            },
+            {
+                "word": "anxiety",
+                "emotion": "sadness",
+                "intensity": "0.500"
+            }
+        ]
+    }
+]

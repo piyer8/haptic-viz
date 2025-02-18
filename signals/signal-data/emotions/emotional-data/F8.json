@@ -1,0 +1,77 @@
+[
+    {
+        "signal_id": "8",
+        "emotional_keywords": [
+            {
+                "word": "lumpy",
+                "emotion": "disgust",
+                "intensity": "0.336"
+            },
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            },
+            {
+                "word": "relaxed",
+                "emotion": "joy",
+                "intensity": "0.442"
+            },
+            {
+                "word": "calming",
+                "emotion": "joy",
+                "intensity": "0.470"
+            },
+            {
+                "word": "steady",
+                "emotion": "surprise",
+                "intensity": "0.094"
+            },
+            {
+                "word": "steady",
+                "emotion": "trust",
+                "intensity": "0.602"
+            },
+            {
+                "word": "joyous",
+                "emotion": "joy",
+                "intensity": "0.922"
+            },
+            {
+                "word": "annoying",
+                "emotion": "anger",
+                "intensity": "0.470"
+            },
+            {
+                "word": "suspense",
+                "emotion": "anticipation",
+                "intensity": "0.711"
+            },
+            {
+                "word": "suspense",
+                "emotion": "fear",
+                "intensity": "0.529"
+            },
+            {
+                "word": "suspense",
+                "emotion": "surprise",
+                "intensity": "0.703"
+            },
+            {
+                "word": "waiting",
+                "emotion": "anticipation",
+                "intensity": "0.664"
+            },
+            {
+                "word": "waiting",
+                "emotion": "fear",
+                "intensity": "0.141"
+            }
+        ]
+    }
+]

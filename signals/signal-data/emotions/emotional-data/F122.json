@@ -1,0 +1,97 @@
+[
+    {
+        "signal_id": "122",
+        "emotional_keywords": [
+            {
+                "word": "strong",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "neutral",
+                "emotion": "anticipation",
+                "intensity": "0.148"
+            },
+            {
+                "word": "neutral",
+                "emotion": "joy",
+                "intensity": "0.114"
+            },
+            {
+                "word": "neutral",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "anxiety",
+                "emotion": "anger",
+                "intensity": "0.344"
+            },
+            {
+                "word": "anxiety",
+                "emotion": "anticipation",
+                "intensity": "0.609"
+            },
+            {
+                "word": "anxiety",
+                "emotion": "fear",
+                "intensity": "0.594"
+            },
+            {
+                "word": "anxiety",
+                "emotion": "sadness",
+                "intensity": "0.500"
+            },
+            {
+                "word": "distress",
+                "emotion": "anger",
+                "intensity": "0.469"
+            },
+            {
+                "word": "distress",
+                "emotion": "disgust",
+                "intensity": "0.508"
+            },
+            {
+                "word": "distress",
+                "emotion": "fear",
+                "intensity": "0.656"
+            },
+            {
+                "word": "distress",
+                "emotion": "sadness",
+                "intensity": "0.594"
+            },
+            {
+                "word": "distress",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "anticipation",
+                "intensity": "0.523"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "joy",
+                "intensity": "0.656"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "surprise",
+                "intensity": "0.242"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "pleasurable",
+                "emotion": "joy",
+                "intensity": "0.877"
+            }
+        ]
+    }
+]

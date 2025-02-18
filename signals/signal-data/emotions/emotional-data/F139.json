@@ -1,0 +1,102 @@
+[
+    {
+        "signal_id": "139",
+        "emotional_keywords": [
+            {
+                "word": "crushed",
+                "emotion": "anger",
+                "intensity": "0.672"
+            },
+            {
+                "word": "crushed",
+                "emotion": "disgust",
+                "intensity": "0.352"
+            },
+            {
+                "word": "crushed",
+                "emotion": "fear",
+                "intensity": "0.812"
+            },
+            {
+                "word": "crushed",
+                "emotion": "sadness",
+                "intensity": "0.703"
+            },
+            {
+                "word": "impatient",
+                "emotion": "anticipation",
+                "intensity": "0.586"
+            },
+            {
+                "word": "impatient",
+                "emotion": "fear",
+                "intensity": "0.224"
+            },
+            {
+                "word": "weird",
+                "emotion": "disgust",
+                "intensity": "0.266"
+            },
+            {
+                "word": "curious",
+                "emotion": "anticipation",
+                "intensity": "0.633"
+            },
+            {
+                "word": "reluctant",
+                "emotion": "fear",
+                "intensity": "0.297"
+            },
+            {
+                "word": "thrilling",
+                "emotion": "anticipation",
+                "intensity": "0.781"
+            },
+            {
+                "word": "thrilling",
+                "emotion": "joy",
+                "intensity": "0.776"
+            },
+            {
+                "word": "thrilling",
+                "emotion": "surprise",
+                "intensity": "0.859"
+            },
+            {
+                "word": "hurried",
+                "emotion": "anticipation",
+                "intensity": "0.531"
+            },
+            {
+                "word": "good",
+                "emotion": "anticipation",
+                "intensity": "0.383"
+            },
+            {
+                "word": "good",
+                "emotion": "joy",
+                "intensity": "0.547"
+            },
+            {
+                "word": "good",
+                "emotion": "surprise",
+                "intensity": "0.219"
+            },
+            {
+                "word": "good",
+                "emotion": "trust",
+                "intensity": "0.617"
+            },
+            {
+                "word": "joyful",
+                "emotion": "joy",
+                "intensity": "0.879"
+            },
+            {
+                "word": "joyful",
+                "emotion": "trust",
+                "intensity": "0.586"
+            }
+        ]
+    }
+]

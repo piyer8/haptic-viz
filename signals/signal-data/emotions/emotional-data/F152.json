@@ -1,0 +1,72 @@
+[
+    {
+        "signal_id": "152",
+        "emotional_keywords": [
+            {
+                "word": "annoying",
+                "emotion": "anger",
+                "intensity": "0.470"
+            },
+            {
+                "word": "soothing",
+                "emotion": "joy",
+                "intensity": "0.531"
+            },
+            {
+                "word": "soothing",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "annoyed",
+                "emotion": "anger",
+                "intensity": "0.485"
+            },
+            {
+                "word": "hopeful",
+                "emotion": "anticipation",
+                "intensity": "0.703"
+            },
+            {
+                "word": "hopeful",
+                "emotion": "joy",
+                "intensity": "0.559"
+            },
+            {
+                "word": "hopeful",
+                "emotion": "surprise",
+                "intensity": "0.234"
+            },
+            {
+                "word": "hopeful",
+                "emotion": "trust",
+                "intensity": "0.633"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "quiet",
+                "emotion": "joy",
+                "intensity": "0.188"
+            },
+            {
+                "word": "quiet",
+                "emotion": "sadness",
+                "intensity": "0.094"
+            },
+            {
+                "word": "angry",
+                "emotion": "anger",
+                "intensity": "0.824"
+            },
+            {
+                "word": "angry",
+                "emotion": "disgust",
+                "intensity": "0.469"
+            }
+        ]
+    }
+]

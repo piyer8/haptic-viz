@@ -1,0 +1,37 @@
+[
+    {
+        "signal_id": "138",
+        "emotional_keywords": [
+            {
+                "word": "curious",
+                "emotion": "anticipation",
+                "intensity": "0.633"
+            },
+            {
+                "word": "empty",
+                "emotion": "sadness",
+                "intensity": "0.364"
+            },
+            {
+                "word": "happy",
+                "emotion": "anticipation",
+                "intensity": "0.555"
+            },
+            {
+                "word": "happy",
+                "emotion": "joy",
+                "intensity": "0.788"
+            },
+            {
+                "word": "happy",
+                "emotion": "trust",
+                "intensity": "0.609"
+            },
+            {
+                "word": "guarded",
+                "emotion": "trust",
+                "intensity": "0.602"
+            }
+        ]
+    }
+]

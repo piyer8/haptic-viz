@@ -1,0 +1,117 @@
+[
+    {
+        "signal_id": "132",
+        "emotional_keywords": [
+            {
+                "word": "jubilant",
+                "emotion": "joy",
+                "intensity": "0.969"
+            },
+            {
+                "word": "jubilant",
+                "emotion": "surprise",
+                "intensity": "0.578"
+            },
+            {
+                "word": "jubilant",
+                "emotion": "trust",
+                "intensity": "0.492"
+            },
+            {
+                "word": "celebrating",
+                "emotion": "anticipation",
+                "intensity": "0.672"
+            },
+            {
+                "word": "celebrating",
+                "emotion": "joy",
+                "intensity": "0.970"
+            },
+            {
+                "word": "anxiety",
+                "emotion": "anger",
+                "intensity": "0.344"
+            },
+            {
+                "word": "anxiety",
+                "emotion": "anticipation",
+                "intensity": "0.609"
+            },
+            {
+                "word": "anxiety",
+                "emotion": "fear",
+                "intensity": "0.594"
+            },
+            {
+                "word": "anxiety",
+                "emotion": "sadness",
+                "intensity": "0.500"
+            },
+            {
+                "word": "weird",
+                "emotion": "disgust",
+                "intensity": "0.266"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "irritating",
+                "emotion": "anger",
+                "intensity": "0.606"
+            },
+            {
+                "word": "irritating",
+                "emotion": "disgust",
+                "intensity": "0.375"
+            },
+            {
+                "word": "nostalgic",
+                "emotion": "joy",
+                "intensity": "0.439"
+            },
+            {
+                "word": "exciting",
+                "emotion": "anticipation",
+                "intensity": "0.797"
+            },
+            {
+                "word": "exciting",
+                "emotion": "joy",
+                "intensity": "0.853"
+            },
+            {
+                "word": "exciting",
+                "emotion": "surprise",
+                "intensity": "0.672"
+            },
+            {
+                "word": "excited",
+                "emotion": "anticipation",
+                "intensity": "0.859"
+            },
+            {
+                "word": "excited",
+                "emotion": "joy",
+                "intensity": "0.818"
+            },
+            {
+                "word": "excited",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "excited",
+                "emotion": "trust",
+                "intensity": "0.453"
+            },
+            {
+                "word": "thrilled",
+                "emotion": "joy",
+                "intensity": "0.851"
+            }
+        ]
+    }
+]

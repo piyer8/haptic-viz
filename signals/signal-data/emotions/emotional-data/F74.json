@@ -1,0 +1,92 @@
+[
+    {
+        "signal_id": "74",
+        "emotional_keywords": [
+            {
+                "word": "soothing",
+                "emotion": "joy",
+                "intensity": "0.531"
+            },
+            {
+                "word": "soothing",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "dance",
+                "emotion": "joy",
+                "intensity": "0.545"
+            },
+            {
+                "word": "dance",
+                "emotion": "trust",
+                "intensity": "0.359"
+            },
+            {
+                "word": "weird",
+                "emotion": "disgust",
+                "intensity": "0.266"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "disgust",
+                "intensity": "0.477"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "sadness",
+                "intensity": "0.530"
+            },
+            {
+                "word": "irritating",
+                "emotion": "anger",
+                "intensity": "0.606"
+            },
+            {
+                "word": "irritating",
+                "emotion": "disgust",
+                "intensity": "0.375"
+            },
+            {
+                "word": "aggressive",
+                "emotion": "anger",
+                "intensity": "0.667"
+            },
+            {
+                "word": "aggressive",
+                "emotion": "fear",
+                "intensity": "0.703"
+            },
+            {
+                "word": "neutral",
+                "emotion": "anticipation",
+                "intensity": "0.148"
+            },
+            {
+                "word": "neutral",
+                "emotion": "joy",
+                "intensity": "0.114"
+            },
+            {
+                "word": "neutral",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "steady",
+                "emotion": "surprise",
+                "intensity": "0.094"
+            },
+            {
+                "word": "steady",
+                "emotion": "trust",
+                "intensity": "0.602"
+            },
+            {
+                "word": "comforting",
+                "emotion": "joy",
+                "intensity": "0.636"
+            }
+        ]
+    }
+]

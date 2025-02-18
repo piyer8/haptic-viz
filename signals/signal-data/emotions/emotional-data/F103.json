@@ -1,0 +1,122 @@
+[
+    {
+        "signal_id": "103",
+        "emotional_keywords": [
+            {
+                "word": "thrilling",
+                "emotion": "anticipation",
+                "intensity": "0.781"
+            },
+            {
+                "word": "thrilling",
+                "emotion": "joy",
+                "intensity": "0.776"
+            },
+            {
+                "word": "thrilling",
+                "emotion": "surprise",
+                "intensity": "0.859"
+            },
+            {
+                "word": "calming",
+                "emotion": "joy",
+                "intensity": "0.470"
+            },
+            {
+                "word": "excited",
+                "emotion": "anticipation",
+                "intensity": "0.859"
+            },
+            {
+                "word": "excited",
+                "emotion": "joy",
+                "intensity": "0.818"
+            },
+            {
+                "word": "excited",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "excited",
+                "emotion": "trust",
+                "intensity": "0.453"
+            },
+            {
+                "word": "dancing",
+                "emotion": "joy",
+                "intensity": "0.797"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "anticipation",
+                "intensity": "0.523"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "joy",
+                "intensity": "0.656"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "surprise",
+                "intensity": "0.242"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "peaceful",
+                "emotion": "anticipation",
+                "intensity": "0.422"
+            },
+            {
+                "word": "peaceful",
+                "emotion": "joy",
+                "intensity": "0.636"
+            },
+            {
+                "word": "peaceful",
+                "emotion": "surprise",
+                "intensity": "0.086"
+            },
+            {
+                "word": "peaceful",
+                "emotion": "trust",
+                "intensity": "0.648"
+            },
+            {
+                "word": "goodvibes",
+                "emotion": "joy",
+                "intensity": "0.742"
+            },
+            {
+                "word": "alarming",
+                "emotion": "fear",
+                "intensity": "0.656"
+            },
+            {
+                "word": "alarming",
+                "emotion": "surprise",
+                "intensity": "0.773"
+            },
+            {
+                "word": "happy",
+                "emotion": "anticipation",
+                "intensity": "0.555"
+            },
+            {
+                "word": "happy",
+                "emotion": "joy",
+                "intensity": "0.788"
+            },
+            {
+                "word": "happy",
+                "emotion": "trust",
+                "intensity": "0.609"
+            }
+        ]
+    }
+]

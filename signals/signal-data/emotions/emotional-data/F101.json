@@ -1,0 +1,72 @@
+[
+    {
+        "signal_id": "101",
+        "emotional_keywords": [
+            {
+                "word": "excited",
+                "emotion": "anticipation",
+                "intensity": "0.859"
+            },
+            {
+                "word": "excited",
+                "emotion": "joy",
+                "intensity": "0.818"
+            },
+            {
+                "word": "excited",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "excited",
+                "emotion": "trust",
+                "intensity": "0.453"
+            },
+            {
+                "word": "rhythmical",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "rhythmical",
+                "emotion": "surprise",
+                "intensity": "0.234"
+            },
+            {
+                "word": "music",
+                "emotion": "joy",
+                "intensity": "0.531"
+            },
+            {
+                "word": "music",
+                "emotion": "sadness",
+                "intensity": "0.016"
+            },
+            {
+                "word": "discomfort",
+                "emotion": "sadness",
+                "intensity": "0.500"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "anticipation",
+                "intensity": "0.523"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "joy",
+                "intensity": "0.656"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "surprise",
+                "intensity": "0.242"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "trust",
+                "intensity": "0.562"
+            }
+        ]
+    }
+]

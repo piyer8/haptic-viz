@@ -1,0 +1,87 @@
+[
+    {
+        "signal_id": "5",
+        "emotional_keywords": [
+            {
+                "word": "doctor",
+                "emotion": "trust",
+                "intensity": "0.641"
+            },
+            {
+                "word": "alive",
+                "emotion": "anticipation",
+                "intensity": "0.461"
+            },
+            {
+                "word": "alive",
+                "emotion": "joy",
+                "intensity": "0.531"
+            },
+            {
+                "word": "alive",
+                "emotion": "trust",
+                "intensity": "0.500"
+            },
+            {
+                "word": "healthy",
+                "emotion": "joy",
+                "intensity": "0.500"
+            },
+            {
+                "word": "neutral",
+                "emotion": "anticipation",
+                "intensity": "0.148"
+            },
+            {
+                "word": "neutral",
+                "emotion": "joy",
+                "intensity": "0.114"
+            },
+            {
+                "word": "neutral",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "relaxing",
+                "emotion": "joy",
+                "intensity": "0.652"
+            },
+            {
+                "word": "uneasy",
+                "emotion": "disgust",
+                "intensity": "0.273"
+            },
+            {
+                "word": "uneasy",
+                "emotion": "fear",
+                "intensity": "0.312"
+            },
+            {
+                "word": "hospital",
+                "emotion": "fear",
+                "intensity": "0.484"
+            },
+            {
+                "word": "hospital",
+                "emotion": "sadness",
+                "intensity": "0.484"
+            },
+            {
+                "word": "hospital",
+                "emotion": "trust",
+                "intensity": "0.531"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "meditating",
+                "emotion": "joy",
+                "intensity": "0.297"
+            }
+        ]
+    }
+]

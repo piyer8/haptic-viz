@@ -1,0 +1,32 @@
+[
+    {
+        "signal_id": "93",
+        "emotional_keywords": [
+            {
+                "word": "urgency",
+                "emotion": "anticipation",
+                "intensity": "0.703"
+            },
+            {
+                "word": "urgency",
+                "emotion": "fear",
+                "intensity": "0.391"
+            },
+            {
+                "word": "urgency",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "discomfort",
+                "emotion": "sadness",
+                "intensity": "0.500"
+            },
+            {
+                "word": "scared",
+                "emotion": "fear",
+                "intensity": "0.734"
+            }
+        ]
+    }
+]

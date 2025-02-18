@@ -1,0 +1,87 @@
+[
+    {
+        "signal_id": "62",
+        "emotional_keywords": [
+            {
+                "word": "familiar",
+                "emotion": "trust",
+                "intensity": "0.656"
+            },
+            {
+                "word": "machine",
+                "emotion": "trust",
+                "intensity": "0.289"
+            },
+            {
+                "word": "damage",
+                "emotion": "anger",
+                "intensity": "0.578"
+            },
+            {
+                "word": "damage",
+                "emotion": "disgust",
+                "intensity": "0.391"
+            },
+            {
+                "word": "damage",
+                "emotion": "sadness",
+                "intensity": "0.578"
+            },
+            {
+                "word": "neutral",
+                "emotion": "anticipation",
+                "intensity": "0.148"
+            },
+            {
+                "word": "neutral",
+                "emotion": "joy",
+                "intensity": "0.114"
+            },
+            {
+                "word": "neutral",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "walking",
+                "emotion": "joy",
+                "intensity": "0.188"
+            },
+            {
+                "word": "tranquility",
+                "emotion": "joy",
+                "intensity": "0.679"
+            },
+            {
+                "word": "tranquility",
+                "emotion": "trust",
+                "intensity": "0.594"
+            },
+            {
+                "word": "peace",
+                "emotion": "anticipation",
+                "intensity": "0.430"
+            },
+            {
+                "word": "peace",
+                "emotion": "joy",
+                "intensity": "0.576"
+            },
+            {
+                "word": "peace",
+                "emotion": "trust",
+                "intensity": "0.602"
+            },
+            {
+                "word": "silence",
+                "emotion": "joy",
+                "intensity": "0.127"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            }
+        ]
+    }
+]

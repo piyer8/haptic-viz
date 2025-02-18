@@ -1,0 +1,82 @@
+[
+    {
+        "signal_id": "77",
+        "emotional_keywords": [
+            {
+                "word": "aggressive",
+                "emotion": "anger",
+                "intensity": "0.667"
+            },
+            {
+                "word": "aggressive",
+                "emotion": "fear",
+                "intensity": "0.703"
+            },
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            },
+            {
+                "word": "excited",
+                "emotion": "anticipation",
+                "intensity": "0.859"
+            },
+            {
+                "word": "excited",
+                "emotion": "joy",
+                "intensity": "0.818"
+            },
+            {
+                "word": "excited",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "excited",
+                "emotion": "trust",
+                "intensity": "0.453"
+            },
+            {
+                "word": "urgent",
+                "emotion": "anticipation",
+                "intensity": "0.727"
+            },
+            {
+                "word": "urgent",
+                "emotion": "fear",
+                "intensity": "0.450"
+            },
+            {
+                "word": "urgent",
+                "emotion": "surprise",
+                "intensity": "0.695"
+            },
+            {
+                "word": "bad",
+                "emotion": "anger",
+                "intensity": "0.453"
+            },
+            {
+                "word": "bad",
+                "emotion": "disgust",
+                "intensity": "0.391"
+            },
+            {
+                "word": "bad",
+                "emotion": "fear",
+                "intensity": "0.375"
+            },
+            {
+                "word": "bad",
+                "emotion": "sadness",
+                "intensity": "0.422"
+            }
+        ]
+    }
+]

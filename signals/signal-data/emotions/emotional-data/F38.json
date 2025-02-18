@@ -1,0 +1,132 @@
+[
+    {
+        "signal_id": "38",
+        "emotional_keywords": [
+            {
+                "word": "unpredictable",
+                "emotion": "surprise",
+                "intensity": "0.758"
+            },
+            {
+                "word": "annoyed",
+                "emotion": "anger",
+                "intensity": "0.485"
+            },
+            {
+                "word": "stable",
+                "emotion": "trust",
+                "intensity": "0.750"
+            },
+            {
+                "word": "discomfort",
+                "emotion": "sadness",
+                "intensity": "0.500"
+            },
+            {
+                "word": "hate",
+                "emotion": "anger",
+                "intensity": "0.828"
+            },
+            {
+                "word": "hate",
+                "emotion": "disgust",
+                "intensity": "0.695"
+            },
+            {
+                "word": "hate",
+                "emotion": "fear",
+                "intensity": "0.484"
+            },
+            {
+                "word": "hate",
+                "emotion": "sadness",
+                "intensity": "0.656"
+            },
+            {
+                "word": "weird",
+                "emotion": "disgust",
+                "intensity": "0.266"
+            },
+            {
+                "word": "musical",
+                "emotion": "anger",
+                "intensity": "0.011"
+            },
+            {
+                "word": "musical",
+                "emotion": "anticipation",
+                "intensity": "0.367"
+            },
+            {
+                "word": "musical",
+                "emotion": "joy",
+                "intensity": "0.422"
+            },
+            {
+                "word": "musical",
+                "emotion": "sadness",
+                "intensity": "0.045"
+            },
+            {
+                "word": "musical",
+                "emotion": "surprise",
+                "intensity": "0.219"
+            },
+            {
+                "word": "musical",
+                "emotion": "trust",
+                "intensity": "0.492"
+            },
+            {
+                "word": "intense",
+                "emotion": "anger",
+                "intensity": "0.453"
+            },
+            {
+                "word": "intense",
+                "emotion": "disgust",
+                "intensity": "0.219"
+            },
+            {
+                "word": "intense",
+                "emotion": "fear",
+                "intensity": "0.279"
+            },
+            {
+                "word": "intense",
+                "emotion": "joy",
+                "intensity": "0.242"
+            },
+            {
+                "word": "intense",
+                "emotion": "surprise",
+                "intensity": "0.617"
+            },
+            {
+                "word": "intense",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "rhythmical",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "rhythmical",
+                "emotion": "surprise",
+                "intensity": "0.234"
+            },
+            {
+                "word": "aggressive",
+                "emotion": "anger",
+                "intensity": "0.667"
+            },
+            {
+                "word": "aggressive",
+                "emotion": "fear",
+                "intensity": "0.703"
+            }
+        ]
+    }
+]

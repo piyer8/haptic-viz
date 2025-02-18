@@ -1,0 +1,102 @@
+[
+    {
+        "signal_id": "65",
+        "emotional_keywords": [
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            },
+            {
+                "word": "neutral",
+                "emotion": "anticipation",
+                "intensity": "0.148"
+            },
+            {
+                "word": "neutral",
+                "emotion": "joy",
+                "intensity": "0.114"
+            },
+            {
+                "word": "neutral",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "weird",
+                "emotion": "disgust",
+                "intensity": "0.266"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "bad",
+                "emotion": "anger",
+                "intensity": "0.453"
+            },
+            {
+                "word": "bad",
+                "emotion": "disgust",
+                "intensity": "0.391"
+            },
+            {
+                "word": "bad",
+                "emotion": "fear",
+                "intensity": "0.375"
+            },
+            {
+                "word": "bad",
+                "emotion": "sadness",
+                "intensity": "0.422"
+            },
+            {
+                "word": "disgust",
+                "emotion": "anger",
+                "intensity": "0.602"
+            },
+            {
+                "word": "disgust",
+                "emotion": "disgust",
+                "intensity": "0.719"
+            },
+            {
+                "word": "disgust",
+                "emotion": "fear",
+                "intensity": "0.406"
+            },
+            {
+                "word": "disgust",
+                "emotion": "sadness",
+                "intensity": "0.531"
+            },
+            {
+                "word": "thrill",
+                "emotion": "anticipation",
+                "intensity": "0.703"
+            },
+            {
+                "word": "thrill",
+                "emotion": "fear",
+                "intensity": "0.219"
+            },
+            {
+                "word": "thrill",
+                "emotion": "joy",
+                "intensity": "0.721"
+            },
+            {
+                "word": "thrill",
+                "emotion": "surprise",
+                "intensity": "0.680"
+            }
+        ]
+    }
+]

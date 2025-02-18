@@ -1,0 +1,67 @@
+[
+    {
+        "signal_id": "124",
+        "emotional_keywords": [
+            {
+                "word": "quiet",
+                "emotion": "joy",
+                "intensity": "0.188"
+            },
+            {
+                "word": "quiet",
+                "emotion": "sadness",
+                "intensity": "0.094"
+            },
+            {
+                "word": "happy",
+                "emotion": "anticipation",
+                "intensity": "0.555"
+            },
+            {
+                "word": "happy",
+                "emotion": "joy",
+                "intensity": "0.788"
+            },
+            {
+                "word": "happy",
+                "emotion": "trust",
+                "intensity": "0.609"
+            },
+            {
+                "word": "sensual",
+                "emotion": "anticipation",
+                "intensity": "0.539"
+            },
+            {
+                "word": "sensual",
+                "emotion": "joy",
+                "intensity": "0.576"
+            },
+            {
+                "word": "sensual",
+                "emotion": "surprise",
+                "intensity": "0.367"
+            },
+            {
+                "word": "sensual",
+                "emotion": "trust",
+                "intensity": "0.445"
+            },
+            {
+                "word": "irritating",
+                "emotion": "anger",
+                "intensity": "0.606"
+            },
+            {
+                "word": "irritating",
+                "emotion": "disgust",
+                "intensity": "0.375"
+            },
+            {
+                "word": "buzzing",
+                "emotion": "joy",
+                "intensity": "0.281"
+            }
+        ]
+    }
+]

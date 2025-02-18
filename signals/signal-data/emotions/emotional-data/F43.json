@@ -1,0 +1,147 @@
+[
+    {
+        "signal_id": "43",
+        "emotional_keywords": [
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            },
+            {
+                "word": "distracted",
+                "emotion": "anger",
+                "intensity": "0.197"
+            },
+            {
+                "word": "escape",
+                "emotion": "anticipation",
+                "intensity": "0.625"
+            },
+            {
+                "word": "escape",
+                "emotion": "fear",
+                "intensity": "0.406"
+            },
+            {
+                "word": "neutral",
+                "emotion": "anticipation",
+                "intensity": "0.148"
+            },
+            {
+                "word": "neutral",
+                "emotion": "joy",
+                "intensity": "0.114"
+            },
+            {
+                "word": "neutral",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "quiet",
+                "emotion": "joy",
+                "intensity": "0.188"
+            },
+            {
+                "word": "quiet",
+                "emotion": "sadness",
+                "intensity": "0.094"
+            },
+            {
+                "word": "restless",
+                "emotion": "fear",
+                "intensity": "0.204"
+            },
+            {
+                "word": "good",
+                "emotion": "anticipation",
+                "intensity": "0.383"
+            },
+            {
+                "word": "good",
+                "emotion": "joy",
+                "intensity": "0.547"
+            },
+            {
+                "word": "good",
+                "emotion": "surprise",
+                "intensity": "0.219"
+            },
+            {
+                "word": "good",
+                "emotion": "trust",
+                "intensity": "0.617"
+            },
+            {
+                "word": "soothing",
+                "emotion": "joy",
+                "intensity": "0.531"
+            },
+            {
+                "word": "soothing",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "intense",
+                "emotion": "anger",
+                "intensity": "0.453"
+            },
+            {
+                "word": "intense",
+                "emotion": "disgust",
+                "intensity": "0.219"
+            },
+            {
+                "word": "intense",
+                "emotion": "fear",
+                "intensity": "0.279"
+            },
+            {
+                "word": "intense",
+                "emotion": "joy",
+                "intensity": "0.242"
+            },
+            {
+                "word": "intense",
+                "emotion": "surprise",
+                "intensity": "0.617"
+            },
+            {
+                "word": "intense",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "relaxed",
+                "emotion": "joy",
+                "intensity": "0.442"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "anticipation",
+                "intensity": "0.523"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "joy",
+                "intensity": "0.656"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "surprise",
+                "intensity": "0.242"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "trust",
+                "intensity": "0.562"
+            }
+        ]
+    }
+]

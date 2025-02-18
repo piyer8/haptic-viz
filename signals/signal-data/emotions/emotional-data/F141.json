@@ -1,0 +1,72 @@
+[
+    {
+        "signal_id": "141",
+        "emotional_keywords": [
+            {
+                "word": "sadness",
+                "emotion": "sadness",
+                "intensity": "0.864"
+            },
+            {
+                "word": "sadness",
+                "emotion": "trust",
+                "intensity": "0.250"
+            },
+            {
+                "word": "strong",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "disturbed",
+                "emotion": "anger",
+                "intensity": "0.559"
+            },
+            {
+                "word": "disturbed",
+                "emotion": "sadness",
+                "intensity": "0.500"
+            },
+            {
+                "word": "happy",
+                "emotion": "anticipation",
+                "intensity": "0.555"
+            },
+            {
+                "word": "happy",
+                "emotion": "joy",
+                "intensity": "0.788"
+            },
+            {
+                "word": "happy",
+                "emotion": "trust",
+                "intensity": "0.609"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "anticipation",
+                "intensity": "0.523"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "joy",
+                "intensity": "0.656"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "surprise",
+                "intensity": "0.242"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "exhausted",
+                "emotion": "sadness",
+                "intensity": "0.391"
+            }
+        ]
+    }
+]

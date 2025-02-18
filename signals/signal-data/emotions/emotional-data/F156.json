@@ -1,0 +1,42 @@
+[
+    {
+        "signal_id": "156",
+        "emotional_keywords": [
+            {
+                "word": "joyful",
+                "emotion": "joy",
+                "intensity": "0.879"
+            },
+            {
+                "word": "joyful",
+                "emotion": "trust",
+                "intensity": "0.586"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "annoyed",
+                "emotion": "anger",
+                "intensity": "0.485"
+            },
+            {
+                "word": "surprise",
+                "emotion": "fear",
+                "intensity": "0.172"
+            },
+            {
+                "word": "surprise",
+                "emotion": "joy",
+                "intensity": "0.562"
+            },
+            {
+                "word": "surprise",
+                "emotion": "surprise",
+                "intensity": "0.930"
+            }
+        ]
+    }
+]

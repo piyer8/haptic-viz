@@ -1,0 +1,52 @@
+[
+    {
+        "signal_id": "7",
+        "emotional_keywords": [
+            {
+                "word": "alarming",
+                "emotion": "fear",
+                "intensity": "0.656"
+            },
+            {
+                "word": "alarming",
+                "emotion": "surprise",
+                "intensity": "0.773"
+            },
+            {
+                "word": "evacuate",
+                "emotion": "fear",
+                "intensity": "0.578"
+            },
+            {
+                "word": "urgency",
+                "emotion": "anticipation",
+                "intensity": "0.703"
+            },
+            {
+                "word": "urgency",
+                "emotion": "fear",
+                "intensity": "0.391"
+            },
+            {
+                "word": "urgency",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "neutral",
+                "emotion": "anticipation",
+                "intensity": "0.148"
+            },
+            {
+                "word": "neutral",
+                "emotion": "joy",
+                "intensity": "0.114"
+            },
+            {
+                "word": "neutral",
+                "emotion": "trust",
+                "intensity": "0.398"
+            }
+        ]
+    }
+]

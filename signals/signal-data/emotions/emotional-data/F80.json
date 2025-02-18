@@ -1,0 +1,117 @@
+[
+    {
+        "signal_id": "80",
+        "emotional_keywords": [
+            {
+                "word": "unpleasant",
+                "emotion": "disgust",
+                "intensity": "0.477"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "sadness",
+                "intensity": "0.530"
+            },
+            {
+                "word": "restless",
+                "emotion": "fear",
+                "intensity": "0.204"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "anticipation",
+                "intensity": "0.523"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "joy",
+                "intensity": "0.656"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "surprise",
+                "intensity": "0.242"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "weird",
+                "emotion": "disgust",
+                "intensity": "0.266"
+            },
+            {
+                "word": "thrilling",
+                "emotion": "anticipation",
+                "intensity": "0.781"
+            },
+            {
+                "word": "thrilling",
+                "emotion": "joy",
+                "intensity": "0.776"
+            },
+            {
+                "word": "thrilling",
+                "emotion": "surprise",
+                "intensity": "0.859"
+            },
+            {
+                "word": "neutral",
+                "emotion": "anticipation",
+                "intensity": "0.148"
+            },
+            {
+                "word": "neutral",
+                "emotion": "joy",
+                "intensity": "0.114"
+            },
+            {
+                "word": "neutral",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "urgent",
+                "emotion": "anticipation",
+                "intensity": "0.727"
+            },
+            {
+                "word": "urgent",
+                "emotion": "fear",
+                "intensity": "0.450"
+            },
+            {
+                "word": "urgent",
+                "emotion": "surprise",
+                "intensity": "0.695"
+            },
+            {
+                "word": "alarm",
+                "emotion": "fear",
+                "intensity": "0.688"
+            },
+            {
+                "word": "alarm",
+                "emotion": "surprise",
+                "intensity": "0.852"
+            },
+            {
+                "word": "exciting",
+                "emotion": "anticipation",
+                "intensity": "0.797"
+            },
+            {
+                "word": "exciting",
+                "emotion": "joy",
+                "intensity": "0.853"
+            },
+            {
+                "word": "exciting",
+                "emotion": "surprise",
+                "intensity": "0.672"
+            }
+        ]
+    }
+]

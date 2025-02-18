@@ -1,0 +1,107 @@
+[
+    {
+        "signal_id": "81",
+        "emotional_keywords": [
+            {
+                "word": "calming",
+                "emotion": "joy",
+                "intensity": "0.470"
+            },
+            {
+                "word": "comforting",
+                "emotion": "joy",
+                "intensity": "0.636"
+            },
+            {
+                "word": "irritation",
+                "emotion": "anger",
+                "intensity": "0.438"
+            },
+            {
+                "word": "irritation",
+                "emotion": "disgust",
+                "intensity": "0.375"
+            },
+            {
+                "word": "irritation",
+                "emotion": "sadness",
+                "intensity": "0.470"
+            },
+            {
+                "word": "annoyed",
+                "emotion": "anger",
+                "intensity": "0.485"
+            },
+            {
+                "word": "apprehensive",
+                "emotion": "anticipation",
+                "intensity": "0.547"
+            },
+            {
+                "word": "apprehensive",
+                "emotion": "fear",
+                "intensity": "0.578"
+            },
+            {
+                "word": "weird",
+                "emotion": "disgust",
+                "intensity": "0.266"
+            },
+            {
+                "word": "suspense",
+                "emotion": "anticipation",
+                "intensity": "0.711"
+            },
+            {
+                "word": "suspense",
+                "emotion": "fear",
+                "intensity": "0.529"
+            },
+            {
+                "word": "suspense",
+                "emotion": "surprise",
+                "intensity": "0.703"
+            },
+            {
+                "word": "excitement",
+                "emotion": "anticipation",
+                "intensity": "0.820"
+            },
+            {
+                "word": "excitement",
+                "emotion": "joy",
+                "intensity": "0.922"
+            },
+            {
+                "word": "excitement",
+                "emotion": "surprise",
+                "intensity": "0.734"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "anticipation",
+                "intensity": "0.523"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "joy",
+                "intensity": "0.656"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "surprise",
+                "intensity": "0.242"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "curious",
+                "emotion": "anticipation",
+                "intensity": "0.633"
+            }
+        ]
+    }
+]

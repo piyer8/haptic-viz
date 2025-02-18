@@ -1,0 +1,62 @@
+[
+    {
+        "signal_id": "117",
+        "emotional_keywords": [
+            {
+                "word": "irritated",
+                "emotion": "anger",
+                "intensity": "0.706"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "steady",
+                "emotion": "surprise",
+                "intensity": "0.094"
+            },
+            {
+                "word": "steady",
+                "emotion": "trust",
+                "intensity": "0.602"
+            },
+            {
+                "word": "weird",
+                "emotion": "disgust",
+                "intensity": "0.266"
+            },
+            {
+                "word": "exhaustion",
+                "emotion": "anticipation",
+                "intensity": "0.297"
+            },
+            {
+                "word": "exhaustion",
+                "emotion": "sadness",
+                "intensity": "0.375"
+            },
+            {
+                "word": "familiar",
+                "emotion": "trust",
+                "intensity": "0.656"
+            },
+            {
+                "word": "urgency",
+                "emotion": "anticipation",
+                "intensity": "0.703"
+            },
+            {
+                "word": "urgency",
+                "emotion": "fear",
+                "intensity": "0.391"
+            },
+            {
+                "word": "urgency",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            }
+        ]
+    }
+]

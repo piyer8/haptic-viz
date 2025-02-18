@@ -1,0 +1,42 @@
+[
+    {
+        "signal_id": "145",
+        "emotional_keywords": [
+            {
+                "word": "urgent",
+                "emotion": "anticipation",
+                "intensity": "0.727"
+            },
+            {
+                "word": "urgent",
+                "emotion": "fear",
+                "intensity": "0.450"
+            },
+            {
+                "word": "urgent",
+                "emotion": "surprise",
+                "intensity": "0.695"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "afraid",
+                "emotion": "fear",
+                "intensity": "0.844"
+            },
+            {
+                "word": "nervous",
+                "emotion": "anticipation",
+                "intensity": "0.602"
+            },
+            {
+                "word": "nervous",
+                "emotion": "fear",
+                "intensity": "0.469"
+            }
+        ]
+    }
+]

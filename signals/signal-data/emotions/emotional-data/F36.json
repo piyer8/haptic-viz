@@ -1,0 +1,87 @@
+[
+    {
+        "signal_id": "36",
+        "emotional_keywords": [
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            },
+            {
+                "word": "relaxed",
+                "emotion": "joy",
+                "intensity": "0.442"
+            },
+            {
+                "word": "nervous",
+                "emotion": "anticipation",
+                "intensity": "0.602"
+            },
+            {
+                "word": "nervous",
+                "emotion": "fear",
+                "intensity": "0.469"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "secret",
+                "emotion": "trust",
+                "intensity": "0.305"
+            },
+            {
+                "word": "mystery",
+                "emotion": "anticipation",
+                "intensity": "0.711"
+            },
+            {
+                "word": "mystery",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "suspicious",
+                "emotion": "anger",
+                "intensity": "0.484"
+            },
+            {
+                "word": "suspicious",
+                "emotion": "anticipation",
+                "intensity": "0.547"
+            },
+            {
+                "word": "anticipatory",
+                "emotion": "anticipation",
+                "intensity": "0.750"
+            },
+            {
+                "word": "annoying",
+                "emotion": "anger",
+                "intensity": "0.470"
+            },
+            {
+                "word": "soothing",
+                "emotion": "joy",
+                "intensity": "0.531"
+            },
+            {
+                "word": "soothing",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "agitated",
+                "emotion": "anger",
+                "intensity": "0.630"
+            }
+        ]
+    }
+]

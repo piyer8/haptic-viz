@@ -1,0 +1,42 @@
+[
+    {
+        "signal_id": "153",
+        "emotional_keywords": [
+            {
+                "word": "nervous",
+                "emotion": "anticipation",
+                "intensity": "0.602"
+            },
+            {
+                "word": "nervous",
+                "emotion": "fear",
+                "intensity": "0.469"
+            },
+            {
+                "word": "stagnant",
+                "emotion": "sadness",
+                "intensity": "0.259"
+            },
+            {
+                "word": "impatient",
+                "emotion": "anticipation",
+                "intensity": "0.586"
+            },
+            {
+                "word": "impatient",
+                "emotion": "fear",
+                "intensity": "0.224"
+            },
+            {
+                "word": "worried",
+                "emotion": "fear",
+                "intensity": "0.466"
+            },
+            {
+                "word": "worried",
+                "emotion": "sadness",
+                "intensity": "0.621"
+            }
+        ]
+    }
+]

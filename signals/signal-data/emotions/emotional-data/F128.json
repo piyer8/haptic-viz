@@ -1,0 +1,102 @@
+[
+    {
+        "signal_id": "128",
+        "emotional_keywords": [
+            {
+                "word": "thrill",
+                "emotion": "anticipation",
+                "intensity": "0.703"
+            },
+            {
+                "word": "thrill",
+                "emotion": "fear",
+                "intensity": "0.219"
+            },
+            {
+                "word": "thrill",
+                "emotion": "joy",
+                "intensity": "0.721"
+            },
+            {
+                "word": "thrill",
+                "emotion": "surprise",
+                "intensity": "0.680"
+            },
+            {
+                "word": "excitement",
+                "emotion": "anticipation",
+                "intensity": "0.820"
+            },
+            {
+                "word": "excitement",
+                "emotion": "joy",
+                "intensity": "0.922"
+            },
+            {
+                "word": "excitement",
+                "emotion": "surprise",
+                "intensity": "0.734"
+            },
+            {
+                "word": "fulfilled",
+                "emotion": "joy",
+                "intensity": "0.667"
+            },
+            {
+                "word": "fulfilled",
+                "emotion": "trust",
+                "intensity": "0.703"
+            },
+            {
+                "word": "weird",
+                "emotion": "disgust",
+                "intensity": "0.266"
+            },
+            {
+                "word": "happiness",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "happiness",
+                "emotion": "joy",
+                "intensity": "0.984"
+            },
+            {
+                "word": "familiar",
+                "emotion": "trust",
+                "intensity": "0.656"
+            },
+            {
+                "word": "calmness",
+                "emotion": "joy",
+                "intensity": "0.422"
+            },
+            {
+                "word": "urgency",
+                "emotion": "anticipation",
+                "intensity": "0.703"
+            },
+            {
+                "word": "urgency",
+                "emotion": "fear",
+                "intensity": "0.391"
+            },
+            {
+                "word": "urgency",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "kicking",
+                "emotion": "anger",
+                "intensity": "0.636"
+            },
+            {
+                "word": "rattlesnake",
+                "emotion": "fear",
+                "intensity": "0.641"
+            }
+        ]
+    }
+]

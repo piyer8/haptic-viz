@@ -1,0 +1,42 @@
+[
+    {
+        "signal_id": "11",
+        "emotional_keywords": [
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "joyful",
+                "emotion": "joy",
+                "intensity": "0.879"
+            },
+            {
+                "word": "joyful",
+                "emotion": "trust",
+                "intensity": "0.586"
+            },
+            {
+                "word": "steady",
+                "emotion": "surprise",
+                "intensity": "0.094"
+            },
+            {
+                "word": "steady",
+                "emotion": "trust",
+                "intensity": "0.602"
+            },
+            {
+                "word": "aggressive",
+                "emotion": "anger",
+                "intensity": "0.667"
+            },
+            {
+                "word": "aggressive",
+                "emotion": "fear",
+                "intensity": "0.703"
+            }
+        ]
+    }
+]

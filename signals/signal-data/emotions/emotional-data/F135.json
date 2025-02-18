@@ -1,0 +1,82 @@
+[
+    {
+        "signal_id": "135",
+        "emotional_keywords": [
+            {
+                "word": "sad",
+                "emotion": "sadness",
+                "intensity": "0.844"
+            },
+            {
+                "word": "helplessness",
+                "emotion": "fear",
+                "intensity": "0.516"
+            },
+            {
+                "word": "helplessness",
+                "emotion": "sadness",
+                "intensity": "0.828"
+            },
+            {
+                "word": "disheartened",
+                "emotion": "sadness",
+                "intensity": "0.788"
+            },
+            {
+                "word": "happy",
+                "emotion": "anticipation",
+                "intensity": "0.555"
+            },
+            {
+                "word": "happy",
+                "emotion": "joy",
+                "intensity": "0.788"
+            },
+            {
+                "word": "happy",
+                "emotion": "trust",
+                "intensity": "0.609"
+            },
+            {
+                "word": "alive",
+                "emotion": "anticipation",
+                "intensity": "0.461"
+            },
+            {
+                "word": "alive",
+                "emotion": "joy",
+                "intensity": "0.531"
+            },
+            {
+                "word": "alive",
+                "emotion": "trust",
+                "intensity": "0.500"
+            },
+            {
+                "word": "surprised",
+                "emotion": "surprise",
+                "intensity": "0.867"
+            },
+            {
+                "word": "good",
+                "emotion": "anticipation",
+                "intensity": "0.383"
+            },
+            {
+                "word": "good",
+                "emotion": "joy",
+                "intensity": "0.547"
+            },
+            {
+                "word": "good",
+                "emotion": "surprise",
+                "intensity": "0.219"
+            },
+            {
+                "word": "good",
+                "emotion": "trust",
+                "intensity": "0.617"
+            }
+        ]
+    }
+]

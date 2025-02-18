@@ -1,0 +1,42 @@
+[
+    {
+        "signal_id": "144",
+        "emotional_keywords": [
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "happy",
+                "emotion": "anticipation",
+                "intensity": "0.555"
+            },
+            {
+                "word": "happy",
+                "emotion": "joy",
+                "intensity": "0.788"
+            },
+            {
+                "word": "happy",
+                "emotion": "trust",
+                "intensity": "0.609"
+            },
+            {
+                "word": "disappointed",
+                "emotion": "anger",
+                "intensity": "0.348"
+            },
+            {
+                "word": "disappointed",
+                "emotion": "disgust",
+                "intensity": "0.328"
+            },
+            {
+                "word": "disappointed",
+                "emotion": "sadness",
+                "intensity": "0.636"
+            }
+        ]
+    }
+]

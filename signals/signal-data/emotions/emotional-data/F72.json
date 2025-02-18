@@ -1,0 +1,42 @@
+[
+    {
+        "signal_id": "72",
+        "emotional_keywords": [
+            {
+                "word": "aggressive",
+                "emotion": "anger",
+                "intensity": "0.667"
+            },
+            {
+                "word": "aggressive",
+                "emotion": "fear",
+                "intensity": "0.703"
+            },
+            {
+                "word": "urgent",
+                "emotion": "anticipation",
+                "intensity": "0.727"
+            },
+            {
+                "word": "urgent",
+                "emotion": "fear",
+                "intensity": "0.450"
+            },
+            {
+                "word": "urgent",
+                "emotion": "surprise",
+                "intensity": "0.695"
+            },
+            {
+                "word": "alarming",
+                "emotion": "fear",
+                "intensity": "0.656"
+            },
+            {
+                "word": "alarming",
+                "emotion": "surprise",
+                "intensity": "0.773"
+            }
+        ]
+    }
+]

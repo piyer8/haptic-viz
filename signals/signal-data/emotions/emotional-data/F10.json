@@ -1,0 +1,102 @@
+[
+    {
+        "signal_id": "10",
+        "emotional_keywords": [
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            },
+            {
+                "word": "relaxed",
+                "emotion": "joy",
+                "intensity": "0.442"
+            },
+            {
+                "word": "relaxing",
+                "emotion": "joy",
+                "intensity": "0.652"
+            },
+            {
+                "word": "nervous",
+                "emotion": "anticipation",
+                "intensity": "0.602"
+            },
+            {
+                "word": "nervous",
+                "emotion": "fear",
+                "intensity": "0.469"
+            },
+            {
+                "word": "urgency",
+                "emotion": "anticipation",
+                "intensity": "0.703"
+            },
+            {
+                "word": "urgency",
+                "emotion": "fear",
+                "intensity": "0.391"
+            },
+            {
+                "word": "urgency",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "uneasy",
+                "emotion": "disgust",
+                "intensity": "0.273"
+            },
+            {
+                "word": "uneasy",
+                "emotion": "fear",
+                "intensity": "0.312"
+            },
+            {
+                "word": "playful",
+                "emotion": "anger",
+                "intensity": "0.061"
+            },
+            {
+                "word": "playful",
+                "emotion": "joy",
+                "intensity": "0.609"
+            },
+            {
+                "word": "playful",
+                "emotion": "surprise",
+                "intensity": "0.266"
+            },
+            {
+                "word": "playful",
+                "emotion": "trust",
+                "intensity": "0.430"
+            },
+            {
+                "word": "hate",
+                "emotion": "anger",
+                "intensity": "0.828"
+            },
+            {
+                "word": "hate",
+                "emotion": "disgust",
+                "intensity": "0.695"
+            },
+            {
+                "word": "hate",
+                "emotion": "fear",
+                "intensity": "0.484"
+            },
+            {
+                "word": "hate",
+                "emotion": "sadness",
+                "intensity": "0.656"
+            }
+        ]
+    }
+]

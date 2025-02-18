@@ -1,0 +1,52 @@
+[
+    {
+        "signal_id": "14",
+        "emotional_keywords": [
+            {
+                "word": "happy",
+                "emotion": "anticipation",
+                "intensity": "0.555"
+            },
+            {
+                "word": "happy",
+                "emotion": "joy",
+                "intensity": "0.788"
+            },
+            {
+                "word": "happy",
+                "emotion": "trust",
+                "intensity": "0.609"
+            },
+            {
+                "word": "relaxing",
+                "emotion": "joy",
+                "intensity": "0.652"
+            },
+            {
+                "word": "tender",
+                "emotion": "joy",
+                "intensity": "0.441"
+            },
+            {
+                "word": "tender",
+                "emotion": "trust",
+                "intensity": "0.516"
+            },
+            {
+                "word": "annoyed",
+                "emotion": "anger",
+                "intensity": "0.485"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "irritated",
+                "emotion": "anger",
+                "intensity": "0.706"
+            }
+        ]
+    }
+]

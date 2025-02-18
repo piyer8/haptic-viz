@@ -1,0 +1,47 @@
+[
+    {
+        "signal_id": "159",
+        "emotional_keywords": [
+            {
+                "word": "exhausted",
+                "emotion": "sadness",
+                "intensity": "0.391"
+            },
+            {
+                "word": "sad",
+                "emotion": "sadness",
+                "intensity": "0.844"
+            },
+            {
+                "word": "contempt",
+                "emotion": "anger",
+                "intensity": "0.672"
+            },
+            {
+                "word": "contempt",
+                "emotion": "disgust",
+                "intensity": "0.484"
+            },
+            {
+                "word": "contempt",
+                "emotion": "fear",
+                "intensity": "0.359"
+            },
+            {
+                "word": "defeated",
+                "emotion": "sadness",
+                "intensity": "0.750"
+            },
+            {
+                "word": "defeated",
+                "emotion": "trust",
+                "intensity": "0.258"
+            },
+            {
+                "word": "distracted",
+                "emotion": "anger",
+                "intensity": "0.197"
+            }
+        ]
+    }
+]

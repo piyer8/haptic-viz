@@ -1,0 +1,97 @@
+[
+    {
+        "signal_id": "133",
+        "emotional_keywords": [
+            {
+                "word": "discontent",
+                "emotion": "anger",
+                "intensity": "0.424"
+            },
+            {
+                "word": "discontent",
+                "emotion": "disgust",
+                "intensity": "0.336"
+            },
+            {
+                "word": "discontent",
+                "emotion": "fear",
+                "intensity": "0.234"
+            },
+            {
+                "word": "discontent",
+                "emotion": "sadness",
+                "intensity": "0.543"
+            },
+            {
+                "word": "joyful",
+                "emotion": "joy",
+                "intensity": "0.879"
+            },
+            {
+                "word": "joyful",
+                "emotion": "trust",
+                "intensity": "0.586"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "relaxed",
+                "emotion": "joy",
+                "intensity": "0.442"
+            },
+            {
+                "word": "depressed",
+                "emotion": "anger",
+                "intensity": "0.297"
+            },
+            {
+                "word": "depressed",
+                "emotion": "fear",
+                "intensity": "0.469"
+            },
+            {
+                "word": "depressed",
+                "emotion": "sadness",
+                "intensity": "0.859"
+            },
+            {
+                "word": "attentive",
+                "emotion": "trust",
+                "intensity": "0.617"
+            },
+            {
+                "word": "content",
+                "emotion": "joy",
+                "intensity": "0.688"
+            },
+            {
+                "word": "content",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "electric",
+                "emotion": "joy",
+                "intensity": "0.344"
+            },
+            {
+                "word": "electric",
+                "emotion": "surprise",
+                "intensity": "0.578"
+            },
+            {
+                "word": "light",
+                "emotion": "joy",
+                "intensity": "0.297"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            }
+        ]
+    }
+]

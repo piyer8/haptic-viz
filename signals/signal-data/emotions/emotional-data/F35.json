@@ -1,0 +1,27 @@
+[
+    {
+        "signal_id": "35",
+        "emotional_keywords": [
+            {
+                "word": "energy",
+                "emotion": "joy",
+                "intensity": "0.422"
+            },
+            {
+                "word": "urgent",
+                "emotion": "anticipation",
+                "intensity": "0.727"
+            },
+            {
+                "word": "urgent",
+                "emotion": "fear",
+                "intensity": "0.450"
+            },
+            {
+                "word": "urgent",
+                "emotion": "surprise",
+                "intensity": "0.695"
+            }
+        ]
+    }
+]

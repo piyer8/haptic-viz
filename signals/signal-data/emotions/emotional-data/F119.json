@@ -1,0 +1,107 @@
+[
+    {
+        "signal_id": "119",
+        "emotional_keywords": [
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "relaxed",
+                "emotion": "joy",
+                "intensity": "0.442"
+            },
+            {
+                "word": "afraid",
+                "emotion": "fear",
+                "intensity": "0.844"
+            },
+            {
+                "word": "curious",
+                "emotion": "anticipation",
+                "intensity": "0.633"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "anticipation",
+                "intensity": "0.523"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "joy",
+                "intensity": "0.656"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "surprise",
+                "intensity": "0.242"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "happy",
+                "emotion": "anticipation",
+                "intensity": "0.555"
+            },
+            {
+                "word": "happy",
+                "emotion": "joy",
+                "intensity": "0.788"
+            },
+            {
+                "word": "happy",
+                "emotion": "trust",
+                "intensity": "0.609"
+            },
+            {
+                "word": "positive",
+                "emotion": "joy",
+                "intensity": "0.761"
+            },
+            {
+                "word": "relaxation",
+                "emotion": "joy",
+                "intensity": "0.672"
+            },
+            {
+                "word": "rest",
+                "emotion": "joy",
+                "intensity": "0.469"
+            },
+            {
+                "word": "machine",
+                "emotion": "trust",
+                "intensity": "0.289"
+            },
+            {
+                "word": "diagnosis",
+                "emotion": "anticipation",
+                "intensity": "0.602"
+            },
+            {
+                "word": "diagnosis",
+                "emotion": "fear",
+                "intensity": "0.391"
+            },
+            {
+                "word": "diagnosis",
+                "emotion": "trust",
+                "intensity": "0.484"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "disgust",
+                "intensity": "0.477"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "sadness",
+                "intensity": "0.530"
+            }
+        ]
+    }
+]

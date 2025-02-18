@@ -1,0 +1,47 @@
+[
+    {
+        "signal_id": "85",
+        "emotional_keywords": [
+            {
+                "word": "pleasurable",
+                "emotion": "joy",
+                "intensity": "0.877"
+            },
+            {
+                "word": "comforting",
+                "emotion": "joy",
+                "intensity": "0.636"
+            },
+            {
+                "word": "weird",
+                "emotion": "disgust",
+                "intensity": "0.266"
+            },
+            {
+                "word": "urgent",
+                "emotion": "anticipation",
+                "intensity": "0.727"
+            },
+            {
+                "word": "urgent",
+                "emotion": "fear",
+                "intensity": "0.450"
+            },
+            {
+                "word": "urgent",
+                "emotion": "surprise",
+                "intensity": "0.695"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "annoyed",
+                "emotion": "anger",
+                "intensity": "0.485"
+            }
+        ]
+    }
+]

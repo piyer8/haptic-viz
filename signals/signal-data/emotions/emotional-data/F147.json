@@ -1,0 +1,82 @@
+[
+    {
+        "signal_id": "147",
+        "emotional_keywords": [
+            {
+                "word": "uncertain",
+                "emotion": "anger",
+                "intensity": "0.152"
+            },
+            {
+                "word": "uncertain",
+                "emotion": "disgust",
+                "intensity": "0.352"
+            },
+            {
+                "word": "uncertain",
+                "emotion": "fear",
+                "intensity": "0.172"
+            },
+            {
+                "word": "uncertain",
+                "emotion": "surprise",
+                "intensity": "0.633"
+            },
+            {
+                "word": "gesture",
+                "emotion": "joy",
+                "intensity": "0.387"
+            },
+            {
+                "word": "rhythm",
+                "emotion": "joy",
+                "intensity": "0.338"
+            },
+            {
+                "word": "safe",
+                "emotion": "joy",
+                "intensity": "0.422"
+            },
+            {
+                "word": "safe",
+                "emotion": "trust",
+                "intensity": "0.672"
+            },
+            {
+                "word": "cheerful",
+                "emotion": "joy",
+                "intensity": "0.906"
+            },
+            {
+                "word": "cheerful",
+                "emotion": "surprise",
+                "intensity": "0.391"
+            },
+            {
+                "word": "joyful",
+                "emotion": "joy",
+                "intensity": "0.879"
+            },
+            {
+                "word": "joyful",
+                "emotion": "trust",
+                "intensity": "0.586"
+            },
+            {
+                "word": "nervous",
+                "emotion": "anticipation",
+                "intensity": "0.602"
+            },
+            {
+                "word": "nervous",
+                "emotion": "fear",
+                "intensity": "0.469"
+            },
+            {
+                "word": "dancing",
+                "emotion": "joy",
+                "intensity": "0.797"
+            }
+        ]
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "signal_id": "157",
+        "emotional_keywords": [
+            {
+                "word": "agitated",
+                "emotion": "anger",
+                "intensity": "0.630"
+            },
+            {
+                "word": "confident",
+                "emotion": "fear",
+                "intensity": "0.094"
+            },
+            {
+                "word": "confident",
+                "emotion": "joy",
+                "intensity": "0.531"
+            },
+            {
+                "word": "confident",
+                "emotion": "trust",
+                "intensity": "0.727"
+            },
+            {
+                "word": "proud",
+                "emotion": "anticipation",
+                "intensity": "0.406"
+            },
+            {
+                "word": "proud",
+                "emotion": "joy",
+                "intensity": "0.704"
+            },
+            {
+                "word": "proud",
+                "emotion": "trust",
+                "intensity": "0.547"
+            },
+            {
+                "word": "scared",
+                "emotion": "fear",
+                "intensity": "0.734"
+            },
+            {
+                "word": "alive",
+                "emotion": "anticipation",
+                "intensity": "0.461"
+            },
+            {
+                "word": "alive",
+                "emotion": "joy",
+                "intensity": "0.531"
+            },
+            {
+                "word": "alive",
+                "emotion": "trust",
+                "intensity": "0.500"
+            },
+            {
+                "word": "happy",
+                "emotion": "anticipation",
+                "intensity": "0.555"
+            },
+            {
+                "word": "happy",
+                "emotion": "joy",
+                "intensity": "0.788"
+            },
+            {
+                "word": "happy",
+                "emotion": "trust",
+                "intensity": "0.609"
+            },
+            {
+                "word": "encouraged",
+                "emotion": "joy",
+                "intensity": "0.656"
+            },
+            {
+                "word": "nervous",
+                "emotion": "anticipation",
+                "intensity": "0.602"
+            },
+            {
+                "word": "nervous",
+                "emotion": "fear",
+                "intensity": "0.469"
+            },
+            {
+                "word": "patient",
+                "emotion": "anticipation",
+                "intensity": "0.328"
+            },
+            {
+                "word": "patient",
+                "emotion": "joy",
+                "intensity": "0.186"
+            },
+            {
+                "word": "surprised",
+                "emotion": "surprise",
+                "intensity": "0.867"
+            },
+            {
+                "word": "weird",
+                "emotion": "disgust",
+                "intensity": "0.266"
+            },
+            {
+                "word": "unexpected",
+                "emotion": "anticipation",
+                "intensity": "0.453"
+            },
+            {
+                "word": "unexpected",
+                "emotion": "fear",
+                "intensity": "0.312"
+            },
+            {
+                "word": "unexpected",
+                "emotion": "joy",
+                "intensity": "0.203"
+            },
+            {
+                "word": "unexpected",
+                "emotion": "surprise",
+                "intensity": "0.711"
+            }
+        ]
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "signal_id": "26",
+        "emotional_keywords": [
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            },
+            {
+                "word": "overwhelmed",
+                "emotion": "fear",
+                "intensity": "0.469"
+            },
+            {
+                "word": "overwhelmed",
+                "emotion": "sadness",
+                "intensity": "0.609"
+            },
+            {
+                "word": "irritated",
+                "emotion": "anger",
+                "intensity": "0.706"
+            },
+            {
+                "word": "urgency",
+                "emotion": "anticipation",
+                "intensity": "0.703"
+            },
+            {
+                "word": "urgency",
+                "emotion": "fear",
+                "intensity": "0.391"
+            },
+            {
+                "word": "urgency",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "happy",
+                "emotion": "anticipation",
+                "intensity": "0.555"
+            },
+            {
+                "word": "happy",
+                "emotion": "joy",
+                "intensity": "0.788"
+            },
+            {
+                "word": "happy",
+                "emotion": "trust",
+                "intensity": "0.609"
+            },
+            {
+                "word": "inspired",
+                "emotion": "joy",
+                "intensity": "0.606"
+            },
+            {
+                "word": "inspired",
+                "emotion": "surprise",
+                "intensity": "0.406"
+            },
+            {
+                "word": "inspired",
+                "emotion": "trust",
+                "intensity": "0.602"
+            },
+            {
+                "word": "late",
+                "emotion": "sadness",
+                "intensity": "0.125"
+            },
+            {
+                "word": "morning",
+                "emotion": "joy",
+                "intensity": "0.250"
+            },
+            {
+                "word": "excited",
+                "emotion": "anticipation",
+                "intensity": "0.859"
+            },
+            {
+                "word": "excited",
+                "emotion": "joy",
+                "intensity": "0.818"
+            },
+            {
+                "word": "excited",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "excited",
+                "emotion": "trust",
+                "intensity": "0.453"
+            },
+            {
+                "word": "cheerful",
+                "emotion": "joy",
+                "intensity": "0.906"
+            },
+            {
+                "word": "cheerful",
+                "emotion": "surprise",
+                "intensity": "0.391"
+            }
+        ]
+    }
+]

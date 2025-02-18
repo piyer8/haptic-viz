@@ -1,0 +1,62 @@
+[
+    {
+        "signal_id": "44",
+        "emotional_keywords": [
+            {
+                "word": "incomplete",
+                "emotion": "sadness",
+                "intensity": "0.250"
+            },
+            {
+                "word": "relaxing",
+                "emotion": "joy",
+                "intensity": "0.652"
+            },
+            {
+                "word": "disgust",
+                "emotion": "anger",
+                "intensity": "0.602"
+            },
+            {
+                "word": "disgust",
+                "emotion": "disgust",
+                "intensity": "0.719"
+            },
+            {
+                "word": "disgust",
+                "emotion": "fear",
+                "intensity": "0.406"
+            },
+            {
+                "word": "disgust",
+                "emotion": "sadness",
+                "intensity": "0.531"
+            },
+            {
+                "word": "irritated",
+                "emotion": "anger",
+                "intensity": "0.706"
+            },
+            {
+                "word": "annoying",
+                "emotion": "anger",
+                "intensity": "0.470"
+            },
+            {
+                "word": "irritating",
+                "emotion": "anger",
+                "intensity": "0.606"
+            },
+            {
+                "word": "irritating",
+                "emotion": "disgust",
+                "intensity": "0.375"
+            },
+            {
+                "word": "attentive",
+                "emotion": "trust",
+                "intensity": "0.617"
+            }
+        ]
+    }
+]

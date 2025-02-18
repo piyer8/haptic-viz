@@ -1,0 +1,142 @@
+[
+    {
+        "signal_id": "98",
+        "emotional_keywords": [
+            {
+                "word": "steady",
+                "emotion": "surprise",
+                "intensity": "0.094"
+            },
+            {
+                "word": "steady",
+                "emotion": "trust",
+                "intensity": "0.602"
+            },
+            {
+                "word": "relaxation",
+                "emotion": "joy",
+                "intensity": "0.672"
+            },
+            {
+                "word": "fun",
+                "emotion": "anticipation",
+                "intensity": "0.562"
+            },
+            {
+                "word": "fun",
+                "emotion": "joy",
+                "intensity": "0.788"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "disgust",
+                "intensity": "0.477"
+            },
+            {
+                "word": "unpleasant",
+                "emotion": "sadness",
+                "intensity": "0.530"
+            },
+            {
+                "word": "relaxing",
+                "emotion": "joy",
+                "intensity": "0.652"
+            },
+            {
+                "word": "weird",
+                "emotion": "disgust",
+                "intensity": "0.266"
+            },
+            {
+                "word": "uneasy",
+                "emotion": "disgust",
+                "intensity": "0.273"
+            },
+            {
+                "word": "uneasy",
+                "emotion": "fear",
+                "intensity": "0.312"
+            },
+            {
+                "word": "machine",
+                "emotion": "trust",
+                "intensity": "0.289"
+            },
+            {
+                "word": "electric",
+                "emotion": "joy",
+                "intensity": "0.344"
+            },
+            {
+                "word": "electric",
+                "emotion": "surprise",
+                "intensity": "0.578"
+            },
+            {
+                "word": "irritated",
+                "emotion": "anger",
+                "intensity": "0.706"
+            },
+            {
+                "word": "angry",
+                "emotion": "anger",
+                "intensity": "0.824"
+            },
+            {
+                "word": "angry",
+                "emotion": "disgust",
+                "intensity": "0.469"
+            },
+            {
+                "word": "excited",
+                "emotion": "anticipation",
+                "intensity": "0.859"
+            },
+            {
+                "word": "excited",
+                "emotion": "joy",
+                "intensity": "0.818"
+            },
+            {
+                "word": "excited",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "excited",
+                "emotion": "trust",
+                "intensity": "0.453"
+            },
+            {
+                "word": "thrilled",
+                "emotion": "joy",
+                "intensity": "0.851"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "nostalgic",
+                "emotion": "joy",
+                "intensity": "0.439"
+            },
+            {
+                "word": "whirlpool",
+                "emotion": "fear",
+                "intensity": "0.375"
+            },
+            {
+                "word": "heart",
+                "emotion": "joy",
+                "intensity": "0.547"
+            },
+            {
+                "word": "life",
+                "emotion": "joy",
+                "intensity": "0.438"
+            }
+        ]
+    }
+]

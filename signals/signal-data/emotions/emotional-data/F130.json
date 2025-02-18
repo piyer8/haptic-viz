@@ -1,0 +1,67 @@
+[
+    {
+        "signal_id": "130",
+        "emotional_keywords": [
+            {
+                "word": "uneasy",
+                "emotion": "disgust",
+                "intensity": "0.273"
+            },
+            {
+                "word": "uneasy",
+                "emotion": "fear",
+                "intensity": "0.312"
+            },
+            {
+                "word": "thrilled",
+                "emotion": "joy",
+                "intensity": "0.851"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "cheerful",
+                "emotion": "joy",
+                "intensity": "0.906"
+            },
+            {
+                "word": "cheerful",
+                "emotion": "surprise",
+                "intensity": "0.391"
+            },
+            {
+                "word": "console",
+                "emotion": "sadness",
+                "intensity": "0.531"
+            },
+            {
+                "word": "excited",
+                "emotion": "anticipation",
+                "intensity": "0.859"
+            },
+            {
+                "word": "excited",
+                "emotion": "joy",
+                "intensity": "0.818"
+            },
+            {
+                "word": "excited",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "excited",
+                "emotion": "trust",
+                "intensity": "0.453"
+            },
+            {
+                "word": "annoying",
+                "emotion": "anger",
+                "intensity": "0.470"
+            }
+        ]
+    }
+]

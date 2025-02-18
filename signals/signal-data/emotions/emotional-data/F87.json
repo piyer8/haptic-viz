@@ -1,0 +1,122 @@
+[
+    {
+        "signal_id": "87",
+        "emotional_keywords": [
+            {
+                "word": "excited",
+                "emotion": "anticipation",
+                "intensity": "0.859"
+            },
+            {
+                "word": "excited",
+                "emotion": "joy",
+                "intensity": "0.818"
+            },
+            {
+                "word": "excited",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "excited",
+                "emotion": "trust",
+                "intensity": "0.453"
+            },
+            {
+                "word": "soothing",
+                "emotion": "joy",
+                "intensity": "0.531"
+            },
+            {
+                "word": "soothing",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "irritable",
+                "emotion": "anger",
+                "intensity": "0.667"
+            },
+            {
+                "word": "worried",
+                "emotion": "fear",
+                "intensity": "0.466"
+            },
+            {
+                "word": "worried",
+                "emotion": "sadness",
+                "intensity": "0.621"
+            },
+            {
+                "word": "thrilling",
+                "emotion": "anticipation",
+                "intensity": "0.781"
+            },
+            {
+                "word": "thrilling",
+                "emotion": "joy",
+                "intensity": "0.776"
+            },
+            {
+                "word": "thrilling",
+                "emotion": "surprise",
+                "intensity": "0.859"
+            },
+            {
+                "word": "ominous",
+                "emotion": "anticipation",
+                "intensity": "0.633"
+            },
+            {
+                "word": "ominous",
+                "emotion": "fear",
+                "intensity": "0.594"
+            },
+            {
+                "word": "suspense",
+                "emotion": "anticipation",
+                "intensity": "0.711"
+            },
+            {
+                "word": "suspense",
+                "emotion": "fear",
+                "intensity": "0.529"
+            },
+            {
+                "word": "suspense",
+                "emotion": "surprise",
+                "intensity": "0.703"
+            },
+            {
+                "word": "thrill",
+                "emotion": "anticipation",
+                "intensity": "0.703"
+            },
+            {
+                "word": "thrill",
+                "emotion": "fear",
+                "intensity": "0.219"
+            },
+            {
+                "word": "thrill",
+                "emotion": "joy",
+                "intensity": "0.721"
+            },
+            {
+                "word": "thrill",
+                "emotion": "surprise",
+                "intensity": "0.680"
+            },
+            {
+                "word": "relaxed",
+                "emotion": "joy",
+                "intensity": "0.442"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            }
+        ]
+    }
+]

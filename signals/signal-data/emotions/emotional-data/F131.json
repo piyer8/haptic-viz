@@ -1,0 +1,107 @@
+[
+    {
+        "signal_id": "131",
+        "emotional_keywords": [
+            {
+                "word": "light",
+                "emotion": "joy",
+                "intensity": "0.297"
+            },
+            {
+                "word": "uneasy",
+                "emotion": "disgust",
+                "intensity": "0.273"
+            },
+            {
+                "word": "uneasy",
+                "emotion": "fear",
+                "intensity": "0.312"
+            },
+            {
+                "word": "scare",
+                "emotion": "anger",
+                "intensity": "0.588"
+            },
+            {
+                "word": "scare",
+                "emotion": "anticipation",
+                "intensity": "0.469"
+            },
+            {
+                "word": "scare",
+                "emotion": "fear",
+                "intensity": "0.844"
+            },
+            {
+                "word": "scare",
+                "emotion": "surprise",
+                "intensity": "0.797"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "sad",
+                "emotion": "sadness",
+                "intensity": "0.844"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "anticipation",
+                "intensity": "0.523"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "joy",
+                "intensity": "0.656"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "surprise",
+                "intensity": "0.242"
+            },
+            {
+                "word": "pleasant",
+                "emotion": "trust",
+                "intensity": "0.562"
+            },
+            {
+                "word": "alive",
+                "emotion": "anticipation",
+                "intensity": "0.461"
+            },
+            {
+                "word": "alive",
+                "emotion": "joy",
+                "intensity": "0.531"
+            },
+            {
+                "word": "alive",
+                "emotion": "trust",
+                "intensity": "0.500"
+            },
+            {
+                "word": "hungry",
+                "emotion": "anticipation",
+                "intensity": "0.547"
+            },
+            {
+                "word": "relaxing",
+                "emotion": "joy",
+                "intensity": "0.652"
+            },
+            {
+                "word": "relieved",
+                "emotion": "joy",
+                "intensity": "0.647"
+            },
+            {
+                "word": "constant",
+                "emotion": "trust",
+                "intensity": "0.555"
+            }
+        ]
+    }
+]

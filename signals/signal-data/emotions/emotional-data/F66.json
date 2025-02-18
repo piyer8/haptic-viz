@@ -1,0 +1,117 @@
+[
+    {
+        "signal_id": "66",
+        "emotional_keywords": [
+            {
+                "word": "thrilled",
+                "emotion": "joy",
+                "intensity": "0.851"
+            },
+            {
+                "word": "neutral",
+                "emotion": "anticipation",
+                "intensity": "0.148"
+            },
+            {
+                "word": "neutral",
+                "emotion": "joy",
+                "intensity": "0.114"
+            },
+            {
+                "word": "neutral",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "serene",
+                "emotion": "joy",
+                "intensity": "0.531"
+            },
+            {
+                "word": "serene",
+                "emotion": "trust",
+                "intensity": "0.586"
+            },
+            {
+                "word": "happy",
+                "emotion": "anticipation",
+                "intensity": "0.555"
+            },
+            {
+                "word": "happy",
+                "emotion": "joy",
+                "intensity": "0.788"
+            },
+            {
+                "word": "happy",
+                "emotion": "trust",
+                "intensity": "0.609"
+            },
+            {
+                "word": "steady",
+                "emotion": "surprise",
+                "intensity": "0.094"
+            },
+            {
+                "word": "steady",
+                "emotion": "trust",
+                "intensity": "0.602"
+            },
+            {
+                "word": "warned",
+                "emotion": "anticipation",
+                "intensity": "0.570"
+            },
+            {
+                "word": "warned",
+                "emotion": "fear",
+                "intensity": "0.359"
+            },
+            {
+                "word": "warned",
+                "emotion": "surprise",
+                "intensity": "0.336"
+            },
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            },
+            {
+                "word": "alien",
+                "emotion": "disgust",
+                "intensity": "0.438"
+            },
+            {
+                "word": "alien",
+                "emotion": "fear",
+                "intensity": "0.422"
+            },
+            {
+                "word": "irritated",
+                "emotion": "anger",
+                "intensity": "0.706"
+            },
+            {
+                "word": "discomfort",
+                "emotion": "sadness",
+                "intensity": "0.500"
+            },
+            {
+                "word": "long",
+                "emotion": "anticipation",
+                "intensity": "0.406"
+            }
+        ]
+    }
+]

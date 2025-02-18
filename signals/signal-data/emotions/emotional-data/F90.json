@@ -1,0 +1,97 @@
+[
+    {
+        "signal_id": "90",
+        "emotional_keywords": [
+            {
+                "word": "neutral",
+                "emotion": "anticipation",
+                "intensity": "0.148"
+            },
+            {
+                "word": "neutral",
+                "emotion": "joy",
+                "intensity": "0.114"
+            },
+            {
+                "word": "neutral",
+                "emotion": "trust",
+                "intensity": "0.398"
+            },
+            {
+                "word": "restlessness",
+                "emotion": "anticipation",
+                "intensity": "0.570"
+            },
+            {
+                "word": "steady",
+                "emotion": "surprise",
+                "intensity": "0.094"
+            },
+            {
+                "word": "steady",
+                "emotion": "trust",
+                "intensity": "0.602"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "tender",
+                "emotion": "joy",
+                "intensity": "0.441"
+            },
+            {
+                "word": "tender",
+                "emotion": "trust",
+                "intensity": "0.516"
+            },
+            {
+                "word": "relaxing",
+                "emotion": "joy",
+                "intensity": "0.652"
+            },
+            {
+                "word": "quiet",
+                "emotion": "joy",
+                "intensity": "0.188"
+            },
+            {
+                "word": "quiet",
+                "emotion": "sadness",
+                "intensity": "0.094"
+            },
+            {
+                "word": "relaxed",
+                "emotion": "joy",
+                "intensity": "0.442"
+            },
+            {
+                "word": "atpeace",
+                "emotion": "joy",
+                "intensity": "0.727"
+            },
+            {
+                "word": "comfort",
+                "emotion": "anticipation",
+                "intensity": "0.406"
+            },
+            {
+                "word": "comfort",
+                "emotion": "joy",
+                "intensity": "0.515"
+            },
+            {
+                "word": "comfort",
+                "emotion": "trust",
+                "intensity": "0.609"
+            },
+            {
+                "word": "annoying",
+                "emotion": "anger",
+                "intensity": "0.470"
+            }
+        ]
+    }
+]

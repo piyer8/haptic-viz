@@ -1,0 +1,77 @@
+[
+    {
+        "signal_id": "142",
+        "emotional_keywords": [
+            {
+                "word": "peaceful",
+                "emotion": "anticipation",
+                "intensity": "0.422"
+            },
+            {
+                "word": "peaceful",
+                "emotion": "joy",
+                "intensity": "0.636"
+            },
+            {
+                "word": "peaceful",
+                "emotion": "surprise",
+                "intensity": "0.086"
+            },
+            {
+                "word": "peaceful",
+                "emotion": "trust",
+                "intensity": "0.648"
+            },
+            {
+                "word": "relaxed",
+                "emotion": "joy",
+                "intensity": "0.442"
+            },
+            {
+                "word": "sad",
+                "emotion": "sadness",
+                "intensity": "0.844"
+            },
+            {
+                "word": "joyful",
+                "emotion": "joy",
+                "intensity": "0.879"
+            },
+            {
+                "word": "joyful",
+                "emotion": "trust",
+                "intensity": "0.586"
+            },
+            {
+                "word": "curious",
+                "emotion": "anticipation",
+                "intensity": "0.633"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "good",
+                "emotion": "anticipation",
+                "intensity": "0.383"
+            },
+            {
+                "word": "good",
+                "emotion": "joy",
+                "intensity": "0.547"
+            },
+            {
+                "word": "good",
+                "emotion": "surprise",
+                "intensity": "0.219"
+            },
+            {
+                "word": "good",
+                "emotion": "trust",
+                "intensity": "0.617"
+            }
+        ]
+    }
+]

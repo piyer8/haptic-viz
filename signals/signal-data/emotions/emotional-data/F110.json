@@ -1,0 +1,77 @@
+[
+    {
+        "signal_id": "110",
+        "emotional_keywords": [
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            },
+            {
+                "word": "curious",
+                "emotion": "anticipation",
+                "intensity": "0.633"
+            },
+            {
+                "word": "rhythmical",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "rhythmical",
+                "emotion": "surprise",
+                "intensity": "0.234"
+            },
+            {
+                "word": "excited",
+                "emotion": "anticipation",
+                "intensity": "0.859"
+            },
+            {
+                "word": "excited",
+                "emotion": "joy",
+                "intensity": "0.818"
+            },
+            {
+                "word": "excited",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "excited",
+                "emotion": "trust",
+                "intensity": "0.453"
+            },
+            {
+                "word": "confident",
+                "emotion": "fear",
+                "intensity": "0.094"
+            },
+            {
+                "word": "confident",
+                "emotion": "joy",
+                "intensity": "0.531"
+            },
+            {
+                "word": "confident",
+                "emotion": "trust",
+                "intensity": "0.727"
+            },
+            {
+                "word": "steady",
+                "emotion": "surprise",
+                "intensity": "0.094"
+            },
+            {
+                "word": "steady",
+                "emotion": "trust",
+                "intensity": "0.602"
+            }
+        ]
+    }
+]

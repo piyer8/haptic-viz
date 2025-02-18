@@ -1,0 +1,82 @@
+[
+    {
+        "signal_id": "34",
+        "emotional_keywords": [
+            {
+                "word": "hurry",
+                "emotion": "anticipation",
+                "intensity": "0.695"
+            },
+            {
+                "word": "hurry",
+                "emotion": "fear",
+                "intensity": "0.203"
+            },
+            {
+                "word": "calm",
+                "emotion": "joy",
+                "intensity": "0.394"
+            },
+            {
+                "word": "urgency",
+                "emotion": "anticipation",
+                "intensity": "0.703"
+            },
+            {
+                "word": "urgency",
+                "emotion": "fear",
+                "intensity": "0.391"
+            },
+            {
+                "word": "urgency",
+                "emotion": "surprise",
+                "intensity": "0.625"
+            },
+            {
+                "word": "run",
+                "emotion": "fear",
+                "intensity": "0.250"
+            },
+            {
+                "word": "uneasy",
+                "emotion": "disgust",
+                "intensity": "0.273"
+            },
+            {
+                "word": "uneasy",
+                "emotion": "fear",
+                "intensity": "0.312"
+            },
+            {
+                "word": "emergency",
+                "emotion": "fear",
+                "intensity": "0.719"
+            },
+            {
+                "word": "emergency",
+                "emotion": "sadness",
+                "intensity": "0.641"
+            },
+            {
+                "word": "emergency",
+                "emotion": "surprise",
+                "intensity": "0.828"
+            },
+            {
+                "word": "onedge",
+                "emotion": "fear",
+                "intensity": "0.359"
+            },
+            {
+                "word": "anxious",
+                "emotion": "anticipation",
+                "intensity": "0.641"
+            },
+            {
+                "word": "anxious",
+                "emotion": "fear",
+                "intensity": "0.518"
+            }
+        ]
+    }
+]
