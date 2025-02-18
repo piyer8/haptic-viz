@@ -1,0 +1,54 @@
+{
+    "signal_id": "125",
+    "sensory": {
+        "keywords": [
+            "grainy, running my hand through rocks, rhythmic, scooter about to start, very discontinuous, interesting pattern, active buzz, vibrating object, lifecycle, uncertain buzz, frequent up and downs, sudden jerk, fades off, beat of violin, high musical notes, sharp note, aggressive, high frequency"
+        ],
+        "descriptions": [
+            "The sensation was very grainy, like running my hand through rocks",
+            "The sensation is rhythmic.",
+            "This sensation feels like a scooter is just about to start.",
+            "The sensation was very discontinuous although it followed an interesting pattern.",
+            "Sensation feels like a active buzz",
+            "The sensation can be described as a vibrating object at the end of its lifecycle, with uncetain buzz at every stage. ",
+            "the vibrations had frequent up and downs",
+            "This sensation is like a sudden jerk which fades off eventually\t",
+            "Beat of violin hitting the high musical notes and ending with a sharp note.",
+            "The sensations were very grainy and aggresive, they are not panicky but a little high in frequency."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "uneasy, pleasant, comfortable, excited, active, uncomfortable, sad, irritating, annoying, stop working, vibrations, energetic, irritated, high incoming pitches, sharp ending note, alerted"
+        ],
+        "descriptions": [
+            "The sensation  made me feel uneasy",
+            "The sensation makes me feel pleasant and comfortable.",
+            "This sensation makes me excited.",
+            "The sensation  made me feel pleasant and active.",
+            "Sensation made me uncomfortable and sad",
+            "This sensation felt irritating and annoyong as I associate it with something that will stop working very soon. ",
+            "the vibrations made me feel energetic",
+            "This sensation makes me feel irritated\t",
+            "Giving the information of high incoming pitches followed by a sharp ending note",
+            "It makes me feel alerted."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "shaking, jar, stones, beats, song, father's old scooter, motor, noise, starting, Believer, Imagine Dragons, losing argument, electronic toothbrush, batteries, rough, uncertain, device, vibrations, music, club, electric static, information, ending, drums"
+        ],
+        "descriptions": [
+            "The sensation reminded me of shaking a jar with stones in it",
+            "The sensatin reminds me of the beats to a song.",
+            "This sensation reminds me of my father's old scooter when it is about to start and the motor makes some noise, but it eventually stops.",
+            "The sensation reminded me of the starting part of the song : 'Believer' by imagine dragons.",
+            "Sensation invokes of when I'm in a losing argument",
+            "This sensation reminds me of an electronic toothbrush whose batteries are soon going to get over. It is very rough and you feel uncertain on how long the device will last. ",
+            "the vibrations remind me of vibration felt when music is played at a club",
+            "This sensation reminds me of electric static ",
+            "It reminds me of a song where the information is given with an ending. ",
+            "I have felt this when drums are played around me. "
+        ]
+    }
+}

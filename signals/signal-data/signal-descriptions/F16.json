@@ -1,0 +1,60 @@
+{
+    "signal_id": "16",
+    "sensory": {
+        "keywords": [
+            "steady vibration, pulses, intense vibration, rapid intervals, muffled vibration, underwater, fast submarine, pulpy juice, thrill, neck, chest, alternating pattern, two frequencies, smooth transition, drilling, twitching, jiggling springs, racing car, continuous vibration, touching, surface, table fan, low oscillation, high oscillation, concert vibration"
+        ],
+        "descriptions": [
+            "This sensation was characterized by a steady vibration with pulses of more intense vibration occurring at rapid equal intervals. ",
+            "It feels like a muffled vibration something you would feel if you were underwater and inside a fast submarine.",
+            "this sensation is same as you swallow pulpy juice inside in one sip so you can feel the thrill in your neck and chest",
+            "it is an alternating on pattern with two different frequencies but the transition between the frequencies is smooth.",
+            "the vibration is like drilling",
+            "The sensation feels like something twitching",
+            "it feels like playing with the long jiggling springs",
+            "The sensation felt like when you are racing a car in a game and the sensation you feel. ",
+            "The vibration is a continuous one",
+            "Creates the feel as if I'm touching the surface of a Table fan.",
+            "This has a low and high occilation alternating but continuous vibration",
+            "It is similar to the vibrations you get when you are in a concert"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "nostalgic, intense, pleasant, buzz, vibrating, uneasy, happy, good, playing games, relaxing, wave, relaxed, discomfort, content, excited"
+        ],
+        "descriptions": [
+            "This sensation made me feel slightly nostalgic. ",
+            "It makes me feel intense.",
+            "this sensation made me feel pleasant and had had buzz emotions to it",
+            "I feel pleasant.",
+            "its vibrating ",
+            "It makes me feel uneasy",
+            "it makes me happy",
+            "This sensation makes me feel good as it is attached to playing games. ",
+            "It feels relaxing",
+            "Creates a wave kind of feel. Relaxed at a time and peaks at the other, Feeling discomfort in some extent.",
+            "It makes me feel good or content",
+            "It makes me feel happy and excited"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "toy cars, racing, submarine, pulpy orange juice, neck, chest, sports day practice, massage chair, MRI machine, numbness, vibrations, long springs, car racing games, Mario Kart, head massage, pedestal fan, hair trimmer, barber's shop, music, concerts"
+        ],
+        "descriptions": [
+            "This sensation reminds me of the time an old friend and I would play with toy cars as kids and race them around tracks. ",
+            "It reminds me of a video I saw of a submarine under water.",
+            "i was drinking pulpy orange juice yesterday in one sip and i could feel this same sensation in my neck and chest , this also reminds of my sports day practise",
+            "i am reminded of a massage chair.",
+            "MRI machine",
+            "This reminds me of numbness",
+            "it feels like the vibrations you feel while moving the long springs between your hands",
+            "It reminds me of playing car racing games or Mario cart with friends. ",
+            "It reminds me of getting a head massage ",
+            "Touching the pedastal of the running pedastal fan does feel the same.\n",
+            "It has a feeling of a hair trimmer or when you go to a barber's shop and they trim your hair with a trimmer ",
+            "It reminds me of the vibrations on the floor caused by the music in the concerts"
+        ]
+    }
+}

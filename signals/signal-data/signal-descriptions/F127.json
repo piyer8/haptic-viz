@@ -1,0 +1,54 @@
+{
+    "signal_id": "127",
+    "sensory": {
+        "keywords": [
+            "continuous, shaky, neutral, sitting in a bus, discontinuous, momentary breaking, passive, weird, long buzz, heavy vibrations, strong sensations, intense, constant, vibration, buzz, full flow, river flowing, irritating, heavy wind, coast, high intensity, not constant"
+        ],
+        "descriptions": [
+            "The sensation was continous and shaky",
+            "The sensation is neutral",
+            "This sensation feels like sitting in a bus.",
+            "The sensation was discontinuous with momentary breaking.",
+            "Sensation is like a passive yet wierd long buzz",
+            "It can be described as heavy vibrations with 2 different strong sensations coming at a single time. ",
+            "the vibrations were intense and constant",
+            "This sensation is like a constant vibration or buzz with same intensity\t",
+            "the sensation is like constant full flow river flowing, ",
+            "These vibrations felt irritating, it was like a heavy wind near the coast, the intensity was high but; didn't feel like constant."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "nervous, steady, lonely, alienated, relaxing, discomforting, urgent, annoying, aggressive, strong, mixed, anxiety, unpleasant, alert, constant, flow, energy, heavy wind"
+        ],
+        "descriptions": [
+            "This made me feel nervous",
+            "N.A. ",
+            "This sensation makes me steady.",
+            "The emotions that I was able to attach were that of going away from something. It made me feel lonely and alienated.",
+            "Sensation is relaxing yet discomforting at the same time",
+            "This sensation is making me feel extremely urgent and annoying. The vibrations feels very aggresive with A STRONG MIXED SECOND VIBRATION CREATING anxiety. ",
+            "the vibrations gave me an unpleasent feeling",
+            "This sensations makes me feel alert",
+            "Gives a sensation of some constant flow of energy is hitting us",
+            "It made me feel like a heavy wind."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "earthquake, overnight local bus, train in transit, train journey, bad memory, mixer, intense vibrations, phone alarm, mobile buzz, river, flow of water, NY coastline"
+        ],
+        "descriptions": [
+            "The sensation reminded me of an earthquake",
+            "N.A.",
+            "This sensation reminds me of sitting in an overnight local bus to go somewhere.",
+            "The sensation reminded me of a train in transit, it reminded me of my recent train journey.",
+            "Sensation invokes a bad memory",
+            "This reminds me of a mixer which is not working very properly and smooth to use. It has very intense vibrations. ",
+            "the vibrations were similar to that of a phone alarm",
+            "This reminds me of a mobile buzz in your hands",
+            "When sitting by a side of river hearing to the flow of water, this reminds me of the same.",
+            "I remember I felt these kinds of vibrations when I was near NY coastline."
+        ]
+    }
+}

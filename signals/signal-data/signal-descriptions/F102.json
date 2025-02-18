@@ -1,0 +1,54 @@
+{
+    "signal_id": "102",
+    "sensory": {
+        "keywords": [
+            "fade-out effect, vibration pulse, low intensity, regular, drop sound, vibrations, spring door stopper, three short, constant, grumble, periodic vibration, peak intensity, gradually decreased, aggressive, long duration, impending doom, hurried shuffling, dark flight of stairs, discontinuous, discontinuity length, haptic length, very low intensity, uniform intensity, short, slow vibration, counts of 3"
+        ],
+        "descriptions": [
+            "The sensation is a fade-out effect of a vibration pulse.\t",
+            "The sensation was low intensity and regular.",
+            "The sensation feels like a drop sound",
+            "This sensation feels like the vibrations after you hit a spring door stopper.",
+            "This vibration is like three short constant grumble. ",
+            "The sensation was periodic vibration, whichh started with peak intensity and gradually decreased. ",
+            "The sensation was aggressive and persisted for a long duration.",
+            "This sensation felt like impending doom, like hurried shuffling down a dark flight of stairs. ",
+            "The sensation was discontinuous with the discontinuity length equal to the haptic length. The sensation had a very low and uniform intensity.",
+            "it is a short but slow vibration in counts of 3"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "active, attentive, calm, silence, new, buzz, vibration, weird, fear, no pattern, aggressive, thrilling, buzzing, scary"
+        ],
+        "descriptions": [
+            "The sensation make me active and attentive",
+            "The sensation mad me feel calm.",
+            "The sensation makes me feel silence before something new can happen",
+            "It gives me a feeling of a buzz\t",
+            "This vibration make me feel calm.",
+            "This sensation made me feel weird.",
+            "I could associate this emotion with fear.",
+            "This sensation felt like there was no pattern to it, aggressive, and thrilling. ",
+            "The sensation makes me feel like buzzing.",
+            "it feels scary"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "flashing search lights, emergency lights, mass destruction, tennis ball dropping, party DJ, door stopper, growling stomach, deflating balloon, being chased, heavy creature, jerk movements, flight of stairs, intense game, hide and seek, farting, scary movies, background music"
+        ],
+        "descriptions": [
+            "This reminds me of the flashing search lights, or emergency lights that are used in situation where a mass destruction happens.",
+            "The sensation reminded me of a tennis ball dropping.",
+            "The sensation reminds me of party DJ",
+            "This sensation reminds me of a door stopper",
+            "This vibration is like growling of an empty stomach.",
+            "This reminds me of something like deflating balloon.",
+            "This sensation reminded me of something being chased by a big and heavy creature.",
+            "I would compare it to jerk like movements down a flight of stairs during an intense game of hide and seek with your friends. ",
+            "The sensation reminds me of someone farting.",
+            "remind me of scary movies background music"
+        ]
+    }
+}

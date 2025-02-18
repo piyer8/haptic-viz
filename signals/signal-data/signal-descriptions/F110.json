@@ -1,0 +1,54 @@
+{
+    "signal_id": "110",
+    "sensory": {
+        "keywords": [
+            "sporadic, sharp, alarming, irregular, low, intense, subtle, buzzes, funny, confusing, good, constant, smooth, vibration, pulses, medium, intensity, higher, periodic, exciting, persistent, active, action movie, 4D movie, large automatic gun, continuous, occasional disruption, strong, random, stronger vibrations"
+        ],
+        "descriptions": [
+            "the sensation is a sporadic sharp vibration. It is very alarming.",
+            "The sensation was irregular with a mix of low and intense haptics.",
+            "The sensation is like subtle buzzes",
+            "This sensation is kind of funny, it is confusing as well as good.",
+            "This vibration is like constant smooth vibrations with some point vibration pulses inbetween.",
+            "The sensation started with a medium level intensity and increased to a higher level and then reduced. It was periodic. ",
+            "The sensation was exciting, persistent and active.",
+            "This feels like experiencing an action movie in a 4D movie involving a very large automatic gun that is mounted on a stand and aimed at the bad guys. ",
+            "The sensation was continuous with occasional disruption of haptic feeling.",
+            "the vibrations are strong with random stronger vibrations"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "emergency situation, anxious, curious, rhythmical, good vibrations, energetic, excited, upbeat, difficult situation, upper hand, confident, desirable, steady, want to dance"
+        ],
+        "descriptions": [
+            "This sensation makes me feel like I was in some emergency situation.",
+            "The sensation made me feel anxious.",
+            "The sensation makes me feel curious\t",
+            "This sensation makes me feel rhythmical.",
+            "This vibrations makes me feel good.",
+            "This sensation made me feel energetic and excited.",
+            "The sensation made me feel upbeat.",
+            "Depending on the context, this makes me feel like I am in a difficult situation where I have the upper hand. Confident in some ways too. ",
+            "The sensation makes me feel like desirable and steady.",
+            "it makes me want to dance"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "phone ringtone, football match, game, contra, video games, climbing hills, night club, pub, loud music, shooting, Reno Nevada, automatic gun, ICU, ECG, energetic song"
+        ],
+        "descriptions": [
+            "N.A.",
+            "The sensation reminds me of a phone ringtone.",
+            "I have felt the sensation during football  match ",
+            "This sensation reminds me of game named contra.",
+            "NA",
+            "This reminds of the video games which I played and the sensation I got while playing games which included climbing the hills up and down.",
+            "This sensation reminded me of a night club or a pub playing loud music.",
+            "This reminds me of the time I went shooting in Reno Nevada on my birthday and I got to shoot an automatic gun. ",
+            "The sensation reminds me of a person in ICU ocassionaly coming to live and his ecg is changing.",
+            "reminds me of a really energitic song."
+        ]
+    }
+}

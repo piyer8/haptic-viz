@@ -1,0 +1,54 @@
+{
+    "signal_id": "21",
+    "sensory": {
+        "keywords": [
+            "strong vibration, inconsistent, long beep, constant alarm, dragging feet, nudging, subtle, two small beeps, small pause, drawn out buzz, two sets of vibrations, short vibrations, long vibration, shallow vibrations, deep vibration"
+        ],
+        "descriptions": [
+            "This just feels like  2 sets oif varied length frequencies having 3 and 4 beats in each of them.",
+            "Think of humming a song without knowing the lyrics.",
+            "It is a strong vibration",
+            "I would describe this as inconcistent.",
+            "it is lika a long beep and constant alarm",
+            "This sensation feels like someone is dragging their feet while walking.\t",
+            "the sensation of something nudging against you in a forest",
+            "Very similar to the previous haptic that I sensed. ALthought this one was much more subtle.",
+            "I would describe it as two small beeps, a small pause, then a drawn out buzz in repitition ",
+            "There are two sets of vibrations- The first set is two short vibrations followed by a long one. The second set is two short shallow vibrations, one short deep vibration followed by a long one."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "bumpy, recall, song, alert, uncomfortable, irritated, turn off, passive, weird, sporadic, nasty, attention, phone vibrations, relaxed, drawn out buzz, prepared"
+        ],
+        "descriptions": [
+            "This sensation feels so bumpy.",
+            "It makes me feel like I want to recall the song that was playing in the back of my head last night",
+            "It makes me feel alert",
+            "It made me feel uncomfortable.",
+            "it makes me feel irritated and makes me want to turn it off",
+            "It makes me feel passive.\n",
+            "it feels weird, sporadic and nasty",
+            "This made me feel like it needs my attention exactly how phone vibrations are.",
+            "This sensation makes me feel relaxed especially with the drawn out buzz at the end",
+            "It makes me feel like there is a something that we are preapared for"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "applying brake, car, uneven manner, random song, shopping mall, humming, tune, broken videogame controller, vibration, level glitch, touching, old ashing machine, broken, hairy spider, dangerous spider, crawling, phone call vibration, video game vibration, actions, training scenes, audio, movies"
+        ],
+        "descriptions": [
+            "This gives me feeling of applying break to the car in an uneven manner.",
+            "It reminds of the time a random song from a shopping mall stuck on my head and I was humming to the tune for the whole day without knowing the lyrics",
+            "N.A.",
+            "This reminded me of a broken videogame controller which is stuck on vibration because of level glitch.",
+            "it reminds me of touching an old ashing machine which is broken",
+            "I did not feel it before.",
+            "it reminds me of a hairy, dangerous spider crawling up on me",
+            "I haven't experinced this sort of haptic before.",
+            "This reminds me also off a phone call vibration or a video game vibration performing a set of actions",
+            "Reminds me of training scenes and audio from movies"
+        ]
+    }
+}

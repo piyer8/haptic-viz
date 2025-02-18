@@ -1,0 +1,54 @@
+{
+    "signal_id": "91",
+    "sensory": {
+        "keywords": [
+            "aperiodic, fast vibration, slow vibrations, rough, three beats, small pause, mild vibration, high frequency, low frequency, light, squeeezy vibration, machine vibration, bumpy, strong, faint, intensity, aggressive, no pattern, rhythm, modern waltz, rhythmic pattern, stronger vibration, fainter vibration, feedback, distinct vibrations, continuous rhythm"
+        ],
+        "descriptions": [
+            "This sensation is aperiodic with some string fast vibration followed by few slow vibrations. ",
+            "This sensation is like a rough three beats and small pause with mild vibration",
+            "The sensation is two chunk of vibration high frequency, the two chunk of low frequency and then light squeeezy vibration.",
+            "This sensation is a machine vibration which is bumpy.",
+            "IT STARTS OFF STRONG BEFORE BECOMING FAINT AND THEN COMES BACK THE INITIAL INTENSITY",
+            "The sensation is strong and agressive. ",
+            "I would describe this vibration to someone as there is no pattern to the vibration but at the same time it gives a rythm.",
+            "This sensation is like a modern waltz like music.",
+            "The sensation has a rythmic pattern which has a stronger vibration followed by a small fainter vibration. Giving the feeling of getting a feedback.",
+            "this sensation has 3 distinct vibrations in a continuous rhythm"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "anxious, uncomfortable, unpleasant, irritated, pumping, energetic, vibrations, excited, alive, stimulative response, happy"
+        ],
+        "descriptions": [
+            "This sensation makes me feel anxious",
+            "This sensation made me feel like uncomfortable",
+            "The sensation feels unplesant.",
+            "This sensation makes me feel irritated.",
+            "IT MAKES ME FEEL AS THOUGH IM PUMPING SOMETHING IN MY HAND",
+            "The sensation makes me feel energetic.",
+            "This vibrations makes me feel excited and alive.",
+            "This sensation makes me feel energetic and happy.",
+            "It gives the feeling of getting a stimulative response. ",
+            "This sensation makes me feel excited and energetic"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "table clock, alarm, early morning, desk, touching, speakers, playing music, printer, laundry machine, game, team, fight, jump into action, vibrations, vibrating dance floor, songs, waltz, fast pace, drumming pattern, machine vibrations, carving shop"
+        ],
+        "descriptions": [
+            "It reminds me of my table clock alarm which rings early morning on my desk",
+            "This reminded me of touching the speakers while playing a music",
+            "N.A.",
+            "This sensation is similar to a printer.",
+            "IT REMINDS ME OF A LAUNDRY MACHINE",
+            "This sensation reminds me of a game where the team is ready to fight and jump into action",
+            "This vibrations reminds me of a vibrating dance floor.",
+            "This sensation reminds me of the songs played while performing waltz.",
+            "It feels like a fast pace drumming pattern.",
+            "this sensation reminds me of machine vibrations in a carving shop"
+        ]
+    }
+}

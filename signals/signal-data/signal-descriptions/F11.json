@@ -1,0 +1,54 @@
+{
+    "signal_id": "11",
+    "sensory": {
+        "keywords": [
+            "vibrating, short, small frequencies, cutting, wood, saw, mild, easy to miss, faint, dying, low intensity, beeping vibration, quick paced, strong jerks, weird sensation, subtle, beats, quieter, lower frequency, low vibration, subtle experience"
+        ],
+        "descriptions": [
+            "This sensation feels so vibrating with two short and small frequencies.",
+            "Imagine cutting through a log of wood with a saw. Thats exactly how this sensation feels like\t",
+            "Extremly mild, hence easy to miss",
+            "I would describe this pattern as a very faint and dying one with low intensity.",
+            "it is like a small beeping vibration",
+            "N.A.",
+            "the sensation is a quick paced set of strong jerks",
+            "A very wierd sensation. It was subtle and felt like beats.",
+            "This sensation is quiter and at a lower frequency.",
+            "It is a low vibration, feels subtle while experiencing it "
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "small, scratching, sharp metal, hard surface, calm, joyful, steady, focused, beep, attention, aggressive, damp, nudging"
+        ],
+        "descriptions": [
+            "This sensation feels so small.\t",
+            "It makes me feel like I am scratching a sharp metal off a hard surface. ",
+            "It makes me feel calm, and joyful",
+            "This pattern made me feel steady and focused.",
+            "it seems like a beep and i have to give my attention to that soung",
+            "N.A.",
+            "it feels aggressive, and damp",
+            "I almost feels like some sort of nudging. I don't feel anything else.",
+            "N.A",
+            "NA"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "machinery, cutting, huge sheets of paper, plywood, building, vibrations, loud music, low speed setting, electric toothbrush, beeping device, car indicators, running, puddle, throbbing, vibrating, waiting period"
+        ],
+        "descriptions": [
+            "This reminds me of machinery used in cutting huge sheets of paper.",
+            "Reminds me of a time when I was cutting through plywood to build a cage",
+            "It reminds me of the vibrations I would feel at places that play loud music",
+            "This pattern reminds me of the low speed setting of my electric toothbrush.",
+            "any beeping device or car indicators",
+            "N.A.",
+            "It reminds me of someone running behind you in a puddle",
+            "No, I haven't felt something like this before. It was a new haptic for my senses.",
+            "This sensation feels like something is throbbing the way that its vibrating",
+            "Seems like a waiting period before something"
+        ]
+    }
+}

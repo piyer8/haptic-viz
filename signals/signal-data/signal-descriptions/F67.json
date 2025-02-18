@@ -1,0 +1,51 @@
+{
+    "signal_id": "67",
+    "sensory": {
+        "keywords": [
+            "fast vibrations, slow frequency, grainy, frictional, not continuous, jerk, bumpy, 3-4 beats, vibrating, delay, neutral, annoying, not rhythmical, noisy, coarse, short burst, repeating, steady, subtle, fast paced, repeating loop, short lasting waves, low frequency, medium note of vibration"
+        ],
+        "descriptions": [
+            "It feels like fast vibrations with slow frequency.",
+            "I would describe it as the combination of grainy plus firctional sense.",
+            "This sensation is not continuous, it's like there are some jerk in between ",
+            "This sensation was a bit bumpy with sets of 3-4 beats vibrating with a delay. It was more of a neutral sensation.",
+            "This sensation were annoying. It was not rhythmical",
+            "The sensation was noisy and coarse but with short burst.",
+            "The sensation was repeating, steady and subtle.",
+            "The sensaion is a fast paced repeating loop of short lasting waves.",
+            "The sensation is of a low frequency which is goes on like a medium note of vibration."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "unpleasant, stop, faster, frictional, discomfort, soothing, comforting, calming, good"
+        ],
+        "descriptions": [
+            "It makes me feel like unpleasant as I want to either stop it or make it faster.",
+            "the sensation was somewhat frictional.",
+            "This sensation makes me feel discomfort i would say",
+            "This sensation made me feel a bit discomfort but not that much to be unpleasant.",
+            "It made me feel discomfort\t",
+            "It makes me feel discomforting.",
+            "This sensation made me feel soothing and quite",
+            "The sensation feels  comforting and calming.",
+            "This sensation feels good."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "motorcycle, parked, engine, medium vibration, mobile alarm, cell phone, vibrating, call, bumpy, noisy, speedbreakers, driving, car, patterns, smoothness, road, feeling, getting ready, task, vibration, cutting, thick sheet, cardboard"
+        ],
+        "descriptions": [
+            "This sensation makes me feel like I am sitting on a parked motorcycle with engine on.",
+            "N.A",
+            "This sensation reminds me of the medium vibration happens during the mobile alarm",
+            "The sensation reminded me of a cell phone vibrating whenever one gets a call.",
+            "It reminds me the sound of an engine",
+            "It reminds me of bumpy and noisy but even speadbreakers.",
+            "It reminded me driving in a car and the patterns felt due to the smoothness of road.",
+            "The sensation reminds me of the feeling of getting ready for some task.",
+            "This is similar to a vibration of cutting a really thick sheet of cardboard if listened continuously."
+        ]
+    }
+}

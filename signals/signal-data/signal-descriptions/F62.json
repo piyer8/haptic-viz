@@ -1,0 +1,54 @@
+{
+    "signal_id": "62",
+    "sensory": {
+        "keywords": [
+            "vibrations, multi step, discrete, weak, short, strong, subtle, equal intervals, low humming, racing beat, small rotor, light circular, faint, increases, amplitude, decreases, sine wave, zig zag buzz, stimulative"
+        ],
+        "descriptions": [
+            "This sensation felt like a multi step miniscule discrete set of vibrations",
+            "This sensation can be described as the sound produced when drawing straight lines on a piece of paper without any break at a moderate speed.",
+            "The vibrations are weak and short but they grow shortly to be strong.",
+            "This sensation is like subtle vibration at equal intervals",
+            "This sensation felt like a low humming vibration, a low racing beat was played in loop ",
+            "this sensation is like a small rotor rotating to a weak current.",
+            "The sensation is like light circular vibration.",
+            "This sensation feel like a faint vibration which increases slightly in amplitude and then decrease like sine wave but everything is faint not very noticable.",
+            "it gives out zig zag buzz.",
+            "The sensation is very stimulative."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "familiar, discomforted, energized, keep in check, machine, damage, neutral, walking, park, late at night, monsoon season, tranquility, peace, silence, passive, lazy, calm, roller skating, resistive, burning"
+        ],
+        "descriptions": [
+            "It makes me feel familiar and discomforted ",
+            "This sensation made me feel energized.",
+            "IT makes me feel like i need to keep in check of the machine I'm holding and make sure i dont damage it.",
+            "This sensation makes me feel neutral",
+            "This sensation made me feel like I was walking in a park late at night in the monsoon season, tranquility, peace and silence will be the words I'd use to describe the emotion",
+            "this sensation makes me feel passive and lazy.",
+            "This sensation makes me feel familiar.",
+            "It makes feel familiar and calm.",
+            "i feel like roller skating",
+            "The sensation made me feel resistive and burning."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "Dune, Sandworms, surface, sand, shifting, cars, bikes, racing, shooting, gun, game, pressing, trigger, heats up, stops shooting, rubbing, pencil, wooden surface, frogs, rainy season, night, starting, hot summer days, kids, fan, top speed, washing machine, motion, clothes, noise, tool, game, building, roller skating, hungry stomach."
+        ],
+        "descriptions": [
+            "It felt like the scene from Dune when the Sandworms are coming to the surface and the sand starts shifting rapidly",
+            "This sensation reminded me of hearing cars or bikes racing at a distance.",
+            "It reminds me of that one time where i was shooting a gun in a game and if you kept pressing the trigger the gun heats up and stops shooting.",
+            "This sensation reminds me of rubbing a pencil on wooden surface",
+            "This felt like the sound frogs make in rainy season at night, also feels like something is trying to start ",
+            "this sensation reminds me of the hot summer days as kids, when the fan in the room at top speed was not enough to beat the heat.",
+            "This remind me of a washing machine motion when clothes washed.",
+            "This reminds me of Frogs making the noise. This also feels like using a tool in a game which is building something,",
+            "it reminds me of roller skating.",
+            "The sensation reminds me of a hungry stomach. "
+        ]
+    }
+}

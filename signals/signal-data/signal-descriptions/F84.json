@@ -1,0 +1,54 @@
+{
+    "signal_id": "84",
+    "sensory": {
+        "keywords": [
+            "steady vibration, not too strong, not too weak, continuous vibration, steady speed, steady short vibrations, intense, rough, continuous, rolling, active, firm, panicky, constant buzz, fast, loud crowd, concert, motor running, regular intervals, strong, fast sensation, continuous rhythm"
+        ],
+        "descriptions": [
+            "The sensation is steady vibration , not too strng not to weak",
+            "This sensation was like continous vibration with a steady speed",
+            "The senation is like steady short vibrations.",
+            "This sensation was intense and rough.",
+            "THE VIBRATION IS CONTINUOUS AND FEELS LIKE SOMETHING IS ROLLING IN MY HAND",
+            "The sensation is active, firm and panicky.",
+            "I would describe the feeling as a constant buzz in your hands.",
+            "This sensation is like a very fast and loud crowd jumping in a concert.",
+            "It feels like a motor running creating vibrations with regular intervals.",
+            "this is a a strong and fast sensation with a continuous rhythm"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "buzzing, relaxing, familiar, unpleasant, drowsy, rhythm, urgency, nervous, agitated, energetic, excited"
+        ],
+        "descriptions": [
+            "This sensation makes me feel like things are buzzing around me.\t",
+            "This sensation made me feel relaxing",
+            "The sensation feels familiar.",
+            "This sensation was unpleasent.",
+            "IT MAKES ME FEEL DROWSY BECAUSE OF ITS RHYTHM",
+            "The sensation feels  like an urgency.",
+            "It makes me feel nervous and agitated.",
+            "This sensation makes me feel energetic and excited.",
+            "NA",
+            "this sensation makes me feel excited"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "bee, house fly, irritates, massage chair, soft vibrations, filling water tank, motor, drilling, vibrations, electric grinder, washing machine, game, character dying, electronic mixer, blend mode, concert, speaker, touching, electric fan, marching bands, vibrations, chest, vicinity"
+        ],
+        "descriptions": [
+            "This sensation reminds me of the scenario where a bee or a house fly just buzzez near our ear and irritates us. ",
+            "This sensation reminded me of a massage chair with soft contiuous vibrations",
+            "The sensation reminded me of filling water tank with motor.",
+            "This sensation reminds me of the vibrations we get from the machine when we try to drill a hole in a metal piece.",
+            "REMINDS ME OF AN ELECTRIC GRINDER OR A WASHING MACHINE",
+            "The sensation reminds me of a game where my character is dying.",
+            "The vibrations remind me of a electronic mixer when put on blend mode.",
+            "This sensation makes me feel like I am at a concert in front of the speaker.",
+            "It gives the feeling of touching an electric fan.",
+            "this sensations reminds me of marching bands and the vibrations one usually feels within their chest while being in their vicinity"
+        ]
+    }
+}

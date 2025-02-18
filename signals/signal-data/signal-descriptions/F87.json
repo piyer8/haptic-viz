@@ -1,0 +1,54 @@
+{
+    "signal_id": "87",
+    "sensory": {
+        "keywords": [
+            "periodic sensation, strong vibration, fades down, smooth vibrations, pause, harsh vibrations, slowly reducing, mild vibrations, long vibration, higher frequency, sudden stop, small boost, intense boost, prolonged, soothing, light, two longer vibrations, small vibration, slow beat, weak motor, stronger motor, calming sensation, fading rhythm"
+        ],
+        "descriptions": [
+            "This sensation is periodic sensation , where in for each period the vibration starts strong and then it fades down gradually",
+            "Thi sensation at first has a smooth vibrations at start then a pause followed by harsh vibrations slowly reducing and again a pause followed by mild vibrations",
+            "The sensation is like long vibration , pause, long vibration with higher frequency, pause and then sudden stop.",
+            "This sensation starts with a small boost of vibrations and then there is an intense boost of vibrations.",
+            "IT IS A LONG SINGULAR VIBRATION AND IT IS VERY PROLONGED",
+            "The sensation is soothing and light.",
+            "I would describe this vibration to someone else as vibration with two longer vibrations and a small vibration at the end.",
+            "This sensation is like a slow and scary beat.",
+            "It feels like a weak motor vibrating followed by a stronger one.",
+            "this is a calming sensation with a fading rhythm"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "excited, soothing, rough, irritable, worried, thrilling, ominous, therapy, minor irritation, suspense, thrill, dissatisfaction, failing a task, relaxed, calm"
+        ],
+        "descriptions": [
+            "The emotion makes me feel excited in the beggining and then as it slows down I also calm down\t",
+            "This sensation made me feel soothing at first and later a rough irritable sensation",
+            "The sensation made me feel worried.",
+            "This sensation felt thrilling.",
+            "IT FEELS A LITTLE OMINOUS AND ON THE EDGE",
+            "This sensation feels like a therapy",
+            "This vibration made me feel some minor irritation.",
+            "This sensation makes me feel suspense and thrill.",
+            "It gives the feeling of dissatisfaction, like failing a task when you are just about to finish it.",
+            "it makes me feel relaxed and calm"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "bike, fuel scooter, vibrations, ignite, moderate, accelerate, blender, speed, medium, fast, slow, driving, two wheeler, traffic, bouncing, basketball, death bell, utensil, metal spoon, ringtone, soundtrack, fight scene, game, action, failing, sound vibrations, yoga class"
+        ],
+        "descriptions": [
+            "This emotion reminds me of starting a bike or fuel scooter, where when we ignite the vibrations are strong and then become moderate once we accelarate",
+            "This sensation reminded me of a blender wherein the speed changes from medium to fast and then slow",
+            "The senstation reminded me of driving two wheeler in traffic.",
+            "This sensation feels like the vibrations we feel from a basketball while bouncing it.",
+            "REMINDS ME OF A DEATH BELL THAT WAS RUNG WHEN SOMEONE DIED IN THE PAST",
+            "The sensation reminds me of banging a utensil with a metal spoon",
+            "This vibration reminds me of my roomate's ringtone",
+            "This sensation reminds me of the sound track before a fight scene occurs in a movie.",
+            "It reminds me of playing a game where you are trying to perform an action but failing at the last second.",
+            "it reminds me of sound vibrations during my yoga class"
+        ]
+    }
+}

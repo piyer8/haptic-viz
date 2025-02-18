@@ -1,0 +1,51 @@
+{
+    "signal_id": "79",
+    "sensory": {
+        "keywords": [
+            "burst, high frequencies, medium frequency, pattern, vibration, long, stays, decreases, jerk, energetic, mild thumps, intensity, stimulating, electric, long bursts, amplitude, small bursts, group, short duration wave, long duration wave, high intensity, high frequency, equal gaps, extended"
+        ],
+        "descriptions": [
+            "It is burst of two high frequencies after stopping interval then there is also a medium level frequency which happens after second interval before this pattern starts again.",
+            "it's a pattern of 3 tyes of vibration where the first vibration stays for long, second vibration stays less than the first and raually decreases at lst i.e. at 3rd vibration.",
+            "The senation is like high speed with low and then there is a jerk ",
+            "The sensation was energetic with mild thumps in between. The intensity of the vibrations was appropriate",
+            "The sensations were even and active. the vibrations felt stimulating and electric",
+            "The sensation consists of two long bursts with different amplitude and a couple of small bursts with similar amplitude.",
+            "The sensation was group of long vibrations but not in any pattern",
+            "The sensation is a repeating pattern of high intensity short duration wave followed by long duration high intensity wave",
+            "The sensation is a hight frquency one which has three vibrations at equal gaps but the third one goes a little extended while the first two  are similar ones."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "smooth, dissatisfied, not that good, pleasurable, enjoyable, energetic, excitement, rough road, weird, intense, urgent, activeness"
+        ],
+        "descriptions": [
+            "This emotion makes me feel smooth.",
+            "It makes me feel like dissatisfied.",
+            "It is not that good",
+            "This sensation made me feel pleasurable and enjoyable.",
+            "It made me feel energetic and evoked excitement",
+            "The sensation gives me a feeling of rough road.",
+            "This sensation made me feel weird",
+            "The sensation feels intense and urgent",
+            "I have a feeling of activeness."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "machine, cut weeds, vibrations, massage chair, alarm clock, rough road, bumpy road, alarm rings, fitbit watch, vibration, activity goal"
+        ],
+        "descriptions": [
+            "It reminds me of using some machine to cut weeds out which lowers its vibrations when its not in contact with weeds in grass.",
+            "N.A\t",
+            "I have not felt this",
+            "The sensation reminded me of a massage chair",
+            "It reminded me of a alarm clock",
+            "The sensation reminds me of a rough and bumpy road.",
+            "N.A.",
+            "The sensation reminds me of when your alarm rings",
+            "This sensation is similar to the vibration my fitbit watch makes after the completion of a certain activity goal."
+        ]
+    }
+}

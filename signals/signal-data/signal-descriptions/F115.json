@@ -1,0 +1,54 @@
+{
+    "signal_id": "115",
+    "sensory": {
+        "keywords": [
+            "continuous wave, increases, decreases, pause, steady, even, waves of ocean, slowly, steadily, pretty continuous, tingling, slow beginning, maintaining speed, not aggressive, intensity, slowly increasing, motor sound, soothing, relaxed feeling, massage, constant waves, pleasurable"
+        ],
+        "descriptions": [
+            "The sensation was continous wave which increases and decreases and has a pause in the middle",
+            "The sensation is steady and even.",
+            "The sensation felt like the waves of ocean, increasing and decreasing slowly and steadily.",
+            "The sensation was pretty continuous.",
+            "Sensation feels like tingling",
+            "This vibration begins slowly maintaining the speed, does not feel agressive. ",
+            "the intensity of the vibration kept slowly increasing\t\t",
+            "This sensation is more like a motor sound of a rice mill\t",
+            "Sensation is in a soothing way to give a relaxed feeling \t",
+            "This sensation makes me feel like I'm taking a massage, maybe. It has a constant waves which are pleasurable, indeed."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "disconcerted, calm, discomfort, relaxed, reassurance, happiness, anxiety, good, buzz, soothe, relaxing, warm, comforted, head massage, soft, feel"
+        ],
+        "descriptions": [
+            "The sensation made me feel disconcerted",
+            "The sensation makes me feel calm and the discomfort when it stops.",
+            "This sensation made me feel relaxed.",
+            "The sensation made me feel nothing apart from reassurance in a way. ",
+            "The Sensation invokes a mix of happiness and anxiety",
+            "This vibration made me feel good, it had the perfect buzz which would soothe me. ",
+            "it gave a relaxing feeling",
+            "This sensation makes me warm and comforted\t",
+            "It kind of makes me relax like a head massage procedure",
+            "The vibrations were soft to feel and It was relaxing."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "vehicle, moving, stopping, massager, standing, ocean, waves, feet, autoclave machine, operation, brother, massaging legs, slowly, momentum, vibrations, video game controller, motor, mill factory, head massages, accu-puncture, muscle relaxation"
+        ],
+        "descriptions": [
+            "It reminds me of a vehicle moving and stopping",
+            "The sensation reminds me of a massager.",
+            "This sensation reminds me of the standing near an ocean while the waves hit your feet.",
+            "It reminds me of the operation of an autoclave machine, upon its on set.",
+            "The sensation reminds me of when my brother was born",
+            "It reminds me of a massager used for massaging legs where it starts slowly and maintains momentum. ",
+            "the vibrations reminded me of those felt on a video game controller",
+            "This sensation reminds me of motor of a mill factory",
+            "It reminds me of gettings head massages",
+            "I felt like I was holding some accu-puncture product for muscle relaxation."
+        ]
+    }
+}

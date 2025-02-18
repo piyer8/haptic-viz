@@ -1,0 +1,54 @@
+{
+    "signal_id": "52",
+    "sensory": {
+        "keywords": [
+            "buzzing, loop, peak, low, cycles, phone ringing, vibration mode, no sound, weak, strong, pattern, decreasing intervals, pause, zero rpm, high rpm, sensation looped, boing, spring, slinky, compresses, stretches, repetitive vibration, intense, gradually increasing vibrations, fast steps, medium long buzzes, spaced out intervals, long vibration"
+        ],
+        "descriptions": [
+            "This sensation feels like a buzzing loop, wher it has a peak and low, and it cycles on that.",
+            "This sensation felt like a phone ringing but in the vibration mode with no sound.",
+            "The vibration starts off weak but grows strong very fast and then turns off and repeats the pattern.",
+            "This sensation is decreasing intervals of vibration with a pause  ",
+            "The sensation felt like something was starting from zero rpm to a high rmp in a span of a second and this sensation looped ",
+            "this sensation is like that \"boing\" of a spring or a slinky when it compresses and stretches.",
+            "The sensation is like repititive vibration but some pauses in between but intense.",
+            "This sensation is gradually increasing vibrations more like fast steps of vibrations and then a pause.",
+            "medium long buzzez one after the other.",
+            "The sensation is a long vibration with spaced out intervals."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "funny, active, familiar, wake me up, not gentle, unpleasant, emergency, quick, cheered me up, jumpy, soothing, not pleasant, fun, intense, aggressive, panicky, disappointed, irritated, annoyed, familiar"
+        ],
+        "descriptions": [
+            "It makes me feel funny and active",
+            "This sensation made me feel familiar.",
+            "It reminds of me someone trying to wake me up but being not so gentle about it.",
+            "This sensation is not very pleasant",
+            "This sensation felt like i was in an emergency, Like I had to do something quick. this also cheered me up and felt very familiar ",
+            "This sensation makes me feel jumpy, but soothing at the same time. It's not the most pleasant sound or feeling, but it is fun.",
+            "This sensation makes me feel intense.",
+            "This sensation makes me feel aggresive and panicky.\t",
+            "It makes me feel disapointed",
+            "The sensation made me feel irritated and annoyed. The sensation is familiar."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "comical sounds, vibrating cell phone, mom waking you up, drilling machine, beyblade matches, trampolines, inflated houses, jumping, laughter, car starting, intense alarm, big siren, nuclear bunker, chainsaw, cutting through wood, Nintendo switch vibration, pokemon, chalk on blackboard, squeaking shoes on floor"
+        ],
+        "descriptions": [
+            "This reminds me of many comical sounds that are used in shows, and I think that is why it also made me feel funny.",
+            "This sensation reminded me of a vibrating cell phone when it is called.",
+            "Yes it feels like your mom trying to wake you up when you're already late for school.",
+            "It reminds me of a drilling machine",
+            "This sensation reminded me of playing beyblade matches with my friends, also reminded me of using a drilling machine ",
+            "it reminds of the trampolines, or the inflated houses for kinds, where there is a lot of jumping and laughter.",
+            "It reminds me of a car starting with a key or an intense alarm.",
+            "This reminds me of some big siren going off in nuclear bunker. It also feels like chain saw cutting through wood.",
+            "it reminds me of the Nintendo switch vibration when the pokemon is about to get out of the pokeball.",
+            "The sensation reminds of a chalk being written on a black board and the squeaking of shoes on the floor."
+        ]
+    }
+}

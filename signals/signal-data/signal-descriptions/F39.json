@@ -1,0 +1,54 @@
+{
+    "signal_id": "39",
+    "sensory": {
+        "keywords": [
+            "long continuous vibration, light vibration, buzzing sensation, small motor, continuous vibration, constant motion, strong, pulsating, tapping softly, tapping quickly, normal vibration, rumble, high speed engine, constant vibration, continuous cycle of vibrations"
+        ],
+        "descriptions": [
+            "I would describe this sensation as a long continuous vibration",
+            "This sensation was a light vibration and is similar to a buzzing sensation.",
+            "The vibration is something that you'd feel if you put your hand on a small motor.",
+            "This sensation is a continuous vibration",
+            "This sensation felt like something was in constant motion, it was continuous and felt strong",
+            "this sensation is lpulsating, feels like its tapping you very softly and very quickly",
+            "The sensation is like normal vibration.",
+            "The Sensation feels like rumble of a high speed engine or machine.",
+            "It gives out a constant vibration. ",
+            "The sensation is a continous cycle of vibrations."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "steady, patient, active, small motor, water pump, unpleasant, heavy machinery, energetic, work time, calm, relaxing, uniform, not intimidating, relaxed, high amounts of power, pressing trigger, faster, fire a gun, anxious, uneasy, discomfort"
+        ],
+        "descriptions": [
+            "This makes me feel steady, waiting for some process to end. It makes me want to be patient.",
+            "This sensation made me feel active.",
+            "It feels like a small motor working like a water pump maybe.",
+            "This sensation is unpleasant",
+            "This sensation felt like i was working in a field operating some heavy machinery, Energetic and felt like work time.",
+            "this sensation makes me feel calm and relaxing. It is uniform, and not too intimidating",
+            "This sensation makes me feel relaxed.",
+            "It makes me feel that I have high amounts power in my grasp and pressing trigger will take me faster or fire a gun.",
+            "It makes me feel anxious.",
+            "The sensation made me feel uneasy and caused discomfort."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "machinery, paper shredder, holding, hair trimmer, machine, refrigerator, motor, vibration, construction site, operating, grass cutter, vibrations, PS4 joystick, playing, Call of Duty, massager, relief, muscle pain, hand massager, lawn mower, cutting grass, jet ski, speed, PS5 controller, drifting, rubbing, lost in thoughts, time ticking"
+        ],
+        "descriptions": [
+            "This reminds me of a machinery, think like a paper shredder. I feel like I am waiting for the shredder to complete with the paper at hand.",
+            "This sensation felt similar to holding a hair trimmer.",
+            "Yes it felt like some machine like a big refridgerator or a motor that i've put my hands on.",
+            "This sensation reminds me of the vibration that comes from a construction site",
+            "Quite a lot of things actually, this was more like operating a grass cutter, or the vibrations felt on ps4 joystick while playing Call of Duty",
+            "this vibration reminds me of the massager I had back home, it is not too hard on the body and gives much needed relief when you have muscle pain.",
+            "This reminds me of hand massager.",
+            "This reminds me of a lawn mower which is cutting grass, this also feels like a jet ski going at very high speed.",
+            "It remids me of PS5 controller when playing NFS and I start drifting or rubbing against the side of the wall. ",
+            "The sensation reminds of me of being lost in my own thoughts but feeling the time ticking around me."
+        ]
+    }
+}

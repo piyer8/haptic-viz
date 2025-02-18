@@ -1,0 +1,54 @@
+{
+    "signal_id": "121",
+    "sensory": {
+        "keywords": [
+            "scratches, buzz, uneven, truck honking, mixture, tingling, vibrations, repetitive, low intensity, high intensity, machine, engine, starts slow, picks up speed, ends low, old car, out of gas, weird noises, decelerated"
+        ],
+        "descriptions": [
+            "The sensation had three scratches followed by a long buzz",
+            "The sensation is uneven.",
+            "This sensation feels like a truck honking at you constantly.",
+            "The sensation was a mixture of atleast 3 sensations together.",
+            "Sensation felt like when you get a tingling feeling in your hands after not moving it for a long time",
+            "The sensation is very similar to the pattern of an alarm or calls on phone when on vibrate mode. ",
+            "the vibrations were repetitive, with low and high intensity",
+            "This sensation is more like a machine or an engine which starts slow and picks up speed and eventually ends on low\t",
+            "Old car trying to start",
+            "This sensation was exactly like, when you are out of gas in your car while you're crusing on a highway and your car makes weird noises while being decelerated."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "tense, release, angry, weird, excited, calm, helpless, anxious, steady, regular, vibrations, exciting, frictional, not working, push, limits, tensed, worrying, something happened"
+        ],
+        "descriptions": [
+            "This sensation made me feel tense followed by a release",
+            "The sensation makes me feel angry.",
+            "This sensation makes me feel a bit weird.\n",
+            "This sensation made me feel excited at first and calm after.",
+            "Sensation makes me feel helpless and anxious",
+            "This senstaion makes me feel steady and calm since it feels like something you feel very regularly on a daily basis. ",
+            "the vibrations gave me an exciting feeling",
+            "This sensation makes me feel like frictional\t",
+            "Something is not working and i am trying hard to push it to limits",
+            "It makes me feel tensed, worrying that something have happened."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "car, trucking, honking, highway, hand, numb, tingling, alarm, phone call, volume feature, daily routine, vibrations, car, upshifts, accelerates, running grinder, old car, bike, dead, subject"
+        ],
+        "descriptions": [
+            "N.A.",
+            "N.A.",
+            "This sensation reminds me of sitting in car while a trucking is honking constantly in a highway.",
+            "N/A",
+            "Sensation invokes a memory when I sat for entire hour without moving and my hand went numb with tingling sensations",
+            "This clearly reminds me on alarm or phone call when the phone does not have a volume feature. It is very common and part of daily routine. ",
+            "the vibrations were similar to those felt when a car upshifts and accelerates",
+            "This sensation reminds me of a running grinder ",
+            "When starting an old car/bike ",
+            "Yes, A car/any subject getting dead any moment."
+        ]
+    }
+}

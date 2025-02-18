@@ -1,0 +1,51 @@
+{
+    "signal_id": "68",
+    "sensory": {
+        "keywords": [
+            "vibrations, slow frequency, gradually increases, pattern, low vibration, high speed, intensity, increased, time, restarted, delay, good, rhythmical, steady, ascending order, pulse, grows stronger, drops drastically, light, intensity, gradually, halted, rising wave, series of waves, repeating, short intervals, buzz sound, lower frequency, higher frequency note"
+        ],
+        "descriptions": [
+            "I would say that the vibrations starts with slow frequency and the frequency gradually increases overtime.",
+            "The sensation was a pattern with low vibration initially and the vibration gradually increases.",
+            "This sensation is like if the vibration happens from low to high speed",
+            "The intensity of the vibration increased with time and restarted after a delay. The vibration was good.",
+            "This sensation were rhythmical and steady. It went in ascending order\t",
+            "The sensation is a pulse that grows stronger until a point and drops drastically.",
+            "The sensation was very light in the start and the intensity increased graddualy and halted of a sudden.",
+            "The sensation is rising wave of rising series of waves repeating in short intervals.",
+            "This sensation goes on like a buzz sound from lower to a higher frequency note."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "reassuring, buzz, energetic, aggressive, comforted, familiar, arousing, exciting, thrilling, relaxing"
+        ],
+        "descriptions": [
+            "The sensation makes me feel reassuring.",
+            "N.A",
+            "This sensation makes me feel like there is a buzz happening when I feel",
+            "This sensation felt energetic and a bit aggressive.",
+            "It made me feel comforted",
+            "The sensation makes me feel familiar.",
+            "The sensation made me feel arousing.",
+            "The sensation feels exciting or thrilling",
+            "This sensation is relaxing."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "barber, trimmer, cut hair, electric heating vibrator, period cramps, scooter, engine, vibration, motorbike, engine starting, foot massager, revving engine, machine starting, thrilling activity, ring, receiver, call"
+        ],
+        "descriptions": [
+            "It reminds me of a barber using trimmer to cut hair.",
+            "i used to use electric heating vibrator for period cramps, this sensation remind me to that sense.",
+            "This sensation reminds me when we just about to start the scooter, when the engine runs it makes this kind of vibration",
+            "This sensation reminded me of a motorbike engine starting.",
+            "It reminds me of a foot massager",
+            "The sensation reminds a revving engine.",
+            "This sensation reminded me of a machine starting",
+            "The sensation reminds me of when I just finished some thrilling activity ",
+            "This reminded of a the ring while we wait for the reciever to answer a call."
+        ]
+    }
+}

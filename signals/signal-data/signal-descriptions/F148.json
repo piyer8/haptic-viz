@@ -1,0 +1,54 @@
+{
+    "signal_id": "148",
+    "sensory": {
+        "keywords": [
+            "periodic, continuous, high frequency, low frequency, vibration, strong, steady, decreased, intensity, jerking, sensation, long, high frequency, waved, softer, intermittent, buzz, building energy, released, two beats, continuous vibration, intense, rushing, moving, not very fast, continuous, nervous, long vibration, smaller vibrations"
+        ],
+        "descriptions": [
+            "This signal is a periodic continuous signal, high frequency to low frequency vibration.",
+            "Sensation felt like it started strong and steady then decresed in intencity in a jerking fasion ",
+            "this sensation is a strong and continous sensation. it has a strong feeling.\t",
+            "The sensation was a long high frequency waved followed by softer interminent buzz.",
+            " I woulde describe this sensation as a building energy that then is released in two beats.",
+            "I would describe the sensation to someone else as a continuous vibration.",
+            "The sensation is intense and rushing.",
+            "The signal give me the sensation for moving not very fast.",
+            "I feel the sensation is continous and i could feel it in my nervous",
+            "The sensation is a long vibration followed by 4 smaller vibrations."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "excited, focused, heightened awareness, discouraged, pay attention, alert, happy, rushing, urgent, uncomfortable, intense, high-intensity action"
+        ],
+        "descriptions": [
+            "This signal excites me. I feel like I am focused or heightend awareness.",
+            "Sensation made me feel discouraged",
+            "this sensation makes me feel like to pay attention to something.",
+            "N/A",
+            "This sensation makes me feel alert.",
+            "The sensation makes me feel happy. ",
+            "It makes me feel rushing.",
+            "There is a emotion for me to become urgent when I feel the signal.",
+            "it makes me feel uncomfortable",
+            "It makes me feel focused or intense like I'm doing a high-intensity action."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "action movie, fast pace video game, starting motor, engine, belt, physical force, failed to start, phone, receive call, old car engine, revved up, small electric motor, speeding motorcycle, talk to roommate, uncomfortable, remote control car, wheels, driving, pairing controller"
+        ],
+        "descriptions": [
+            "This signal reminds me of watching action movie scene or playing a fast pace video game.",
+            "It felt like when someone is trying to start a motor or engine with a belt or outside physical force but failed to start the motor or engine",
+            "This sensation reminds me of my phone when i recive call.",
+            "It reminds me of an old car engine being revved up.",
+            "N.A.",
+            "The sensation reminds me of when I run a small electric motor. ",
+            "It reminds me of speeding motorcycle.",
+            "I feel like to talk to my roomate because the signal makes me fell a little bit umcomfortable.",
+            "It reminds me of remote control car wheels",
+            "It reminds me of driving but also pairing a controller."
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "signal_id": "145",
+    "sensory": {
+        "keywords": [
+            "alarming, alerting, three consecutive taps, repeats, pattern, 4 beats, soft, continuous pattern, repetitive patterns, rhythmatic pulse, vibrations, long pause, waves, light, even drumming, pulsating, low intensity, notification vibration, high frequency, low intensity, discrete, oscillating, 4 vibrations, pause"
+        ],
+        "descriptions": [
+            "I describe the sensation as alarming or alerting. The signal is like three consecutive taps with a pause and repeats again. ",
+            "The sensation was reapeting in pattern of 4 beats",
+            "this sensation is soft and in continous pattern.it has 4 repetative patterns",
+            "The sensation was a soft, rhythmatic pulse of vibrations with a long pause between each waves of pulses.\t\t",
+            "This sensation is like an light, even drumming. ",
+            "I would describe the sensation as pulsating with a low intensity to someone else. Similar to a notification vibration from a phone",
+            "The sensation has high frequency and low intensity.",
+            "The signal give me the sensation for discterete.",
+            "I feel the sensation more like ocillating",
+            "The sensation is like 4 vibrations and then a pause."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "urgent, calm, mild touch, gentle gesture, slightly attentive, focused, afraid, funny, normal, nervous, jittery"
+        ],
+        "descriptions": [
+            "I feel like something needs to take care or something is urgent. ",
+            "The sensation felt calm",
+            "this sensation make me feel of mild touch gesture\t",
+            "The sennsation made me slightly more attentive as it pulled my foccused but it wasn't strong enought to distract me.\t\t ",
+            "This sensation makes me feel calm.",
+            "N.A\t",
+            "The sensation makes me feel afraid.",
+            "It makes me to feel funny.",
+            "it makes me fee normal",
+            "The sensation makes me feel a little nervous or jittery."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "alarm vibration, phones, mobile game, buzz, attention, notification vibration, fast heartbeat, swimming, pool, Mixer, musical rhythm, tapping foot"
+        ],
+        "descriptions": [
+            "yeah, this signal reminds me of my alarm vibration.",
+            "Sensation felt like my phones alarm vibration",
+            "i think i heave felt this during playing a mobile game",
+            "When I play games on my phones and went MIA, it will make my phone buzz to grab my attention else it will stop the fame if I don't return.",
+            "This sensation reminds me of someone rythmically taping their foot. ",
+            "The signal reminds me of a notification vibration from my phone. ",
+            "It reminds me of fast heartbeat.",
+            "It makes me to feel like swimming in the pool.",
+            "I feel the sensation is similar to Mixer",
+            "It reminds me of a fast heartbeat and a musical rhythm."
+        ]
+    }
+}

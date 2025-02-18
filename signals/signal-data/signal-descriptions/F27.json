@@ -1,0 +1,54 @@
+{
+    "signal_id": "27",
+    "sensory": {
+        "keywords": [
+            "uneven lengths, frequencies, half opened tap, dripping water, irregular intervals, soothing, mild, noticeable, four parter pattern, similar buzzes, odd one out, moderate rate, rhythmical manner, birds chirping, recoil, light sub machine gun, strong pulse, alarm clock, bird tweeting, constant frequency, short vibrations, equal gaps, shorter gaps, continuous buzzes"
+        ],
+        "descriptions": [
+            "This sensation is of multiple uneven lengths of frequencies stiched together.",
+            "Think of a half opened tap dripping water in irregular intervals. That is how this sensation feels like",
+            "The vibration is quite soothing and mild, but cannot go unnoticed.",
+            "I would describe this as a four parter pattern. The first, second and fourth buzzes are very similar but the third one is odd one out.",
+            "it is like water dripping at a moderate rate in a rhythmical manner",
+            "It feels like birds are chirping.",
+            "a sensation similar to recoil in a light sub machine gun",
+            "a strong pulse that instantly felt like an alarm clock",
+            "This feels like a bird tweeting in a sensation. It keeps the same constant frequency throughout ",
+            "There are 5 short vibrations with equal and shorter gaps between them. They sound like short continous buzzes"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "short, pointy, concerned, forgotten, calm, relaxed, annoyed, urgent, aggressive, competitive, thrilled, active, sense of urgency, attended"
+        ],
+        "descriptions": [
+            "This sensation feels so short and pointy.",
+            "It makes me concerned about something I might have forgotten to do",
+            "It makes me feel calm and relaxed.",
+            "It made me feel annoyed.",
+            "it makes me feel like i have to turn off the tap urgently",
+            "It makes me calm.",
+            "it makes me feel aggressive and competitive\t",
+            "It made be feel thrilled and active instantly",
+            "This sensation makes me feel active ",
+            "MAkes me feel a sense of urgency, something that needs to be attended"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "musical sounds, faucet, bathtub, back massage, massage chair, water dripping, birds chirping, shooting, sub machine gun, video game, controller, alarm, cursor, buzzing, stimuli, ringing phone, emergency call, frequency"
+        ],
+        "descriptions": [
+            "This reminds me of some annoyingly musical sounds.",
+            "It reminds me of the time I forgot to close the faucet properly after taking a shower and it filled up some of my bathtub",
+            "Feels similar to how a back massage feels like on the massage chair.",
+            "NA",
+            "it is like water dripping from a tap",
+            "I felt it when i heard birds chirping in the morning.",
+            "it reminds me of shooting a light sub machine gun in a video game using a controller",
+            "I have had an alarm of this sort before and that exactly how I can assocaite it with this.",
+            "This reminds me as if I am in a video game and one side of the cursor buzzed in response to a stimuli ",
+            "It reminds me of a ringing phone or an emergency call because of the frequency"
+        ]
+    }
+}

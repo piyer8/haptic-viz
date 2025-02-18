@@ -1,0 +1,54 @@
+{
+    "signal_id": "81",
+    "sensory": {
+        "keywords": [
+            "rhythmic, scratching, buzz, two vibrations, pause, mild vibration, long repeating vibrations, boost, small pulses, unequal intervals, prolonged vibration, pulsing, short vibration, abrupt end, light, irregular, lumpy, long vibrations, shorter vibrations, melody, growing thumping sound, music flow, small beat, longer beat"
+        ],
+        "descriptions": [
+            "The senatation is rythmic sensation which you feel something like scratching\t",
+            "The sensation felt like a buzz with two vibrations with a pause and a mild vibration again",
+            "The sensation is long repeating vibration lines.\t\t",
+            "This sensation starts with a boost and then gives small pulses in unequal intervals.",
+            "THERE IS A PROLONGED VIBRATION BEFORE PULSING INTO A SHORT ONE, AND ENDS ABRUPTLY. ",
+            "This sensation is light, irregular and lumpy",
+            "i would describe this signal to someone else as there are long vibrations followed by shorter vibrations.",
+            "This sensation is a bit like a melody that feels like a growing thumping sound.",
+            "The sesation feels rythemic and has a music flow.",
+            "This sensation is rhythmic. A small beat followed by a longer one."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "calming, comforting, irritation, hands, annoyed, energetic, apprehensive, sporadic, weird, sense of urgency, suspense, excitement, pleasant, intrigued, curious"
+        ],
+        "descriptions": [
+            "The sensation feels a little calming and comforting\t\t",
+            "This sensation made me feel a little irritation on my hands",
+            "The sensation feels like annoyed.",
+            "This sensation felt energetic.",
+            "THE SIGNAL MAKES MEEL SLIGHTLY APPREHENSIVE.",
+            "The sensation makes me feel sporadic and weird",
+            "the sensations gives me a sense of urgency.",
+            "This sensation makes me feel suspense and excitement.",
+            "It makes me feel pleasant.",
+            "This sensation makes me feel intrigued and curious."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "massages, back pain, mobile phone vibration, hands, acceleration, car, starting an engine, steady, rhythmic, roaring, lion, phone vibrations, incoming phone call, sounds, thriller movie, something bad, musical arrangement, simple chords, sound vibrations, movie theatre"
+        ],
+        "descriptions": [
+            "The sessation reminds me of the massages which we get for back pain ",
+            "This reminded me of my mobile phone vibration while carrying in my hands",
+            "The sensation reminded me of acceleration of a car.",
+            "This sensation felt like starting an engine.",
+            "THE SIGNAL IS STEADY AND RHYTHMIC",
+            "It feels like it's roaring like a lion",
+            "It reminds me of phone vibrations during an incoming phone call.",
+            "This sensation reminds me of the sounds played in a thriller movie before something bad is about to happen.",
+            "It reminds me of a musical arrangement. Some simple cords played together.",
+            "This sensation reminds me of the sound vibrations felt in a movie theatre."
+        ]
+    }
+}

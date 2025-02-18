@@ -1,0 +1,54 @@
+{
+    "signal_id": "109",
+    "sensory": {
+        "keywords": [
+            "low intensity, vibration, periodic surges, irregular, intense drops, calm beat, music note, jaggedy vibrations, rough vibrations, barely felt, not steady, slow, grew in intensity, sporadic, stubbing toe, stubbing shoulder, door frame, time of occurrence, gradually increasing, inversely, mild vibration, kick starting, motor bike"
+        ],
+        "descriptions": [
+            "The sensation is a low intense vibration with a periodic surges.",
+            "The sensation was irregular with very low intensity.",
+            "The sensation is like intense drops",
+            "This sensation feels like a calm beat at the end of a music note.",
+            "This vibration is very low intensity jaggedy vibrations with some rough vibrations at the end. ",
+            "The sensation was barely felt. It wasn't steady. ",
+            "The sensation started off slow but grew in intensity. It was sporadic in nature.",
+            "This vibration feels like stubbing your toe or shoulder on the door frame when you walk through a door. ",
+            "The sensation has low intensity with its time of occurence gradually increasing inversly with decreasing intensity.",
+            "it is a very mild vibration. it feels like kick starting a motor bike"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "pleasant, good, quiet, calm, intense, complete, weird, funny, curious, discomfort, slight pain, annoying, motor bike"
+        ],
+        "descriptions": [
+            "This sensation makes me pleasant, good, and quiet.",
+            "The sensation made me feel calm.",
+            "The sensation feels intense",
+            "It makes me feel complete.",
+            "This vibration makes me feel weird and funny.",
+            "The sensation made me feel funny and curious. ",
+            "N.A.",
+            "I can attach uncomfort and slight pain to this vibration. ",
+            "The sensation make me feel annoying.",
+            "It makes me miss the motor bike"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "lo-fi songs, gear, toy, musician, drums, last beat, machine, repetitive task, brushing, door, tiring day, bouncing ball, dropped, height, kick starting, motor bike"
+        ],
+        "descriptions": [
+            "This reminds me of lo-fi songs",
+            "The sensation reminds me of a gear in a toy.",
+            "N.A.",
+            "This reminds of a musician playing drums and hits the last beat.",
+            "NA",
+            "N.A.",
+            "This sensation reminded me of a machine which is processing a repetitive task",
+            "It feels like the time I brushed through my door on a tiring day. ",
+            "The sensation reminds me of a bouncing ball droped from a height.",
+            "it reminds me of kick starting my motor bike"
+        ]
+    }
+}

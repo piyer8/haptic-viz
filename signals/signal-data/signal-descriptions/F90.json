@@ -1,0 +1,54 @@
+{
+    "signal_id": "90",
+    "sensory": {
+        "keywords": [
+            "vibration, weak, soft, smooth, accelerating, breaking, ringing, high intensity, low intensity, singular, long, entire palm, strong, light, equal intervals, set of four, longer, shorter, soothing, humming, pattern, coarse, moderately fast, fading, beat"
+        ],
+        "descriptions": [
+            "This sensation is a regular vibration which is weak and soft ",
+            "This sensation was like a smooth  vibartion at the start and suddenly the vibration slows down",
+            "The sensation is like continuously acceralating and then breaking.",
+            "This sensation is similar to ringing a huge bell where the vibration moves from high to low intensity",
+            "IT IS A SINGULAR LONG VIBRATION THAT AFFECTS THE ENTIRE PALM AND NOT JUST THE FINGERS.",
+            "This sensation goes from strong to light at equal intervals",
+            "I would describe this vibration as set of four vibrations which has a longer and a shorter vibration in each set.",
+            "This sensation is like a soothing and humming vibration.",
+            "It feels like a smooth vibration pattern followed by a similar pattern but this time its coarse.\t",
+            "this sensation has a moderately fast fading beat "
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "neutral, dissatisfied, restlessness, steady, gritty, rumbling, calm, tender, relaxing, quiet, relaxed, at peace, comfort, annoying, panicky"
+        ],
+        "descriptions": [
+            "This senstion makes me feel neutral",
+            "This sensation made me feel dissatisfied",
+            "The sensation feels like restlessness.",
+            "This sensation gives me a steady feeling",
+            "IT HAS A VERY GRITTY AND 'RUMBLING' EFFECT",
+            "The sensation makes me feel calm, tender and relaxing\t\t\t",
+            "This vibration made me feel calm and quiet.",
+            "This sensation makes me feel relaxed and at peace.",
+            "It gives the feeling of comfort yet mildly annoying",
+            "this sensation makes me feel panicky"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "electric razor, car breaking down, huge bell, giant's footsteps, Godzilla, ringing a call, waiting, background music, meditating, driving game, car hits a wall, vibrations, thriller movies, phone, iPad"
+        ],
+        "descriptions": [
+            "This sensation reminds me when we shave using any electric razor.",
+            "This sensation reminded me of a car suddenly breaking down ",
+            "N.A.",
+            "This sensation reminds me of a huge bell.",
+            "THIS IS WHAT I IMAGINED A GIANT'S (MAYBE GODZILLA'S) FOOTSTEPS WOULD FEEL LIKE FROM A DISTANCE",
+            "N/A",
+            "This vibration reminds me of an ringing a call to somebody and waiting till they pick up the call",
+            "This sensation reminds me of the background soothing music played while meditating.",
+            "The sensation reminds me of a driving game when the car hits a wall and goes off the course.",
+            "this sensation reminds me of vibrations felt while watching thriller movies on my phone or ipad"
+        ]
+    }
+}

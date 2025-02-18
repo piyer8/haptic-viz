@@ -1,0 +1,54 @@
+{
+    "signal_id": "117",
+    "sensory": {
+        "keywords": [
+            "sporadic, irregular, beats, small, prickly, water drops, dripping, breaks, heartbeat, mild, neutral, quick, slight buzz, sudden bursts, slight taps, poiking, finger, small buzz, nudge, electric, rhythmical, one by one"
+        ],
+        "descriptions": [
+            "The sensation is a set of sporadic, irregular beats",
+            "The sensation is small and prickly",
+            "The sensation is similar to water drops dripping from a closed faucet.",
+            "The sensation had a lot of breaks in it.",
+            "Sensation feels like a heartbeat",
+            "This is a very mild and neutral sensation, you can feel it very quickly with a slight buzz. ",
+            "there were sudden bursts with slight taps\t",
+            "This sensation is like someone is poiking you with a finger ",
+            "It was a small buzz or nudge kind of feeling\t",
+            "The sensations was very electric-rythemical, it was going one by one and you could feel it like a heart-beat."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "unsettling, irritated, confused, calm, steady, weird, frictional, exhaustion, familiar, comfortable, urgency, small nudge, charged"
+        ],
+        "descriptions": [
+            "The sensation was unsettling",
+            "The sensation makes me feel irritated and confused.",
+            "This sensation makes me calm.",
+            "The sensation made me feel steady and weird. The sensation was somewhat frictional.",
+            "Sensation makes me feel like exhaustion",
+            "This sensation passed very quickly, it felt familiar and comfortable. ",
+            "the vibrations gave me a feeling of urgency",
+            "this sensation makes me irritated\t",
+            "This kind feels like a small nudge",
+            "It makes me feel like charged."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "marching band, poking, finger, shoulder, water, dripping, roof, puddle, soldiers, marching, national holiday, aftermath, football match, notification, social media, instagram, mobile phones, vibrations, mobile phone rings, sharp object, nudge, vibrations, current, passing through, earthing"
+        ],
+        "descriptions": [
+            "Yes, it reminds me of a marching band",
+            "The sensation reminds me of someone poking their finger on my shoulder continuously.",
+            "The sensation reminds me of water slowly dripping from a roof into a puddle. ",
+            "Yes, it reminds me of soldiers marching on a national holiday.",
+            "Sensation reminds of a aftermath of a football match",
+            "This reminds me of notification on social media platforms like instagram on mobile phones. ",
+            "it reminds me of the vibrations felt when a mobile phone rings",
+            "This sensation reminds me of sharp object ",
+            "It reminds of someone giving a nudge",
+            "I have felt these vibrations when current passes through my body, in the cases like earthing."
+        ]
+    }
+}

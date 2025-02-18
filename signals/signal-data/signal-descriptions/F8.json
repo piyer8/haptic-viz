@@ -1,0 +1,54 @@
+{
+    "signal_id": "8",
+    "sensory": {
+        "keywords": [
+            "sensory version, vehicles, reverse gear, heartbeat, dog chasing, intense vibration, slow pulsating vibration, steady heartbeat, baby, rhythm, local folk music, tugging, palm, pulse haptic, continuous beats, slightly higher frequency, couple of beats, heartbeat vibration"
+        ],
+        "descriptions": [
+            "This sensation feels like a sensory version of vehicles in reverse gear trying to move backwards.",
+            "Imagine a person being chased by a dog for 1 mile. This sensation feels exactly like how his heartbeat will feel after the dog stopped chasing him\t",
+            "It is an intense vibration",
+            "I would describe this pattern as a slow pulsating vibration.",
+            "it is like the steady heartbeat of  a baby",
+            "It's rythem feels like of a local folk music.",
+            "it is a sensation like something tugging against your palm",
+            "This ome seemed like a pulse haptic to me. Exactly how our pulse works just not in 2 beats but continuous beats.",
+            "This sensation is slightly higher in frequency, its like a couple of beats. ",
+            "LIke a heartbeat or continous beats vibration"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "lumpy, escaped danger, anxious, at ease, relaxed, calming, steady, joyous, steady threat, harmful threat, intensity, sporadic, annoying, suspense, waiting"
+        ],
+        "descriptions": [
+            "This sensation makes me feel lumpy.",
+            "It makes me feel like I just escaped danger",
+            "It makes me feel anxious",
+            "This pattern made me feel at ease and relaxed. It felt calming.",
+            "it makes me feel steady",
+            "It makes me feel joyous.",
+            "it makes me feel like a steady but harmful threat is in my vicinity",
+            "It did not make me feel anything to be honest. I feel higher intensity could have done someting.",
+            "This sensation is slightly sporadic and annoying. ",
+            "Feels like suspense, waiting for something to happen"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "music, vehicles, reverse gear, heartbeat, running, exam grades, massage chair, vibrations, lats, upper back, baby, drumbeats, horror game, escape, monster, war game, haptic, ringtones, suspense, movie, waiting, something happening"
+        ],
+        "descriptions": [
+            "This reminds me of music played by a few vehicles in reverse gear.",
+            "It reminds me of my heartbeat once when I had to run to class as I was running late.",
+            "It reminds me of how my heart beats right after I find out that my exam grades are out.",
+            "It reminds of a massage chair when the vibrations are provided by it on the lats and upper back area.",
+            "it reminds me of the time when i carry a baby who's sleeping",
+            "Yes, I felt it when listening to drumbeats of that music.",
+            "it reminds me of a horror game where you have to escape from a monster you can't see",
+            "I have played a war game where I experienced this haptic. Very close to what I played in the game.",
+            "It feels like another ringtonw",
+            "Reminds me of the suspense scene from a movie, waiting for something to happen any moment now"
+        ]
+    }
+}

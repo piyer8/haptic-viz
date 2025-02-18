@@ -1,0 +1,51 @@
+{
+    "signal_id": "75",
+    "sensory": {
+        "keywords": [
+            "low frequency, immediate stopping, intervals, low vibration, no sensation, attentive, gradually increasing, low speed, high speed, jerk, pleasant vibrations, longer time, calming, relaxing, low intensity, low amplitude, continuous vibration, short bursts, mild sensation, repeating pattern, medium frequency vibration, constant note, same speed, throughout"
+        ],
+        "descriptions": [
+            "It is a very low frequency sensation with an immediate stopping in intervals.",
+            "it's a pattern where it feels like a very low vibration initially (almost like no sensation), you needs to be very attentive and gradually the sensation increases ",
+            "The sensation is first it is of low speed then it goes upto high speed with kinf of jerk at the end",
+            "The vibrations were pleasant and were there for a longer time.",
+            "This sensation were calming and relaxing. Vibrations were quite low but it was comforting",
+            "The sensation is a continuous vibration with some short bursts in between.",
+            "The sensation was very mild and repeating",
+            "The sensation is repeating pattern of low intensity low amplitude waves",
+            "The sensation is like a medium frquency vibration which is on a constant note and goes on in the same speed throughout."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "calm, active, satisfied, warm, comforted, frustrated, sad, unpleasant, quiet, relaxing"
+        ],
+        "descriptions": [
+            "This sensation makes me feel calm.",
+            "NA",
+            "This sensation is very active",
+            "This sensation made me feel satisfied and calm",
+            "This sensation made me feel warm and comforted",
+            "The sensation makes me feel frustrated.",
+            "This sensation amde me feel sad and unpleasant.",
+            "The sensation feels calm and quiet",
+            "The sensation is a little relaxing."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "CD player, stopping, blowing water, drinking, cup, holding, steering wheel, PC starting, car engine, not starting, electric razor, low battery, holding, pipe, high intensity fluid, mixer-grinder, low speed"
+        ],
+        "descriptions": [
+            "It reminds me of a CD player which runs for sometime and stops in between.",
+            "N.A",
+            "This reminds me of blowing the water while we are drinking from the cup",
+            "This sensation reminded me of holding a steering wheel",
+            "It reminds me of my pc getting started",
+            "The sensation reminds me of a car engine that is not starting.",
+            "This reminded me of electric razor dying off on low battery",
+            "The sensation reminds me of holding a pipe which has high intensity fluid flowing through it",
+            "The sensation is similar to the one which a mixer-grinder makes on a low speed."
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "signal_id": "1",
+    "sensory": {
+        "keywords": [
+            "fast-paced, pulsing, vibrations, sputtering, stopping, starting, rabbit, scratching, carrot, teeth, slow beats, beating motion, continuous signal, less sensitive, regular, on-off, vibration frequency, buzz, phone vibrating, alarm clock, heart beating, fast, exercise, water dropping, heartbeat, dripping, equally spaced, constant beat, excited, surprised."
+        ],
+        "descriptions": [
+            "This sensation is characterized by fast-paced pulsing vibrations.  ",
+            "It is a sputtering sensation, as though something is going to stop while trying to start.",
+            "This feels like a rabbit is scratching carrot with teeth , slow beats that had beating motion periodically , it was also a continous signal and less sensitive",
+            "I would say that it is a regular on off vibration.",
+            "Vibration frequency is less, it feels like buzz",
+            "This feels like a phone vibrating, mostly the alarm clock app",
+            "This signal feels like a heart beating fast after exercise",
+            "The sensation feels like water dropping on floor. ",
+            "The vibration feels like a heartbeat",
+            "I would describe it as a feel of something dripping.",
+            "It feel like a equally spaced vibration with constant beat",
+            "I feel excited or surprised"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "anxiety, dissatisfaction, dying down, sensation, panicky emotions, neutral, calming, alarmed, buzzing sound, drizzling, light rain showers, vibration, familiar, little anxiety, timer ticking, beat playing, unpredictable"
+        ],
+        "descriptions": [
+            "This sensation made me feel anxiety.",
+            "It is making me feel dissatified, as though it is dying down.",
+            "sensation were less in terms of feeling in hands and had panicky emotions",
+            "I would say that it makes me feel neutral.",
+            "It feels claming",
+            "It makes me feel alarmed",
+            "this signal feels like a buzzing sound.",
+            "I feel like I am some place where it is drizzling or light rain showers. ",
+            "The vibration feels familiar.",
+            "Creates little anxiety.",
+            "It feels like a timer is ticking or a beat is playing",
+            "It is makes me fee unpredictable"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "heart races, anxious, sputtering motor boat, engine dying, slow eating, chips, teeth crushing, chewing, phone's emergency alert, daily alarm, marathon, heart beating, swimming pool, water dripping, listening, heartbeat, stethoscope, vibration, anxiety, fast ticking, stopwatch, heartbeats, excited"
+        ],
+        "descriptions": [
+            "This sensation reminds me of when my heart races when I get anxious.",
+            "It is the kind of sensation a sputtering motor boat's engine dying down feels like. ",
+            "this reminds me of me slow eating of chips , eating chips with teeth , i can feel my teeth crushing the chips and chewing them meanwhile same",
+            "No, it reminds me of my phone's emergency alert mechanism.",
+            "N.A",
+            "This feels like my daily alarm ",
+            "This signa reminds me of the time after i ran a marathon and my heart was beating super fast.",
+            "It reminds me of when I am coming of of a swimming pool and can feel water dripping.",
+            "The vibration reminds me of listening to a person's heartbeat through sthethescope.",
+            "Can feel this vibration during anxiety.",
+            "Reminds me of a fast ticking stopwatch",
+            "It reminds me of my heartbeats when I get excited"
+        ]
+    }
+}

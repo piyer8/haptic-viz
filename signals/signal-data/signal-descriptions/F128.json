@@ -1,0 +1,54 @@
+{
+    "signal_id": "128",
+    "sensory": {
+        "keywords": [
+            "increased intensity, decreased intensity, rough, motorcycle, twisting handle, variations, stability, nudging, buzzing, vibrations, slow, familiar, pattern, predicted, intensity, buzz, full throttle, kick, thumping sound, caterpillar, rattle snake, sound match"
+        ],
+        "descriptions": [
+            "The sensation increased then decreased in intensity",
+            "The sensation is rough.",
+            "This sensation feels like a guy trying to rev his motorcycle by twisting the handle.",
+            "The sensation had a lot of variations although it resonated stability.",
+            "Sensation feels like nudging someone constantly in the form of buzzing",
+            "This can be described as a line of vibrations that come very slowly and feel very familiar. It has a pattern that can be easily predicted. ",
+            "the intensity of the vibrations were slowly increasing\t",
+            "This sensation is more like a buzz which increases over time",
+            "the sensation is like a full throttle of kick followed by the thumping sound of the bike starting",
+            "I exactly felt like a caterpillar or a rattle snake moving. The sound could match a 100%."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "thrill, excitement, fulfilled, weird, happiness, familiar, reassuring, calmness, continuity, urgency, enjoyable, high adrenaline, kicking, inner energy, rattle snake"
+        ],
+        "descriptions": [
+            "N.A.",
+            "The sensation makes me feel thrill.",
+            "This sensation makes me excited.",
+            "The sensation made me feel fulfilled.",
+            "Sensation feels exciting yet weird, with a hint of happiness",
+            "This is a very familiar sensation that gives me reassuring vibe, it also makes me feel calmness and continuity. ",
+            "the vibration gave me a feeling of urgency\t",
+            "This sensation makes me feel enjoyable",
+            "sensation makes me feel like getting a high adrenaline feeling by kicking the inner energy.",
+            "It made me feel like a rattle snake was moving around me. "
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "motor bike, revving, motorcycle, filling a jar, candies, vibrating mobile, fan, ceiling, peak summer, constant, continuous, mild vibrations, phone rings, micro oven, starting a new bike, full range motion, constant, rubbery feel"
+        ],
+        "descriptions": [
+            "N.A.",
+            "The sensation reminds me of starting a motor bike.",
+            "This sensation reminds me of my uncle revving his motorcycle when he's about to leave. ",
+            "The sensation reminded me of filling a jar with candies.",
+            "Sensation reminds of when I have a vibrating mobile in my pocket",
+            "I associate this feeling with the feeling of a fan on the ceiling that is used in peak summer. It is very constant and continuous with mild vibrations. ",
+            "the vibrations were similar to that felt when a phone rings",
+            "This sensation reminds me of a micro owen",
+            "this reminds me of a time when starting a new bike with full range motion",
+            "This also resembles a constant, rubbery feel while sensing it."
+        ]
+    }
+}

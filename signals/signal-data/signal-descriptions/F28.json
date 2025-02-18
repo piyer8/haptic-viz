@@ -1,0 +1,54 @@
+{
+    "signal_id": "28",
+    "sensory": {
+        "keywords": [
+            "sped up, typical music, stadiums, sporting events, police car siren, soothing, calming, sawing vibration pattern, vibration, rhythmic, up and down, panicky, mid paced beat, picking up pace, racing heartbeat, workout, up and down, squeaky vibration, short, deep vibrations, gush, complete, continuous, equal intervals"
+        ],
+        "descriptions": [
+            "This sensation feels like a sped up version of typical music played in stadiums during any sporting events.",
+            "Imagine a police car siren but without sound. Thats how it feels like",
+            "It is quite soothing and calming.",
+            "I would describe it as a sawing vibration pattern.",
+            "it is a vibration with rhythmic up and down",
+            "This sensation feels like very panicky.",
+            "the sensation of a mid paced beat picking up pace",
+            "Feels like a racing heartbeat, when a workouts been done or something like that.",
+            "This sensation feels like an up and down squeaky vibration ",
+            "It is one short but deep vibrations, feels like a gush but more complete and it is continous with equal intervals"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "fuzzy, energetic, danger, being chased, calm, relaxed, stress relieving, energetic, attentive, anxious, excited, energized, super active, motivation, intense, uncomfortable, time"
+        ],
+        "descriptions": [
+            "This is sensation makes me feel a bit fuzzy but energetic.",
+            "It makes me feel like I am in danger and being chased by a cop",
+            "It makes me feel calm and relaxed, stress releiving basically.",
+            "It made me feel energetic.",
+            "it makes me feel attentive",
+            "It makes me feel anxious.\t",
+            "it makes me feel energetic and excited",
+            "I feel energized, super active and full of motivation",
+            "This sensation is slightly more intense and isn't super comfortavble ",
+            "Like it is going to take some time"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "music, sporting events, stadiums, sidewalk, police cars, speeding car, vibration, floor, music instruments, vibrations, handsaw, sawing, block of wood, sound, chalk, writing, blackboard, panicky situations, electronic music concert, body, intense runs, workouts, something moving, pipes, stuck, up, down, old car, trouble, starting, engine"
+        ],
+        "descriptions": [
+            "This reminds me of music usually played during sporting events at stadiums.\t",
+            "It reminds me of a time when I was walking on the sidewalk and suddenly saw a 3 police cars chasing a speeding car",
+            "Feels simialr to the vibration that is felt from the floor when a couple of music instruments are at play.",
+            "It reminded me of vibrations felt on a handsaw when sawing through a block of wood.",
+            "ii is like the sound a chalk when writting on black board",
+            "I feel this in panicky situations.",
+            "reminds me of an electronic music concert",
+            "I have felt this from my body after I have intense runs or workouts done",
+            "It feels as if something is trying to move in between pipes and they're stuck just going up/down",
+            "Reminds me of an old car having trouble starting the engine"
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "signal_id": "124",
+    "sensory": {
+        "keywords": [
+            "fading pulse, repeating, fuzzy, kickstart, continuous, transitioned quickly, smoothly, thrill, adventure, active sensations, constant feeling, predictable, long-lasting, steady rise, steady fall, low vibration, almost nothing, squeaky noise, wooly, not constant, motor working, three operations, getting back to square one"
+        ],
+        "descriptions": [
+            "The sensation was a fading pulse repeating over and over",
+            "The sensation is fuzzy",
+            "This sensation feels like you are trying to kickstart a scooter.",
+            "The sensation  was continuous and transitioned quickly and smoothly when theree was a break between the two.",
+            "Sensation feels of thrill and adventure",
+            "It can be described as active sensations that you keep feeling constantly and know what to expect next also knowing it will last long. ",
+            "the vibration has a steady rise and a steady fall in intensity\t",
+            "This sensation is more like low vibration or almost nothing has happened type",
+            "something more like a squeeky noise",
+            "The sensations were a little wooly and they didn't seemed to be constant. It was like a motor working on three operations, and getting back to the square one."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "quiet, focused, happy, achieving, panicky, sensual, long pauses, constant vibrations, irritating, buzzing, non functional door, squeaky noise, motor, three level mechanism, operations"
+        ],
+        "descriptions": [
+            "N.A.",
+            "The sensation makes me feel quiet and focused.",
+            "This sensation makes me happy.",
+            "The sensation made me feel quiet.",
+            "Sensation makes me feel happy and achieving",
+            "This makes me feel a little panicky and sensual becuase of long pauses in the middle followed by constant vibrations. ",
+            "the vibrations gave me an irritating feeling",
+            "This sensation makes me feel buzzing\t",
+            "when a non functional door makes a squeeky noise when it was opened",
+            "It was like a motor with three level mechanism/operations."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "washing machine, xerox machine, kickstart, old scooter, treadmill, walking mode, climbing, high hill, peak, vibrations, electronic razor, trimming device, pauses, intense vibrations, dryer, mobile buzz, table, bed, old door, locked, squeaky noise"
+        ],
+        "descriptions": [
+            "The sensation reminded me of a washing machine going fast",
+            "The sensation reminds me of a xerox machine.",
+            "This sensation reminds me of my father trying to kickstart his old scooter.",
+            "The sensation reminded me of the tredmill in the walking mode.",
+            "Sensation invokes of when I climbed a high hill, and after reaching its peak",
+            "This relates to the vibrations very similar to an electronic razor or trimming device. The senstaion comes with even pauses and not very intense vibrations. ",
+            "the vibrations felt were similar to that felt when the dryer is on",
+            "This sensation reminds of a mobile buzz placed on a table which is next to your bed ",
+            "When i open an old door which is locked for months then this squeeky noise was felt",
+            "I never felt these kind of vibrations. N.A."
+        ]
+    }
+}

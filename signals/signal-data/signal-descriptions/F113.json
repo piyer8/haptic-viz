@@ -1,0 +1,54 @@
+{
+    "signal_id": "113",
+    "sensory": {
+        "keywords": [
+            "slow heartbeat, vibrations, phone vibrating, animal heartbeat, buzz, slight buzz, buzz notification, bumpy-feeling, pause, beats"
+        ],
+        "descriptions": [
+            "The sensation was a slow heartbeat",
+            "The sensation is slow and there's a 1 second gap between two vibrations.",
+            "The sensation is like a phone vibrating in your pocket.",
+            "The sensation felt like a heartbeat of some animal.",
+            "The senestion feels like a heartbeat",
+            "This signal feels like a heartbeat. It has two beats after each pause and is pretty slow ",
+            "the signal was slight buzz\t",
+            "Sensation is like a buzz notification inn your mobile which lasts for 1-2 seconds.",
+            "sensation is buzz\t\t",
+            "The sensation I felt was like a bumpy-feeling."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "anxious, active, fuzzy, enjoyable, calm, anxiety, comforted, reassuring, alert, attention, greasy, pulse-check"
+        ],
+        "descriptions": [
+            "The sensation made me feel anxious.",
+            "The sensation makes me feel active. ",
+            "The senation felt a bit fuzzy and it wad enjoyable.",
+            "The sensation made me feel calm.",
+            "The sensation invokes the feeling of anxiety",
+            "It makes me feel comforted and calm ",
+            "the signal gave a reassuring feeling\t",
+            "Sensation makes me alert or gets my attention instantly.",
+            "sensation makes me feel greasy\t",
+            "I could relate this to a pulse-check."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "heartbeat, alarm, phone vibrating, sonography, mobile notification, alert, doorbell ring, car crash, video game"
+        ],
+        "descriptions": [
+            "The sensation reminded me of a heartbeat",
+            "The sensation reminds me of an alarm",
+            "I have felt a similar sensation before, like a phone vibrating in my pocket and I pick it up while its vibrating.",
+            "N/A",
+            "The sensation reminds me of the moments before the results are announced",
+            "It reminds me of a sonography wherein I could feel the heartbeat and sound ",
+            "the signal reminds me of a phone vibration upon receiving a message",
+            "It reminds me of a mobile notification vibration or an alert",
+            "It reminds me of door bell ring",
+            "This sensation reminded me of me crashing any car in a video game."
+        ]
+    }
+}

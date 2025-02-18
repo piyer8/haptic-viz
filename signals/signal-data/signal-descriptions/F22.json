@@ -1,0 +1,54 @@
+{
+    "signal_id": "22",
+    "sensory": {
+        "keywords": [
+            "stretch, beat, frequency, sirens, emergency, revving, bike engine, not too strong, draws attention, rising wave pattern, constant vibration, small pause, scratching, rhythm, sensation, coming towards you, passing by, subtle, alarming, lower frequency, drawn out buzz, long vibration, set of 4, upwards, downwards"
+        ],
+        "descriptions": [
+            "This just feels like a single stretch beat of slightly longer frequency, usually reminds of sirens used in emergency situations.",
+            "Think of this sensation as a revving of an bike engine",
+            "A sensation that is not too strong but draws attention at the same time",
+            "I would describe this pattern as a rising wave pattern.",
+            "it is like a constant vibration with small pause",
+            "It feels like someone is sratching in rythem.",
+            "it's a sensation like something coming towards you and passing you by",
+            "It felt like a very subtle but alarming haptic. It might sounds crazy.",
+            "This feels like a lower frequency drawn out buzz",
+            "It is a slightly long vibration and appears to be a set of 4. The first two vibrations appear to be upwards while the last two appear to be downwards"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "urgency, take off, traffic stop, active, soothing, comfortable, annoying, intense moment, subsides, relaxed, low intensity, sleep, constant vibration, start, halt, stop"
+        ],
+        "descriptions": [
+            "This sensation makes me feel that there is so sort of urgency.",
+            "It makes me feel like I am about to take off from a traffic stop",
+            "It makes me feel active",
+            "This makes me feel active and soothing.",
+            "it makes me feel comfortable ",
+            "It is annoying.\t",
+            "it makes me feel like an intense moment is coming up but then it subsides",
+            "I actually felt relaxed as the intensity was low. I felt like I could sleep by sensing these vibrations",
+            "This sensation made me feel relaxed because it was only one constant vibration not multiple",
+            "It makes me feel like a start initiated by me and a halt/stop"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "emergency room, rev the engine, Harley Davidson, vibration, phone call, incoming sea shore waves, holding a radio, comforting song, constant notes, scratching skin, train passing, Nintendo Wii, Mario Kart, vibrating chair, lower speeds, starting car, stopping car"
+        ],
+        "descriptions": [
+            "This reminds me a bit of an emergency room.",
+            "It reminds me of a time when I got the chance to rev the engire of a Harley Davidon",
+            "Similar to the vibration my phone make when I get a call while the phone",
+            "This reminded me of incoming sea shores waves.",
+            "it is like holding a radio that is playing a comforting song with constant notes",
+            "Yeah, i have seen people sratch their skin this way.",
+            "it reminds me of a train passing me by when i'm in another train in the opposite direction",
+            "I can relate this with nintento wii, some mario cart games had this sort of haptic in it.",
+            "This feels like the sensation that is felt on a vibrating chair on lower speeds",
+            "Reminds me of the vibrations of starting and stopping a car."
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "signal_id": "156",
+    "sensory": {
+        "keywords": [
+            "continuous, mild, intense, vibration, fuzzy, stimulating, puzzled, short beeps, wavey nature, long vibration, no pauses, lower frequency, higher frequency, stronger, raspy, droning, two strong vibrations, small gap, intense, varying frequency, moving, circles, low vibration, big vibration"
+        ],
+        "descriptions": [
+            "This signal can be decribed as continuous and ends with mild intense vibration.",
+            "Sensation felt fuzzy and stimulating ",
+            "this sensation are very puzzeled, it starts with short beeps followed by a wavey nature.",
+            "It was three long vibration with no pauses in between, the first and last vibration was lower in frequency and the middle one was higher frequency and stronger as well.",
+            "This sensation is like a raspy droning.",
+            "I would describe the sensation as two fairly strong vibrations with a small gap in between to someone else.",
+            "The sensation if intense and varying frequency.",
+            "The signals give me the sensation for moving somewhat regularly.",
+            "This sentation makes me feel something is going in circles",
+            "It's a low vibration with a big vibration in the middle."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "joyful, calm, puzzled, daunted, annoyed, energetic, attention, dizzy, surprise"
+        ],
+        "descriptions": [
+            "I feel like joyful.",
+            "Sensation made me feel calm and joyful",
+            "this sensation makes me feel very puzzled.",
+            "It made me feel daunted.",
+            "This sensationmakes me feel annoyed.",
+            "N.A",
+            "It makes me feel energetic.",
+            "It makes me to feel I need to be attention.",
+            "It makes me feel dizzy",
+            "It fills me with the feeling of surprise."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "movie scene, couple, dating, massage, playing chess, background music, fighting, enemy, video game, wheezing, driving, rough patches, motorcycle, getting up, morning, clock ringing, suddenly braking, car"
+        ],
+        "descriptions": [
+            "This reminds me of a movie scene in which a couple starts dating.",
+            "Sensation felt like a massage.",
+            "this sensation reminds me of playing chess.",
+            "It reminds me like the background music when you are fighting against an enemy in a video game.",
+            "This sensation reminds me of wheezing.",
+            "The sensation reminds me of driving over two rough small patches of road back to back. ",
+            "It reminds me of riding a motorcycle.",
+            "It makes me to associated to get up in the moring when my clock is ringring.",
+            "NA",
+            "It reminds me of suddenly braking in a car."
+        ]
+    }
+}

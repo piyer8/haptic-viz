@@ -1,0 +1,54 @@
+{
+    "signal_id": "35",
+    "sensory": {
+        "keywords": [
+            "fast burst, vibrations, repeated, small beats, fast paced, short breaks, running, constant, uniformly oscillating, up and down, high frequency, rapid, dot like, rifle, machine gun, shooting, rhythmic"
+        ],
+        "descriptions": [
+            "this sensation feels like an extreme fast burst of vibrations",
+            "This sensation consisted of repeated fast yet small beats or vibrations.",
+            "It's a very fast paced vibration with very short breaks in between.",
+            "This sensation feels like running",
+            "Constant and uniformly oscillating up and down beats",
+            "this sensation is of hugh frequency...even faster than heart beats.",
+            "The sensation is rapid dot like vibration.",
+            "The sensation feels like a very fast rifle or machine gun.",
+            "It feels like shooting an AR with a bump stock on.",
+            "The sensation is a rhymtic shooting vibration."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "panicky, active, fast beats, sense of urgency, alarm bell, energetic, energy, upbeat, ride a bike, alert, aware, urgent, not emergency, firing, firearm, high fire rate, power, active, energetic"
+        ],
+        "descriptions": [
+            "this sensation makes me feel panicky",
+            "This sensation made me feel more active due to the fast beats.",
+            "It awakens a sense of urgency, like an alarm bell going off.",
+            "This sensation makes me feel energetic",
+            "Feels like energy, upbeat, makes me wanna ride a bike",
+            "this sensation makes me feel alert and aware.",
+            "This sensation make me feel urgent but not emergency. ",
+            "It makes me feel like I am firing some firearm with high fire rate.",
+            "It makes me feel Power",
+            "The sensation makes me feel active and energetic"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "semi automatic machine gun, buzzing, vibrating object, alarm clock, vibration, club, dancing, EDM, vintage vehicle, Royal Enfield bike, tractor, tone, ring, fast paced ticking, table fan, playing call of duty, controller, gun mechanics, shooting a gun, action games"
+        ],
+        "descriptions": [
+            "this sensation reminds me of an semi automatic machine gun",
+            "This sensation reminded me of a buzzing or slightly vibrating object.",
+            "It reminds me of my old alarm clock but the sensation converted from sound to the vibration only.",
+            "NA",
+            "Like I'm in a club dancing to EDM or I'm riding an old vintage vehicle like a Royal Enfiled bike or a tractor",
+            "I use a similar kind of tone and ring for my alarm clock, its like a fast paced ticking and it always wakes me up from my sleep.",
+            "The sensation reminds me of a table fan.",
+            "I could relate this to playing call of duty on a controller, the gun mechanics seems very similar to the sensation mentioned.",
+            "It remids me of shooting a gun.",
+            "The sensation reminds me of action games I play everyday."
+        ]
+    }
+}

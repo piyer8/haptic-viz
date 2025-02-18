@@ -1,0 +1,54 @@
+{
+    "signal_id": "4",
+    "sensory": {
+        "keywords": [
+            "vibration, bits and pieces, reverse, strong, alertness, rapid pulsating action, machine gun recoil, fast heart beating, heartbeat, short, continuous burst, pulses, alarm, quick beats, rhythm, continuous short vibration, sense of urgency"
+        ],
+        "descriptions": [
+            "This sensation feels like bits and pieces of a full length vibration.\t",
+            "This sensation feels like someone taking a reverse in a car",
+            "A vibration that is causes alertness, something strong",
+            "I would descirbe this pattern as a rapid pulsating action, like a machine gun recoil vibration of sorts.",
+            "it is like a fast heart beating",
+            "This sensation feels like the heartbeat.",
+            "it is a short, continuous burst of pulses",
+            "Almost feels like a type of alarm. The beats are quick.",
+            "I would describe this sensation as a 'doo do da darum' rhythm repeated",
+            "A continous short vibration that creates a sense of urgency"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "coarse, urgency, panic, active, fast pacing, alarmed, anxious, unease, awakened, annoyed, rushed, vibrations"
+        ],
+        "descriptions": [
+            "This sensation makes me feel coarse.",
+            "This sensation gives me a feeling of urgency",
+            "It makes me panic",
+            "It makes me feel active because of it's fast pacing, I felt more active.",
+            "it makes me kind of alarmed",
+            "This makes me feel a bit anxious.",
+            "it makes me feel a sense of urgency and unease",
+            "It made me more active and very much associate it with an alarm. I felt awakened.",
+            "It makes me feel ever so slightly annoyed",
+            "The frequency of vibrations make it seem rushed/urgent"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "hardware machinery, manufacturing industry, car reverse, tight parking spot, fire alarm, nerf toy machine gun trigger, scared animal, heart beating fast, hear own heartbeat, time bomb, alarm, vibrating remote, phone call"
+        ],
+        "descriptions": [
+            "This reminds me of a few hardware machinenary used in manufacturing industry.",
+            "This reminds me of the time a car takes a reverse in a tight parking spot",
+            "It reminds me of a fire alarm",
+            "It reminded me of a nerf toy machine gun trigger. ",
+            "it is like when a small animal is scared and it's heart is beating very fast.",
+            "Once i tried to hear my own heartbeat, it reminds me of that.",
+            "it reminds me of something i would associate with a time bomb",
+            "I can associate this haptic with an alarm as I had something like this setup in my cell phone. ",
+            "I feel like i have felt this on a vibrating remote or phone call",
+            "NA"
+        ]
+    }
+}

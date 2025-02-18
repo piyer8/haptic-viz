@@ -1,0 +1,57 @@
+{
+    "signal_id": "50",
+    "sensory": {
+        "keywords": [
+            "continuous pulse, fades out, stimulative, slow, coarse, rhythm, repetitive beat, high intensity vibrations, longer intervals, very strong, long buzz, small pause, successive pulses, relaxed, irregular pulse, growing intensive, long vibrations, high vibrations, intense, declining rate, spaced apart buzzes, quick buzzes, fading speech, random, long vibrations"
+        ],
+        "descriptions": [
+            "This sensation started with a continuous pulse which fades out towards the end\t\t",
+            "This sensation is stimulative. Its slow but course but also maintains a rythm. Its a repetitive beat of 1 second buzz each.",
+            "this sensation reprating high intensity vibrations with longer intervals  ",
+            "This sensation was very strong",
+            "The sensation is a long buzz followed by a small pause with three succesive pulses after that and then another buzz that a small pause before it starts. ",
+            "This sensation is like the feeling of your body being relaxed after a very hectic day.",
+            "It was a irregular pulse, growing intensive.",
+            "This sensation has 4 long vibrations. First 3 are high vibrations and the last one has two parts in which in the first part the vibrations are intense and then ends by declining rate.",
+            "This was two long spaced apart buzzes followed by two quick buzzes",
+            "THE SENSATION SEEMED LIKE A FADING SPEECH",
+            "The sensation was random consisting of long vibrations."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "calm, enjoyable, aggressive, exciting, alarming situation, stop, active, awake, happy, exhilarated, buzz, anxious, exciting, familiar"
+        ],
+        "descriptions": [
+            "This sensation felt calm.\t",
+            "This sensation made me feel enjoyable, aggresive, exciting.",
+            "this sensation makes me feel alarming situation",
+            "The sensation makes me feel to stop doing anything",
+            "The sensation made me feel active and awake. The emotion I can attach is being happy.",
+            "This sensation makes me feel calm and happy.",
+            "It made me feel exhilerated.",
+            "This sensation makes me feel buzz",
+            "This sensation made me feel anxious",
+            "IT MADE ME FEEL EXCITING INITIALLY BUT THEN LOST ITS MOMENTUM",
+            "It was very familiar."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "beach, waves, shore, feet massaging tool, treatment, rhythmic alarm, attention, game character, health, leg massage, car engine, drilling machine, bore well, warning alarm, urgency, fading voice, phone ringing"
+        ],
+        "descriptions": [
+            "This sensation reminds me of beach, similar to waves coming on shore and then dying. ",
+            "This sensation reminds me of the feet massaging tool which moves around itself to provide the treatment.",
+            "this sensation reminds me rhythmic alarm someting needs your attention but not important ",
+            "This reminded me of my game character loosing most of health. ",
+            "N.A.",
+            "This sensation remings of the time I was given leg massage.",
+            "It sound like a car engine is starting",
+            "This sensation reminds me of drilling machine that is used to bore well",
+            "This sensation reminds me of a warning alarm that is building in urgency",
+            "REMINDED ME OF A FADING VOICE FROM FAR AWAY",
+            "It reminds me of my phone ringing."
+        ]
+    }
+}

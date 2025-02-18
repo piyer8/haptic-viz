@@ -1,0 +1,54 @@
+{
+    "signal_id": "85",
+    "sensory": {
+        "keywords": [
+            "periodic vibration, little gap, smooth, dropping vibrations, continuous pattern, long pulling vibration, pause, uneven, coarse, pulsing sensation, three beats, small hums, regular intervals, equal intervals, long heavy vibration, fades out, distant object, rotating fan, energetic rhythm"
+        ],
+        "descriptions": [
+            "Tgis sensation is a periodic vibration with a little gap between each vibration.\t\t",
+            "This sensation is smooth with two droping vibrations in between ",
+            "The sensation is continuos pattern of long pulling vibration and then pause.",
+            "This sensation was uneven and coarse.",
+            "IT IS A PULSING SENSATION WITH THREE BEATS IN IT",
+            "The sensation is small hums with regular and equal intervals.\t",
+            "I would describe the feeling of the vibration to someone else as a long and heavy vibration which then later fades out.",
+            "This sensation is like a vibration is felt from a distant object kept on the same table.",
+            "It feels like a rotating fan that is getting stuck in between rotations.",
+            "This sensation has a very energetic rhythm"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "pleasurable, comforting, weird, discomforting, urgent, calm, drowsy, active, annoyed, negative feeling, enjoyable"
+        ],
+        "descriptions": [
+            "This sensation makes me feel pleasurable and comforting",
+            "This sensation made me feel weird",
+            "The sensation feels discomforting.",
+            "This sensation felt urgent.",
+            "MAKES ME FEEL CALM AND DROWSY",
+            "N/A",
+            "The vibration makes me feel active.",
+            "This sensation makes me feel annoyed.",
+            "It gives a feeling of negative feeling/feedback.",
+            "This sensation is enjoyable"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "full body massage, relaxing, vehicle moving smoothly, running over stones, phone alarm vibrations, percussion instrument, punching a bag, revving a car engine, phone vibrating, failing a task, game, retry, club, dance floor vibrations"
+        ],
+        "descriptions": [
+            "This reminds me of the time when someone is giving you full body message and you are just relaxing",
+            "This sensation reminded me of a vehicle moving smoothly initally and then running over some stones ",
+            "N.A.",
+            "This sensation is similar to the phone alarm vibrations.",
+            "IT REMINDS ME OF SOME FORM OF PERCUSSION INSTRUMENT",
+            "The sensation reminds me of punching a bag really fast in quick motion.",
+            "The vibrations reminds me of revving a car engine.",
+            "This sensation reminds me of someone's phone vibrating in the same library table.",
+            "It gives the feeling of failing a task in a game, telling you to retry.",
+            "This sensation reminds me of a club and its dance floor vibrations."
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "signal_id": "19",
+    "sensory": {
+        "keywords": [
+            "sensation, typical, pendulum, damp, heart beat, normal rate, vibration, strong, faint, low, pause, constant, metal bowl, music instrument, ritual, slight pat, subtle drum beat, spaced out, 'tha tha' sound, second vibration, higher frequency, strong buzz, shallow, deeper"
+        ],
+        "descriptions": [
+            "This sensation just feels like a sensory version of a typical pendulam damp.",
+            "Feels like a heart beat at very normal rate",
+            "A vibration that is strong but not over the top.",
+            "I would describe it as a two parter vibration pattern where both are really fainted and low.",
+            "there is a small pause and constanty vibration again",
+            "This sensation feels like a metal bowl being used as music instrument for some ritual.\t",
+            "it feels like a slight pat",
+            "I feels like a subtle drum beat to me. ",
+            "This sensation feels like a spaced out 'tha tha' sound. The second vibration is slightly at a higher frequency",
+            "It is a strong buzz with a shallow and a deeper one.   "
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "damp, calm, good, relaxes, ease, neutral, comforted, subtle, long awaited, collapsing, going wrong"
+        ],
+        "descriptions": [
+            "This sensation is so damp.",
+            "It makes me feel very calm",
+            "It makes me feel good, and relaxes me.",
+            "It makes me feel at ease and relaxed. I felt calm like I do when I breathe slow and deep.",
+            "it makes me feel neutral",
+            "It makes me feel calm.\t",
+            "it makes me feel comforted, relaxed",
+            "It made me feel calm and relaxed compared to the other haptics. I wasn't attentive to the haptic as it was very subtle.",
+            "N.A",
+            "It feels like something is long awaited and also feels like something is collapsing, going wrong"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "pendulum, sound, yoga, vibration, hot Jacuzzi, heartbeat, meditate, breathe, music, radio, buddhist temple, rhythmic, indie folk song, guitar, drawing strings, moments, declared, negative result"
+        ],
+        "descriptions": [
+            "This does remind me of a pendulam, playing the sound(usually hourly).",
+            "Reminds me of a time when I was doing yoga",
+            "Very similar to the vibration caused at a hot Jacuzzi.",
+            "It reminds me of my own heartbeat from when I meditate and breathe slow. ",
+            "it is like music is being played through a radio",
+            "It reminds me of a time when i visited a buddhist temple.",
+            "it reminds me of a rhythmic indie folk song",
+            "N.A",
+            "It feels like a guitar specifically drawing out two strings for some time",
+            "It reminds me of the moments before something is being declared, more associated with a negative result"
+        ]
+    }
+}

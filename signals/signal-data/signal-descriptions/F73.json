@@ -1,0 +1,51 @@
+{
+    "signal_id": "73",
+    "sensory": {
+        "keywords": [
+            "continuous, pattern, frequencies, fast, vibration, constant, high speed, buzzing, enjoyable, rhythm, in sync, short, amplitude, pulses, quick, repeating, bursts, high amplitude, waves, succession, higher note, lower note, rhythm"
+        ],
+        "descriptions": [
+            "It is a continous pattern of frequencies happening very fast.",
+            "It's fast and continuous vibration",
+            "The sensation is constant high speed vinration happening",
+            "The sensation was actively buzzing and enjoyable. The vibrations were constant and good.",
+            "The sensation was in rhythm and fast. It was in sync. ",
+            "The sensation is a short but continuous amplitude based pulses.",
+            "The sensation was short, quick, and repeating vibrations",
+            "The sensation is burst of high amplitude waves repeating in quick succession",
+            "This sensation goes on a higher note followed by a lower note immidiately and it goes on fast in a rythym."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "enjoyable, running out of time, familiar, pleasurable, energized, excited, alarmed, aggressive, unpleasant, weird"
+        ],
+        "descriptions": [
+            "This sensation makes me feel enjoyable.",
+            "It makes me feel like I am running out of time.",
+            "This sensation is very familiar ",
+            "The sensation felt pleasurable.",
+            "This sensation made me instantly energized.\t",
+            "This sensation makes me feel excited.",
+            "This sensation made me feel alarmed",
+            "The sensation feels aggresive or unpleasant",
+            "The sensation is making me feel a bit weird."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "water gun, heart beating, running, massage gun, sound of a bike, engine noise, sprinklers, garden, rotating, spraying water, warning, urgency, vibration, moving bulldozer"
+        ],
+        "descriptions": [
+            "It reminds me shooting a pressured water gun.",
+            "N.A",
+            "This sensation reminds me of the heart beating when we are running and just took rest",
+            "This sensation reminded me of a massage gun",
+            "It reminds me of the sound of a bike",
+            "The sensastion reminds me of an engine that is not moving but making noise.",
+            "This reminded me of the sprinklers in the garden, the way they rotate spraying water",
+            "The sensation reminds me of warning with great urgency ",
+            "The vibration is similar to the sound of a moving bull-dozer."
+        ]
+    }
+}

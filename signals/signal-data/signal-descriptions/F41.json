@@ -1,0 +1,57 @@
+{
+    "signal_id": "41",
+    "sensory": {
+        "keywords": [
+            "shooting, short, pulses, regular, time intervals, steady, low beats, repeating, low intensity, vibrations, very small, high frequency, rhythmical, small pulses, certain period, silently walking, fast pace, continuous, pattern, regular, low vibrations, interval, short, blunt, rhythm, fast paced, heartbeat, feeble, series, short vibrations"
+        ],
+        "descriptions": [
+            "This sensation is like shooting short pulses at regular time intervals\t",
+            "This sensation is a steady low beats.",
+            "this sensation is repeating low intensity vibrations",
+            "The sensation is very small and frequency is high",
+            "The sensation is like steady rhythmical small pulses that last for a certain period of time.",
+            "This sensation looks like a person is silently walking past someone as to not disturb the other person but at a fast pace",
+            "there were continous small pulses. The pattern is regular. ",
+            "The sensation is repeating low vibrations in interval.",
+            "short blunt sensations in a rythm",
+            "THE SENSATION RESEMBLED A FAST PACED HEARTBEAT ",
+            "The sensation was very feeble consisting of a series of short vibrations."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "pleasant, relatable, active, energetic, tense, calming, unimportant, bad, unpleasant, anger, anxious, quiet, panicky, discomfort, neutral, rhythmic, warm, intense, comforting, beat"
+        ],
+        "descriptions": [
+            "This sensation feels pleasant and relatable.",
+            "This sensation makes me feel active and energetic. This could also be tense in some situations.",
+            "this sensation makes me feel like calming",
+            "This makes me feel very unimportant",
+            "The sensation made me feel bad. The emotion I can describe is feeling unpleasant and generating a little anger.",
+            "This sensation feels like someone is anxious and quiet. ",
+            "It makes me feel panicky and discomfort.",
+            "This sensation makes me feel neutral",
+            "This sensation made me feel rythmic and warm.",
+            "IT MADE ME FEEL INTENSE IN TERMS OF ITS BEAT",
+            "The sensation made me feel comforting."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "computer games, action games, shooting guns, heart thumping, feeling, hear heart, alarm, notifications, pins falling, sound, good height, clinging teeth, shivering, drum beat pattern, holding heart, measuring heartbeat, mini-marathon, sound, rain"
+        ],
+        "descriptions": [
+            "This sensation reminds of playing computer games, especially action games, which involves shooting guns.",
+            "This reminds me of my heart thumping. The kind of feeling when you can hear your heart out oud from your chest.",
+            "this reminds me of the sensation that I felt when alarm goes off",
+            "This reminds me of getting trivial notifications on my phone",
+            "N.A.",
+            "This sensation gives me the same feeling and sound as a set of pins falling on the floor from a good height.",
+            "This reminds me of someone clinging their teeth while shivering.",
+            "This sensation reminds me of a drum beat pattern",
+            "This made me feel like holding my heart in my hand.",
+            "IT FELT LIKE MEASURING MY HEARTBEAT AFTER A MINI-MARATHON",
+            "It reminded me of sound from rain."
+        ]
+    }
+}

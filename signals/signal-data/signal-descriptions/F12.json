@@ -1,0 +1,60 @@
+{
+    "signal_id": "12",
+    "sensory": {
+        "keywords": [
+            "vibration, pulses, intense, rapid intervals, music, loud, club, party, rock band, DJ beats, head banging, cirscross, alternating frequencies, regular intervals, strong, fast, rhythmic, DJ floor, vibrating sound, noise, sound tong, moving car noise, familiar, exciting, continuous, slow beats, fast beats, high level, excitement, happiness"
+        ],
+        "descriptions": [
+            "The sensation was one long vibration with pulses of slightly more intense vibration at rapid equal intervals. ",
+            "It is the vibration of music you feel when you are stadning outside a really loud club/party.",
+            "sensation felt like a rock band dj beats , head banging beats with cirscross manner",
+            "it is a vibrating sound where there are two different alternating frequencies of on that repeat at regulat intervals.",
+            "The vibration is strong and fast in rythmic",
+            "This is like the vibrations on a DJ floor",
+            "it feels like the noise made by a sound tong when its hit against a surface",
+            "The sensation feels like moving car noise mixed with music. ",
+            "The vibration is familiar and exciting",
+            "Feels like a DJ's desk.",
+            "This one is a continuous vibration with slow and fast beats",
+            "This is more like a high level of excitement or happiness"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "anxiety, difficult mission, excited, soothing, musical, DJ, dancing, irritated, enjoyable, thrilling, energetic, familiar, annoying, good, car, listening to music, active, wanting to dance, neutral, thrilled, happy"
+        ],
+        "descriptions": [
+            "This sensation made me feel anxiety, specifically the type of anxiety I get when I am playing a game with friends and we are entering a difficult mission.",
+            "It makes me feel excited.",
+            "sensation was quite soothinng giving musical dj emotion , i felt like dancing on it",
+            "I feel irritated.",
+            "It is enjoyable",
+            "It makes me feel thrilling and energetic",
+            "i find this sensation familiar at first but annoying over time.\t",
+            "This makes me feel good as it feels like I am in a car listening to music. ",
+            "It makes me feel energetic",
+            "Creates a vibe. Makes me more active like wanting to dance to the beat.",
+            "I am neutral towards it, I don't hate it nor love it",
+            "It makes me feel thrilled, happy and excited"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "video game controllers, vibrating, club, party, loud music, edm concert, beats, head bang, dance, groovy musical beats, musical sensation, accelerating, bike, dance floors, vibrations, sound, tong, table, car, listening to music, friends, dancing, flashmob, dance floor, drilling gun, hand, party"
+        ],
+        "descriptions": [
+            "I have not experienced a sensation quite like this before but I have experienced video game controllers vibrating somewhat like this.",
+            "I have heard this type of vibration outside a club/party right before you are about to enter inside, and they are playing really loud music.",
+            "last week when i visited the edm concert i had felt the same beats feeling to head bang and dance on the groovy musical beats giving a musical sensation",
+            "N.A.",
+            "Feel like Accelrating the bike ",
+            "I associate dance floors with these vibrations",
+            "it feels like a sound tong being hit against the table",
+            "This sensation made me feel like I was in car listening to music with friends. ",
+            "It reminds me of dancing in a flashmob",
+            "Reminds me of a Dance floor.",
+            "Feels like drilling gun in the hand",
+            "It reminds me of going to a party "
+        ]
+    }
+}

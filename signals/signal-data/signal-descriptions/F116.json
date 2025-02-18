@@ -1,0 +1,54 @@
+{
+    "signal_id": "116",
+    "sensory": {
+        "keywords": [
+            "loud, fades away, strong buzz, mellows down, big wave, slamming, slow, picked up momentum, repeated pattern, fast heartbeat, very slow, gentle, air, intense, gradually decline, short vibration, high frequency, decreases, factory siren, smooth wave, steady, perfectly engineered, speed-braker"
+        ],
+        "descriptions": [
+            "The sensation starts out loud and fades away",
+            "The sensation starts with a very strong buzz and the mellows down.",
+            "The sensation feels like a big wave slamming your body.",
+            "The sensation started out slow then picked up momentum and repeated the same pattern twice.",
+            "The sensation feels like a fast heartbeat",
+            "It is a Very slow and gentle sensation, just like air that passes quickly. ",
+            "the vibration starts off pretty intense and it gradually decline, with a short vibration in the end\t",
+            "this sensation is like starts on high frequency and it gradually decreases while it stops",
+            "It feels like a factory siren ",
+            "The sensation feels like a smooth wave, it is steady. It was like a perfectly engineered speed-braker :)"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "calm, discomfort, inconsistency, anxious, excited, amplified, mixed, sadness, irritation, slow, reassuring, vibrating, siren sound, sensation, constant wave, coming-up"
+        ],
+        "descriptions": [
+            "The sensation made me feel calm",
+            "This sensation makes me feel discomfort due to it's inconsistency.",
+            "This sensation makes me feel anxious.",
+            "The sensation made me feel calm first and excited in a way later when it amplified.",
+            "The sensation invoke mixed sadness and anxiety",
+            "This is way too slow and makes me feel a little irritated because it ends as soon as it starts. ",
+            "the vibration felt reassuring",
+            "this sensation make me fells like vibrating\t",
+            "It was a siren sound that gives a sensation of something is going to start\t",
+            "It makes me feel like there's a constant wave, coming-up."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "hitting metal, hammer, standing in front of a wave, big wave, old phone's ringtone, gripping the ball, last throw, vibrations, bus, train, slow and gentle, video game controller, motor, battery, last stage, factory siren, boat, sailing"
+        ],
+        "descriptions": [
+            "This sensation reminded me of hitting some metal with a hammer",
+            "N.A.",
+            "This sensation reminds me of standing in front of a big wave while it's about to hit me.",
+            "This sensation reminded me of my old phone's ringtone.",
+            "Sensation reminds me of griping the ball before the last throw",
+            "It feels like the vibrations on bus or train, really slow and gentle. ",
+            "it reminded me of the vibrations felt on a video game controller",
+            "This reminds me of motor or a battery which is about to die or in the last stage of its capacity",
+            "It reminds of the factory siren",
+            "I could resemble this sensation when I get on a boat; sailing."
+        ]
+    }
+}

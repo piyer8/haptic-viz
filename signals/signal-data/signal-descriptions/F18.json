@@ -1,0 +1,60 @@
+{
+    "signal_id": "18",
+    "sensory": {
+        "keywords": [
+            "ticks, vibration, small knocks, longer vibration, vibrating sensation, drill machine, accuracy, find its spot, on off pattern, small time interval, increasing vibration pattern, knocking, dragging, wearable, morse code, main click, small clicks, beats, dragged beat, neutral, tap, pulses, alarm vibrations"
+        ],
+        "descriptions": [
+            "This sensation can be described as two short ticks and then a longer vibration, repeating at equal intervals. ",
+            "It is like 2 small knocks followed by a longer vibration.",
+            "this gave a vibrating sensation , like a drill machine with adjust accuracy that has to first find its spot with 2 beats then drill for few seconds",
+            "This is an on off pattern where the first two on phases have a small time interval and the last on phase has an increasing vibration pattern.",
+            "Sensation is mix of 2,  Knocking and dragging",
+            "This feels like the vibration of a wearable",
+            "it feels like morse code with 1 main click and 2 small clicks",
+            "The sensation invloved two small beats foollowed by a longer dragged beat. ",
+            "The sensation feels neutral",
+            "Tap on someone.",
+            "This has 2 short pulses and 1 long vibration",
+            "This is like another alarm vibrations"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "happy, anxious, vibrating, warm emotion, annoys, unpleasant, aware, music beats, dance, rhythmical, feel like someone calls, proceed, feels good, hand, engine, machine"
+        ],
+        "descriptions": [
+            "This sensation made me feel happy.",
+            "It makes me feel anxious.",
+            "this sensation made me feel vibrating and gave an warm emotion",
+            "This sensation annnoys me.",
+            "It feels unpleasant",
+            "It makes me feel aware",
+            "n.a.",
+            "This sensation feels like music beats when you practice to dance and the beats goes 1,2 and a beat. ",
+            "It is rhythmical",
+            "Creates a feel like someone calls and asks to proceed with something.",
+            "Feels good in the hand like you are staring some engine or machine",
+            "It does not make me feel in any particular way"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "sensation, beat, music, desire to dance, groove, happy, knocking on door, entering room, construction site, drill machine, faulty sensation, CFL tubelight, switching on, break reminders, smart watch, morse code, dance lessons, teacher yelling beats, practice, pleasant music, indicator, car, acceleration, command, machine, clicking buttons, motor starts, alarm vibration"
+        ],
+        "descriptions": [
+            "This sensation is similar to a common beat in music, and I noticed the desire to dance and groove along with it, which makes me happy. ",
+            "It feels like someone has knocked on my door and is then entering the room I am sitting in.",
+            "this reminds me of construction site that i ahd visited way back , i can associate a drill machine with is faulty sensation with this",
+            "This reminds me of a CFL tubelight switching on because the first two times it doesnt switch on fully and the third time it does.",
+            "Knocking the door",
+            "This reminds me of break reminders I get from my smart watch",
+            "it reminds me of morse code.",
+            "This reminds of dance lessons and a teacher yelling beats when we have to practice the same step multiple times. ",
+            "It reminds me of pleasant music ",
+            "Experienced this while the indicator is on in the car, and further an acceleration does provide the same feel. ",
+            "It feels like you are gving a command to a machine, clicking some buttons and motor starts",
+            "It reminds me of an alarm vibration"
+        ]
+    }
+}

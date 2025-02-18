@@ -1,0 +1,54 @@
+{
+    "signal_id": "142",
+    "sensory": {
+        "keywords": [
+            "discrete, short, low vibrations, quick, not intense, random intervals, ticking, small, dull vibration, pattern, long intervals, mild, beep sounds, hand under water, bubbles, pressure, feeling, discontinuous, uniform beat, alternating, one and two vibrations, little knocks, palm, soft, comfortable, low intensity, rhythmic"
+        ],
+        "descriptions": [
+            "I would describe this sensation as a discrete short and low vibrations that might take 1/10th of second. They are very quick, but not intense and at random intervals. ",
+            "feels like ticking time ",
+            "This sensation is a small dull vibration in a pattern with long intervals",
+            "Sensation is very mild beep sounds.",
+            "I would describe this situation to someone as if the hand is kept underwate rand the bubbles are straight up coming to the hand under the wate rand the pressure or the feeling felt at that time.",
+            "it is discontinous uniform beat",
+            "I would describe this sensation as alternating between one and two vibrations.",
+            "This sensation is like little knocks on my palm.",
+            "This sensation is soft and comfortable",
+            "The sensation is low intensity and rhythmic."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "peaceful, relaxed, bored, sad, joyful, curious, confused, skeptical, enjoyable, calm, good"
+        ],
+        "descriptions": [
+            "This sensation make feel peaceful. The emotion that I attach to is pretty relaxed. ",
+            "NA",
+            "This emotion makes me feel bored",
+            "Sensation makes me feel sad.",
+            "This makes me feel joyful and curious. ",
+            "it makes me feel confused,skeptical",
+            "The sensation makes me feel enjoyable.",
+            "This sensation makes me feel relaxed.",
+            "This sensation made me feel good, It felt calm",
+            "The sensation feels calm."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "water dripping, open palm, mechanical watch, sound, laser removal, tattoo, mild background sounds, drums, hands under water, pump, bubbles, footsteps, raindrops, doctor, knees, hammer tap, water droplet, metal utensil, military parade, short distance"
+        ],
+        "descriptions": [
+            "This reminds of the water dripping on my open palm. ",
+            "Feels like wearing a mechnaical watch",
+            "This sensation reminds me of the sound made during laser removal or making a tattoo",
+            "Sensation reminds me of mild background sounds (drums).",
+            "This reminds me of the time when I kept my hands under the water directly on top of a pump underwater and the bubbles coming out of it. ",
+            "it reminds me of foot steps ",
+            "This reminds me of raindrops.",
+            "Do you know, when a doctor checks your knees with that slight hammer tap? It felt like that.",
+            "This sensation relates me to water dropplet falling over a metal utensil",
+            "The sensation reminds me of standing on short distance to a military parade."
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "signal_id": "158",
+    "sensory": {
+        "keywords": [
+            "continuous, low intensity, noticeable, sticky, weird, repetitive patterns, strong, short beeps, rhythmic pattern, waves of vibration, same pitch, different duration, impatient, buzzing, low frequency, periodic pulses, music beat, slightly intense, starts smooth, mild, short vibrations, long vibration"
+        ],
+        "descriptions": [
+            "This signal can be described as a continuous signal with low intensity but noticeable.",
+            "Sensation was sticky and weird",
+            "this sensation has a repetative patterns of strong short beeps with a rythimic pattern",
+            "It was around 5 waves of vibration of the same pitch but different duration, the first wave was twice as long as the rest. The duration of the rest of the waves were similar but there is a light decrese in duration as it progresses.",
+            "This sensation is like an impatient buzzing.",
+            "I would describe the sensation as four to five low frequency periodic pulses to someone else",
+            "The sensation is like a music beat.",
+            "The signals gives me the sensation for moving slightly intense.",
+            "This sensation starts smooth but its mild in the end",
+            "There's 4 short vibrations followed by a long vibration."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "confused, discomfortable, energized, anxious, alert, joyful, tired, bored, unfocused"
+        ],
+        "descriptions": [
+            "I felt like I am confused.",
+            "Sensation made me feel discomfortable.",
+            "this make me feel like i am energized.",
+            "It made me more energized.",
+            "This sensation makes me feel anxious.",
+            "The sensation makes me feel alert.",
+            "It makes me feel joyful.",
+            "It makes me feel like I  am somewhat tired.",
+            "NA",
+            "It makes me feel bored or unfocused."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "microwave, heating, alert, rice cooker, whistle, signal, phone alarm, walking, growling dog, music, sleep, tedious task, shooting, pistol, automatic gun"
+        ],
+        "descriptions": [
+            "This signal reminds me like when a microwave is done heating and it will alert us or a rice cooker makes whistle. We like notice the signal, however won't do anything or can't do anything.",
+            "NA",
+            "it reminds me of playing a song i like",
+            "N/A",
+            "This sensation reminds me of a phone alarm.",
+            "This sensation reminds me of when I walk past a growling dog.",
+            "It reminds me of music.",
+            "It makes me to associated that I am sleep not really well last nigh.",
+            "NA",
+            "It reminds me of doing a tedious task or shooting a pistol and then shooting an automatic gun."
+        ]
+    }
+}

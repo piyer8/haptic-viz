@@ -1,0 +1,54 @@
+{
+    "signal_id": "126",
+    "sensory": {
+        "keywords": [
+            "continuous vibration, sporadic loudness, strong, intense, bike passing by, throttling engine, stable, excitatory, frequency variations, arousing heartbeat, fast-paced, familiar, high intensity, short breaks, start-stop vibration, soothing, pattern, communicate"
+        ],
+        "descriptions": [
+            "The sensation was a continous vibration which sporadically gets louder",
+            "The senssatin is strong and intense.",
+            "This sensation feels like bike passing by while throttling it's engine.",
+            "The sensation was stable and excitatory at the saame time and had a lot of frequency variations.",
+            "Sensation feels like a arousing heartbeat",
+            "It could be described as a sensation that is constaly fast paced and very familiar. ",
+            "the vibrations where high intensity ones when short breaks in between",
+            "This sensation is more like a start stop vibration whch doesn't bother you much\t",
+            "The loud songs of the drum being played at an orchaestra",
+            "The vibrations are soothing to feel, they seem like they're in a pattern to communicate something."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "jittery, serious, alarmed, neutral, comfort, warmth, happy, pleasant, excited, familiar, strong vibrations, urgency, smoothing, statement, commanding attitude, vibrations, message"
+        ],
+        "descriptions": [
+            "The sensation made me feel jittery",
+            "The sensation makes me feel serious.",
+            "This sensation makes me feel alarmed.",
+            "The sensation made me feel neutral.",
+            "Sensation invokes comfort and warmth, it feels so happy and pleasant",
+            "I feel very excited and happy by this sensation as it seems to be familiar with my body and has constant good strong vibrations. ",
+            "the vibrations gave me a feeling of urgency\t",
+            "This sensation makes me feel like smoothing\t",
+            "this sensation makes me feel it was trying to pass a statement or the commanding attitude",
+            "I could feel like those vibrations had a message."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "blender, stressed situation, decision making, school bus, bike, popping sounds, silencer, mixer, non-pulse mode, seeing someone liked, real life car driving game, bike driving game, thrill, excitement, vibrations, phone rings, hair dryer, orchestra, authority, importance, vibrations in movies, communicate dialogues"
+        ],
+        "descriptions": [
+            "The senation reminded me of a blender",
+            "The sensation reminds me of an stressed situation of decisin making.",
+            "This sensation reminds me of sitting in my school bus and a bike passing by with full speed with popping sounds coming out of the silencer.",
+            "The senation reminded me of a mixer when it is in the non-pulse mode.",
+            "Sensation feels like when I used to see the girl I liked",
+            "It reminds me of playing the real life car or bike driving game that comes with a thrill of playing quickly and excitment of what is going to come next. ",
+            "it reminds me of the vibrations felt when a phone rings",
+            "This sensation reminds of a hair dryer",
+            "When an orchaestra is played and it tries to make a statement giving the authority or the importance of the situation.",
+            "I felt like these kinds vibrations are used in movies to communicate dialogues to the audience without being said."
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "signal_id": "61",
+    "sensory": {
+        "keywords": [
+            "fast vibrations, slow vibrations, ticking pattern, grainy vibration, intense vibration, harsh, no delay, gaps, annoying, intense, full of energy, long pulse, two vibrations, short, longer, quiet, blast, two waves, short duration, repeat, strong, high note, medium vibration"
+        ],
+        "descriptions": [
+            "The sensation is mixture of fast and slow vibrations. ",
+            "This sensation was like a ticking pattern mixed with some kind of grainy vibration.",
+            "This sensation is like we can feel the vibration intensenly",
+            "The sensation was very harsh and also there was no delay or any gap in between the vibrations which was a bit annoying. ",
+            "The sensation was intense and full of energy",
+            "The sensation was a long pulse of two vibrations.",
+            "The sensation was in 2 parts, first was short and the second was longer. And it was quit overall",
+            "The sensation is blast of two waves split by very short duration that repeat for a short duration.",
+            "The sensation was strong and it went on a high note followed by a medium vibration longer than the note."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "not steady, vibrant, strong, uncomfortable, hard vibrations, unpleasant, energetic, intense, good, active, warning, dissuades, urgency"
+        ],
+        "descriptions": [
+            "It makes me feel not steady.",
+            "N.A\t",
+            "This sensation makes me feel bit vibrant kind of strong",
+            "This sensation made me feel uncomfortable. The continuous hard vibrations made it unpleasant.",
+            "This sensation made me energetic",
+            "It makes me feel intense.",
+            "This sensation made me feel good and active",
+            "The sensation feels like warning or a feeling that dissaudes me with some urgency.\t",
+            "The sensation made me feel active."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "motor boat, smart watch alarm, alarm clock, massage chair, rhythmical machine, signals, fitness band, electronic wrist band, failure, quick time events, buzzing sound, phone, tablet"
+        ],
+        "descriptions": [
+            "I would say this sensation makes me feel like I am riding on a motor boat.",
+            "N.A",
+            "This sensation reminds me of the smart watch alarm ",
+            "This sensation reminded me of an alarm clock.",
+            "This reminded me of a massage chair",
+            "The sensation reminded me of rhythmical machine.",
+            "It reminded me of signals from a fitness band or some electronic wrist band.",
+            "The sensation reminds me of failure in quick time events in games.",
+            "This was similar to a buzzing sound of a phone or tablet."
+        ]
+    }
+}

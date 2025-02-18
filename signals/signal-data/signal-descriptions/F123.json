@@ -1,0 +1,54 @@
+{
+    "signal_id": "123",
+    "sensory": {
+        "keywords": [
+            "pulses, repeating, interval, bumpy, washing machine, varying intensities, single wave, neutral, constant vibration, strong, intense, slow rise, sudden drop, small fan, rotating, scratching, chalk, black board, constant, unpleasant, uncomfortable, long time"
+        ],
+        "descriptions": [
+            "The sensation is two pulses repeating after an interval",
+            "The sensation is bumpy ",
+            "This sensation feels like a washing machine doing its job.",
+            "The sensation had varying intensities in a single wave.",
+            "Sensation feels so neutral",
+            "This can be described as very constant vibration at the begining with a very strong and intense vibration suddenly. ",
+            "the vibration has a slow rise in intensity and a sudden drop in the end",
+            "This sensation is more like a small fan rotating\tfor 2-3 seconds",
+            "scratcging a chalk piece on a black board\t",
+            "It is a constant, unpleasant vibration, I've felt. It is definitely not comfortable to feel it for a long time."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "ready, task, stress, neutral, steady, composed, buzz, irritating, sudden, strong break, fear, anxiety, vibration, attention, passive, annoying, threat"
+        ],
+        "descriptions": [
+            "The sensation made me feel ready to start a task",
+            "The sensation makes me feel stress",
+            "This sensation makes me feel neutral.",
+            "The sensation made me feel steady and composed.",
+            "Sensation feels like a buzz, its irritating",
+            "This did not make me feel very good as it came with a sudden strong break making me get a feeling of sudden fear or anxiety. ",
+            "the vibration makes me feel that something needs my attention",
+            "This sensation makes me feel passive\t",
+            "This is kind of annoying feeling",
+            "It make me feel like a threat."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "alarm, ECG machine, washing machine, clothes, drum, spinning, greasy hands, car, signal, vibrations, mobile phone, fan, scratching materials, rough, high intensity, ships"
+        ],
+        "descriptions": [
+            "The sensation reminded me of an alarm",
+            "The sensation reminds me of an ECG machine.",
+            "This sensation reminds me of hearing a top-load washing machine from a distance trying to wash some clothes as the clothes push against the wall of the drum.",
+            "The sensation reminded me of a washing machine spinning.",
+            "Sensation reminds like a when my hands gets greasy and somethings starts falling from my hand",
+            "This reminds of of sitting a car which is waiting for a signal that starts suddenly. The vibrations go from being slow and neutral to coming on a strong halt suddenly. ",
+            "the vibrations were similar to that felt when a mobile phone rings",
+            "This sensation reminds me of a working small fan",
+            "When someone tries to scratch differnet materials on each other this kind of vibrations will be felt.",
+            "It is very rough and a high intensity vibrations, I felt it when I was on ships."
+        ]
+    }
+}

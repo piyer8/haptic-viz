@@ -1,0 +1,54 @@
+{
+    "signal_id": "111",
+    "sensory": {
+        "keywords": [
+            "rhythm, strong, intense, vibrations, fade-out effect, regular, very intense, aggressive motion, short, intense, prickly vibrations, not steady, continuous, loud, periodic, unneccessarily loud, annoying alarm, 4 bursts, high intensity, little gap, strong, rhythmic, drum beats"
+        ],
+        "descriptions": [
+            "The sensation is a rhythm of strong, intense vibrations which also has a fade-out effect after every four beats.\t",
+            "The sensation was regular and very intense.",
+            "The sensation is like a aggressive motion of blender",
+            "This sensation is like when we announce something",
+            "This vibration has short instense prickly vibrations",
+            "The ssensation was intense. It was not steady, but it was continous.",
+            "The sensation was loud, intense and periodic in nature.",
+            "This vibration feels like an unneccessarily loud and annoying alarm in the morning. ",
+            "The sensation has 4 bursts with high intensity with vey little gap in between them.",
+            "The vibrations are strong and rythamic. almost like drum beats"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "aggressive, exciting, unpleasant, attentiveness, energetic, alarming, annoying, proactive, irritated, woken up, nothing to do, dance"
+        ],
+        "descriptions": [
+            "This makes me feel aggressive and exciting",
+            "The sensation made me feel unpleasant.",
+            "The sensation triggers attentiveness",
+            "This sensation makes me feel exciting.",
+            "This vibration makes me feel energetic.",
+            "This sensation made me feel alarming, so I felt it a it annoying .",
+            "The sensation made me feel energetic and proactive.",
+            "This sensation makes me feel irritated, like being woken up when you have nothing to do. ",
+            "The sensation makes me feel energetic.",
+            "this vibration makes me want to dance"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "high-adrenalin situations, quickly, stomping sound, warning bell, gaming, player introduction, stadium, phone alarms, EDM music, loud bass, roommate's phone ringing, wake up call, annoying ringtone, 4 AM, pressing accelerator, car, drum beats, concert night"
+        ],
+        "descriptions": [
+            "This reminds me of high-adrenalin situations where things have to be done quickly.",
+            "The sensation remin me of the stomping sound.",
+            "I have felt the sensation as warning bell during gaming",
+            "It reminds me of the player introduction in a stadium.",
+            "NA",
+            "This reminds me of the phone alarms.",
+            "This sensation made me think of EDM music with a loud bass.",
+            "This reminds me of my roommates phone ringing 1 hour after I had fallen asleep. A wake up call with the most annoying ringtime at 4 AM. ",
+            "The sensation reminds me of someone pressing the accelerator of a car.",
+            "it reminds me of drum beats in a concert night"
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "signal_id": "105",
+    "sensory": {
+        "keywords": [
+            "vibration, sharp, calm, repeating pattern, intense, recurring, buzz, urgent call, jaggedy, uneven, unsteady, active, short burst, elongated burst, alarm, ringtone"
+        ],
+        "descriptions": [
+            "The sensation is a beat of vibration starting with two sharp ones, followed by a large calm one. This pattern is repeated again.",
+            "The sensation was intense with a repeating pattern",
+            "The sensation is funny recurring buzz",
+            "This sensation is like an urgent call that you get on your phone",
+            "This vibration is very jaggedy and uneven.",
+            "The sensation was unsteady vibrations. It didn't have a petttern.",
+            "The sensation was very active and intense",
+            "This sensation felt like removing the used mag of a gun on a video game and reloading it quickly. ",
+            "The sensation has a short burst followed by an elongated burst alternating.",
+            "It feels like an alarm or a ringtone of mobile phone"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "panicky, energetic, intense, excited, arousing, anxious, uncomfortable, unpleasant, annoying, high pressure situation, responsibility, nasty, refreshing, morning"
+        ],
+        "descriptions": [
+            "This sensation makes me feel panicky, energetic, and intense",
+            "The sensation made me feel excited.",
+            "The sensation evokes an arousing excited feel",
+            "This sensation makes me feel anxious.\t",
+            "This vibration make me feel uncomfortable.",
+            "This sensation made me feel unpleasant and annoying.",
+            "The sensation made me feel energetic.",
+            "This sensation made me feel like I was in a high pressure situation, where people were banking on me. It made me feel a strange sense of responsibility. ",
+            "The sensation make me feel nasty.",
+            "It makes me feel refreshing like a morning "
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "song with bass, party song, Microsoft Teams call ring, cloth tearing, background music, song intensifies, reloading a gun, game console, Call of Duty, fading frequency, tuning fork, alarm, teen ages"
+        ],
+        "descriptions": [
+            "N.A.",
+            "The sensation reminds me of a song with bass.",
+            "The sensation reminds me of a party song",
+            "This sensation reminds me of the Microsoft teams call ring.",
+            "This vibration is like cloth tearing.",
+            "N.A.",
+            "This sensation reminded me of the background music used in songs and the song intensifies with time.",
+            "This sensation felt like reloading a gun on a game played on a console (like Call of Duty). ",
+            "The sensation reminds me of a fading frequency of a tuning fork.",
+            "it reminds me of an alarm that i had used in my teen ages."
+        ]
+    }
+}

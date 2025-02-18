@@ -1,0 +1,54 @@
+{
+    "signal_id": "99",
+    "sensory": {
+        "keywords": [
+            "buzz, vibrating, rotating, low irregular patterns, constant, vibration, honey bee, sporadic, continuously changing, no constant rhythm, jaggedy, continuous, light buzz, not steady, white noise, no structure, annoying nature, abrupt, high intensity peaks, haptic control, dragging, string"
+        ],
+        "descriptions": [
+            "The sensation just feels like a buzz, like some vibrating or rotating object.",
+            "The sensation feels like low irregular patterns.",
+            "The sensation is constant buzz vibration like a honey bee",
+            "Sensation was sporadic, it was continuously changing and there was no constant rhythm",
+            "The vibration is very  jaggedy.",
+            "The sensation is continuous with a light buzz. It wasn't steady though.",
+            "This sensation felt like white noise and did not have any structure.",
+            "This sensation, to deal with, was not enjoyable because of its almosr very annoying nature.",
+            "The sentation was abrubt. it had 3 high intensity peaks where the third intensity peak had a much more haptic control than the other two.",
+            "It feels like we are dragging a thing with a string"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "uncomfortable, joyous, buzz, excitement, confused, irritated, relaxing, soothing, reassuring, ambiguity, tired, singing abruptly, hold tight"
+        ],
+        "descriptions": [
+            "N.A.",
+            "The sensation made me feel uncomfortable.",
+            "The sensation feels like a joyous buzz of excitement",
+            "This sensation made me feel confused and irritated",
+            "This vibration feel like relaxing.",
+            "This sensation was soothing and made me feel reassuring.",
+            "This sensation made me feel ambiguity.",
+            "The sensation made me feel tired.",
+            "The sensation makes me feel like someone singing abrutly.",
+            "this makes me want to hold that tight"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "bees, buzz, low vibratory machine, honey bee, yo-yo, grinder, printer, printing, heavy box, uneven surface, hard, orchestra, singer, high pitch, pulling, string attached"
+        ],
+        "descriptions": [
+            "This reminds of bees that buzz around us.",
+            "The sensation can be associated with a low vibratory machine.",
+            "The sensation makes me feel i'm having a honey bee around",
+            "The sensation felt like a yo-yo",
+            "This vibration reminds me of a grinder.",
+            "This reminds me of a printer, printing multiple papers.",
+            "N.A.",
+            "This sensation felt like pushing a heavy box on an uneven surface. It felt hard after a point. ",
+            "The sensation reminds me of an orchestra where the singer ends on a high pitch.",
+            "yes it reminds me of pulling a thing with a string attached to it"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "signal_id": "47",
+    "sensory": {
+        "keywords": [
+            "slow, small vibrations, certain pattern, ticking pattern, gap, careful, mild, steady, beats, repeating, comfortable, rhythmical, rhythmic heartbeat, light, short duration, low amplitude loop, medium frequency, rhythm, high, medium, low"
+        ],
+        "descriptions": [
+            "The pattern of the sensation is slow and with small vibrations in a certain pattern.",
+            "The sensation I felt was like a ticking pattern  and there was a gap between 2 ticking. Also,  you should try to sense the sensation as much carefully.",
+            "N/A",
+            "The sensation is very mild and steady. The 2 beats were repeating constantly and it felt comfortable.",
+            "The sensation was rhythmical ",
+            "The sensation is a rhthymic heartbeat.",
+            "The sensation was very light, repeating and short in duration",
+            "The sensation is a low amplitude loop that repeats for short duration.",
+            "I can feel a medium frequency sensation which is in a rythm and goes like high, medium and low."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "comfortable, neutral, calm, relaxed, calming, good, familiar, quiet, barely noticeable"
+        ],
+        "descriptions": [
+            "The sensation feels like comfortable.",
+            "I felt this sensation to be neutral.",
+            "The sensation makes me feels calm",
+            "This sensation made me feel calm and relaxed.",
+            "The sensation makes me feel calming\t\t",
+            "NA",
+            "The sensation made me feel quite and just barely noticeable",
+            "The sensation makes me feel good or familiar.\t",
+            "N.A"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "heartbeat, light object, falling, normal person's heartbeat, phone, vibration mode, watching movies, slight movement, table lamp, video game tutorial, controller, correct action"
+        ],
+        "descriptions": [
+            "I feel like it is sensation of a heartbeat.",
+            "Yes, this sensation was somewhat similar to heartbeats.",
+            "This reminds me of a some light object falling",
+            "This sensation reminds me of a normal person's heartbeat.",
+            "It reminds me of my phone when kept in vibration mode",
+            "I have felt this before while watching movies.",
+            "This reminds me of slight movement of table lamp or something light",
+            "Sensation reminds me of in video game tutorial when the controller is trying to correct my action.",
+            "It is similar to heart beat."
+        ]
+    }
+}

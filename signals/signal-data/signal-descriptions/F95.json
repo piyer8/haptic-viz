@@ -1,0 +1,54 @@
+{
+    "signal_id": "95",
+    "sensory": {
+        "keywords": [
+            "rhythmic, bumpy, vibration, soft beats, pause, repeating pattern, knocking, muddy, very smooth, feeling, pulses, sharp, medium strength, perfect intervals, regular intervals, three short vibrations, heart beat, alarm, steady, continuous beats"
+        ],
+        "descriptions": [
+            "This sensation is a rhytimic bumpy vibration\t",
+            "This sensation had two soft beats with a pause followed by same two soft beats",
+            "The sensation is like repeating pattern of knocking two times.",
+            "This sensation is bumpy and muddy.",
+            "IT IS A VERY SMOOTH FEELING IN THE HAND AND PULSES TWICE",
+            "The sensation is sharp, with medium strength with perfect, regular intervals",
+            "i would describe this vibration to someone else as three short vibrations that are put together",
+            "This sensation is like the heart beat.",
+            "The sensation is like a alarm in vibration form. It is steady and follows a repeating pattern.",
+            "this sensation has 2 fast paced continuous beats"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "neutral, calming, happy, reassuring, active, soothing, relaxing, loved ones, calming effect, sense of belongingness, good, enjoyable, attentive, panicky, nervous"
+        ],
+        "descriptions": [
+            "This makes me feel neutral\t",
+            "This sensation made me feel calming and happy",
+            "N.A.",
+            "This sensation feels reassuring.",
+            "IT MAKES ME FEEL LIKE ACTIVE",
+            "This sensation feels soothing and relaxing like bein near to a loved ones. It has calming effect with a sense of belongingness.",
+            "It makes me feel good and enjoyable",
+            "This sensation makes me feel neutral.",
+            "It feels attentive and panicky.",
+            "This sensation makes me feel nervous"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "water tank, filling water, old scooters, vibrations, accelerating, knocking on a door, epillator, oxygen bubbles, underwater, heartbeat, hospital screen, human pulse, telephone ringing, vibration form"
+        ],
+        "descriptions": [
+            "This sensation reminds me of the time when we fill water from a fully files water tank ",
+            "This sensation reminded me of old scooters which did not start easily and the vibrations while accelerating felt same",
+            "The sensation reminded me of knocking on the door.",
+            "This sensation reminds me of an epillator.",
+            "IT REMINDS ME OF OXYGEN BUBBLES WHEN YOU GO UNDERWATER",
+            "This sensation reminds me of a heartbeat or a visualization of a heartbeat on a hospital screen",
+            "This sensation reminds me of heart beats",
+            "This sensation reminds me of the heart beat.",
+            "It feels a telephone ringing but in vibration form.",
+            "This sensation reminds me of the human pulse"
+        ]
+    }
+}

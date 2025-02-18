@@ -1,0 +1,54 @@
+{
+    "signal_id": "106",
+    "sensory": {
+        "keywords": [
+            "quirky, vibration, sharp, rough, regular, low, intense, haptics, pushing, constant, buzz, humming, rough, uneven, no pattern, mixture, medium, rhythm, not urgent, jumping, wall, shooting, FPS game, alternating bursts, elongated, short bursts, short spikes, stronger vibrations, mobile phone ringing, hands"
+        ],
+        "descriptions": [
+            "This sensation is a quirky vibration, with sharp and rough tones",
+            "The sensation was regular with a mix of low and intense haptics.",
+            "The sensation is like pushing you to start a new thing",
+            "This sensation is like a constant buzz, like a hymming.",
+            "This vibration is very rough and and uneven with no pattern to it.",
+            "This sensation was like mixture of vibrartions with no particular pattern. The intensity of the vibration was medium.",
+            "The sensation had a rhythm to it but was not necessarily urgent.",
+            "This vibration feels like jumping across a wall and shooting in a FPS game. ",
+            "The sensation is alternating burst of elongated and short burst with 2-3 short spikes in between.",
+            "These are stronger vibrations compared to the others. It feels like a mobile phone ringing in my hands"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "uncomfortable, uncertain, excited, motivated, active, energetic, uneasy, irregular buzz, purposeful, optimistic, nostalgic, good old days, pandemic, panicky, anxious, pick up the phone"
+        ],
+        "descriptions": [
+            "This makes me feel uncomfortable and uncertain",
+            "The sensation makes me feel excited.",
+            "The sensation makes me feel motivated",
+            "This sensation makes me feel like active and energetic",
+            "This vibration makes me feel uneasy.",
+            "This sensation made me feel like an irregular buzz. ",
+            "The sensation made me feel purposeful and optimistic.",
+            "This sensation makes me feel nostalgic, and takes me back to the good old days of the pandemic. ",
+            "The sensation makes me feel like panicky.",
+            "it makes me anxious because i feel like i wanna pick the phone up "
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "vibrations, trains, bass guitar, motivation, ringing phone, PC games, Covid pandemic, fire alarm drill, mobile phone ringing"
+        ],
+        "descriptions": [
+            "This reminds me of the vibrations we can sense when travelling in trains.",
+            "The sensation reminds me of a bass guitar.",
+            "The sensation motivates me to start something",
+            "N.A",
+            "NA",
+            "N.A.",
+            "This sensation reminded me of a ringing phone.",
+            "This sensation reminds me of the time I used to play games on my PC during the Covid pandemic. ",
+            "The sensation reminds me of fire alarm drill.",
+            "it reminds me of Mobile phone ringing in my hand"
+        ]
+    }
+}

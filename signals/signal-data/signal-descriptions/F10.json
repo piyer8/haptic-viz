@@ -1,0 +1,60 @@
+{
+    "signal_id": "10",
+    "sensory": {
+        "keywords": [
+            "moderately long, pulsating, vibrations, massage chairs, swirl motion, washing machine, water gushing, decreasing, strong vibration, speaker, phone buzzing, notification sounds, creaking sensation, aggressive, rubber band, dental drill, fire alarm"
+        ],
+        "descriptions": [
+            "This sensation was characterized by moderately long, pulsating vibrations.",
+            "It is like a vibration you feel on massage chairs.",
+            "this had swril motion in itself as if my hand is in washing machine and the water is gushing trough my hands",
+            "I would say that it is a decreasing on vibration.",
+            "The can feel the strong vibration ",
+            "This feels like the vibrations from a speaker.",
+            "this signal feels like a phone constantly buzzing from notificaition sounds\t",
+            "This was a very creaking sensation. ",
+            "The vibration feels aggressive",
+            "Will Feel it while playing with a rubber band.",
+            "This has a sensation of a dental drill being pressed ",
+            "This feels like a fire alarm going on"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "anxious, relaxed, relaxing, water, gushing, nervous, energetic, urgency, uneasy, tensed, playful, hate"
+        ],
+        "descriptions": [
+            "This sensation made me feel slightly anxious.",
+            "It is making me feel relaxed.",
+            "relaxing sensation that made me feel as if its like a water gushing mode",
+            "I feel nervous i dont like it.",
+            "It feels like engergetic",
+            "This makes me feel energetic",
+            "it makes me feel a sense of urgency",
+            "It made me feel uneasy. ",
+            "The sensation makes me feel tensed ",
+            "Generates a playful emotion. ",
+            "I hate this feeling",
+            "This sensation makes me feel tensed"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "phone vibrates, massage chairs, massaging, vibration, washing machine, water, beats, messaging, mobile vibration, parties, loud music, phone ringing, uneasy sensation, rubber band, yo-yo, cavity, dentist drilling, fire alarm, apartment"
+        ],
+        "descriptions": [
+            "This sensation reminds me of when my phone vibrates indicating that I am getting a phone call, specifically one I do not want to answer. ",
+            "I have felt this sort of vibration on massage chairs, while massaging my legs and back.",
+            "i felt this sensation when i mistakenly put my hand in washing machine and water felt like same beats",
+            "Feels like many people are messaging my phone.",
+            "Mobile vibration",
+            "This reminds me of parties, where loud music is palying",
+            "it reminds me of my phone ringing continuously ",
+            "This sensation is not something I have felt before but it was very uneasy to feel. ",
+            "N>A.",
+            "Remings me of playing with the rubber band or yo-yo.",
+            "It is very similar to when you have a cavity and you feel the dentist drilling in your tooth",
+            "It reminds me of a situation when a fire alarm was turned on in our apartment"
+        ]
+    }
+}

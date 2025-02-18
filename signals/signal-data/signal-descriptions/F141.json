@@ -1,0 +1,54 @@
+{
+    "signal_id": "141",
+    "sensory": {
+        "keywords": [
+            "discrete signal, initial burst, vibration, pause, low vibration, big wave, intensity reduced, small vibrations, 3 discrete vibrations, smoother vibration, speaker under water, submerged, discontinuous beat, pattern, alternating sounds, strong beats, intensity decreases, panicking, discomfortable, short medium intensity vibration, long low intensity vibration"
+        ],
+        "descriptions": [
+            "I would describe this as a discrete signal with an initial burst of vibration, followed by a pause, followed by a low vibration. ",
+            "senstion feels like on big wave geting intensity reduced folllowed by two small vibrations",
+            "This sensation has 3 discrete vibrations followed by a smoother vibration\t\t",
+            "N.A.",
+            "I would describe this sensation to someone as keeping a speaker under water and keeping my hand on it when it was submerged. ",
+            "it is disccontinuous beat",
+            "I would describe the sensation as a pattern of alternating two sounds.",
+            "This sensation had like two strong beats and then the intensity decreases.",
+            "This sensation is panicking and discomfortable",
+            "The sensation has short medium intensity vibration and long low intensity vibrantion"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "active, contentness, sadness, strong, focused, disturbed, happy, pleasant, perplexed, consistent, energized, exhausted, drained"
+        ],
+        "descriptions": [
+            "This sensation makes me feel active. The emotion I would attach to it are contentness or sadness depending on duration. ",
+            "NA",
+            "This sensation makes me feel strong and focused",
+            "Sensation feels like disturbed.",
+            "It makes me feel happy and pleasant.",
+            "it make me feel perplexed",
+            "The sensation makes me feel consistent.",
+            "This sensation made me feel energized.",
+            "This sensation made me feel exhausted and drained",
+            "N.A."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "shovelling, shovel, loose dirt, washing machine, vibration, speaker, snoring, watch, underwater, alarm, vibrate, controller feedback, health reduction, damage, character, grinder, sudden acceleration, vehicle, bumpy road, train, ECG report, printing device"
+        ],
+        "descriptions": [
+            "This sensation reminds me of shovelling. I can feel the shovel hit the loose-ish dirt then go in. ",
+            "feels like washing machine while its final round.",
+            "This reminds me of vibration we feel when you keep your hand on a speaker ",
+            "Sensation reminds me of snoring.",
+            "It reminds me of the time when I kept my watch underwater and the alarm started to ring causing the watch to vibrate alot ",
+            "it reminds of controller feed back of sudden health reduction/damage done on character but with even more strong start",
+            "This reminds me of grinder.",
+            "This reminded me of a sudden accleration of a vehicle.",
+            "This sensation reminded me of travelling over a bumpy road, travelling in a train",
+            "The sensation reminds me of an ecg report printing device."
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "signal_id": "66",
+    "sensory": {
+        "keywords": [
+            "long, energetic, impact, vibration, repeated, toy car, table, slow, strong, gradually fades, low, continuous, stretched, loud, ring, echo, silent, warning, steady, fine, increasing, decreasing, zig zag, buzz, irregular, no specific pattern"
+        ],
+        "descriptions": [
+            "This sensation felt like a long energetic impact vibration",
+            "This sensation felt like a repeated vibrations on a table like surface using a toy car.",
+            "The vibration starts off slow goes to strong but slowly and then slowly fades away to zero.",
+            "This sensation is a low continuous vibration ",
+            "It a long vibration which goes on for 3 plus seconds and feels stretched ",
+            "this sensation is like a really loud ring and the echo of it.",
+            "The sensation is lile silent warning vibration in steady way.",
+            "This sensation feels like very fine vibration increasing initially then dreasing and then increasing agian.",
+            "it is a very long zig zag buzz. it always ends on the furter part of my palm",
+            "The sensation is very irregular and no specific pattern."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "thrilled, active, neutral, calm, serene, happy, moved, steady, warned, anxious, uncomfortable, alien, irritated, discomfort, long, boring, opening, bag of luggage, coming home, long trip"
+        ],
+        "descriptions": [
+            "It made me feel thrilled and active ",
+            "This sensation made me feel neutral.",
+            "The sensation makes me feel calm both the start and the end.",
+            "This sensation makes me feel calm",
+            "This sensation makes me feel like I'm opening something. feels long and boring like opening a bag of luggage after coming home and opening after a long trip. It also feels boring ",
+            "this sensation makes me feel calm and serene. It also makes me feel happy and moved.",
+            "This sensation makes me feel steady but warned.",
+            "This makes me feel anxious and uncomfortable.\t",
+            "it feels alien",
+            "The sensation made me feel irritated and caused discomfort."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "ball, electric, drawing a line, opening a suitcase, zipper bag, pulling a rope, ringing of a big bell, church, loud ringing, echo, flood warnings, police siren, fire siren, vibration pattern, radar searching, forgetting the answer, exam, remembering parts, going blank"
+        ],
+        "descriptions": [
+            "It reminded me of how it feels when a ball is hit with a ball, but everything is electronic and slowed down",
+            "This reminded me of something electric.",
+            "NA",
+            "This sensation reminds me of drawing a line ",
+            "This feels like opening a suitcase of a zipper bag. It also feel like im pulling a long rope",
+            "this sensation is like the ringing of a really big bell like in one of the church. It has a loud ringing of a sound and then follows through with an echo before ringing again soon after.",
+            "This sensation remind of flood warnings on phone.",
+            "This feels like a police or fire siren being converted to the vibration pattern.",
+            "it reminds me of a 270 degree radar searching, but not pinging anything back.",
+            "The sensation reminds me of forgetting the answer to a question in an exam but remembering parts of it and then going blank again."
+        ]
+    }
+}

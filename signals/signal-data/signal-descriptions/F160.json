@@ -1,0 +1,54 @@
+{
+    "signal_id": "160",
+    "sensory": {
+        "keywords": [
+            "random, intense, sporadic, aggressive, vibrating, buzzing, strong, continuous, alternating, lower, stronger, higher, softer, repeating, stomp, roar, changing frequency, moving, slightly, neat, fast, three vibrations, smooth, long vibration, medium length vibrations"
+        ],
+        "descriptions": [
+            "This signal can be described as a random signal.",
+            "Sensation was intense and sporadic and aggressive with vibrating and buzzing sensation.",
+            "this sensation is a mixed of strong buzzes which ends with a continous buzz.",
+            "It was alternating lower and stronger vibrations and higher and softer vibration repeating twice where the last vibration was the softer and higher frequence vibration being held longer.",
+            "This sensation is like a stomp stomp roar.",
+            "I would describe the sensation as a strong continous vibration to someone else.",
+            "The sensation is changing frequency and is intense.",
+            "The signal gives me the sensation for moving slightly neat and fast.",
+            "I can feel three vibrations at once all feel smooth",
+            "It's a long vibration followed by two medium length vibrations followed by another long vibration."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "agitated, controlled, alert, shaken, strong, confused, changing pattern, funny, energetic, baffled, excited, something going on"
+        ],
+        "descriptions": [
+            "N.A",
+            "Sensation made me feel agitated.",
+            "this sensation makes me feel being controlled.",
+            "It made me feel alert.",
+            "This snesation maes me feel shaken.",
+            "The sensation makes me feel strong.",
+            "It makes me feel confused as it keeps changing the pattern.",
+            "It makes me to feel funny and energetic.",
+            "This makes me feel baffled",
+            "It makes me feel excited like there's something going on."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "emergency alarm, examination room, Nokia ringtone, vibration, adjacent room, shooting a gun, gameplay, attending a program, pleasurable chat, beyblades, intense battle"
+        ],
+        "descriptions": [
+            "N.A",
+            "Sensation felt like an emergency alarm.",
+            "this sensation reminds me of being in a examination room.",
+            "It reminds me of a Nokia ringtone.",
+            "This sensation reminds me of a vibration coming from an adjacent room.",
+            "The sensation reminds me of when I shoot a gun in a gameplay. ",
+            "It reminds me of attending a mexican program where I dont understand the language.",
+            "It makes me to associated that I have a pleasureable chat with my friend.",
+            "NA",
+            "It reminds me of beyblades like there's an intense battle going on."
+        ]
+    }
+}

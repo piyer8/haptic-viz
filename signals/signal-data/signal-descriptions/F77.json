@@ -1,0 +1,51 @@
+{
+    "signal_id": "77",
+    "sensory": {
+        "keywords": [
+            "high frequency, steady, gradually decreases, minimal effect, complete, grainy vibration, slight gap, very very high vibration, static, little delays, high intensity, alarming, thrilling, intense, round in motion, energetic, long bursts, constant amplitude, very strong, continuous, periodic, subtle pause, unnoticeable, lasting waves, repeat, continuous, high frequency vibration"
+        ],
+        "descriptions": [
+            "This is a high frequency sensation which seem steady but it gradually decreases with minimal effect.",
+            "It's a completeand grainy vibration with a slight gap in between.",
+            "Very very high vibration",
+            "The sensation was static with little to no delays. The intensity was high making it alarming",
+            "This sensation was thrilling and intense. The vibration was round in motion and it was energetic",
+            "The sensation are long burst but with constant amplitude.",
+            "The sensation was very strong and continuous, although periodic but the pause was very subtle alomost unnoticeable at the end",
+            "The sensation is pattern of lastting waves with high intensity that repeat with very high frequency",
+            "This sensation is like a continous high frquency vibration."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "aggressive, panicky, anxious, continuous high vibrations, uncomfortable, excited, urgent, alarmed, concerning, bad, arousing"
+        ],
+        "descriptions": [
+            "This sensation makes me feel aggresive.",
+            "N.A",
+            "This sensation makes me feel somthing is very aggressive",
+            "This sensation made me feel panicky and anxious. The continous high vibrations made it uncomfortable.",
+            "It makes me feel excited.\t ",
+            "The sensation makes me feel urgent and alarmed.",
+            "This sensation make me feel concerning and urgent",
+            "The sensation feels bad or aggresive",
+            "The sensation feels a bit arousing and urgent."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "bike engine, low temperature, phone alarm, sex toy, washing machine, buzz sound, vibration, phone alert, water charging port, moisture, high tide pool, waves crash, vibration mode"
+        ],
+        "descriptions": [
+            "It reminds me of me trying to keep Bike engine alive when it is not hot enough to sustain at low temprature.",
+            "I have felt this kind of sensation my phone alarm rings.",
+            "It reminds me of the sex toy",
+            "The sensation reminded me of the vibration from the washing machine lid.",
+            "It reminds me of some buzz sound from movies",
+            "The sensation reminds me of a buzz that went off.",
+            "This reminds me of my phone when it alerts for water in the charging port or tries to get rid of moisture in that port, it makes this kind of sensation.",
+            "The sensation reminds me of being in high tide pool where waves crash into your body",
+            "This sensation is similar to the one my phone makes when on vibration mode."
+        ]
+    }
+}

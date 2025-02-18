@@ -1,0 +1,57 @@
+{
+    "signal_id": "57",
+    "sensory": {
+        "keywords": [
+            "pulses, low intensity, steady beat, no buzz, dry, background, long interval vibrations, small, fast, pointy, alarming, continuous, raindrops, constant knocking, high frequency, continuous low vibrations, short low beats, dimming object, repeating short pulses"
+        ],
+        "descriptions": [
+            "This sensation comprises of regular set of pulses of very low intensity",
+            "This sensation is a low haptic steadxy beat with almpst no buzz. Its dry. Could be used as background for something.",
+            "this senstion low intensity repeating long interval vibrations ",
+            "The sensation was small and fast.",
+            "The sensation is like a pointy and alarming buzz that plays continously.",
+            "This sensation is like raindrops falling on the ground.",
+            "I would describe it as constant knocking at a high frequency. ",
+            "The sensation is of continuous low vibrations.",
+            "This sensation is a series of short low beats",
+            "SEEMED LIKE A DIMMING OBJECT",
+            "The sensation was continous with a series of repeating short pulses."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "annoying, unpleasant, clock ticking, fast, quiet, boring, gritty, intense, alerted, enjoyable, active, happy, calm, pleasure, anxious, satisfactory, irritated, bothering, passive, good"
+        ],
+        "descriptions": [
+            "This sensation feels annoying and unpleasant",
+            "It makes me feel like clock is ticking extremely fast and everything is quiet except the clock. Its boring and gritty.",
+            "this sensation feels intense",
+            "This sensation makes me feel allerted",
+            "The sensation makes me feel enjoyable and active. The emotion I can attach is being happy and calm.",
+            "This sensation give me a sense of pleasure.",
+            "It make me feel anxious.",
+            "This sensation makes me feel satisfactory",
+            "This sensation makes me feel irritated, like something is bothering me",
+            "MADE ME FEEL PASSIVE",
+            "It made me feel good."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "clock timer, time ticking, last phase, time bound, starting motorcycle, heavy rainfall, machine gun shooting, muffled, ticking clock, shaking object, jar, light dims, sound of water, falling drop by drop"
+        ],
+        "descriptions": [
+            "This sensation does not remind of anything ",
+            "N.A.",
+            "this reminds of clock timer coming to end",
+            "This reminds me of the time ticking in last phase of any event where activity is time bound",
+            "This sensation reminds me of starting my motorcycle in India.",
+            "This sensation reminds me of a time when I had to deal with very heavy rainfall.",
+            "It can be associated to machine gun shooting which is muffled. ",
+            "This sensation reminds me of a ticking clock",
+            "This sensation reminds me of shaking an object inside a jar",
+            "WHEN A LIGHT DIMS ON THE STREET",
+            "It reminded of the sound of water falling drop by drop."
+        ]
+    }
+}

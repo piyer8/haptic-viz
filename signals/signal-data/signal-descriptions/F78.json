@@ -1,0 +1,51 @@
+{
+    "signal_id": "78",
+    "sensory": {
+        "keywords": [
+            "low frequency, high frequency, vibration, mixed pitch levels, speed, jerk, steady, sharp, fast, uneven, weird, unpleasant, short bursts, long pulse, repeating, group of short vibrations, abrupt change, quick evenly spaced waves, high intensity wave, high notes, medium notes, low notes, constant rate."
+        ],
+        "descriptions": [
+            "This sensation starts with low frequency and then goes to high then goes low and then medium but each interval is of different time.",
+            "it's a vibration of mixed pitch levels.",
+            "This sensation has all the speed from low to high with jerk",
+            "The vibrations were steady and sharp. It felt very fast.",
+            "This sensation were uneven and weird. It was unplesant to experience it ",
+            "The sensation consists of 3 very short bursts and one long pulse.",
+            "The sensation was repeating, group of short vibrations with an abrupt change in the pattern in the end",
+            "The sensation is a repeating pattern of quick evenly spaced waves ending in high intensity wave",
+            "The sensation is of high frquency giving high, medium and low notes following each other at a constant rate."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "dancing, dance moves, unpleasant, uncomfortable, annoyed, energetic, excited, thrilling, urgent, anxious"
+        ],
+        "descriptions": [
+            "This sensation makes me feel like dancing.",
+            "This sensation also make me feel to do some dance moves.",
+            "It is unpleasant",
+            "This sensation felt unpleasant",
+            "It made me feel uncomfortable and annoyed",
+            "The sensation makes me feel energetic and excited.",
+            "This sensation made me feel excited and thrilling",
+            "The sensation feels urgent",
+            "I feel a little anxious."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "vibration, musical songs, alarm vibration, disturbing sound, motorcycle, intense scenes, movies, correcting flow, resistance, video games, washing machine, end of cycle"
+        ],
+        "descriptions": [
+            "N.A.",
+            "It feels like a vibration in musical songs.",
+            "Like alarm vibration",
+            "NA",
+            "It reminds me of a disturbing sound ",
+            "The sensation reminds me of a motorcycle.",
+            "This reminds me of any intense or starting scenes in the movies.",
+            "The sensation reminds me of correcting flow of resistance in video games ",
+            "The sensation is similar to the sound that can be heard from a washing machine at the end of a cycle."
+        ]
+    }
+}

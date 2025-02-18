@@ -1,0 +1,57 @@
+{
+    "signal_id": "58",
+    "sensory": {
+        "keywords": [
+            "continuous pulse, higher intensity, steady buzz, suppressed beat, high to low vibration, no intervals, normal repetitions, medium level vibrations, intense, active, high paced vibrations, multiple pulses, continuous high vibration, repeating continuous intense beats, series of four fast buzzes, moving up and down, wavy vibration, repeating medium length vibrations"
+        ],
+        "descriptions": [
+            "This sensation comprise of 1 continuous pulse on top of which number of other pulses (of higher intensity) takes place",
+            "This sesation is a steady buzz with a hint of supressed beat.",
+            "this sensation continuous high to low vibration with no intervals",
+            "The sensation had normal repetitions of medium level vibrations ",
+            "The sensation is intense, active and high paced vibrations.",
+            "N.A",
+            "It can be described as multiple pulses back to back. ",
+            "The sensation is of a continuous high vibration, along with repeating continuous intense vibration beats",
+            "This sensation is a series of four fast buzzes moving up and down",
+            "THE VIBRATION WAS WAVY",
+            "The sensation consisted of series of repeating medium length vibrations"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "chaotic, enjoyable, active, exciting, energetic, elevated, aggressive, unpleasant, bumpy, thrilling"
+        ],
+        "descriptions": [
+            "This sensation feels chaotic",
+            "This sensation makes me feel enjoyable and active.",
+            "thsi sensation makes me feel exciting",
+            "The sensation makes me feel active",
+            "This sensation makes me feel energetic, excited. I can say that my emotions were elevated.",
+            "This sensation makes me feel aggressive.",
+            "It makes me feel energetic and excited.",
+            "This sensation makes me feel unpleasent",
+            "This sensation was energetic",
+            "THE SENSATION MADE ME FEEL BUMPY",
+            "The sensation made me feel thrilling."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "2020, covid outbreak, chaos, unpredictability, happy summer day, energetic situation, rock band concert, high bass sound system, buzzing, concert, music festival, crowd, unable to start vehicle, weird noises, electronic music intro, snake, climbing up skin, driving, bumpers, knocking door"
+        ],
+        "descriptions": [
+            "This sensation reminds of the time of early 2020, around the time when covid outbreak started where chaos and unpredictability was evident. ",
+            "It reminds me on a happy summer day.",
+            "this sensation reminds me of enegetic sitution like rock band concert ",
+            "This reminds me of high base sound system",
+            "The sensation reminds of a buzzing in a concert or music festival in crowd.",
+            "This sensation reminds me of a time when I was not able to start my vehicle and it was just making some weird noises",
+            "It feels like electronic music intro at a music festival.",
+            "N.A.",
+            "The sensation reminds me of a snake climbing up my skin",
+            "IT MADE ME FEEL WHEN DRIVING IN BUMPERS ON THE ROAD",
+            "It reminds me of someone knocking the door continuously."
+        ]
+    }
+}

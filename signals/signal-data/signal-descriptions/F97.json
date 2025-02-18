@@ -1,0 +1,54 @@
+{
+    "signal_id": "97",
+    "sensory": {
+        "keywords": [
+            "periodic vibration, familiar, smooth vibrations, harsh beats, rough pattern, low frequency, high frequency, well lubricated machine, continuous signal, grating sensation, irregular, no definite pattern, low vibrations, long vibrations, shorter vibrations, car with broken engine, trying to start up, car engine starting up, discontinuous, erratic"
+        ],
+        "descriptions": [
+            "This sensation is periodic vibration which is familiar to all",
+            "This sensation is like a smooth vibrations continuously and two harsh beats at the end",
+            "The sensation is rough pattern of vibrations with low to high frequency.",
+            "This sensation is like a vell lubricated machine and smooth.",
+            "IT IS A CONTINUOUS SIGNAL WITH A GRATING SENSATION PERIODICALLY",
+            "The sensation is very irregular with no definite pattern",
+            "I would describe this sensation to someone else as low and long vibrations with shorter vibrations at the same time",
+            "This sensation is like that of a car with a broken engine that is trying to start up.",
+            "It feels like a car engine starting up.",
+            "this sensation is very discontinous and erratic"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "neutral, thrilling, fuzzy, intense, enjoyable, nervous, anxious, chaotic, unhappy, dissatisfied, uncomfortable, not going right"
+        ],
+        "descriptions": [
+            "This sensation makes me feel neutral\t",
+            "This sensation made me feel thrilling",
+            "The sensation mead me feel fuzzy. ",
+            "This sensation feels intense and enjoyable.",
+            "IT MAKES ME FEEL VERY NERVOUS AND ANXIOUS",
+            "The sensation feels fuzzy",
+            "This vibration makes me feel chaotic",
+            "This sensation makes me feel unhappy and dissatisfied.",
+            "NA",
+            "This sensation makes me feel uncomfortable as if something is not going right"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "mobile alarm, mattress, rocks rolling, hill, mountain, gokart, handle, lawnmower, chatter, classroom, engine failing, start up, gritty machine, vibrations, gastric movements, abdomen, indigestion"
+        ],
+        "descriptions": [
+            "It reminds me when my mobile alarm rings and my mobile is kept on the mattress",
+            "This sensation reminded me a the rocks rolling down the hill or mountain",
+            "N.A. ",
+            "This sensation reminds me of a gokart.",
+            "THIS FEELS SIMILAR TO THE HANDLE OF A LAWNMOWER",
+            "N/A",
+            "It reminds me of chatter in a classroom",
+            "This sensation reminds me of the engine failing to start up.",
+            "It feels like a gritty machine running creating weird vibrations",
+            "This reminds me of gastric movements felt in the abdomen during indigestion"
+        ]
+    }
+}

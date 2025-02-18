@@ -1,0 +1,84 @@
+{
+    "signal_id": "98",
+    "sensory": {
+        "keywords": [
+            "touching, rotating wheel, sudden, accelerating, frequency, irregular pulse, slightly intense, weak vibration, strong vibration, rolling beats, soft vibrations, repeating pattern, racing, rhythmic, sharp buzz, slow, continuous, rolling sensation, hand, very rhythmic, equal, short buzzes, long vibrations, fading out, shorter vibrations, repetitive, revving, cat purring, short, energetic, continuous beats, hammering vibration, wheel, spinning fast, steady buzz, transitions, impulse, rough vibration, vibrations, obstructed, discontinuous pattern, heartbeat, consistent pattern, continuous, increasing intensity, decreasing intensity, sine wave, heart beat"
+        ],
+        "descriptions": [
+            "The sensation feels like touching a rotating wheel that is suddenly accelerating with a certain frequency.",
+            "The sensation feels like an irregular pulse which is slightly intense.",
+            "This sensation is a little weak vibration with a sudden strong vibration in betweeen\t",
+            "This sensation was like rolling beats with soft vibrations",
+            "The sensation is like small repeating pattern of racing the bike.",
+            " This sensation was like a rhythmic and sharp buzz.",
+            "THIS IS A SLOW CONTINUOUS ROLLING SENSATION IN THE HAND",
+            "The sensation is very rhythmic with equal short buzzes",
+            "I would describe this sensation to someone else as long vibrations which are fading out into shorter vibrations",
+            "This sensation is like a repetitive revving of a bike.",
+            "It is very similar to the feeling of a cat purring.",
+            "This is a sensation with short energetic continuous beats",
+            "The sensation feels like a hammering vibration",
+            "The sensation felt like a wheel is spinning fast",
+            "The vibration starts with steady buzz but then it transistions into a impulse of very rough vibration.",
+            "The sensation feels like some vibrations are getting obstructed. it seems like a discontinuous pattern.",
+            "This sensation reminded me of a heartbeat",
+            "This sensation feels like a repetitive and consistent pattern",
+            "The sensation was continuous with increasing and decreasing intensity like a sine wave.",
+            "It feels like a heart beat"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "steady, relaxation, fun, unpleasant, relaxing, weird, confused, uneasy, funny, drowsy, tired, machine, electric, gritty, irritated, angry, excited, thrilled, comfortable, calm, nostalgic, whirlpool, heart, life"
+        ],
+        "descriptions": [
+            "This sensation makes me feel steady. I can attach relaxation and fun to it.",
+            "The sensation makes me feel unpleasant.",
+            "Thi sensation makes me feel relaxing\t",
+            "This sensation made me feel weird and confused",
+            "The sensation made me feel uneasy.",
+            "This sensation feels funny.",
+            "IT MAKES ME FEEL VERY DROWSY AND TIRED",
+            "This sensation is machine and electric and gritty",
+            "It makes me feel irritated and angry",
+            "This sensation makes me feel excited and thrilled.",
+            "It feels comfortable and relaxing.",
+            "This sensation makes me feel steady",
+            "The sensation triggers banging emotion",
+            "This sensation makes me feel electric",
+            "This vibration makes me fell sporadic and urgent. ",
+            "N.A.",
+            "Thie sensation made me feel calm",
+            "This sensation makes me feel Nostalgic",
+            "The sensation make me feel like I was inside a whirlpool.",
+            "It makes me think im holding a heart or something that has life"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "accelerating a bike, sudden surges, horror film, revving the vehicle, high speed vehicle, barking dog, steady train on a track, game situation, sitting in a vehicle, pushing brake, bike revving engine, cat's purr, rhythmic vibrations, pulling a string chopper, cutting vegetables, holding a drill machine, jerk in a moving vehicle, alarm system vibration, rough vibrations, radio frequency signals, steady heartbeat, train vibrations, washing machine spinning clothes, fast heart pumping"
+        ],
+        "descriptions": [
+            "It reminds me of accelerating a bike by maintaining a regular speed with some sudden surges frequently.",
+            "The sensation reminds me of a horror film.",
+            "This reminds me when I am revving the vehicle smoothly at night at a signal ",
+            "This sensation reminded me of a vehicle moving with high speed ",
+            "The sensation reminded me of accerlerating bike.",
+            "This sensation reminds me of a dog barking.",
+            "IT REMINDS ME OF A STEADY TRAIN ON A TRACK",
+            "This sensation reminds me of a situation in a game which i can't pinpoint",
+            "This reminds me of sitting in a vehicle where someone is constantly pushing brake",
+            "This sensation reminds me of a bike revving its engine mildly.",
+            "The sensation is comparable to a cat's purr, ryhtmic vibrations.",
+            "Yes it reminds me of pulling a string chopper for cutting vegetables",
+            "The sensation makes me feel as if im holding a drill machine",
+            "The sensation reminds me of the jerk that you get while in a moving vehicle.",
+            "This vibration fell like a alarm system vibration with it short burst of rough vibrations.",
+            "This reminds me of radio frequency signals, which we set manually.",
+            "This sensation reminded me of a steady and slow heartbeat.",
+            "The sensation felt like being on a train in India. The train would make vibrations like this when it passed on the tracks. ",
+            "The sensation reminds me of the washing machine spinning clothes.",
+            "yes, when our heart pumps fast it feels like this from inside"
+        ]
+    }
+}

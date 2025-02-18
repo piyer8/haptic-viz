@@ -1,0 +1,51 @@
+{
+    "signal_id": "74",
+    "sensory": {
+        "keywords": [
+            "grainy, vibration, medium frequencies, small frequency, harsh, uneven, lumpy, coarse, weird, discomforting, annoying, high amplitude bursts, small amplitude burst, mix, repeating, low intense vibrations, high intense vibrations, bursts, waves, rise in intensity, high note vibrations, medium pace, rhythm, very small frequency note"
+        ],
+        "descriptions": [
+            "It is a combination of three medium frequencies and 1 small freuquency at the end.",
+            "the sensation is a grainy vibration of 3 beats. ",
+            "The sensation is bit harsh and there are other vibration included in this like I feel there is a small sort of vibration in the lower end of the machine",
+            "The sensation was coarse and weird. The beats were uneven and lumpy.",
+            "This sensation was weird and discomforting. It felt annoying to feel it as it was uneven.",
+            "The sensation consists of 4 high amplitude bursts and 1 small amplitude burst.",
+            "The sensation was mix of a repeating couple of low intense and high intense vibrations",
+            "The sensation is a repeating burst of waves that rise in intensity ",
+            "The sensation is three high note vibrartions on a medium pace in a rythm followed by a very small frquency note."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "soothing, passive, dance, weird, unpleasant, irritating, aggressive, neutral, steady, desirable, comforting, enjoyable"
+        ],
+        "descriptions": [
+            "The sensation is soothing and passive.",
+            "It makes me feel to dance.",
+            "This sensation is very weird I would say",
+            "This sensation made me feel unpleasant and irritating.",
+            "This sensation made me feel unpleasant.",
+            "The sensation makes me feel aggresive.",
+            "This sensation made me feel neutral in general",
+            "The sensation feels steady desirable and comforting",
+            "This sensation is enjoyable."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "electric guitar, drums, party clubs, DJs, small vibration, high vibration, drum band, engine accelerating, charging, final move, video games, drum-roll"
+        ],
+        "descriptions": [
+            "It reminds me of combination of electric guitar and drums.",
+            "I have felt this kind of senstion in party clubs and DJs.",
+            "This reminds me of something like small vibration and then it stops and then there is a high vibration which i never felt before",
+            "NA",
+            "N.A.",
+            "The sensation reminds me of drum band.",
+            "This reminded me of some engine acclerating",
+            "The sensation reminds me of charging before your final move in video games",
+            "This sensation is similar to a sound of a drum-roll."
+        ]
+    }
+}

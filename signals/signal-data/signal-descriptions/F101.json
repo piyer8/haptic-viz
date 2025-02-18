@@ -1,0 +1,54 @@
+{
+    "signal_id": "101",
+    "sensory": {
+        "keywords": [
+            "vibrations, random beat, intense, irregular, beat boxing, drums, not too loud, bumpy, short pulses, water droplets, continuous, small gap, rain, dripping water, familiar, machine made, smooth, discontinuous, heart beating, 140 beats/sec, rhythmic, dribbling, basketball"
+        ],
+        "descriptions": [
+            "The sensation is a random beat of vibrations.",
+            "The sensation felt intense and irregular.",
+            "The sensation feels like beat boxing",
+            "This sensation is like someone is playing drums but not too loud.",
+            "This vibration feels very bumpy with short pulses.",
+            "The sensation was like water droplets falling continuously. There was a small gap between each vibration.",
+            "This sensation reminded me of rain or dripping water",
+            "This sensation felt very familiar. It was machine made, and smooth.",
+            "The sensation was discontinuos and felt like a heart beating at 140 beats/sec.",
+            "The vibrations are rythamic but feels like dribbling a basketball"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "active, reassuring, excited, rhythmical, music, discomfort, pleasant, enjoyable, less anxious, concert, play"
+        ],
+        "descriptions": [
+            "The sensation makes me feel active and reassuring.",
+            "The sensation made me feel excited.",
+            "The sensation made me feel excited",
+            "This sensation makes me feel like rhythmical, like kind of what you feel when a music starts,",
+            "This vibration makes me fell discomfort.",
+            "This sensation made me feel pleasant and enjoyable.",
+            "The sensation made me feel pleasant.",
+            "This sensation made me feel excited, less anxious. ",
+            "The sensation makes me feel enjoyable as if I was in some concert.",
+            "it makes me want to play"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "patting, back, sad, drum pattern, beat boxing, base, loud speakers, song, vibration, irregular heart beat, water droplets, continuous notifications, phone, vibration mode, time, ticking, browsing, game library, console, drummer, playing, dribbling, basketball"
+        ],
+        "descriptions": [
+            "It reminds me of someone patting your back when you're sad.",
+            "The sensation reminded me of a drum pattern.",
+            "The sensation reminds me of beat boxing, I can feel the base of loud speakers",
+            "This sensation reminds me of song.",
+            "This vibration feels like a irregural heart beat.",
+            "This sensation reminds of waterdroplets. It reminds me of continous notifications I receive when my phone is in vibration mode.",
+            "This sensation reminded me of time ticking quickly.",
+            "This haptic vibration felt like browsing a game library on a console. ",
+            "The sensation reminds me of a drummer playing drum.",
+            "it reminds me of dribbling a basket ball."
+        ]
+    }
+}

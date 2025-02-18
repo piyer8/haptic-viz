@@ -1,0 +1,54 @@
+{
+    "signal_id": "32",
+    "sensory": {
+        "keywords": [
+            "constant frequency, breaks, mild buzz, continuous noise, constant vibration, purring cat, motor starting, subtle roar, vibrates subtly, long drawn out buzz, static, medium length, roaring vibration, equal intervals"
+        ],
+        "descriptions": [
+            "This just feels like almost single beat of a constant frequency throughout,neverthless there are a few breaks in between.",
+            "Image a carpenter drilling a hole in the wall.",
+            "It is a mild buzz like feeling ",
+            "I would describe this pattern as a continuous dark and gritty noise.",
+            "it is a constant vibration",
+            "This sensaton feels like a purring cat.",
+            "it's a sensation similar to a motor starting off",
+            "It literally feels like a subtle roar. Or when something breaks and just vibrates subtly",
+            "This sensation is a long drawn out 'brrrrrrr' as a buzz that even feels slightly like static ",
+            "It is a medium length, roaring vibration with equal intervals  "
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "frictional, irritated, drilling sound, annoyed, confirmed, secured, calm, steady, playing, cat, steady, uncomfortable, anxious, scared, discouraged, weird, intrigued"
+        ],
+        "descriptions": [
+            "This sensation makes me feel frictional.",
+            "It makes me irritated as it reminds me of the drilling sound",
+            "Makes me feel annoyed",
+            "It made me feel confirmed and secured.",
+            "it makes me feel calm and steady",
+            "It makes me feel like i am playing with my cat.",
+            "it makes me feel a steady, but uncomfortable way",
+            "It made me feel anxious and scared to some extent. I felt discouraged and weird.",
+            "This sensation makes me feel intrigued, I'm not quite able to put where this is coming from",
+            "NA"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "old school cars, vibrating, engine, early morning, road worker, drilling, vibration, fan, laptop, shutting down, sound, vibrations, closing, opening, zipper, sling bag, beach, playing, cat, purring, drone, starting up, broken piece of tech, medium frequency, roar, running machine, functional"
+        ],
+        "descriptions": [
+            "This reminds me of old schooled cars vibrating when they not in motion but the engine is left turned on.",
+            "Reminds me of an early morning when there was a road worker drilling a hole in the road ruining my sleep",
+            "Feels similar to the vibration the fan of my laptop causes when I havent shut it down in a long time.",
+            "It reminded me of the sound and vibrations felt when closing or opening a zipper of my sling bag.",
+            "it is like iam near a beach",
+            "Yes, when i play with my cat and she starts purring.",
+            "it reminds me of a drone starting up",
+            "No atm but it is very similiar to a broken piece of tech thats not gonna start. ",
+            "It feels like you are letting a rip of something, it also feels like a bit more of a medium frequency. ",
+            "It reminds me of a roar or a running machine in the background/something that im looking at while it is functional"
+        ]
+    }
+}

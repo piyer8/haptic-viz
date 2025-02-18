@@ -1,0 +1,54 @@
+{
+    "signal_id": "82",
+    "sensory": {
+        "keywords": [
+            "fast paced, vibrations, mobile calls, soft vibration, pause, rough vibration, dragging, boosts, regular intervals, rough, grating, pricking, unpleasant, leaves a sensation, longer period, alarm, rings periodically, repeating, erratic, no rhythm, no pattern"
+        ],
+        "descriptions": [
+            "this sensation is fast paced vibrartions which one experience with mobile calls",
+            "The sensation is like a soft vibration at start and a pause followed by rough vibration",
+            "The sensation is like repeatedly dragging something.",
+            "This sensation was two boosts of vibrations in regular intervals.",
+            "THE SIGNAL FEELS A LITTLE ROUGH AND THERE IS A VERY GRATING SENSATION TO IT",
+            "It feels like it's pricking under my veins. Some what Unpleasant.",
+            "I would describe the sensation to someone as vibration which leaves a sensation for longer period of time.",
+            "This sensation is like a alarm which rings periodically.",
+            "The sensation is fast paced and repeating.",
+            "This sensation is erratic. I could not identify a rhythm or a pattern."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "urgency, pick up the call, task quickly, soothing, vibration, uncomfortable, tiring, excitement, something new, gritty, fingers, agitated, irritated, vibrations, happy, need to wake up, aware, confusion"
+        ],
+        "descriptions": [
+            "This sensation makes me feel the need of urgency to pick up the call or do any task quickly",
+            "This sensation made me feel soothing initally but the vibration after pause was a bit uncomfortable",
+            "The sensation feels little tiring.",
+            "This sensation felt like excitement before doing something new.",
+            "IT FEELS GRITTY IN MY FINGERS",
+            "This sensations make me aggitated and irritated",
+            "The vibrations makes me feel happy.",
+            "This sensation makes me feel like i need to wake up from the bed and become aware.",
+            "It creates a feeling of urgency.",
+            "This sensation makes me feel confused."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "hurry, finish task, scooter, smoothly running, accelerate, sudden jerk, conveyor belt, supermarkets, accelerating, motorcycle, red signal, sound, printer, copy machine, rhythm, grinding nails, vibrations, travelling, trains, ringing, alarm, SOS vibrations, phone, uneven vibrations, motorcycle accelerator, heavy traffic"
+        ],
+        "descriptions": [
+            "This vibration reminds me to be in hurry or finish the task urgently ",
+            "This sensation reminded me of a scooter which is smoothly running at a speed and suddenly when we accelerate it there is a sudden jerk to it",
+            "The sensation reminded me of conveyor belt used in supermarkets.",
+            "This sensation was like when you are accelerating a motorcycle at a red signal.",
+            "FEELS SIMILAR TO THE SOUND OF A PRINTER OR A COPY MACHINE",
+            "A part of the rhythm feels like I'm grinding my nails",
+            "the vibrations reminds me of travelling in trains ",
+            "This sensation reminds me of the ringing of an alarm.",
+            "The sensation reminds of SOS vibrations of a phone.",
+            "This sensation reminds me of uneven vibrations of motorcycle accelerator in heavy traffic."
+        ]
+    }
+}

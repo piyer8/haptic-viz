@@ -1,0 +1,54 @@
+{
+    "signal_id": "107",
+    "sensory": {
+        "keywords": [
+            "long strong vibration, sharp, very intense, intervals, long buzz, small breaks, aggressive, gritty, initial long pulse, progressively shorter, same intensity, combination of three vibrations, intense, prolonged, less intense, periodic, started off intensely, waned, particular structure, phone ringing, discontinuous, 3 bursts, decreasing time duration, long, gradually soft vibrations"
+        ],
+        "descriptions": [
+            "The sensation is a long strong vibration followed by two sharp ones.",
+            "The sesnsation was very intense with intervals.",
+            "The sensation is long buzz with small breaks",
+            "This sensation is kind of aggressive",
+            "This vibration is gritty with an initila long pulse with progressively gets shorter but with same intensity.",
+            "The sensation was like a combination of three vibrations. First one was intense and prolonged when compared to the other two. The second vibration was less intense than the first one, but ore than the third one. It was periodic.",
+            "The sensation started off intensely but waned as time went on. It had a particular structure to it.",
+            "This vibration feels like a phone ringing during class.",
+            "The sensation is discontinuos with 3 burst of decreasing time duration.",
+            "These are long but gradually soft vibrations. "
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "attentive, calm, alarming, unpleasant, goosebumps, panicky, active, annoying, embarrassed, sporadic, relieved, soft note"
+        ],
+        "descriptions": [
+            "The sensation makes me feel attnetive, calm, and alarming.",
+            "The sensation made me feel unpleasant.",
+            "The sensation feels like goosebumps",
+            "This sensation makes me panicky.",
+            "This vibration make me feel active.",
+            "This sensation made me feel annoying.",
+            "N.A.",
+            "This made me feel embarrased and panicky. ",
+            "The sensation makes me feel sporadic.",
+            "As the vibration ends on a soft note it makes me feel relieved"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "morse code, communicate information, sci-fi film, background score, horror movie scenes, urgent braking, vibration, washing machine, life, up and down, important meeting, interview, phone ringing, obnoxious ringtone, bubble gum, inflating, bursting, lifting weights, stressful, easier once done"
+        ],
+        "descriptions": [
+            "This felt like a morse code that people use to communicate information secretly.",
+            "The sensation reminds me of a sci - fi film background score.",
+            "The sensation reminds me of horror movie scenes",
+            "This sensation reminds of urgent braking.",
+            "NA",
+            "It reminds me of the vibration of a washing machine.",
+            "This sensation reminded me of life in general where things go up and down.",
+            "This sensation reminds me of the time I was in an important meeting/interview and my phone started ringing with a rather obnoxious ringtone. ",
+            "The sensation reminds me of a bubble gum inflating gradually and then bursting.",
+            "it reminds me of lifting weights. it feels stressfull at first but easier once done"
+        ]
+    }
+}

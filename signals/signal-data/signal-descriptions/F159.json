@@ -1,0 +1,54 @@
+{
+    "signal_id": "159",
+    "sensory": {
+        "keywords": [
+            "continuous, low intensity, tender, neutral, short, mild, soft, rhythmic, pulses, vibration, longest, shorter, passive, dragging, weak pulse, not intense, fading, moving slow, slightly, continuous, beats, short vibrations, slower rhythm"
+        ],
+        "descriptions": [
+            "This signal can be described as continous low intensity signal.",
+            "Sensation was very tender and neutral",
+            "this sensation is very short and mild.",
+            "It was soft rhythmic pulses of vibration, the initial vibration was the longest and the other were shorter.",
+            "This sensation is like passive dragging.",
+            "I would describe the sensation to someone else as a very weak pulse.",
+            "The sensation is not intense and feels like fading.",
+            "The signal gives me the sensation for moving slow and slightly.",
+            "this sensation is contious first and ends with 2 beats ",
+            "It's 4 short vibrations followed by two short but slower rhythm vibrations."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "drained, exhausted, sad, sleepy, contempt, defeated, burned out, distracted, ending"
+        ],
+        "descriptions": [
+            "N.A",
+            "Sensation made me feel like I was drained and Exhausted",
+            "this sensation makes me feel sad.",
+            "It made me feel sleepy.",
+            "This sensation makes me feel contempt.",
+            "N.A",
+            "It makes me feel like defeated.",
+            "It makes me to feel exhusted and burn out.",
+            "It makes me feel like distracted",
+            "It makes me feel like something's ending."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "machine, co-ordinates, shutting down, losing, game, hum, AC, massage gun, plastic, stuck, bicycle, wheel, missing, deadline, run, 10 km, marathon, audience, clapping, slowing down"
+        ],
+        "descriptions": [
+            "N.A",
+            "Sensation felt like a amchine trying to sends its co-ordinates before shutting down.",
+            "this sensation reminds me of losing in a game",
+            "It reminds me of the humm of an AC.",
+            "This sensation reminds me of a massage gun.",
+            "This sensation reminds of when a small piece of plastic is stuck in my bicycles wheel and I do not stop to remove that piece.",
+            "It reminds me of missing a deadline.",
+            "It makes me to associated to run for 10 km mathroon.",
+            "NA",
+            "It reminds me of an audience clapping and then it slowing down."
+        ]
+    }
+}

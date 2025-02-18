@@ -1,0 +1,51 @@
+{
+    "signal_id": "71",
+    "sensory": {
+        "keywords": [
+            "low frequency, continuous, carefully sensed, low, jerking, constant, buzzing, soothing, uncomfortable, unpleasant, no rhythm, random, short bursts, vibration, short, repeating, gushing, wind, quick, repeating pattern, low intensity, waves, lower notes, constant pace"
+        ],
+        "descriptions": [
+            "The sensation is few mixture of frequencies and pattern cannot be found with it.",
+            "It was low and continuous sensation which needs to be sensed carefully.",
+            "This sensation is like very low continuous jerking",
+            "The sensation was a constant buzzing which was soothing.",
+            "The sensations were uncomfortable and unpleasant. It was not in a rhythm",
+            "The sensation is a random short burts of vibration.",
+            "The sensation was short repeating gushing of wind",
+            "The sensation is a quick repeating pattern of low intensity waves",
+            "It is alow frquency vibrartion giving lower notes a constant pace."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "uneven, soothing, comforting, calm, relaxing, weird, confused, steady, pleasant"
+        ],
+        "descriptions": [
+            "This sensation makes me feel uneven.",
+            "The sensation was somewhat soothing.",
+            "This sensation makes me feel comorting",
+            "The sensation made me feel like calm and relaxing.",
+            "It made me feel weird",
+            "The sensation makes me feel confused.",
+            "This sensation made me feel calm and steady.",
+            "The sensation feels soothing or relaxing",
+            "The sensation is kind of pleasant."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "laptop fan, dust, running train, vibration, ticking clock, mobile's virtual keyboard, random noise, wind patterns, fan, massage machines, specific area, sound of breeze, quiet beach"
+        ],
+        "descriptions": [
+            "It reminds me of my laptop fan when its full of dust and trying to move.",
+            "Sensation was somewhat like I feel in a running train.",
+            "This reminds me of if there is a vibration attached to the ticking of the clock",
+            "The sensation reminded of a mobile's virtual keyboard haptics.",
+            "It reminded me of of my laptop. ",
+            "The sensation reminds me of a random noise.",
+            "This reminded me of the feeling of the wind patterns behind a fan.",
+            "The sensation reminds me of massage machines that target a specific area",
+            "The vibration is similar to the sound of breeze which can be heard on a quiet beach."
+        ]
+    }
+}

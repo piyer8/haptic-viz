@@ -1,0 +1,54 @@
+{
+    "signal_id": "93",
+    "sensory": {
+        "keywords": [
+            "constant vibration, medium strength, fast continuous dropping beats, fast vibrations, rhythmical, firm, continuous pulse, beeping nature, fast, strong, buzzing, irregular timing, small vibrations, same interval, constant, repetitive knocking, steady, fast pace, rhythmic vibration, fast ticking clock, short vibrations, face vibrations"
+        ],
+        "descriptions": [
+            "This sensation is constant vibration with medium strength in the vibration\t",
+            "This sensation is a fast cotinuous dropping beats with fast vibrations",
+            "N.A. ",
+            "This sensation is rhythmical and firm.",
+            "IT IS LIKE A CONTINUOUS PULSE, ALMOST HAS A BEEPING NATURE  TO IT.",
+            "The sensation is like fast and strong buzzing with irregular timing",
+            "I would describe this sensation to someone as small vibrations that are put together at same interval.",
+            "This sensation is like that of a constand and repetitive knocking.",
+            "The sensation is very steady and fast pace rythmic vibration. Like a fast ticking clock.",
+            "This sensation has short and face vibrations"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "edgy, tickling, urgency, panicky, alarmed, attention, discomfort, active, scared"
+        ],
+        "descriptions": [
+            "The sensation makes me feel edgy",
+            "This sensation made me feel tickling in hands",
+            "The sensation feels like urgency.",
+            "This sensation makes me feel panicky.",
+            "MAKES ME FEEL ALARMED AND IT DEMANDS MY ATTENTION FOR SOMETHING, AND I CAN'T IGNORE IT.",
+            "This sensation feels panicky and urgent",
+            "This sensation makes me feel scared and causes discomfort.",
+            "This sensation makes me feel discomfort.",
+            "It gives a active feeling creating a feeling of urgency.\t",
+            "This sensation does not particularly evoke any emotion"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "motor boat, mobile phone alarm, typewriter, alarm bell, strong vibrations, aggressive typing, phone keypad, gun shootings, printer, printing paper, fast beating heart, intense physical activity"
+        ],
+        "descriptions": [
+            "This sensation reminds me of being on a motor boat",
+            "This reminded me of the mobile phone alarm vibrations",
+            "N.A.",
+            "This sensation reminds me of a typewriter.",
+            "REMINDS ME OF AN ALARM BELL",
+            "This sensation feels like very strong and agressive version of typing words on a phone keypad",
+            "The vibrations feel like gun shootings showed in movies.",
+            "This sensation reminds me of a printer printing a piece of paper.",
+            "It feels like a fast beating heart. Similar to how it would feel after a intense physical activity.",
+            "This sensation reminds me of a printer "
+        ]
+    }
+}

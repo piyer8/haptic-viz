@@ -1,0 +1,54 @@
+{
+    "signal_id": "92",
+    "sensory": {
+        "keywords": [
+            "periodic vibration, stable, weak, uneven, two beats, pause, concentric circles, continuous, varying intensities, gritty, rough, chaotic, no pattern, simulative, small, constant buzzing, growing, distorted, faint, jagged, irregular"
+        ],
+        "descriptions": [
+            "This is a periodic vibration where for each period the vibrations are stable just getting little weak before starting again",
+            "This sensation is very uneven wherein there are two beats and a pause in between followed by the same vibrating beats",
+            "The sensation is like concentric circles of vibration. ",
+            "This sensation is continuous with varying and uneven intensities.",
+            "IT HAS A VERY GRITTY FEEL TO IT AND IS ROUGH.",
+            "This sensation is chaotic with no pattern and simulative",
+            "I would describe the vibration as small but constant buzzing",
+            "This sensation is like a growing and distorted vibration.",
+            "It feels like a faint, jagged and uneven vibration.",
+            "This sensation feels irregular"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "steady, panicky, rough, angry, gearing up, unpleasant, annoying, uneasy, bad, uncomfortable, anxiety, familiar"
+        ],
+        "descriptions": [
+            "This sensation makes me feel steady\t",
+            "This sensation made me feel panicky",
+            "The sensation feels rough.",
+            "This sensation makes me feel angry.",
+            "IT MAKES ME FEEL AS THOUGH THERE I AM GEARING UP FOR SOMETHING",
+            "N/A",
+            "This vibration is unpleasant and annoying",
+            "This sensation makes me feel uneasy and bad.",
+            "It feels uncomfortable and gives a feeling of anxiety.",
+            "This sensation seems familar"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "bike, accelerating, decelerating, freeway, unsteady vibrations, machine, polish, surfaces, motorcycle, space flight game, mosquito, buzzing, music, off tune, bee, vibrations, driving, car, uneven, coarse road, moving liquid, blender, milkshakes"
+        ],
+        "descriptions": [
+            "It reminds me of the time when I am acclearting and deacclerating my bike of free-way",
+            "This sensation reminded me of a bike moving in traffic with unsteady vibrations",
+            "N.A.",
+            "This sensation reminds me of the machine whis is used to polish the surfaces.",
+            "REMINDS ME OF A MOTORCYCLE",
+            "This sensation reminds me of a space fight game i used to play",
+            "This reminds me of a mosquito buzzing near your ears",
+            "Thsi sensation reminds me of the music which is off tune.",
+            "It feels like a bee buzzing but in the form of vibrations. It is also a similar feeling of driving a car on a uneven and coarse road.",
+            "It reminds me of the moving liquid in my blender while I am making milkshakes"
+        ]
+    }
+}

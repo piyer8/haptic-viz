@@ -1,0 +1,54 @@
+{
+    "signal_id": "114",
+    "sensory": {
+        "keywords": [
+            "buzzes, low-high-low, long buzz, little gaps, phone vibrating, long frequency, continuous, few break-points, slow continuous vibrations, panicky, fast, quick vibrations, quicker, suddenly slow down, long duration, changes in intensity, fast wave, alarm"
+        ],
+        "descriptions": [
+            "The sensation is three continous buzzes which goes low-high-low",
+            "The sensation is a long buzz with very little gaps.",
+            "The sensation felt like a phone vibrating, with a long frequency.",
+            "The sensation was continuous and had few break-points.",
+            "Sensation feels like slow continous vibrations",
+            "This signal feels more panicy and fast. It has quick vibrations which get quicker by time and suddenly slow down. ",
+            "the vibrations were long in duration with changes in intensity\t\tthe ",
+            "this sensation is like a fast wave which lasts for 3-4 seconds ",
+            "sensation is like alarm\t",
+            "This sensation was like a buzz."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "surprised, anxious, urgent, annoyed, alarmed, alerted, panic, slowed anxiety, confusion, need to do things quickly, pleasant feeling, happy, enjoyable, moderate panic state, harsh vibration"
+        ],
+        "descriptions": [
+            "This sensation made me feel surprised",
+            "Te makes me feel anxious and feels like something urgent.",
+            "The sensation made me feel a bit annoyed.",
+            "This sensation made me feel alarmed and alerted. Some emotions that I can attach to it are that of panic.",
+            "The sensation feels like slowed anxiety and confusion",
+            "It makes me feel the need to do things very quickly and a little anxious. ",
+            "the sensation gave a pleasent feeling\t",
+            "This sensation makes me happy or ennjoyable",
+            "sensation makes me feel like i am in a moderate panic state",
+            "It makes me feel like a harsh vibration."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "car honking, getting late, alarm, fire alarm, running across a field, gaming console, racing car game, vibrations, musical instrument, wave travelling fast, phone vibration, alert"
+        ],
+        "descriptions": [
+            "The sensation reminded me of a car honking",
+            "The sensation reminds me of getting late to an event.",
+            "I have felt this sensation when an alarm went off and it was right next to my head.",
+            "The sensation reminded me of the fire alarm.",
+            "The sensation reminds me when I was running across a field",
+            "It reminds me of a gaming console racing car game. ",
+            "it reminds me of vibrations felt when playing a musical instrument",
+            "It reminds me of a wave travelling fast",
+            "It reminds me of phone vibration to get attentive",
+            "It reminds me of an Alert."
+        ]
+    }
+}

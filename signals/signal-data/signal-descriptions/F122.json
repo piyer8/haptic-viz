@@ -1,0 +1,54 @@
+{
+    "signal_id": "122",
+    "sensory": {
+        "keywords": [
+            "disconnected, rumbling, sharp, patting, back, breaks, continuous, extremely slow, drumrolls, heartbeat, mild, single beat, vibration, medium intensity, sudden stops, long lasting, vibrating, periodic, drum beat, firm noise, anxious"
+        ],
+        "descriptions": [
+            "The sensation is a disconnected rumbling",
+            "The sensation is sharp.",
+            "This sensation feels like someone patting your back.",
+            "The sensation had a lot of breaks although the breaks were continuous.",
+            "Sensation feels like extremely slow drumrolls based like heartbeat",
+            "The sensation feels like a heartbeat but very slow and mild with only sibgle beat or vibration at a time. ",
+            "the vibrations had medium intensity with sudden stops in between\t",
+            "This sensation is like long lastiing vibratin which is for about 5-6 seocnds\t ",
+            "a periodic drum beat",
+            "It is a firm noise, I could feel when I'm very anxious."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "strong, comfortable, neutral, anxiety, distress, pleasant, pleasurable, constant vibrations, attention, bumpy, beat of energy, fishy"
+        ],
+        "descriptions": [
+            "N.A.",
+            "The sensation makes me feel strong.",
+            "This sensation makes me feel a bit comfortable.",
+            "The sensation made me feel neutral.",
+            "Sensation invokes anxiety and distress",
+            "This sensation is very pleasant and pleasurable as it gives constant vibrations without breaking the pattern. ",
+            "the vibrations gave me the feeling that something needs attention but it isn't too urgent",
+            "This sensation makes me feel bumpy at times",
+            "Getting a beat of energy",
+            "It makes me feel that something fishy is happening around."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "washing machine, EDM music, grandma patting head, dishwasher, music, gym, morning exercise, yoga session, vibrations, in-app notifications, mobile phone, motor, damaged state, song intro, similar vibrations, anxious"
+        ],
+        "descriptions": [
+            "The sensation reminded me of a washing machine",
+            "The sensatin remind me of EDM music.",
+            "This sensation reminds me of my grandma patting my head while I try to sleep.",
+            "The sensation reminded me of my dishwasher.",
+            "NA",
+            "It reminds me of music played in gym during our morning exercise and yoga session. ",
+            "the vibrations reminds me of in-app notifications when using a mobile phone",
+            "This sensation reminds me of a motor which is in damaged state",
+            "When listening to a start of song giving a intro kind of feeling.",
+            "I didn't feel anything as such, it I can sense similar vibrations in me when I'm very anxious."
+        ]
+    }
+}

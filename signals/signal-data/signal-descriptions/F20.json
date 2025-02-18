@@ -1,0 +1,54 @@
+{
+    "signal_id": "20",
+    "sensory": {
+        "keywords": [
+            "vibration, strong, four sectioned, light buzzes, prolonged hard buzzing, small beep, constant vibration, struggling, continuous scraping, mixed frequencies, rhythm, drawn out buzz, three short vibrations, long vibration, shallow vibrations"
+        ],
+        "descriptions": [
+            "This sensation is a 4 beat varied length frequencies, and not in a sequential order.",
+            "Feels like a vibration of a phone\t",
+            "The sensation is quite strong but not somethign that would cause panic",
+            "I would describe it as a four sectioned vibration pattern. (zz-zz-zz-zzzzzz). First three as light buzzes followed by a fourth prolonged hard buzzing.",
+            "there is a small beep and a constant vibrartion",
+            "This sensation feels like something is struggling to get free.\t",
+            "the sensation is like a continuous scraping preceeded by a strong vibration",
+            "Feels like another phone vibration type. ",
+            "I would describe this sensation as a mix of frequencies thats going 'tha tha THA THA' rhythm with a slightly drawn out buzz at the end",
+            "It is three short bibrations followed by a long one. All three seem pretty shallow vibrations"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "energetic, sense of urgency, alert, exciting, need to rush, check surroundings, anxious, help, thrilling, defeat, new haptic, attentive, intensity, curious, irritating, unpleasant, preparing, ready to work"
+        ],
+        "descriptions": [
+            "This sensation makes me feel energetic.",
+            "It gives me a sense of urgency to answer a call",
+            " It makes me feel alert but in an exiciting sense",
+            "It made feel a need to rush and check my surroundings. It made me feel alert.",
+            "it makes me feel anxious",
+            "It makes me feel help that someone.\t",
+            "in some context it could feel thrilling, otherwise it feels like defeat",
+            "It was a very new haptic for me. It made me feel attentive due to its intensity. I was curious at the same time.",
+            "This sensation is a bit irritating and especially unpleasent.",
+            "It makes me feel like I am preparing, ready to work"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "music, energetic, ringtones, Nokia phone, vibrations, club, smartwatch, pattern, incoming calls, beep, alarm, background music, thriller movie, phone, device, vibrating, silent, process, preparing, on the go"
+        ],
+        "descriptions": [
+            "This reminds me of some upbeat music, mostly energetical.",
+            "Reminds me of a time when I was going through the different ringtones in a Nokia phone",
+            "It is similar to vibrations caused at the club",
+            "This pattern reminded me of my smartwatch, I have the same pattern setting for incoming calls.",
+            "it reminds me of beep and alarm which makes me want to get away from that place.",
+            "No, never experienced it before.",
+            "it reminds me of background music from a thriller movie",
+            "It very much feels like a phone or a device vibrating at an higher intensity.",
+            "This sensation reminds me of a phone in silent that's vibrating ",
+            "Reminds me of some kind of process, like I'm preparing for something, on the go"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "signal_id": "69",
+    "sensory": {
+        "keywords": [
+            "vibrations, medium burst, slow release, steady vibration, continuous, high speed, no jerk, thumpy, intense, steady, intensity high to low, exciting, thrilling, alarm clock, pulse, profound, stops abruptly, struck intensely, echoed, quick repeating loop, high amplitude waves, high frequency, higher note, lower note, decreasing gradually"
+        ],
+        "descriptions": [
+            "The sensation is like a medium burst of vibrations and then are released for it to get slow.",
+            "It was a steady vibration.",
+            "The sensation is a continuous high speed vibration with out any jerk in between",
+            "The sensation was thumpy and intense. The vibrations were steady and the intensity went high to low.",
+            "The sensation were exciting and thrilling, It was more like an alarm clock",
+            "The sensation is a pulse that grows more profound and stops abruptly.",
+            "The sensation was struck intensly in the start, then echoed and stopped",
+            "The sensation is a quick repeating loop with high amplitude waves.",
+            "The sensation was a high frequency sensation going from a higher note to a lower one decreasing gradually. It is like someone "
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "excited, energetic, irritating, harsh, anxious, alarming, electric, alarmed, urgent, good, calm"
+        ],
+        "descriptions": [
+            "This sensation makes me feel excited.",
+            "I found this sensation to be energetic.",
+            "This sensation makes me feel irritating and bit harsh",
+            "This sensation made me feel anxious and alarming. ",
+            "It makes me feel electric",
+            "The sensation makes me feel alarmed and urgent.",
+            "This sensation made me feeel good and calm",
+            "The sensation feels alarming",
+            "This sensation makes me feel urgent."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "accelerate, parked motorcycle, vibration, sense, hitting, bell, snooze, mobile alarm, beating, big musical drum, alarm clock, alarm, gongs, ringing, bells, temple, warning, trigger, video game tutorials, hammer hit game, hammer strikes, surface"
+        ],
+        "descriptions": [
+            "It reminds me of me trying to accelerate a parked motorcycle.",
+            "The sensation was like of a vibration/sense after hitting a bell.",
+            "This sensation reminds me of the snooze happens in the mobile alarm",
+            "The sensation reminds me of beating a big musical drum.",
+            "It reminds me of alarm clock",
+            "The sensation reminds me of an alarm.",
+            "This reminded me of the gongs or ringing of bells in the temple.",
+            "The sensation reminds me of warning or trigger given in video game tutorials",
+            "This sensation is similar to a the hammer hit game. The sensation produced is same as the one after hammer strikes the surface."
+        ]
+    }
+}

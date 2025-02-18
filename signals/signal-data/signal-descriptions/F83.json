@@ -1,0 +1,54 @@
+{
+    "signal_id": "83",
+    "sensory": {
+        "keywords": [
+            "low paced, difficult to recognize, mild, ticking sensation, repeated pattern, buzz, longer buzz, rhythmical, big initial boost, steady, very light, calming intervals, small hum, feeling in hands, water dispenser, faint, 3/4 beat pattern, faint irregular heart beat, extremely low sensation vibration, hard to identify pattern"
+        ],
+        "descriptions": [
+            "The sensation is very low paced and difficult to recognize it. ",
+            "The sensation was very mild and there was a ticking sensation   ",
+            "The senstation is repeated pattern of 3 times buzz and then longer buzz.",
+            "This sensation was rhythmical with a big initial boost.",
+            "THE VIBRATION IS STEADY AND VERY LIGHT. ",
+            "The sensation is like a bit calming intevals followed by a small hum",
+            "I would describe it as feeling in your hands when you put your hands over a water dispenser.",
+            "This sensation is very mild and in a 3/4 beat patern and faint.",
+            "The sensation feels like a faint irregular heart beat.",
+            "This is an extremely low sensation vibration. Hard to identiify a pattern.\n\t\t"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "irritated, affective, vibrations, anticipation, reassuring, quiet, subtle, calming, exciting, calm, emotions"
+        ],
+        "descriptions": [
+            "The sensation makes me feel little irritated.",
+            "This sesnsation was a less affective and did not feel any vibrations",
+            "The sensation feels like anticipation.",
+            "This sensation makes me feel reassuring.",
+            "IT IS VERY QUIET AND SUBTLE",
+            "The sensation feels calming",
+            "the vibrations feel exciting.",
+            "This sensation makes me feel calm.",
+            "NA",
+            "The sensation does not particularly evoke any emotions."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "sleep, resting, head, bus window, ticking clock, racing, bike, driving, big drum, drum set, steady door knock, rhythm, washing machine, middle of a cycle, vibrations, boiling water, croaking, frog, grabbing attention, vibrating patterns"
+        ],
+        "descriptions": [
+            "This sensation reminds me of the time when we sleep while resting our head on the bus window. ",
+            "This sensation reminded me of a ticking clock",
+            "The sensation reminded me of racing a bike before driving.",
+            "This sensation reminds me of the big drum in the center in a drum set.",
+            "ALMOST REMINDS ME OF A STEADY DOOR KNOCK",
+            "The rhythm sounds familiar like a washing machine in the middle of a cycle",
+            "the vibrations reminds me of boiling water.",
+            "This sensation reminds me of the croaking of a frog.",
+            "The Sensation feels like its trying to grab someone's attention with vibrating patterns.",
+            "No this does not remind me of anything."
+        ]
+    }
+}

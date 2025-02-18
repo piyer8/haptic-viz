@@ -1,0 +1,51 @@
+{
+    "signal_id": "72",
+    "sensory": {
+        "keywords": [
+            "burst of frequency, low frequency, high level vibration, gradually decreases, strong, continuous, high speed vibration, aggressive, intense, high energy vibration, energetic, exciting, thrilling buzz, long burst, grows stronger, intense vibration, calmed, resonating, high intensity waves, linger, repeat, high frequency vibration, higher note, lower note, continuous manner"
+        ],
+        "descriptions": [
+            "This sensation has a burst of frequency but there is also another low frequency which is also there and can be felt when the burst is over.",
+            "It's a pattern of vibration where it vibrates on high level and gradually decreases ",
+            "This senstaion is very strong and it is continuous high speed vibration",
+            "The sensation was very aggresive and very intense. The energy of the vibration was very high.",
+            "The sensation was energetic and exciting. The buzz was quite thrilling",
+            "The sensation is a long burst that grows stronger over time.",
+            "The sensation started with an intense vibration which calmed a bit resonating for a long time",
+            "The sensation is a loop of high intensity waves that linger for a short duration and repeat",
+            "It is a high frequency vibration which goes constantly from higher note and reduces to the lower note in a continuous manner."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "machine buzz, aggressive, panicky, active, urgent, alarming, funny, natural active buzz, energetic"
+        ],
+        "descriptions": [
+            "This sensation makes me feel like machine buzz.",
+            "N.A",
+            "This sensation makes me feel bit aggressive ",
+            "This sensation made me feel panicky",
+            "It makes me feel active.",
+            "The sensation makes me feel very urgent and alarming.",
+            "This sensation made me feel a bit funny",
+            "The sensations feels like a natural active buzz",
+            "This sensation makes me feel energetic."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "chainsaw, pulling, releasing, spring, brushing, hair, blow brush, vibrations, sirens, alarm clock, buzz, tickling, quick time events, video games, washer dryer machine, drying clothes, sports motor bike, engine starts"
+        ],
+        "descriptions": [
+            "The sensation reminds me a chainsaw but with less frequency.",
+            "The sensation is similar to what I feel when pulling and releasing a spring.",
+            "This sensation reminds me of the brushing teh hair in high speed using the blow brush",
+            "The vibrations reminded me of sirens.",
+            "It reminds me of alarm clock",
+            "The sensation reminds me of a buzz.",
+            "I felt something like tickeling",
+            "The sensations reminds me of being in quick time events in video games and getting them right",
+            "This sensation is similar to the sound that washer dryer machine makes when drying out clothes. Also, the sensation is similar to when a sports motor bike engine starts."
+        ]
+    }
+}

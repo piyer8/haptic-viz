@@ -1,0 +1,54 @@
+{
+    "signal_id": "153",
+    "sensory": {
+        "keywords": [
+            "decrease intensity, slippery, discomfortable, confusing, strong buzzes, tapering, mild, soft, high frequency, long vibration, muffled, sporadic bursts, swollen, pulsing, intense, changing frequency, intensifying movement, intervals, long vibration, short vibrations"
+        ],
+        "descriptions": [
+            "This signal can be decribed as a signal which decrease intensity.",
+            "Sensation felt slippery and discomfortable",
+            "this sensation is very confusing.it starts with two strong buzzes tapering with short mild ones.\t",
+            "It was a very soft yet high frequence long vibration, followed by muffled sporadic burst of vibrations.\t",
+            "I would describe this senation as a swollen pulsing.",
+            "I would describe the sensation as one long vibration followed by a much shorter vibration.",
+            "Its intense and changing frequency.",
+            "The signal gives me the sensation for intensing moving.",
+            "This sensation feels like two vibrations together in intervals",
+            "There's one long vibration followed by six short vibrations.\t"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "anticipating, nervous, panicky, confusing, stagnant, uncomfortable, impatient, arousing, noising, doubtful, worried"
+        ],
+        "descriptions": [
+            "I feel like I am anticipating for something. ",
+            "Sensation made me feelIt made me feel nervous and panicky",
+            "this sensation makes me feel very confusing.",
+            "It made me feel stagnant.",
+            "This sensation makes me feel uncomfortable.",
+            "N.A",
+            "It makes me feel impatient.",
+            "It makes me to feel arousing and noising.",
+            "This sensation make me feel doubtful",
+            "The sensation makes me feel worried."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "slipping, upwards slide, solving a math problem, dying engine, bad headache, waking up, alarm, escape, traffic, speeding, study, loud room, late to class"
+        ],
+        "descriptions": [
+            " N.A",
+            "Sensation Felt like slipping on a upwards slide.",
+            "this sensation reminds me of solving a math problem.",
+            "It reminds me of a dying engine.",
+            "This sensation reminds me of a bad headache.",
+            "This sensation reminds me of waking up to alarm that I did not set. ",
+            "It reminds of trying to escape the traffic by speeding.",
+            "It makes me to associated to study in a loud room.",
+            "NA",
+            "It reminds me of the time I was late to class."
+        ]
+    }
+}

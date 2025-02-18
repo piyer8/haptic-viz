@@ -1,0 +1,54 @@
+{
+    "signal_id": "96",
+    "sensory": {
+        "keywords": [
+            "bumpy, weak, mild, small, continuous, vibrations, two beats, frictional, prickly, intense, continuous, short, quick, regular intervals, repetitive vibrations, milliseconds, faint, hard to describe, driving, uneven, coarse road, less intensity, short continuous beats"
+        ],
+        "descriptions": [
+            "This sensation is a mixture of bumby and weak signals together",
+            "This sensation is very mild with small continuous vibrations and two beats in between",
+            "N.A.",
+            "This sensation is frictional and prickly.",
+            "IT FEELS VERY INTENSE AND CONTINUOUS",
+            "The sensation is short and quick with regular intervals",
+            "I would describe this sensation to someone else as repetitive vibrations that are miliseconds away from each other",
+            "This sensation is like the sound of multiple birds flapping their wings all at once.",
+            "The sensation is very faint and hard to describe. It feels like driving on a uneven and coarse road.\t",
+            "This sensation is of very less intensity with short continuous beats"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "neutral, unpleasant, annoying, uncomfortable, weird, exciting, amusing, funny, energetic, irritating, slightly uncomfortable"
+        ],
+        "descriptions": [
+            "This sensation makes me feel neutral\t",
+            "This sensation made me feel neutral",
+            "The sensation feels unpleasant.",
+            "This sensation is unpleasent and annoying.",
+            "IT FEELS VERY UNCOMFORTABLE AND WEIRD",
+            "This sensation feels exciting and amusing",
+            "It makes me feel funny",
+            "This sensation makes me feel energetic.",
+            "It feels irritating and slightly uncomfortable.",
+            "This sensation makes me feel neutral"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "smoothly running cycle, sewing machine, car moving at high speed, helicopter, shooting a gun, vibrations, stomach growling, hungry, birds flapping wings, driving on a dirt road, rocky road, filling a water bottle, brim"
+        ],
+        "descriptions": [
+            "N.A.",
+            "This sensation reminded me of a smoothly running cycle",
+            "The sensation reminded me of sewing maching.",
+            "This sensation reminds me of the feeling of being present in a car moving at a high speed",
+            "THIS REMINDS ME OF A HELICOPTER",
+            "It feels like shooting a gun in a video game",
+            "The vibrations reminds of stomach growling when you are hungry",
+            "This sensation reminds me of birds flapping their wings.",
+            "It feels like driving on a dirt and rocky road.",
+            "it reminds me of filling a water bottle when it has almost reached its brim"
+        ]
+    }
+}

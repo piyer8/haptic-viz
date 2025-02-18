@@ -1,0 +1,51 @@
+{
+    "signal_id": "76",
+    "sensory": {
+        "keywords": [
+            "fast, intervals, vibrations, constant, ticking, milliseconds, knocking, speed, time, beats, intensity, harsh, aggressive, intense, unpleasant, short, pulse, repeating, strong, pattern, waves, equal, time dispersion, medium amplitude, medium-high frequency, continuous, gaps, constant rate."
+        ],
+        "descriptions": [
+            "It is fast sensation with intervals where the vibrations are stopped and slightly increasing overall frequency.",
+            "it feels like a constant ticking pattern where every tick having a gap of milliseconds.",
+            "The sensation is constant knocking of the door with same speed and same time",
+            "The beats were constant and intensity was not that harsh.",
+            "This sensation was aggresive and more intense from the beginning. It started and ended with unpleasant experience",
+            "The sensation is a short but constant pulse.",
+            "The sensation was short, repeating and strong.",
+            "The sensation is a pattern of waves repeating with equal time disperation with medium amplitude",
+            "The sensation is a medium-high frequency vibrations going on continuously with gaps in between at a constant rate."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "not rested, running out of time, irritated, comforted, soothing, unpleasant, calm, relaxed, alarming, irritative, steady, intense"
+        ],
+        "descriptions": [
+            "This sensation makes me feel not rested.",
+            "This also feels like a I a running out of time.",
+            "This sensation makes me feel kind of irriated but not that much",
+            "The sensation made me feel comforted and soothing.",
+            "It made me feel unpleasant",
+            "The sensation makes me feel calm and relaxed.",
+            "This sensation made me feel a bit alarming and irritative",
+            "The sensation feels steady ",
+            "The sensation is intense."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "machine, creating, delivering, intervals, alarm sound, continuous knocking, door, energy, speed, steady dropping, water, leaking faucet, parking sensor, proximity sensor, cars, waves, hitting body, strong vibration, old mobile phones"
+        ],
+        "descriptions": [
+            "It makes me reminds of a machine creating something and delivering it in intervals and starting again.",
+            "N.A",
+            "This sensation reminds me of one of the alarm sound and its like continuous knocking on the door with same energy and with same speed",
+            "NA",
+            "N.A",
+            "The sensation reminds me of a steady dropping of water from a leaking faucet.",
+            "This reminded me off the parking sensor or proximity sensor in the cars",
+            "The sensation reminds me of waves hitting body ",
+            "It is similar to the strong vibration that was there in the old mobile phones."
+        ]
+    }
+}

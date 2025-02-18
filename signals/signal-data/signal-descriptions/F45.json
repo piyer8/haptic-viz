@@ -1,0 +1,57 @@
+{
+    "signal_id": "45",
+    "sensory": {
+        "keywords": [
+            "strong, pulses, regular time intervals, repetitive, thudding, buzzes, high intensity, vibrations, long intervals, very fast, continuous, fast, buzz, high note, rap song, no pauses, tunes, small pulse, repeated, combination, two vibrations, high vibration, continuously, repeating, intense vibration, short, bursts, energy, poking, strong vibrations"
+        ],
+        "descriptions": [
+            "This sensation consisted of strong pulses at regular time intervals\t",
+            "This sensations feels like repetitve thudding buzzes. ",
+            "this sensation is high intensity vibrarions with long intervals ",
+            "The sensation was strong and very fast",
+            "The sensation is continuous fast buzz.",
+            "This sensation is like a fast and high note rap song without any pauses or tunes.",
+            "A pulse which is very small is getting repeated.",
+            "The sensation is a combination of 2 vibrations, the first vibration is a high vibration that goes on continuously and on top of it is another repeating little bit more intense vibration.",
+            "This sensation felt like short intense bursts of energy",
+            "THE SENSATION WAS LIKE POKING MY FRIEND",
+            "The sensation was strong with repeating strong vibrations."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "energetic, excited, aggressive, rush, intense, powerful, difficult, panicky, calm, active, happy, thrilled, buzzy"
+        ],
+        "descriptions": [
+            "This sensation makes me feel energetic and excited ",
+            "This sensation makes me feel aggressive or in a rush. Its intense and powerful.",
+            "this sensation makes me feel difficult",
+            "The sensation makes me feel panicky",
+            "This makes me feel calm and active. I can attach the emotion of being happy and calm.",
+            "This sensation makes me feel energetic.",
+            "It makes me feel energised and active. ",
+            "This sensation makes me feel intense",
+            "THis made me feel thrilled and happy.",
+            "THE FEELING WAS BUZZY",
+            "This sensation made me feel panicky."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "media, wars, missiles, panicky situation, stop, important, sabotaged, alarm, gun fire, first person shooting game, concerts, rappers, fast pace, sound effect, disco lights, EDM concert, music, clubs, vibration, gun-shaped joysticks, arcade, annoy, urgency, time, task"
+        ],
+        "descriptions": [
+            "This sensation reminds of media showing wars which involves the use of missiles",
+            "NA",
+            "this sensation reminds me of paniky situation or like it wants to stop you",
+            "This reminds me of something important getting sabotaged setting alarm on",
+            "This sensation reminds of a gun fire from a first person shooting game. ",
+            "This sensation reminds me of the concerts I have attended of certain rappers who would continuously sing without a break and at a very fast pace.",
+            "It reminds me of sound effect with disco lights at an EDM concert.",
+            "This sensation reminds me of music in clubs.",
+            "This reminded me of the vibration from the gun-shaped joysticks at an arcade",
+            "WHEN I TRY TO ANNOY MY FRIEND IN THE CLASS",
+            "It reminds me of urgency like time is about to get over for a task."
+        ]
+    }
+}

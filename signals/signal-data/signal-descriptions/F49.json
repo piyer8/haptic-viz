@@ -1,0 +1,57 @@
+{
+    "signal_id": "49",
+    "sensory": {
+        "keywords": [
+            "pulse, medium duration, short pulses, equal duration, long buzz, very short buzzes, varying, mid level, high level, vibration, not too strong, not too weak, coarse, short beat, pause, random pulses, slightly long, set of 4 vibrations, medium vibrations, high vibration, intense vibration, irregular sensations, conveying a message, discontinuous, long pulse"
+        ],
+        "descriptions": [
+            "This sensation started with a pulse of medium duration and then followed by set of short pulses of equal duration\t",
+            "This sensation has three parts - first is a a comparatively long buzz and the other two are very very short pointy buzzes. ",
+            "this sensation has varing mid to high level vibration ",
+            "Sensation was not too strong not too weak",
+            "The sensation feels coarse. It is a short beat followed by a pause and then two short beats followed by a pause.",
+            "This sensation is like then soft sound of a cushion being pressed.",
+            "It is a mix of random pulses some slightly long and some short. ",
+            "This sensation is a set of 4 vibrations. First 2 are medium vibrations, third one is a high vibration and then last one is a little bit more intense vibration.",
+            "This one felt like irregular and intense sensations",
+            "THE VIBRATION WAS LIKE CONVEYING A MESSAGE ",
+            "The sensation was discontinous with two short pulses followed by a long pulse."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "thrilling, weird, attention, attentive, comfortably, irritating, unhappy, fuzzy, cautious, nothing, pulse, jagged, without rhythm, decoded, could be decoded, feel weird"
+        ],
+        "descriptions": [
+            "This sensation felt thrilling",
+            "Thsi sensation is weird.",
+            "this sensation makes me feel something needs your attention",
+            "The sensation makes me feel attentive but comfortably",
+            "This sensation make me feel weird and irritating. I can attach the emotion of being unhappy.",
+            "This sensation gives a fuzzy feeling",
+            "It makes me feel cautious and attentive.",
+            "This sensation makes me feel nothing",
+            "This sensation felt like a weird irritating pulse which was jagged and without rythm.",
+            "IT MADE ME FEEL SOMETHING COULD BE DECODED FROM THE SIGNAL",
+            "It made me feel weird."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "suspense, thriller movies, final phase, audience, suspense, alarm, bumpy, uneven road, incoming call, phone, vibration mode, bug, wandering, ear, sound effect, tuning, instrument, not tuned well, machines, noise, working, novice, drums, secret communication, frog, sound"
+        ],
+        "descriptions": [
+            "This sensation reminded me of watching suspense/thriller movies and the movie is in almost final phase and audience is waiting for the suspense to be uncovered",
+            "It reminds me of my alarm.",
+            "this reminds me bumby uneven road",
+            "This reminds me of getting incoming call on phone which is on vibration mode.",
+            "This sensation reminds of a bug that is wandering around my ear.",
+            "N.A",
+            "It can be associated to the sound affect when someone is tuning an instrument and it is all over the place and not tuned well. ",
+            "This sensation reminds me of few machines that has some noise which indicated its working.",
+            "This felt like a novice trying to play the drums",
+            "REMINDS ME OF A SECRET COMUNICATION",
+            "It reminds me of the sound made by frog."
+        ]
+    }
+}

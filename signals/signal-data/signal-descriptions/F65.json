@@ -1,0 +1,57 @@
+{
+    "signal_id": "65",
+    "sensory": {
+        "keywords": [
+            "pulses, medium intensity, longer pulse, random, non rhythmic, short haptics, buzz, lumpy, low intensity, variation, intervals, vibration timing, small, pause, irregular, sporadic, repeating pattern, vibrations, high vibration, buzzes, bad health, convey, long pulse"
+        ],
+        "descriptions": [
+            "This sensation starts with 3 short pulses of medium intensity and then ends with longer pulse\t\t",
+            "This sensation is very random and non rythemic wuth short haptics and then a buzz. It is lumpy. ",
+            "this sensation has low intensation with variation is intervals and vibration timing  ",
+            "The sensation was small and had pause after some intervals",
+            "The sensation is non rhythmic but consists of two small pulses followed by a long buzz/ pulse.",
+            "This sensation is like the sound of pressing a button",
+            "I would describe it as irregular and sporadic.",
+            "The sensation is a repeating pattern of 7 vibrations, first 3 and last 3 are medium vibration beats, and the center one is a skight longer high vibration",
+            "This sensation is three short buzzes followed by a long buzz followed by three short buzzes again",
+            "IT WAS LIKE A SICK PERSON (IN BAD HEALTH) WAS ABOUT TO CONVEY SOMETHING",
+            "The sensation consisted of 5 vibrations followed by a long pulse."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "anxious, neutral, submissive, weird, dissatisfied, calm, bad, disgust, uncomfortable, thrill, lethargic, enjoyable, coughing"
+        ],
+        "descriptions": [
+            "This sensation felt anxious",
+            "This senstaion made me feel very neutral and submissive - too much of it would be weird.",
+            "this senation makes me feel dissatisfied ",
+            "This sensation makes me feel calm",
+            "This sensation makes me feel bad. I can attach the emotion of feeling disgust and being uncomfortable.",
+            "This sensation gives me a feeling of thrill.",
+            "It makes me feel lethargic. ",
+            "This sensation makes me feel enjoyable",
+            "N.A",
+            "IT WAS LIKE SOMEONE WAS COUGHING",
+            "It made me feel neutral."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "competitive track days, empire countdown, air pistol, green signal, random noises, bored, dissatisfied, alarming situation, buzz, kids toys, online video games, continuous use, keypads, video controllers, broken machine, playing guitar, plucking strings, playing chord, trying hard to speak, coughs, whistle sound"
+        ],
+        "descriptions": [
+            "This sensation reminded me of my competitive track days when the empire is counting down from 3 and then shoots air pistol to give a green signal for the race",
+            "This reminds me of the random noises one makes when theyre bored.",
+            "this sensation reminds me of dissatisfied alarming situation",
+            "This reminds me of buzz in kids toys",
+            "N.A",
+            "I have an idea of this sensation from when I used to play online video games and would require continuous use of keypads and video controllers.",
+            "It reminds me of a broken machine.",
+            "N.A.",
+            "This sensation reminds me of someone playing the guitar by plucking the strings and then playing a chord",
+            "REMINDS ME OF MYSELF TRYING HARD TO SPEAK WHILE I HAD COUGHS ",
+            "It reminede me of whistle sound."
+        ]
+    }
+}

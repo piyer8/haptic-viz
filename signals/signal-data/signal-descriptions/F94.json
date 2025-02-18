@@ -1,0 +1,54 @@
+{
+    "signal_id": "94",
+    "sensory": {
+        "keywords": [
+            "weak, increasing strength, small gap, mild, cannot be felt, pause, sudden, rough, strong vibrations, pulling with force, dropping, resistive, fuzzy, faint sensation, fuller vibration, different strength, buzzes, regular interval, hard to distinguish, sporadic vibrations, sudden scratching, pattern, exhaling, inhaling, shorter vibrations, longer vibrations, longer beat"
+        ],
+        "descriptions": [
+            "This sensation follows a pattern of being very weak and then increasing its strength little bit with a small gap between ",
+            "This sensation is very mild or cannot be felt at start and then there is a pause followed by sudden rough strong vibrations",
+            "The sensation is like pulling something with force to a height and then dropping it to smaller height.",
+            "This sensation was a little resistive and fuzzy.",
+            "THERE IS A FAINT SENSATION, BEFORE IT PAUSES, FOLLOWED BY A FULLER VIBRATION",
+            " The sensation is like different strength of buzzes with regular interval that is hard to distinguish",
+            "I would desribe the sensation to someone else as sporadic vibrations",
+            "This sensation is like a sudden scratching like vibration.",
+            "It feels like a pattern on exhaling and inhaling. With shorter vibrations for inhaling and longer vibrations for exhaling.",
+            "This sensation has a longer beat followed by a pause"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "nasty, discomfort, neutral, annoyed, secrecy, informative, uneasy, calming, soothing, comforted"
+        ],
+        "descriptions": [
+            "This sensation makes me feel nasty\t",
+            "This sensation made me feel dicomfort",
+            "N.A.",
+            "This sensation feels neutral .",
+            "IT MAKES ME FEEL ANNOYED",
+            "This sensation feels like secrecy and very informative",
+            "It makes me feel discomfort and difficult",
+            "This sensation makes me feel uneasy.",
+            "It gives a calming and soothing feeling.",
+            "This sensation makes me feel comforted"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "roller coaster, starts slowly, takes up speed, pulling with force, height, dropping to smaller height, person snoring, building falling down, earthquake, morse code, films, vibration, whispering, ear, animals scratching, claws, surfaces, human breathing pattern, long breaths, washing machine cycle"
+        ],
+        "descriptions": [
+            "N.A.",
+            "This sensation reminded me of a roller coaster which starts slowly initially and then takes up spead",
+            "The sensation is like pulling something with force to a height and then dropping it to smaller height.",
+            "This sensation is very similar to a person snoring",
+            "IT REMINDS ME OF A BUILDING FALLING DOWN DURING AN EARTHQUAKE",
+            "This sensation reminds me of morse code being used in films",
+            "This vibration reminds me of someone whispering in your ear.",
+            "This sensation reminds me of animals scratching their claws on surfaces.",
+            "It is very similar to a human breathing pattern (Long breathes)",
+            "this sensation reminds me of a washing machine cycle "
+        ]
+    }
+}

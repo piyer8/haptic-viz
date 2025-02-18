@@ -1,0 +1,54 @@
+{
+    "signal_id": "152",
+    "sensory": {
+        "keywords": [
+            "vibrating, buzzing, pattern, strong, wavey, rhythmic, low pitch, stutter, tap, notification, intense, smaller bips, longer, neat, tight, smooth, medium vibrations, little longer, stronger, vibrations together"
+        ],
+        "descriptions": [
+            "This signal is two continuous beats with a third vibration of reducing intensity.",
+            "Sensation felt like vibrating and buzzing in a pattern",
+            "this sensation starts with two strong buzzes followed by a wavey pattern.",
+            "The sensation was like a rhytmic low pitch vibration followed by a stutter.",
+            "I owuld describe this sensation as a tap tap taptaptaptap repeated. ",
+            "I would describe the sensation as a notification.",
+            "It is intense and smaller bips followed by longer one.\t",
+            "The signal gives me a sensation for neat and tight.",
+            "This sention feels like 2 to 3 vibrations together and it feels smooth at first",
+            "The sensation is two medium vibrations followed by one that's a little longer and a little stronger."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "annoying, puzzled, soothing, upbeat, alert, annoyed, hopeful, calm, quiet, normal, angry"
+        ],
+        "descriptions": [
+            "N.A",
+            "Sensation felt very annoying",
+            "this senstion makes me feel puzzled.",
+            "It was soothing and upbeat at the same time.",
+            "This sensation makes me feel alert.",
+            "This sensation makes me feel annoyed",
+            "It makes me feel hopeful.",
+            "It makes me to feel calm and quiet.",
+            "It makes me feel normal",
+            "The sensation makes me feel alert or angry."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "crying, surfing, drum, rough road, annoyance, confidence, training, intensive feeling, alarm, waking up, reluctance"
+        ],
+        "descriptions": [
+            "N.A",
+            "Felt like someone is crying",
+            "this sensation reminds me of surfing",
+            "It reminds me of a drum being played.",
+            "N.A.",
+            "The sensation reminds me of being on a rough road. I can associate being annoyed with this sensation",
+            "It reminds me of being confident about something.",
+            "It makes me to associated to have a regular training in the gym.",
+            "NA",
+            "It reminds me of an intense feeling or an alarm waking me up or the feeling of not wanting to go to school when an alarm does wake me up."
+        ]
+    }
+}

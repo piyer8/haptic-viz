@@ -1,0 +1,54 @@
+{
+    "signal_id": "150",
+    "sensory": {
+        "keywords": [
+            "continuous, sudden, discontinuity, jagged, aggressive, annoying, random, strong, patterns, high pulses, dampened pulse, directionless, pulsing, zigzag pattern, intense, changing frequency, moving, not smooth, 2 beats, vibrations, rapid vibrations"
+        ],
+        "descriptions": [
+            "This signal can be described as continuous signal with a sudden discontinuity. ",
+            "sensation felt very jagged and aggressive",
+            "this sensation is very annoying. it consist of some random strong patterns .",
+            "The sensation was 3 high pulses of vibration followed by dampened pulse of vibration.",
+            "This sensation is like a directionless pulsing.",
+            "I would describe the sensation as a zigzag pattern to someone else. ",
+            "The sensation is intense and changing frequency.",
+            "The signal gives me the sensation for moving not really smothly.",
+            "This sensation is like 2 beats at once",
+            "The sensation is 2 vibrations followed by 4 rapid vibrations."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "confused, fearful, annoying, distressed, encouraged, urgency, anxious, excited, weird, discomfort, disorganized, adrenaline, fighting"
+        ],
+        "descriptions": [
+            "I felt like I am confused.",
+            "Sensation made me feel fearful",
+            "this sensation makes me feel very annoying.",
+            "The sensation made me feel distressed.",
+            "This sensation makes me feel encouraged.",
+            "The sensation makes me feel as if there is some urgency that needs to be resolved. I feel anxious about this sensation.\t",
+            "It makes me feel excited.",
+            "I feel a little bit weird and discomfort.",
+            "this sensation makes me feel disorganized",
+            "The sensation fills me with the feeling of adrenaline or fighting."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "bike, freeway, appliance, failed to start, beat, loud, energetic song, urgent task, working hard, feeling, score, goal, soccer match, boring lunch, phone, buzzing, fighting, rapid vibrations, distinct hits"
+        ],
+        "descriptions": [
+            "N.A",
+            "NA",
+            "this sensation reminds me of riding on a bike in freeway",
+            "It reminded me like an appliance that failed to start properly.",
+            "This reminds me of the beat of a loud energetic song.",
+            "The sensation reminds of when I have an urgent task that needs to be completed. I can associate working hard with this sensation.",
+            "It reminds of a feeling of about to score a goal in a soccer match.",
+            "It makes me to associated to eat a boring lunch.",
+            "It reminds me of my phone buzzing ",
+            "The sensation reminds me of fighting , and the 4 rapid vibrations feel like 4 distinct hits."
+        ]
+    }
+}

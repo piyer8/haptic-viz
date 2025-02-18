@@ -1,0 +1,54 @@
+{
+    "signal_id": "103",
+    "sensory": {
+        "keywords": [
+            "rhythmic, beat, large vibration, small vibrations, regular, intense, tune, sporadic drops, musical tone, short point pulse, repeats, steadily, rhythmic, musical note, structure, calm, upbeat, pleasant party, discontinuous, bursts, rhythm, lingering, strumming, guitar"
+        ],
+        "descriptions": [
+            "the sensation is a rhythmic beat of one large vibration followed by two or three small vibrations.\t",
+            "The sensation is regular and intense",
+            "The sensation is like tune with sporadic drops",
+            "This sensation feels like a musical tone.",
+            "This vibration starts with a short point pulse which repeats rythmically.",
+            "The sensation was steady and rythemic.",
+            "This sensation felt like a musical note and had a certain structure to it. It was calm and upbeat.",
+            "This sensation felt musical, like a pleasant party at the end of a long week. ",
+            "The sensation is discontinous with all the burst in some rythm.",
+            "the vibrations are lingering for some time. it feels like strumming a guitar"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "thrilling, calming, excited, enjoyable, energetic, dancing, active, pleasant, peaceful, at ease, good vibes, activity, alarming, resistive, happy, playing guitar"
+        ],
+        "descriptions": [
+            "I makes me feel thrilling and calming.",
+            "The sensation made me feel excited.",
+            "The sensation feels enjoyable",
+            "This sensation makes me feel energetic and makes me feel like dancing",
+            "This vibration makes me fell active.",
+            "This sensation made me feel like a tune. It ws pleassant and enjoyable.",
+            "This sensation made me feel peaceful and at ease.",
+            "It made me feel good vibes, as though I was about to start doing an activity I like. ",
+            "The sensation makes me feel alarming and resistive.",
+            "this makes me feel happy because i like playing guitar"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "alarm ringtones, reminder notifications, drum pattern, tabla sound, beats of a song, vibrations, speakers, sub-woofers, playing guitar, late night party, club, friends, loud music, army parade, happy song"
+        ],
+        "descriptions": [
+            "This reminds me of alarm ringtones or reminder notifications.",
+            "The sensation reminded me of a drum pattern.",
+            "The sensation feels like tabla sound",
+            "This sensation reminds me of a beats of a song.",
+            "This vibration reminds me of vibrations from a speakers sub-woofers.",
+            "This reminds of playing guitar.",
+            "This sensation reminded me of a beat to a song.",
+            "This sensation made me feel like I was going to a late night party /club with a couple of friends. The place has loud music and the vibrations can be felt at the door of the party.",
+            "The sensation reminds me of army parade.",
+            "it reminds me of some happy song that i play with guitar"
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "signal_id": "64",
+    "sensory": {
+        "keywords": [
+            "low intensity, pulses, unregular intervals, steady course, rough buzz, suppressed, varying, long vibrations, rhythm, coarse, grainy, slow, steady, boiling vegetable, dim, crackling pulse, coarse continuous, medium vibrations, intense buzz, builds up, fades away, swinging, series, short vibrations, long vibration"
+        ],
+        "descriptions": [
+            "This sensation is made of the number of low intensity pulses spready at unregular intervals\t",
+            "This sensation is a steady course/rough buzz that is supressed.",
+            "this sensation varing low intensity vibrations ",
+            "The sensation was long vibrations with rhythm ",
+            "The sensation is coarse and grainy buzz that is slow and steady.",
+            "This sensation is like a vegetable being boiled on the gas stove and it is ready to be served.",
+            "It can be described as dim like a crackling pulse.",
+            "The sensation is of coarse continuous medium vibrations",
+            "This sensation builds up to an intense buzz fast and then fades away just as quickly",
+            "THE BUZZ WAS MORE LIKE SOMETHING WAS SWINGING",
+            "The sensation consisted of a series of short vibrations followed by a long vibration made up of the short vibrations."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "buzz, uncomfortable, tense, unpleasant, bad, submissive, weird, excited, enjoyable, anxious, alarmed, tingling, irritating"
+        ],
+        "descriptions": [
+            "This sensation felt like buzz\t",
+            "This sensation makes me feel uncomfortable and tense.",
+            "this sensation is unpleasant and bad",
+            "This sensation makes me submissive",
+            "This sensation makes me feels unpleasant. I can attach the emotion of feeling weird.",
+            "This sensation makes me feel excited.",
+            "It makes me feel enjoyable. ",
+            "This sensation makes me feel anxious",
+            "This sensation makes me feel alarmed",
+            "IT INSTILLED ME A SENSE OF TRINKELING",
+            "It made me feel irritating."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "flying drone, sound, start/end, important event, life or death situation, trimmer battery, school bell, mixer grinding, coarse rice, hungry, stomach, food, small crackers, bursting, crackling, noise, construction work, emergency alarm, system shutdown, scientific facility, old cycle bell, trinkling sound, switching stations, radio"
+        ],
+        "descriptions": [
+            "This sensation reminded me of flying drone and hearing the sound of that when it was near",
+            "It reminds me of a start/end of an extremely important event like a life or death situation.",
+            "this sensation reminds me of time when trimmer battery is about to die ",
+            "This reminds me of school bell ringing",
+            "This sensation reminds of a mixer grinding coarse rice slowly.",
+            "This sensation reminds me of a time when I was very hungry and my stomach was asking for food.",
+            "It remindsbe of small crackers bursting/crackling.",
+            "This sensation reminds me of the noise that comes from the construction work",
+            "This reminds me of an emergency alarm when some system shuts down in a scientific facility",
+            "IT REMINDS ME OF THE OLD CYCLE BELL WITH THE TRINKLING SOUND",
+            "It reminded me of switching different stations on radio."
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "signal_id": "162",
+    "sensory": {
+        "keywords": [
+            "waning intensity, less intense, steady, long vibrating, short, repetitive pattern, mild tone, long low frequency vibration, gradually decrease, amplitude, low constant vibration, low humming sound, construction work, less intense, smooth, moving slowly, continuous, single vibration, long vibration, dies down"
+        ],
+        "descriptions": [
+            "This signal can be described as a signal with waning intensity or becoming less instense untill it stops.",
+            "Sensation felt very steady long vibrating",
+            "this sensation has short and repetative pattern with mild tone",
+            "It was just ony long low frequency vibration that gradually decrese in implitude.",
+            "This sensation is like a low constant vibration.",
+            "I would describe the sensation to someone else as a low humming sound as if there was construction work being done somewhat near my house.",
+            "The sensation is less intense and smooth.",
+            "The signal give me the sensation for moving slowing.",
+            "This sensation is contionous and single vibration",
+            "The sensation feels like a long vibration that dies down."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "defeated, worried, guarded, irritating, calm, content, cautious, comfortable, relaxed, steady, numb, tired, unfocused"
+        ],
+        "descriptions": [
+            "I feel like defeated.",
+            "Sensation made me feel Worried and guarded",
+            "this sensation makes me feel irritating",
+            "It makes me feel calm and content.",
+            "This sensation makes me feel cautious.",
+            "The sensation makes me feel comfortable. ",
+            "It makes me feel relaxed.",
+            "It makes me to feel like steady and calm.",
+            "It makes me feel numb",
+            "It makes me feel tired or unfocused."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "basketball shot, vibrating, stomach sound, something I don't want to, cat's purr, bad earthquake, drill, massage, walk quietly, driving, dirt road, gravel road"
+        ],
+        "descriptions": [
+            "This signal reminds me of missing a basketball shot and the basket keep vibrating and stops.",
+            "Sensation felt like someones hungry stomach sound.",
+            "this sensation reminds me of doing someting i dont want to.",
+            "The vibrations is really similar to a cat's purr.",
+            "This sensation  reminds me of a bad earthquake.",
+            "This sensation reminds me of a drill. ",
+            "It reminds of massage.",
+            "It makes me to associated to walk quietly on my way home.",
+            "NA",
+            "It reminds me of driving on a dirt/gravel road."
+        ]
+    }
+}

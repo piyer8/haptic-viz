@@ -1,0 +1,60 @@
+{
+    "signal_id": "31",
+    "sensory": {
+        "keywords": [
+            "vibrating pulses, rapid intervals, periodic, rhythmic vibration, rolling voice, beatbox, linear voice, musical beats, punches, sporadic pattern, on and off vibration, strong, sharp, fast vibration, heavy machinery, factory, burst of shots, loud music, huge speaker, intense vibration, touching surface, running machine, loud vibration, disco vibe, party vibe"
+        ],
+        "descriptions": [
+            "This sensation is characterized by moderately short vibrating pulses at very rapid intervals - there is hardly any space in between each pulse. ",
+            "A periodic rhytymic vibration.",
+            "rolling voice that is similar to beatbox , linear voice but with 1 1 3 musical beats with punches in the end",
+            "This is a sporadic pattern of on and off vibration.",
+            "The sensation is strong, sharp and fast vibration ",
+            "The sensations from heavy machinery or a factory",
+            "it feels like a burst of shots",
+            "This sensation felt like loud music playing aon a huge speaker near you. ",
+            "The vibration is intense",
+            "Touching the surface of any machine while its running.",
+            "It feels like  avery loud vibration",
+            "This is gives me a disco or party vibe"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "anxious, passive, beatbox rhythm, thrilling emotions, excited, aggressive, alarming, heavy, tense, nervous, good, fast music, panicky, executed, danger, happy, excited"
+        ],
+        "descriptions": [
+            "This sensation made me feel anxious.",
+            "It makes me feel passive.",
+            "this made me feel like i can feel my beatbox rythm giving thrilling emotions",
+            "I feel excited when I feel this.",
+            "it feels aggressive and alarming ",
+            "It makes me feel heavy",
+            "it makes me feel a bit tense and nervous",
+            "I feel good as it makes me feel like I am listening to fast music. ",
+            "It feels panicky",
+            "Creates a feel as if something is executed.",
+            "I feel I am in danger",
+            "It makes me feel happy and excited "
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "heart rate, anxious, hitting drumsticks, drums, build up, beatbox, covering mouth, similar beats, punch, musical, Brownian motion, molecules, fire alarm, visiting factories, firing, machine gun, burst rounds, party, dancing, loud music, alarm, phone, washing machine, running, similar feel, alarm going off, heavy tone, grooving, music"
+        ],
+        "descriptions": [
+            "This sensation reminds me of the way my heart rate increases when I get anxious.  ",
+            "It reminds of someone hitting their drumsticks on drums one hand after the other trying to make a build up to some situation.",
+            "whenver i beatbox and cover my mouth with my hand using similar beats is can be sensing the same feels and also the punch in musical manner",
+            "This reminds me of Brownian motion in molecules.",
+            "I can associate with the fire alarm ",
+            "This reminds me of visiting factories",
+            "ir reminds me of firing with a machine gun in burst rounds.",
+            "It reminds me of going to a party and dancing to lound music playing around me. ",
+            "It reminds me of alarm from phone",
+            "Yes, while touching the washing machine, while its running does provided me a similar feel.",
+            "Feels like an alarm going off with heavy tone",
+            "It reminds me of going to parties and grooving to the music"
+        ]
+    }
+}

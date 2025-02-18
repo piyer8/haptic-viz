@@ -1,0 +1,54 @@
+{
+    "signal_id": "43",
+    "sensory": {
+        "keywords": [
+            "quick, soft, alarm, constant, repeated, tapping, little pressure, weak, fast, subtle, continuous, tiny, uniform, quick steps, very fast, builds up, running out, almost nothing, light wave vibration, faint vibrations, multiple beats, small, successive, buzzes, light, evident"
+        ],
+        "descriptions": [
+            "This feels like a quick and soft alarm",
+            "This sensation is similar to constant repeated tapping motion but with little pressure.",
+            "The vibration is weak but quite fast so not as hard to ignore. ",
+            "This sensation is subtle but continuous",
+            "this sensation felt like tiny uniform and also quick steps",
+            "this sensation is very fast, uniform yet builds up like something is running out.",
+            "The sensation is almost feel nothing but light wave vibration in background.",
+            "The sensation feels like extremely faint vibrations with multiple bets in a second.",
+            "it gives out small sucsessive buzzez.",
+            "The sensation is very light but evident."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "anxious, alarmed, distracted, tapping vibration, small animal, escape, neutral, sleepy, snoring, proximity, quiet, restless, good, soothing, intense, water, dripping, relaxed, pleasant"
+        ],
+        "descriptions": [
+            "I do feel anxious and alarmed by it",
+            "This sensation made me feel a little distracted due to the constant tapping vibration.",
+            "It makes me feel like I'm holding a small animal in my hand and it's trying to escape.",
+            "This sensation makes me feel neutral",
+            "This sensation makes me feel sleepy as it reminds me of someone snoring in proximity, also feels like I have to be quiet",
+            "this sensation makes me feel restless and anxious",
+            "This sensation makes me feel good.",
+            "It makes me feel soothing but intense.",
+            "It makes me feel like there is water dripping on my hand in fast manner",
+            "The sensation made me relaxed and pleasent."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "smart watch, alarm, low battery, vibrations, alarm clock, rat, fast heartbeat, motor boat engine, bullets, competitions, countdowns, light alarm clock, flying a helicopter, gaming console, faint vibration beats, water, spigot, catching pokemon, Nintendo DS, light rain, beaches, California"
+        ],
+        "descriptions": [
+            "It reminds me of my smart watch, whose alarm went off, but is also low on battery and thus cannot vibrate at it's full capacity.",
+            "It felt similar to the vibrations of an alarm clock going off.",
+            "Yes it reminds me of when I held a rat in my hand.",
+            "This sensation reminds me of fast heart beat ",
+            "The sound a motor boat's engine makes before we deboard ii and also like bullets fired in a distance ",
+            "this sensation reminds me of the time when I was participating in competitions where the time would be running out and the countdowns sound and feel the same in my head.",
+            "This remind me of a light alarm clock.",
+            "This does remind of flying a helicopter on a gaming console which gives this faint vibration beats.",
+            "It reminds me of water from a spigot falling down fast. It also feels like when catching a pokemon in nintendo ds.",
+            "The sensation reminds me of light rain on the beaches of California."
+        ]
+    }
+}

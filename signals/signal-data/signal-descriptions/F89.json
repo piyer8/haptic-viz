@@ -1,0 +1,54 @@
+{
+    "signal_id": "89",
+    "sensory": {
+        "keywords": [
+            "frictional, noise, struck, metal, low, pulsating, buzzing, sound, vibration, mild, coarse, smooth, iteration, light, passive, persisted, coarse, unrefined, sand, burst mode, intensity, increasing, duration, wind, gushes, window"
+        ],
+        "descriptions": [
+            "The sensation is frictional. It feels like the noise produced when something is struck against a metal.",
+            "The sensastion feels like a low puslating object",
+            "The sensation is like a buzzing sound vibration",
+            " I would describe this sensation a bit mild in hand, couldn't feel much",
+            "This vibration is like a coarse surface. In the beginning it is more smooth but with each iteration it get more coarse.",
+            "The sensation is very light vibration.",
+            "The sensation was passive but persisted long enough",
+            "This sensation feels coarse and unrefined like sand.  ",
+            "The sensation was in the burst mode. It's intensity kept increasing gradually. The duration between each sensation was almost half to the sensation duration.",
+            "It feels like a wind that gushes through the window."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "irritating, unpleasantness, calm, vibrating phone, comfortable, comforting, urgency, mild, relaxed, roller coaster ride, intensity, exciting, anxious, stressed"
+        ],
+        "descriptions": [
+            "The sensation makes me feel irritating. I can attach unpleasantness to it.",
+            "The sensation makes me feel calm",
+            "The sensation makes me feel like my phone is vibrating on receiving a call from someone",
+            "I felt confortable with the sensations.",
+            "This vibration make me fell a bit irritating.",
+            "This sensation makes me feel calm and comforting.",
+            "The sensation makes me feel a sense of urgency but not a critical situation.",
+            "This senation makes me feel relaxed. It can also be described as mild. ",
+            "The sensation maked me feel like a roller coaster ride where with each time the intensity was increased, it was more exciting.",
+            "It makes me feel anxious and stressed"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "kitchen sink grinder, sci-fi film, phone call vibration, cell phone silent mode, rough sandstone material, sea breeze, vibrating phone, sand under feet, beach, phone alarm, wind, open windows, car"
+        ],
+        "descriptions": [
+            "The sensation reminds me of the kitchen sink grinder.",
+            "The sensation reminds me of a sci-fi film.",
+            "The sensation reminds me of my phone call vibration",
+            "This reminds me of a cell phone on silent mode ringing in pocket",
+            "This vibration reminds me of a rough sandstone like material.",
+            "This reminds me of sea breeze.",
+            "I could associate this sensation with a vibrating phone.",
+            "This sensation feels like sand under a person's feet on a beach.",
+            "the sensation reminds me of my phone alarm that keeps increasing for the first few seconds.",
+            "it makes me think of the wind that blows when you leave the windows open in a car."
+        ]
+    }
+}

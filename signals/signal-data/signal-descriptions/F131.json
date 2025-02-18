@@ -1,0 +1,54 @@
+{
+    "signal_id": "131",
+    "sensory": {
+        "keywords": [
+            "consistent, rolling, hum, increasing, decreasing, intensity, barely, light, continuous, no breaks, mild, signals, air, fingers, wind, smooth, vibration, growl, calm, quiet, soft"
+        ],
+        "descriptions": [
+            "I would describe this feeling as a consistent rolling hum. It's not really increasing or decreasing in intensity. You almost can't even feel it if you don't concentrate or are doing something else. ",
+            "sensation feels like i can barely feel lt its so light.",
+            "This sensation is continuous with no breaks and very mild \t",
+            "Sensation is very mild continous signals.",
+            "This is sensation is feeling like air hitting my fingers. I would say something like when you're feeling the wind on your hand. ",
+            "ithe sensation describes a continuous weak paced signal",
+            "I would describe this as smooth consistent vibration.\t\t",
+            "The sensation felt like a growl from my empty stomach.",
+            "This sensation is calm and quite not much vibrant but too soft.",
+            "The sensation is light and consistent"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "light, uneasy, scare, calm, sad, pleasant, comfortable, alive, mild tinkering, hungry, relaxing, relieved, constant"
+        ],
+        "descriptions": [
+            "Although this sensations is very light it makes me feel uneasy. It feels almost like something is about to scare me. ",
+            "NA",
+            "This sensation makes me feel calm",
+            "Sensation is kind of sad.",
+            "This makes me feel more pleasant and comfortable. ",
+            "sensation i feel is alive/mild tinkering",
+            "This makes me feel calm.",
+            "The sensation makes me feel hungry.",
+            "This  sensation made me feel calm and relaxing, i felt relieved",
+            "The sensation feels constant."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "quiet, popcorn fart, vibration, water bubbles, tank filling, hand out of car window, wind, afar, people arguing, waves, secluded beach, growling sound, empty stomach, soft vibration, water running, hand, small motor"
+        ],
+        "descriptions": [
+            "You know how people  describe things like, \"this is a quiet as a popcorn fart\". Well this is that feeling corralled into vibration and put on repeat. ",
+            "NA",
+            "This sensation reminds me of water bubbles that generate when a tank is filling.",
+            "N.A.",
+            "This reminds me of me keeping my hand out of the car window, and feeling the wind on my hand. ",
+            "it reminds me when i was afar from people arguing ",
+            "This reminds me of waves at a secluded beach.",
+            "The growling sound or feeling of the empty stomach feels very similar to this sensation.",
+            "This is a soft vibration, just felt like water running on my hand",
+            "The sensation felt like placing a hand on a small motor"
+        ]
+    }
+}

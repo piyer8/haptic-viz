@@ -1,0 +1,60 @@
+{
+    "signal_id": "14",
+    "sensory": {
+        "keywords": [
+            "pulsing, vibrations, short, fast paced, beat, music, massage mode, swirl, roll, palm, circular roller, moving, swirl effect, on off, peeling sound, emergency vehicle, washing machine, rotating, car, bike, trying to start, pleasant, short notes, violin, repeat, irritate"
+        ],
+        "descriptions": [
+            "The sensation was characterized by short rapidly paced pulsing vibrations.",
+            "It is short period vibration, somehwat like a beat to some fast paced music. Something your head would start nodding to.",
+            "sensation was like a massage mode , the mode was swirl and felt like a roll in my palm as if there is a circular roller inside which is moving with a swirl effect",
+            "it is a fast on off vibration pattern.",
+            "The sensation is like some peeling sound ",
+            "This sensation feels like a vibration from an emergency vehicle",
+            "it feels like a washing machine rotating",
+            "This sensation feels like a car or bike trying to start but is not able to. ",
+            "The vibration feels pleasant",
+            "The short notes in the violin.",
+            "This is a very short vibration playing on repeat",
+            "It is like someone is trying to irritate you"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "happy, energetic, relaxing, active emotions, tender, alarmed, annoyed, trying to start a car, won't turn on, calm, enjoyable, in a hurry, cut short, no specific emotion, irritated"
+        ],
+        "descriptions": [
+            "This sensation made me feel slightly happy.",
+            "It makes me feel energetic.",
+            "sensation made me feel relaxing and had active emotions",
+            "N.A.",
+            "it feels tender",
+            "It makes me feel alarmed",
+            "N.A.",
+            "This sensation makes me annoyed as it closely resembles when I am trying to start a car but it won't turn on. ",
+            "It feels calm and enjoyable",
+            "Makes me feel like something is in a hurry and others should me made cut short.",
+            "I feel no specific emotion about it",
+            "It makes me feel irritated"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "metronome, steady beat, music, tap foot, pulse, beats, massage machine, swirl mode, circular massage, ball rolling, game controller, ambulance, washing machine, bike, vibration, bluetooth speaker, short strokes, cut strokes, violin, ruler, comb, irritation, disturbance, class"
+        ],
+        "descriptions": [
+            "This reminded me of a metronome or a steady beat in music, and elicited the desire to want to tap my foot along with the pulse. ",
+            "It reminds me of certain beats in some music I have heard before.",
+            "this reminds me of my massage machine that i had back in hometown that had a swirl mode which gives you massage in a circular manner continuosly like a ball rolling inside my hand",
+            "It reminds me of a game controller.",
+            "Carpent soomthing the edges",
+            "It reminds me of an ambulance",
+            "a washing machine spinning",
+            "This remoinds me of my bike back home that takes 2-4 tries to turn on. ",
+            "It reminds me of the vibration from a bluetooth speaker",
+            "It does remains of the short and cut strokes in violin.",
+            "If you run a ruler over a comb you will get this vibration",
+            "It reminds me of the times I got irritated when someone sitting behind me used to disturb me in class"
+        ]
+    }
+}

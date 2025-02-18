@@ -1,0 +1,51 @@
+{
+    "signal_id": "80",
+    "sensory": {
+        "keywords": [
+            "fast, low frequency, vibrations, lower, stop, intervals, grainy, frictional, not low, not medium speed, steady, mild, smooth, quiet, sense of urgency, alarming, quick bursts, high amplitude, mildly intense, repeating, pause, barely noticeable, repeating loop, waves, no lows, high intensity, continuous vibrations, gap, constant paced, longer, same note"
+        ],
+        "descriptions": [
+            "It is a fast low frequency vibrations which tends to lower and stop immediatly at intervals.",
+            "It's like a grainy and frictional sensation\t",
+            "The sensation is of not low not not medium speed ",
+            "The vibrations was steady and mild. The vibrations were smooth and quiet.",
+            "This sensation gave a sense of urgency, It was alarming and fast.",
+            "The sensations are long but quick bursts with high amplitude.",
+            "The sensation was mildly intense and repeating. The pause was barely noticabe.",
+            "The sensation is a repeating loop of waves with no lows that end with high intensity",
+            "The sensation is of a low frequency making continuous vibrations with a gap in the first two constant paced similar vibrations and the third one goes longer having the same note as the first and second."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "unpleasant, restless, pleasant, weird, thrilling, neutral, urgent, quick, alarm, panicky, energetic, exciting"
+        ],
+        "descriptions": [
+            "It makes me feel unpleasant and restless.",
+            "N.A",
+            "It is pleasant",
+            "The sensation made me feel weird but thrilling  as well.",
+            "It made me feel neutral",
+            "The sensation makes me feel urgent and quick.",
+            "The sensaton made me feel alarm and panicky",
+            "The sensation feels energetic exciting ",
+            "The senation is giving a neutral feeling."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "washing machine, pumping water, rubbing, dropping rain, low vibration, alarm, fire training alarm, fire drills, evacuation drills, electronic music, hand fan, low speed, medium speed"
+        ],
+        "descriptions": [
+            "It reminds me of wachine machine when it is pumping water.",
+            "it feels like the same sensation that I feel when rubbing 2 things to each other.",
+            "dropping of rain with low vibration",
+            "NA",
+            "It reminded me of my alarm",
+            "The sensation reminds me of a fire training alarm.",
+            "This felt like the alarms during the fire drills or evacuation drills.",
+            "The sensation reminds me of electronic music",
+            "This sensation is similar to the the sound that a hand fan makes on a low to medium speed."
+        ]
+    }
+}

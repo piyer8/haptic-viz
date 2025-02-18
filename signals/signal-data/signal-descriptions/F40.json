@@ -1,0 +1,54 @@
+{
+    "signal_id": "40",
+    "sensory": {
+        "keywords": [
+            "alarm, attention, movement, moderate pulses, slight pauses, vibration, continuous bursts, break, repeats, equal intervals, pattern, not starting, looped, failing, high, beats, slow, repetitive vibration, pauses, bursts, light buzzes, catchy, builds up"
+        ],
+        "descriptions": [
+            "This sensation feels like an alarm, asking me to pay more attention to where it was originated from.",
+            "This sensation can be described as movement or moderate pulses but with slight pauses in the middle.",
+            "The vibration is 4-5 continous bursts followed by a little break and then repeats the pattern.",
+            "This sensation is like vibrations at equal intervals",
+            "This sensation felt like something was trying to start. The vibrations came in a pattern of five and had a break before it looped again ",
+            "this sensation feels like its trying really hard to do something, but is failing. It starts of high , beats three times and goes away.",
+            "The sensation is like slow but repitative vibration with a some pauses.",
+            "This sensation feels like burst of vibrations and then a pause.",
+            "It gives out light buzzez of 5 in a row. ",
+            "The sensation is catchy and slowly builds up."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "alarmed, active, ready, listen, interested, vibration, profound, lower end, controller, fingers, directional, anxious, laziness, trying hard, wake up, struggling, funny, smile, neutral, contact, hopeful, playing, water, thrilling, panicky"
+        ],
+        "descriptions": [
+            "This sensation makes me feel alarmed, and active. I feel ready to listen to what it has to say.\t",
+            "This sensation made me feel more interested.",
+            "The vibration is more profound at the lower end of the controller on your fingers specially and makes you feel directional in a way.",
+            "This sensation makes me feel a bit anxious",
+            "This sensation felt like laziness, trying hard to wake up in the morning or even the opposite of struggling to wake someone else up in the morning",
+            "this sensation made me feel funny, made me smile.",
+            "This sensation makes me feel neutral.",
+            "It makes me feel like I am trying to contact someone. I it makes me feel hopeful.",
+            "It makes me feel like I am playing with water.",
+            "The sensation made me feel thriling and panicky."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "phone alarm, pager, shooting game, vibrations, xbox controller, jumpstart, winter morning, old equipment, old car, grunting noises, mixer grinder, starting a car, cold weather, turning the key, calling someone, phone vibration, water sprays, horror movie, opening a door, background music"
+        ],
+        "descriptions": [
+            "It reminds me of my phone alarm or a pager. ",
+            "This sensation felt similar to a shooting game where pressing the gun would create vibrations and releasing it would stop them.",
+            "It feels like selective vibration i've felt on the triggers on my xbox controller(series X ones).",
+            "NA",
+            "This sensation felt like trying to jumpstart a car on a winter morning, old equipments failing to start on the get go",
+            "this definitely reminds me of a really old car trying to start on a winter morning. Just a few grunting noises when the key is turned but wont turn on.",
+            "This remind me of a mixer grinder.",
+            "It reminds me of starting a Car which has been kept outside in Cold which takes time to start and you have to turn the key many times. It also feels like calling someone or your phones vibration when you get a call. ",
+            "it reminds me of the water sprays in parks and lawns.",
+            "The sensation reminds of a horror movie wherein the protagonist trys to open a door and the background music is the vibration."
+        ]
+    }
+}

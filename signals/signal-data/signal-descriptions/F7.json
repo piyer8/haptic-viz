@@ -1,0 +1,54 @@
+{
+    "signal_id": "7",
+    "sensory": {
+        "keywords": [
+            "emergency alarm, vibration, strength, not too strong, not too weak, prolonged, delayed, signal, constant buzz, sudden pause, dramatic scenes, long drawn out, droning sensation, slight break, distress alarm, ambulance sound, evacuation haptic, buzzing sound, long vibration, short intervals, long buzz, rebound vibration"
+        ],
+        "descriptions": [
+            "This sensation has exact frequency of an emergency alarm, only difference is we can feel this.",
+            "I would describe this sensation as the emergency alarm in a building",
+            "The strength of the vibration is not too strong nor too weak, its somewhere in between.",
+            "i would describe this pattern as a prolonged and delayed signal vibration.",
+            "it is like constant buzz with sudden pause ",
+            "This reminds me of dramatic scenes in movies.",
+            "this one is a long drawn out droning sensation that has a slight break every so often",
+            "I felt this like some sort of distress alarm. Like maybe an ambulance sound or a evacuation haptic.",
+            "The sensation feels like a 'vroom vroom' except as a buzzing sound",
+            "A long vibration with short intervals, like a long buzz that ends with a rbound like vibration"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "alarming, evacuate, urgency, building eviction, fire evacuation drills, energetic, big, dramatic, frictional, resistive, active senses, full attention, distress haptic, neutral, ongoing process, running in the background"
+        ],
+        "descriptions": [
+            "This sensation sounds alarming,",
+            "This sensation makes me feel the need to evacuate the building quickly\t",
+            "It awakens me, but nothing that causes panic.",
+            "It made me feel like I was in a situation of urgency, such as a building eviction signal in case of fire evacuation drills.",
+            "it makes me feel energetic",
+            "It makes me feel that something big/dramatic is about to happen.",
+            "it feels like frictional and resistive",
+            "It made my senses very active, I was at my full attention scope. I felt this much more like a distress haptic.",
+            "I feel neutral towards this sensation",
+            "It makes me feel like there is some ongoing process/something is running in the background"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "emergency fire alarm, sensory manner, library, emergency alarm, vibration, phone call, vibration pattern, warning signal, running, treadmill, cinema hall, sand paper, rough surface, ambulance sound, apartment security alarm, car racing, foot down, mixer, grinder, gushing sound"
+        ],
+        "descriptions": [
+            "This reminds me of an emergency fire alarm, but in a sensory manner.",
+            "It reminds me of a time when I was sitting in the library and the emergency alarm went off suddenly.",
+            "It is similar to the vibration my phone makes when I receive a call",
+            "This reminded me of a vibration pattern that usually goes along with a warning signal.",
+            "i feels like iam running on a tredmill",
+            "Yeah, i felt this kind of vibration in cinema hall.",
+            "it reminds me of a sand paper scratching a rough surface.",
+            "I feel I can relate this with an ambulance sound or a partment security alarm of some sort.",
+            "This reminds me of a car racing when your putting your foot down on the pedal",
+            "It reminds me of a mixer/grinder a gushing sound"
+        ]
+    }
+}

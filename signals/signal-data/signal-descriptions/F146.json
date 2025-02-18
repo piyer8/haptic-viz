@@ -1,0 +1,54 @@
+{
+    "signal_id": "146",
+    "sensory": {
+        "keywords": [
+            "pulsating, continuous, two beats, pause, steady vibration, 3 beats, different, strong pattern, buzzes, long, high frequency, shorter, sharp pulses, sporadic pulsing, shaking, spring box, bouncing, high intensity, high frequency, interval fast, smooth vibration, two long vibrations, two smaller vibrations"
+        ],
+        "descriptions": [
+            "I describe the sensation or signal as pulsating and the signal is continuous with two beats and a pasue. ",
+            "The sensation was like a flat steady vibration followed by 3 beats where the second beat of the 3 beats felt a bit different than the rest.",
+            "this sensation starts with a strong pattern and then buzzes in the end. ",
+            "It was a long high freequency vibration followed by shorter, sharp pulses.",
+            "This sensation is like sporatic pulsing.",
+            "I would describe the sensation to some else as if they were shaking a spring box. The sensation feels like a spring bouncing around in a small metal box.\t",
+            "The sensation has high intnsity and high frequency.",
+            "The signal give me the sensation for feeling interval fast.",
+            "i feel like its smooth vibration",
+            "The sensation feels like two long vibrations with two smaller vibrations in the 2nd long vibration."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "energized, activates, brain, elevates, mood, anxious, focus, alert, urgency, alarmed, good, bad, wrong"
+        ],
+        "descriptions": [
+            "I felt like I am energized. This is signal activates my brain or elevates my mood.",
+            "the sensastion made me feel anxious",
+            "this sensation makes me feel like to focus on someting.",
+            "The sensation made me feel slightly more enegized.",
+            "This sensation makes me feel alert.",
+            "The sensation evokes a feeling of urgency.",
+            "The sensation makes me feel energized.",
+            "It makes me to feel alarmed.",
+            "it makes me feel good",
+            "The sensation makes me feel bad like I did something wrong."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "biking, watering plants, heart rate monitor readings, mobile notification, alarm vibration, phone vibration, closing dishwasher lid, adrenaline rush, driving motorcycle, sleep with anxiety, incorrect action, videogame, vibration"
+        ],
+        "descriptions": [
+            "This signal reminds me of two situations, those are biking and watering plants.",
+            "Sensation felt like someone's heart rate monitor readings",
+            "i have felt this sensation in my mobile during a notification.",
+            "It reminds me of my alarm vibration.",
+            "This sensation reminds me of the vibration from my phone when an alarm goes off. ",
+            "The sensation reminds me of when I close the lid of my dishwasher. The vibrations are somewhat similar ",
+            "It reminds me of andrenaline rush while driving motorcycle.",
+            "I feel like to sleep with anxiety.",
+            "It reminds me of phone vibrating",
+            "The sensation reminds me of doing an incorrect action in a videogame, but that is also a vibration."
+        ]
+    }
+}

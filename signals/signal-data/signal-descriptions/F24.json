@@ -1,0 +1,60 @@
+{
+    "signal_id": "24",
+    "sensory": {
+        "keywords": [
+            "typing, haptic feedback, short, fast, vibrations, rain droplets, tapping sound, on off pattern, faint, quick, rhythmic, Lub Dub sound, twitching, palm, clicking sound, fast water, hitting, window pane, sporadic, indication, ticks, heavy rainfall"
+        ],
+        "descriptions": [
+            "This sensation can be described as someone furiously typing a long message on a phone keyboard with haptic feedback turned on.",
+            "It is really short and really fast vibrations.",
+            "this sensation is of rain droplets hitting the roof top and you are hearing the fast rain tapping sound under the roof",
+            "This pattern is an on off pattern with faint quick vibration.",
+            "it is quick and rythmic feels like Lub Dub sound in 5X speed",
+            "This feels like twitching in palm",
+            "it feels like a constant clicking sound",
+            "This sensation feels like fast water hitting a window pane. ",
+            "The sensation is sporadic",
+            "Indication to do something.",
+            "Very short ticks or vibration",
+            "It feels like heavy rainfall"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "anxious, angry, long message, excited, nostalgic, rains, discomfort, incomplete, greasy, uneasy, inspired, happy, fast rain, hitting window, annoying, proceed, good, small, cool, relaxed"
+        ],
+        "descriptions": [
+            "This sensation made me feel slightly anxious and angry, as those emotions are when I am most likely to type a long message. ",
+            "It makes me feel excited.",
+            "sensation and emotion felt quite nostalgic as it is similar to the rains",
+            "I feel discomfort, because this pattern feels incomplete.",
+            "it feels like greasy",
+            "It makes me feel uneasy",
+            "it makes me feel inspired",
+            "The sensation makes me feel happy as for me it indicates fast rain hitting a window. ",
+            "It feels annoying",
+            "Asking to proceed.",
+            "They feel good and small",
+            "It makes me feel cool and relaxed"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "anxious, angry, sending messages, convey emotions, resolve conflict, shooting a gun, video game, rain, Arizona, tapping noise, soothing environment, eating sand, grainy, coarse, vibration, engine, tractor, palm twitching, shooting range, heavy rain season, rain hitting window, continuous firing, crossing road, signal, crosswalk, dial tone, call, football, rain"
+        ],
+        "descriptions": [
+            "I am reminded of the times when I was anxious or angry and needing to send out messages to people to accurately convey my emotions or to resolve conflict.",
+            "It feel like me shooting a gun in a video game that I enjoy playing.",
+            "yesterday it rained in arizona , i was sitting under a roof top and can hear the fast tapping noice of rain hitting the roof and crearting a soothing enviroment",
+            "I pattern feels like eating sand, as it is grainy and coarse.",
+            "Vibration reminds the engine on of the tractor",
+            "This reminds me of the sensation I get when my palm is twitching",
+            "it reminds me of shooting guns at the shooting range",
+            "This reminded me of heavy rain season when you can hear the rain hitting your window and wall. ",
+            "It reminds me of people firing their guns continuously",
+            "While crossing the road, the sound created by the signal to proceed with the cross walk does remind the same.",
+            "It reminds me of a diler tone when you call someone and you listen to the tone before the other person answers the call",
+            "It reminds me of the times I was playing football in rain"
+        ]
+    }
+}

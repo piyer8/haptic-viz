@@ -1,0 +1,54 @@
+{
+    "signal_id": "100",
+    "sensory": {
+        "keywords": [
+            "rhythmical, changing frequency, oscillations, vibrations, rhythmic, low intensity, mixed signals, abrupt pattern, signal, mute beeps, prickly, faint vibration, jagged, no distinct pattern, mildly fresh, good buzz, very low intensity, burst intensities, count of three vibrations, rhythmic vibrations"
+        ],
+        "descriptions": [
+            "The sensation is rhythmical. It is a changing frequency in the oscillaitons or vibrations creating a rhythmic manner.",
+            "The sensation has a rythym with low intensity.",
+            "The sensation feels like mixed signals changing in abrupt pattern",
+            "This sensation is like a signal",
+            "This vibration is like very mute beeps, it feels little bit prickly.",
+            "The sensation was very faint vibration.",
+            "This sensation was jagged and did not have a distinct pattern.",
+            "This sensation felt mildly fresh. It had a good buzz associated with it. ",
+            "The sensation was having a very low intensity with 2 burst intensities in between.",
+            "it is a count of three vibrations. the vibrations are rythamic"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "steady, attentive, anxious, confused, warning, vibration, active, calm, uncertainty, excited, gaming, quiet, relaxing, music"
+        ],
+        "descriptions": [
+            "I feel steady and attentive.",
+            "The sensation makes me feel anxious.",
+            "The sensation makes me feel confused",
+            "This sensation made me feel like it is warning me.",
+            "This vibration make me feel active.",
+            "This sensation made me feel very calm.",
+            "I could attach uncertainity with this sensation.",
+            "This sensation made me excited and look forward to gaming. ",
+            "The sensation makes me feel calm and quiet.",
+            "feels relaxing like a music"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "army parade band, heartbeat, vibrations, driving on rough road, SOS signal, vibration through phone, PS5 controller, shuffling through home screen, boat sailing, waves crashing, music"
+        ],
+        "descriptions": [
+            "This reminds me of the army parade band.",
+            "The sensation can be associated to a heartbeat,",
+            "The sensation reminds me of vibrations like driving on rough road",
+            "This sensation reminded me of an SOS signal",
+            "This vibration reminds me of vibration through the phone when it receives a call.",
+            "N.A.",
+            "N.A.",
+            "This sensation felt like a ps5 controller when you shuffle through the home screen.",
+            "The sensation reminds me of a boat sailing in the sea with waves crashing the boat slowly.",
+            "it reminds me of music"
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "signal_id": "143",
+    "sensory": {
+        "keywords": [
+            "discrete, random, intensity, inconsistent, scraping, rough surface, fingernail, struggling engine, irregular, small, continuous vibration, waves, speaker underwater, sound, hand on speaker, continuous, variable, weak, paced beat, rubbery, vibration, moving furniture, fast, slowed down, very light, little buzz, uneven intensity, time interval"
+        ],
+        "descriptions": [
+            "I would describe this sensation a discrete and random. The intensity is really inconsistent. It almost feels like scraping a rough surface with a finger nail. ",
+            "sensaion feels like strugling engine",
+            "This sensation is a irregular small continuous vibration",
+            "Sensation is like waves.",
+            "This sensation could eb described as if I am keep ing the speaker underwater and the sounds is playing from it even in then and my hand is on top of the speaker. ",
+            "it continous variable weak paced beat",
+            "I would describe the sensation as rubbery.",
+            "This sensation was like the vibration you feel when you move a piece of furniture against something. The vibration was fast at the beginning and then it slowed down.",
+            "This sensation is very liight and I could only feel little buzz.",
+            "The sensation has uneven intensity and time interval"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "uneasy, scared, concerned, disappointed, calm, frustrating, breathing, bored, neutral, bad, nervous, wrong, similar, irritating"
+        ],
+        "descriptions": [
+            "This senstation makes me feel uneasy. I feel something similar to scared maybe a little concerned. ",
+            "sensation make me feel disappointed",
+            "This sensation makes me feel calm and little frustrating",
+            "Sensation feels like breathing.",
+            "It make sme feel bored. ",
+            "it make me feel neutral",
+            "This sensation makes me feel bad.",
+            "This sensation made me feel nervous, like I was doing something wrong.",
+            "This sensation made me something similar, it didn't feel weird.",
+            "The sensation is irritating"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "scraping, rough surface, fingernail, engine, not able to start, whir, fan, PC, touch, side, car, revving, swimming pool, speaker, underwater, songs, playing, hand, damp shoes, noise, moving furniture, intensity, mobile phone, vibration, call, lite note, riding, bike, heavy traffic"
+        ],
+        "descriptions": [
+            "This reminds me of scraping a rough surface with a fingernail. ",
+            "feels like engine not abel to start",
+            "This sensation reminds me of the whir of the fan in a PC when you touch the side of it",
+            "Sensation reminds me of car reving.",
+            "I remember doing this when I was in the swiming pool and I had the speaker underwater and the songs wer eplaying from it and I had my hand on top of it. ",
+            "it low paced make remeber my confused  /no opinion state",
+            "This reminds me of damp shoes noise.",
+            "I have felt this kind of sensation before when moving furniture around the house, but wiht more intensity.",
+            "This something similar to mobile phone vibration when we get a call but on a very lite note",
+            "The sensation reminds me of riding a bike in heavy traffice"
+        ]
+    }
+}

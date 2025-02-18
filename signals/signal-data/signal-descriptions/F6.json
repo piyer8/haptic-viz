@@ -1,0 +1,60 @@
+{
+    "signal_id": "6",
+    "sensory": {
+        "keywords": [
+            "pulsing sounds, buttons pressed, continuous tapping, hollow drum, cyclic beats, fast on off beat, fast frequency, buzzing, starting a vehicle, constant clicking sound, fast beats, low intensity, pleasant vibration, continuous tap, fast paced beat, drums playing, very fast paced"
+        ],
+        "descriptions": [
+            "The sensation was characterized by rapidly pulsing sounds that sound like buttons being pressed.",
+            "It is like a continuous tapping of some type of an object against a surface.",
+            "the sensation was like someone is beating a hollow drum from inside to and fro against its cylindrical wall , the beats were in a cyclic manner and even on both sides",
+            "I would say that it is a fast on off beat.",
+            "The Frequency is too fast and its buzzing ",
+            "This feels like starting a vehicle (motorbike)",
+            "this signal feels like a constant clicking sound",
+            "This was very fast beats but it did not have much intensity. ",
+            "The vibration feels pleasant like music",
+            "Feels like a continious tap.",
+            "It is a fast pased beat like drums playing",
+            "It is very fast paced"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "excited, urgency, beating, hands, stick, emotions, nothing, emergency, exciting, anxious, nervous, water leaking, tap, comfortable, good, fear, happy, attentive"
+        ],
+        "descriptions": [
+            "This sensation made me feel slightly excited.",
+            "It gives me a feeling of urgency.",
+            "this made me feel like someone is beating my hands slowly with a stick from inside that had active emotions",
+            "I would say that it makes me feel nothing.",
+            "It feels like there is a emergency ",
+            "This makes me feel exciting",
+            "it makes me feel a bit anxious and nervous",
+            "It feels like water leaking from a tap or when you have water tutned on real slow. ",
+            "It is comfortable and good",
+            "Generates fear.",
+            "It makes me feele excited or happy",
+            "It makes me feel attentive"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "text messages, background music, movies, being chased, running, stressful situation, beating spoon, empty glass, palm sensation, bike engine, sputtering, error notification, engine sound, motorbike, nervousness, exams, washing dishes, slow water, tap sensation, vibration, beats of a song, startled, extreme fear, drum, being played, tune, nerf gun, bullets, magazine"
+        ],
+        "descriptions": [
+            "It reminded me of the times I have excitedly sent text messages to friends and family.",
+            "It reminds of the backgrounf music in movies when someone is being chased/running in a stressful situation.",
+            "it reminded me of beating spoon on the walls of empty glass that gave me same sensation in my palm",
+            "it reminds me of a bike engine sputtering.",
+            "This was like Error notification in the system ",
+            "This reminds me of an engine sound, mostly a motorbike.",
+            "this signal reminds me of times i was nervous like before exams",
+            "This made me remember washing dishes as this is slow water from a tap sensation. ",
+            "This vibration reminds of beats of a song",
+            "Felt such a vibration while being startled by something or when in extreme fear of something.",
+            "It feels like a drum being played in a tune",
+            "It reminds me of shooting a nerf gun where I can feel the bullets leaving the magazine"
+        ]
+    }
+}

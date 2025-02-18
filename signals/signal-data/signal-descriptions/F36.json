@@ -1,0 +1,54 @@
+{
+    "signal_id": "36",
+    "sensory": {
+        "keywords": [
+            "soft, beat, pulses, same time intervals, moderate speed, weak, vibration, subtle, pulse, low, silent, hardly feel, leaked tap, dripping water, light, heartbeat, gentle taps, continuous beat, stronger, small, sensory vibration"
+        ],
+        "descriptions": [
+            "this is an extremely soft beat ",
+            "This sensation consisted of pulses that repeated at the same time intervals at a moderate speed.",
+            "It's a very weak vibration, something that you might even miss if you were doing something else. ",
+            "This sensation is subtle and feels like pulse",
+            "A low and silent pulse, you can hardly feel it ",
+            "this sensation is like a leaked tap dripping water, not too quick and not too slow",
+            "The sensation is like light heartbeat.",
+            "The sensation feels like very gentle taps.",
+            "it feels like a continous beat. but every forth beat is a little bit stronger.",
+            "The sensation had a very small but sensaory vibration."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "anxious, relaxed, heartbeat, nervous, calm, secret, mystery, suspicious, anticipatory, annoying, soothing, agitated, ticking, learning, piano"
+        ],
+        "descriptions": [
+            "this makes me feel anxious",
+            "This sensation made me feel relaxed",
+            "It feels like my heartbeat when I'm nervous.",
+            "This sensation makes me feel calm",
+            "Feels like a secret or mystery, suspicious, and maybe even anxious ",
+            "this sensation has a periodic ring to it, makes me feel calm at first, but builds anticipation as time goes on and gets annoying after a while",
+            "This make me like soothing.",
+            "It makes me feel agitated but in a calm way, like there is some ticking going on or my heartbeat i can feel.",
+            "It makes me feel like I am learning piano.",
+            "The sensation made me feel calm and soothing."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "heartbeat, relaxed heartbeat, normal pulse, veins, pumping blood, workout, human pulse, low pulse, soldiers, walking, swamp, night time, stealth, impending death, leaking tap, heart pounded, running, tiring, altitude, metronome, heartbeat of a newborn baby"
+        ],
+        "descriptions": [
+            "this reminds me of a heartbeat, but not an excited or a healthy one",
+            "This sensation felt quite similar to the sound of a relaxed heartbeat or normal pulse.",
+            "When the controller was in my hand it even felt like my own veins pumping the blood when I'm done with a workout.",
+            "This sensation reminds me of the sensation of human pulse",
+            "Low pulse, reminds me of soldiers walking in a swamp at night time for stealth, Also feels like impending death with the low heartbeat sorta feeling ",
+            "this sensation is very much like a leaking tap.",
+            "This reminds me of heartbeat.",
+            "After running very fast or doing something which is tiring with at altitude I felt my heart pounded like this which I could hear in my ears and feel in my arms.",
+            "It feels like using a metronome.",
+            "The sensation reminds me of a heartbeat of a new born baby."
+        ]
+    }
+}

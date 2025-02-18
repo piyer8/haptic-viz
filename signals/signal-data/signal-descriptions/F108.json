@@ -1,0 +1,54 @@
+{
+    "signal_id": "108",
+    "sensory": {
+        "keywords": [
+            "long vibration, jump cuts, steady vibration, occasional cuts, intense, moderately intense, regular, danger warning, continuous rhythm, gritty intense vibrations, same intensity, time period, continuous vibration, medium intensity, did not vary, steady, urgent, food in microwave, uniform, low intensity, gaps, throttling, motor bike"
+        ],
+        "descriptions": [
+            "This sensation is a long vibration with a few jump cuts in between. Like it is a steady vibration but there are some occasional cuts in between, after the cut the vibration starts at the same intense doesn't fade out or fade in.",
+            "The sensation was moderately intense and regular.",
+            "The sensation is like danger warning ",
+            "This sensation is like a continuous rhythm\t",
+            "This vibration has gritty intenst vibrations with same intensity and time periode. ",
+            "The sensation was continous vibration, with medium intensity. The intensity of the vibration did not vary. It was steady.",
+            "The sensation was intense and felt urgent.",
+            "This sensation feels like when you put food in the microwave and it starts cooking it.",
+            "The sensation was uniform with low intensity and the time of the gaps in between the sensation was same as the sensation time.",
+            "Feels like throttling a Motor bike"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "comfortable, exciting, calm, terrified, attention, vibration, remind, important, neutral, action, neglecting, discomfort, eating leftovers, steady, happy, relaxed"
+        ],
+        "descriptions": [
+            "This sensation makes me feel comfortable and exciting.",
+            "The sensation made me feel calm.",
+            "The sensation makes me feel terified ",
+            "This sensation draws my attention. ",
+            "This vibration makes me feel like it is trying to remind me of something important.",
+            "This sensation made me feel neutral.",
+            "The sensation made me feel like up taking up an action that I had been neglecting for so long.",
+            "This sensation makes me feel discomfort i.e., eating leftovers multiple days in a row. ",
+            "The sensation makes me feel steady.",
+            "This makes me happy and relaxed"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "movies, action sequences, jump cuts, phone haptics, warning, results, alarm, vibration, smartphone, call, full intensity, phone ringing, vibration mode, washing machine, signal, wash cycle, getting up, lazy, hungry, leftover pizza, non-ideal, silent mode, accelerating, bike, dropping, loop"
+        ],
+        "descriptions": [
+            "I've seen something like this in movies where inaction sequences there are some jump cuts in between the fights where the screen goes blank for a second.",
+            "The sensation reminds me of phone haptics.",
+            "The sensation seems feels like a warning before results",
+            "This sensation feels like an alarm going on.",
+            "This vibration feels like vibration from a smartphone when receiving a call, which is set to full intensity.",
+            "This reminded me of my phone ringing continously when kept in vibration mode.",
+            "This sensation reminded me of a washing machine which lets out a signal after the wash cycle is complete.",
+            "This reminds me of the action of getting up on a lazy and hungry day to heat up some leftover pizza. It makes me feel non-ideal. ",
+            "The sensation reminds me og my phone when in silent mode.",
+            "yes it reminds me of accelerating the bike and dropping it in a loop."
+        ]
+    }
+}

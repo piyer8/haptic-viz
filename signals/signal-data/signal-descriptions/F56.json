@@ -1,0 +1,54 @@
+{
+    "signal_id": "56",
+    "sensory": {
+        "keywords": [
+            "ding-dong, oscillation, vibrations, skipping, jumping, fixed pace, weak, strong, pattern, soft, rhythm, trampoline, spinning wheels, opposite directions, reverb, combination, snoozing, alarm vibration, cycle, sharp drop off, pendulum, buzz, footsteps, marching band, consistent, loud"
+        ],
+        "descriptions": [
+            "This feels like a ding-dong like oscillation",
+            "This sensation consisted of vibrations that felt like skipping or jumping repeatedly at a fixed pace.",
+            "The vibration starts weak then goes to strong then back to weak and repeats the pattern. ",
+            "This sensation is like soft vibration at a rhythm like someone's jumping on a trampoline ",
+            "This sensation felt like 2 spinning wheels spinning in opposite directions stopped spinning back to back in a second ",
+            "this sensation is like a reverb to another sound or vibration",
+            "The sensation is combination of snoozing with alaram vibration.",
+            "I would desribe this sensation as one vibration of 2 seconds with sharp drop off after and this cycle repeating.",
+            "It gives a pendulum buzz.",
+            "The sensation is like the footsteps of a marching band or army which is very consitent but loud enough."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "steady, anticipate, vibration, accelerate, rhythm, active, pendulum, swinging, excited, humans, construction site, manual saw, to and fro motion, gearing up, lazy, energetic, buzzed, robotic, sharp, attentive"
+        ],
+        "descriptions": [
+            "This makes me feel steady, as somehow I anticipate the vibration to accelerate in it's rhythm",
+            "This sensation made me feel active.",
+            "It makes me feel like a pendulum swinging back and forth.",
+            "This sensation makes me feel excited",
+            "This sensation made me feel like humans were at work, like in a construction site operating a manual saw in to and fro motion ",
+            "this sensation makes me feel excited as if its gearing up for something big.",
+            "This sensation makes me feel lazy.",
+            "This makes me feel energetic and buzzed maybe.",
+            "This felt very robotic.",
+            "The sensation made me feel sharp and attentive."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "trampoline, jumping, vibrations, controller, game, accuracy, aligning, shot, churning butter, grandma, spinning top, revving, bike, fun, exciting, snoozing clock, walking, rough terrain, ringing, doorbell, marching, sports day, house flag"
+        ],
+        "descriptions": [
+            "It reminds me of a trampoline",
+            "This reminded me of jumping on a trampoline without falling.",
+            "Yes it reminds me of the generic vibrations you feel on a controller when playing a game where you have to match your accuracy by aligning the shot at the middle.",
+            "This sensation reminds me of a person jumping on a trampoline",
+            "This felt like i was churning butter with my grandma, or playing with a spinning top when the top is being released from the thread and starts to spin ",
+            "this sensation is like me revving a bike, its fun and exciting.",
+            "It reminds me of snoozing clock.",
+            "This feels like walking on rough terrain, it also feels like ringing a doorbell.",
+            "It does not make me feel like i was putting my hand on the chest of a pet. ",
+            "The sensation reminds me of marching at a sports day leading the house flag."
+        ]
+    }
+}

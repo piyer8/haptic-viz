@@ -1,0 +1,54 @@
+{
+    "signal_id": "112",
+    "sensory": {
+        "keywords": [
+            "steady, rhythmic, beat, medium intensity, regular, low intensity, heart beats, buzz, fun, good, short clicks, constant, buzzing, two small beats, large beat, periodic, persistent, upbeat, unexpected call, low intensity, short burst, long burst, music, peppy song, motivates"
+        ],
+        "descriptions": [
+            "This sensation is a steady rhythmic beat of medium intensity vibrations",
+            "The sensation was regular and low intensity.",
+            "The sensation is like heart beats with buzz",
+            "This sensation is fun. There is a beat to it which is good.",
+            "This vibration has short clicks in the beginning then a constant buzzing vibration.",
+            "The sensation was like two small beats and then a large beat vibration. It was periodic..",
+            "This sensation was persistent and upbeat.",
+            "This sensation makes me feel like someone you like giving you an unexpected call.",
+            "The sensation is of low intensity with 2 short burst followed by a long burst..",
+            "It feels like a music . A peppy song that motivates you"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "casual, sensual, calm, arousal, enjoyable, active, excited, energetic, disciplined, restless, happy, talking, old friend, exciting, motivated, rush"
+        ],
+        "descriptions": [
+            "This sensation makes me feel casual and sensual.",
+            "The sensation makes me feel calm.",
+            "The sensation feels arousal",
+            "This sensation makes me enjoyable.",
+            "This vibration makes me feel active and excited.",
+            "This sensation made me feel like energetic and disciplined.",
+            "It made me feel a bit restless.",
+            "This made me feel happy like talking to an old friend after a long time. ",
+            "The sensation makes me feel exciting.",
+            "it makes me feel motivated and rush"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "phone ringing, vibration mode, gear rotating, music band, games, washing machine, washing cycle, Android phone, vibration, feeling, hand, old friends, old home, mechanical typewriter, entering letters, sliding bar, new line, song, listening, feel low"
+        ],
+        "descriptions": [
+            "This sensation reminds me of my phone ringing in vibration mode.",
+            "The sensation reminds me of a gear rotating.",
+            "N.A.",
+            "N.A",
+            "NA",
+            "This reminds me of the  music band that's played during start of games.",
+            "This sensation reminded me of a washing machine which is in the middle of its washing cycle. ",
+            "One of my old Android phones had this exact same vibration. Feeling it in my hand felt like I had that old phone, old friends, and old home back. ",
+            "The sensation reminds me of a mechanical typewriter where someone is entering two letters and sliding the bar for new line.",
+            "A song that i used to listen when i feel low"
+        ]
+    }
+}

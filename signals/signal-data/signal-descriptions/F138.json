@@ -1,0 +1,54 @@
+{
+    "signal_id": "138",
+    "sensory": {
+        "keywords": [
+            "weak, discrete, concentrate, barely noticeable, fraction of second, pauses, repeats, discreet vibrations, dull, very soft, vibration of sound, continuous sensation, low consistent beats, very mild, little scratch, soft, comfortable, low intensity"
+        ],
+        "descriptions": [
+            "This sensation is very weak. I would say it's discrete you really have to concentrate to feel it. The first sensation, which is barely noticable, occurs for a fraction of second then pauses and repeats. ",
+            "senstion feels like taking pulse from my hand  like need to concetrate and feel",
+            "This sensation is a set of discreet vibrations in a pattern which are dull",
+            "Sensation is very soft.",
+            "I would describe this sensation as you feeling the vibration of the sound when you are walking across multiple theatre screens. ",
+            "it is continuous sensationmay be",
+            "I would describe the sensation as low consistent beats.\t",
+            "The sensation was very mild, like a little scratch from an ant.",
+            "This felt very soft and comfortable",
+            "The sensation intensity is too low."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "curious, empty, happy, guarded, comforted, soft, confusing, confused"
+        ],
+        "descriptions": [
+            "N.A.",
+            "NA\t",
+            "This sensation makes me feel curious",
+            "Sensation makes me feel empty.",
+            "It makes me feel happy.",
+            "it make me feel guarded",
+            "This sensation make me feel comforted.",
+            "N.A.",
+            "This sensation felt very soft and confusing at the same time. I felt confused because it is too soft recognize",
+            "N.A."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "pulse, characters, moving, jumping, video games, walking, theatre, nearby screen, heartbeat, sound, listening, vibration, hand, wall, speaker, low volume"
+        ],
+        "descriptions": [
+            "N.A.",
+            "felt like i am taking my own pulse from hand",
+            "This sensation reminds me of characters moving and jumping on video games",
+            "N.A.",
+            "It reminds me about the time when I was walking to my screen in the theatre and I could feel this sensation coming from another near by screen. ",
+            "it reminds of heartbeat of other person hearing from afar",
+            "This reminds me of sound of a heartbeat.",
+            "N.A.",
+            "This sensation felt like listening my own heartbeat",
+            "The sensation reminds me of the vibration I feel when I place my hand on a wall behind which a speaker with low volume is being played"
+        ]
+    }
+}

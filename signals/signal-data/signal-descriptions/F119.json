@@ -1,0 +1,54 @@
+{
+    "signal_id": "119",
+    "sensory": {
+        "keywords": [
+            "continuous, buzz, long vibration, steady, gritty, mixer grinder, blender, continuous, paralyze, tingling, starts, ends, frequency, vibrations, constant, steady, small wheel, rotating, high speed, ECG machine, accelerate, car, pushing, clutch"
+        ],
+        "descriptions": [
+            "The sensation was a continuous buzz ",
+            "The sensation is one long vibration that starts steady but slowly becomes gritty at the end.",
+            "This sensation feels like putting your hand over a mixer grinder or blender.",
+            "The sensation was continuous throughout.",
+            "Sensation feels like when your hand paralyze and you have a tingling",
+            "This sensation starts and ends in the same frequancy of vibrations. It is very constant and steady. ",
+            "the vibrations were steady and constant",
+            "this sensation is like a small wheel is rotating with a high speed\t\t",
+            "This was kind of ECG machine sounding",
+            "The sensation was like, when we try to accelerate a car while pushing on the clutch."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "calm, relaxed, confusing, enjoyable, reassured, afraid, curious, active, pleasant, happy, positive, calming effect, relaxation, rest, rough, machine, working, diagnosis, unpleasant"
+        ],
+        "descriptions": [
+            "The sensation made me feel calm",
+            "The sensation makes me feel relaxed at the start and ends up being confusing.",
+            "I enjoy this sensation.",
+            "The sensation made me feel calm and reassured.",
+            "Sensation makes me feel afraid and curious",
+            "The sensation was very active and pleasant. It makes me feel happy with a positive and calming effect that it brings. This vibration brings me a sensation of relaxation and rest.  ",
+            "the vibrations gave me relaxing feeling",
+            "this sensation makes me feel rough\t",
+            "This kind of make me feel a machine is working on me to do some diagonosis",
+            "It made me feel very unpleasent."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "riding a bike, using a blender, making a paste, water bike riding experience, hand fracture removal, constant vibration, sitting in an aircraft, vibrations, washing machine running, something even and flat, medical checkup, greasy feeling, buzz-sound"
+        ],
+        "descriptions": [
+            "The sensation reminded me of riding a bike",
+            "N.A.",
+            "This sensation reminds me of using a blender to make a paste.",
+            "The sensation reminded me of my water bike riding experience this summer.",
+            "Sensation reminded me of when my hand fracture was removed",
+            "The constant vibration reminds me of sitting in an aircraft and the feeling of starts to get stronger as the vibrations go by.  ",
+            "the vibrations remind me of those felt when a washing machine is running",
+            "This sensation reminds me of something even and flat",
+            "When i was examined for medical checkup I felt this kind of feeling",
+            "It made me feel very greasy and too much of a buzz-sound."
+        ]
+    }
+}

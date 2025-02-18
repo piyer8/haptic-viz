@@ -1,0 +1,60 @@
+{
+    "signal_id": "17",
+    "sensory": {
+        "keywords": [
+            "rapid, short, vibrating, pulses, white noise, sprinting, race, block, surroundings, focusing, running, drum beat, rhythm, continuously, pause, pattern, on off, fast, alternating, vibration, same time interval, hammering, travelling, public vehicle, burst, heavy objects, dropping, floor, uneven, unpleasant, very short, very fast, signal, counting, till 4"
+        ],
+        "descriptions": [
+            "This sensation was characterized by rapid short vibrating pulses. ",
+            "It feels like the white noise of when you are sprinting in a race and you block your mind to the surroundings, and are focussing on running.",
+            "this is a drum beat of rythm 4 , so first it will beat for 4 time continously then take a minute pause and then again repeat the pattern",
+            "this is a on off fast alternating pattern of vibration where the each phase has same time interval.",
+            "it like Hammering",
+            "This feels like travelling in a public vehicle",
+            "it is a rapid burst of vibration ",
+            "This sensation felt like heavy objects dropping on the floor one by one. ",
+            "The vibration is uneven and unpleasant",
+            "NA\t",
+            "Very short and very fast signal sensation",
+            "This sensation has a rhythm of counting till 4"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "anxious, difficult situation, unpleasant, unknown, drum beat, dance music, dancing emotions, annoyed, exciting, neutral, scared, falling, uncomfortable, excitement, anxiety, concentrated"
+        ],
+        "descriptions": [
+            "This sensation made me feel anxious, as though I am about to enter a very difficult situation.",
+            "It is making me feel unpleasant, as though I do not know what is going on.",
+            "feels like a drum beat that had a dance music element in it giving dancing emotions",
+            "i feel annoyed.",
+            "its feels exciting ",
+            "It makes me feel neutral",
+            "it makes me feel scared",
+            "It makes me feel like there is something falling from the roof one after the other. ",
+            "It makes me uncomfortable",
+            "NA\t",
+            "It creates excitment as well as anxiety ",
+            "It makes me feel concentrated"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "white noise, sprinting, race, focusing, dance, beats, fast dance moves, quick 1234 beat step, pause, drop, driving, rocky road, panic, bus, rotary engine car, throwing stones, height, buildup, traffic, drums, rhythm"
+        ],
+        "descriptions": [
+            "I have not experienced anything quite like this before. ",
+            "It reminds me of the white noise I hear when I am sprinting in a race and I am focussing on the run.",
+            "i had to dance on a song and this were the exact beats that we used to showcase fast dance moves and also give a small drop , so it was liek a quick 1234 beat step with a sec of pause drop and then again same process of dance effeceintly",
+            "i feel like i am driving down a rocky road.",
+            "I can associate with person saying NO in panic",
+            "This reminds me of a bus",
+            "it reminds me of the sitting in a rotary engine car",
+            "It feels like I am throwing stones from a height on the ground. ",
+            "It reminds me of the time when in traffic ",
+            "NA",
+            "This feels like a buildup to something. ",
+            "It reminds me of the time I used to play drums and I had to follow a particular rhythm"
+        ]
+    }
+}

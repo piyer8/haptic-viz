@@ -1,0 +1,54 @@
+{
+    "signal_id": "2",
+    "sensory": {
+        "keywords": [
+            "mobile rings, heartbeat, mild, buzzing vibration, fast heartbeat, stressed, vibrator, cell phone vibrations, vibration mode, morning alarm, eases, attention, not irritating, weird, subtle, not alarming, beeping vibration, alarm vibration, beats every 2 seconds"
+        ],
+        "descriptions": [
+            "This pattern feels like two sets of mobile rings with different lengths.\t\t",
+            "This pattern feels like a heart beat.",
+            "It is pretty mild, can hardly feel it,",
+            "The buzzing vibration replicates hearbeat. It can explained as a fast heartbeat when a person is feeling stressed.",
+            "i can descride the sensation as the one i feel while holding a vibrator",
+            "It feels like cell phone vibrations when phone is on vibration mode.",
+            "reminds me of a morning alarm that eases into getting your attention but does not irritate you.",
+            "It kinda felt wierd as I perceived it as a heartbeat. I felt it was subtle and not alarming.",
+            "I would describe this sensation as a beeping vibration.",
+            "A sesnsation that resembles my alarm vibration, beats every 2 seconds"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "simulative, anxious, stressed, fast pacing, light buzz, needs attention, calming, familiar, passive, wake up call, reminder"
+        ],
+        "descriptions": [
+            "This sensation feels simulative.",
+            "It feels a bit anxious about this sensation",
+            "It does not make me feel alert.",
+            "The sensation made me feel anxious and stressed. It was because of the fast pacing.",
+            "i can just feel a light buzz",
+            "IT makes me feel like something needs attention.\t",
+            "it draws my attention, but is calming at the same time.",
+            "It made me feel calm. Some emotions I felt were exciting.",
+            "This sensation felt familiar, i just felt passive to the sensation",
+            "Like a \"wake up call\" or a \"reminder\""
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "vibration, mobile phone, heart beating, stethoscope, human heart beat, game controller, character's health, notifications, morning alarm, unique, new, spaced out phone ringing, timer, alarm"
+        ],
+        "descriptions": [
+            "This reminds me a varied vibration of a mobile phone.",
+            "It reminds me of listening to the heart beating through a sthethoscope",
+            "Yes, it closely resembles the pattern of a human heart beat.",
+            "This reminded me of a game controller vibration pattern it makes when my character's health is low.",
+            "it is like a heart beating sensation",
+            "It reminds me of time when i get the phone notifications.",
+            "i associate this with a morning alarm on a phone, but it is not as annoying.",
+            "no I actually haven't experienced this kinda sensation or a haptic before. I feel its very unique and new for me.",
+            "I feel like i've felt it previously almost like a spaced out phone ringing or a timer that just went off thats currently still on ",
+            "It reminds me of my alarm every morning"
+        ]
+    }
+}

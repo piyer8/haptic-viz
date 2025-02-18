@@ -1,0 +1,60 @@
+{
+    "signal_id": "30",
+    "sensory": {
+        "keywords": [
+            "short vibrating pulses, slow intervals, somewhat irregular, multiple vibrations, increasing lengths, discomforting motion, to and fro, irregular manner, on off pattern, sequential vibrations, long period, no vibration, short vibrations, long vibration, faulty appliance, someone playing the drums, uneven beats, no pattern, weird, unfamiliar, growl, soft, long intervals, delivering dialogue, singing"
+        ],
+        "descriptions": [
+            "This sensation seems to be characterized by short vibrating pulses at slow and somewhat irregular intervals. ",
+            "Multiple different types of vibrations of increasing lengths.",
+            "discomforting motion vibrations that were to and fro on the walls with irregular manner",
+            "This is an on off pattern with sequential on vibrations in between a long period of no vibration.",
+            " the couple of short vibration at the start and ends with long vibration ",
+            "The sensation of a faulty appliance",
+            "it feels like someone playing the drums ",
+            "The sensation were very uneven beats and with no pattern. ",
+            "The sensation is weird and unfamiliar",
+            "NA",
+            "The vibration is more like a growl, soft and long with intervals in between",
+            "It is like someone is delivering a dialogue or singing"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "confused, excited, watch a movie, vibrating sensation, discomfort, walls vibrating, irregular manner, unpleasant, sleepy, quiet, sharp, irritated, happy, energetic, song, multiple beats, neutral, adventurous, wanting to know more"
+        ],
+        "descriptions": [
+            "This sensation makes me feel confused. ",
+            "It makes me feel excited, like when I am about to watch a movie.",
+            "i felt vibrating sensation with discomfort emotion as the walls were vibrating in irregular manner and also not pleasent enough",
+            "I feel sleepy when I listen to this.",
+            "It feels quiet and sharp",
+            "It makes me feel irritated",
+            "it makes me feel happy and energetic",
+            "The sensation felt like a song that has multiple beats playing at the same time. ",
+            "The sensation feels neutral",
+            "NA\t",
+            "I feel adventurous",
+            "It makes me feel wanting to know more"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "bass-heavy pop songs, sense of rhythm, intro sound, movies, vibrating groove, engine, not working properly, snoring, wall drilling, appliance not working properly, loud vibrations, drums, concerts, multiple beats, no pattern, accelerating, beach buggy, vibrations, accelerator handle, listening to speeches"
+        ],
+        "descriptions": [
+            "I am reminded of the times I have heard bass-heavy pop songs that I do not enjoy and struggled to find a sense of rhythm in the song.",
+            "It is like an intro sound to movies starting, a very famous prodction house, I am not able to remember the name of.",
+            "this reminds of keeping your hand on a engine and feeling the vibrating groove inside it but also it should be not working properly for it to replica the vibrations and sensations",
+            "This reminds me of snoring.",
+            "I can associate with wall drilling ",
+            "It reminds me of trying to use an appliance that is not working properly",
+            "it reminds me of the loud vibrations from drums at concerts or events",
+            "It feels like I am listening to a song that heas multiple beats going on at the same time and has no pattern it is following. ",
+            "N.A.",
+            "NA",
+            "Feeling like accelerating a beach buggy, vibrations you get form the accelarator handle",
+            "It reminds of listening to speeches"
+        ]
+    }
+}

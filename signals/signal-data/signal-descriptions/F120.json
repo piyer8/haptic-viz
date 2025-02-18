@@ -1,0 +1,54 @@
+{
+    "signal_id": "120",
+    "sensory": {
+        "keywords": [
+            "buzz, quick beats, rhythmic, marching rhythm, combination, oscillating, amplitudes, frequencies, slow drumrolls, familiar, slow, bumps, sudden vibrations, start and stop, rotating wheel, frequency, bass, sequence, gap, active"
+        ],
+        "descriptions": [
+            "This sensation was a buzz followed by two quick beats",
+            "The sensation is rhythmic. ",
+            "This sensation feels like a marching rhythm. ",
+            "This sensation was a combination of 2 sensations oscillating but had different amplitudes and frequencies.",
+            "Sensation feels like slow drumrolls beating",
+            "This sensation could seem to be very familiar, slow in the begining and has a few bumps as it progresses ahead. ",
+            "the vibrations felt were sudden\t",
+            "this sensation is more like start and stop of rotating wheel with less frequency\t",
+            "Bass of whoopher sound",
+            "The sensation was like 1..23, 1..23 in sequence for me. there was a gap after the first beat and it felt very active."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "anxious, enjoyable, pleasant, excited, tensed, impending, serious, important, happy, curious, urgency, irritating, not smooth, thumping, energy, active, waking up, alarm"
+        ],
+        "descriptions": [
+            "The sensation made me feel anxious",
+            "The sensation makes me feel enjoyable and pleasant.",
+            "This sensation makes me excited.",
+            "The sensation made me feel tensed and impending of something serious or important is about to happen.",
+            "Sensation makes me feel happy and curious",
+            "The sensation initially made me feel a little anxious but later with the second vibration it made me feel enjoyable. It made me feel excited after feeling it twice. ",
+            "the vibrations gave me a feeling of urgency\t",
+            "this sensation makes me fell iritating as it is not so smooth\t",
+            "Thumping energy feeling",
+            "It made me feel active, as If it's waking me up. I'd wakeup to this for sure as an alarm."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "fast heartbeat, beats of music, marching in the band, rhythm of the drums, nerves pulsating, ride, roller coaster, machines starting, excited, vibrations, phone notification, bus horn, music from speakers, dancing, music"
+        ],
+        "descriptions": [
+            "The sensation reminded me of a fast heartbeat",
+            "The sensation reminds me of beats of music.",
+            "This sensation reminds me of marching in the band following the rhythm of the drums. ",
+            "The sensation reminded me of nerves pulsating in a human body.",
+            "NA",
+            "This sensation reminds me of the time when you are on some ride or roller coaster in the very initial stage before the ride actually starts. The sensation strongly associates with the machines starting on a roller coaster and makes you excited. ",
+            "the vibrations were similar to those felt for a phone notification",
+            "This sensation reminds of a bus horn",
+            "Listening to music from speakers in a close area",
+            "Yes, I feel it when I'm dancing; music."
+        ]
+    }
+}

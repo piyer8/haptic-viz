@@ -1,0 +1,54 @@
+{
+    "signal_id": "161",
+    "sensory": {
+        "keywords": [
+            "periodic signal, three beats, equal intensity, equal duration, increasing rapidly, loss of intensity, harsh buzz, mild buzz, continuous nature, low frequency, long pulses, vibration, drum beat, intense, frequent, fast movement, continuous vibration, intervals, constant light vibration, short vibrations, bigger vibrations"
+        ],
+        "descriptions": [
+            "This is a periodic signal with three beats. The three beats are equal in intensity and duration.",
+            "Each sensation felt like increasing rapidly then lossing its intencity",
+            "this sensation starts with a harsh buzz then ends with a mild buzz, it is continous in nature.",
+            "The sensation was a low frequence yet long pulses of vibration.",
+            "I would describe this sensation as 1 2 3.",
+            "I would describe the sensation to someone else as a drum beat a drummer would play.",
+            "The sensation is intense and frequent.",
+            "The signal gives me the sensation for moving fast and intense.",
+            "This sention feels like there is continous vibration after intervals",
+            "The sensation is a constant light vibration with 3 short but bigger vibrations happening."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "missing, longing, thrilled, uncomfortable, sudden change, calm, distant, comfortable, relaxed, alarmed, anxious, foggy, prepared, excitement"
+        ],
+        "descriptions": [
+            "I feel like I am missing something or longing.",
+            "sensation made me feel thrilled.",
+            "this sensation makes me feel uncomfirtable due to sudden change in the sensation.",
+            "The sensation made me feel calm.",
+            "This sensation makes me feel distant.",
+            "The sensation makes me feel comfortable. I feel relaxed by this sensation\t",
+            "It makes me feel alarmed and anxious.",
+            "I feel somehow anxious.",
+            "it makes me feel foggy",
+            "It makes me feel like I should be prepared for something and I feel the emotion of excitement."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "movie scene, music, alcohol addiction, bike, video game, string of a bass, vibrating, rev of a motorcycle engine, electric toothbrush, marching band, drum, drum beat, alarm, talking to boss, music beats, motorcycles, turn the pedal"
+        ],
+        "descriptions": [
+            "This signal reminds me of a movie scene music, where protagonist is trying to overcome alchol adiction and he finds a alchohol in his house.",
+            "It felt the same as when I give raise in my bike and let go of it.",
+            "this reminds me of a video game ",
+            "It reminded me like the string of a bass vibrating and the rev of a motorcycle engine.",
+            "This sensation reminds me of my electric toothbrush.",
+            "The sensation reminds me of a marching band when playing a drum. I can associate the sensation with a drum beat.",
+            "It feels like an alarm.",
+            "It makes me to think about to talk to my boss.",
+            "It reminds me of music beats",
+            "The sensation reminds me of motorcycles and the feeling when you turn the pedal I think. I don't ride a motorcycle, but it seems like that."
+        ]
+    }
+}

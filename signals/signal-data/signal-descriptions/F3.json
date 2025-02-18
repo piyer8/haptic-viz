@@ -1,0 +1,54 @@
+{
+    "signal_id": "3",
+    "sensory": {
+        "keywords": [
+            "prolonged beep, rapid beat, vibration, strength, mild, strong, nudge, constant vibration, repetitive pulse, emergency feedback, alarm feedback, beats, bump, vibrations, incoming call"
+        ],
+        "descriptions": [
+            "This sensation feels like a single prolonged beep breaking down all of a sudden.",
+            "This sensation is a rapid 4 count beat.",
+            "A vibration with strength between mild and strong",
+            "I would describe this pattern as a nudge. It feels like a nudge on the back of the shoulder when you tap someone.",
+            "it is like a constant vibration without any drops or ups.",
+            "This sensation reminds me of game controller and specifically Need for Speed Car crash.",
+            "it's a repititive and strong pulse, felt every so often",
+            "This one felt like an emergency or alarm based haptic feedback. Although I noticed it had 4 beats in a go and it restarts again.",
+            "i would describe this sensation as 'bump bump' except with vibrations",
+            "it is a vibration that resembles an incoming call "
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "sensation, comforting, playing, guitar, alert, human connection, tap on shoulder, phone call vibration, pleasant, playing, NFS, good time, anxious, panicky, elevated senses, active, emergency, haptic signal, evacuation, action"
+        ],
+        "descriptions": [
+            "This sensation isn't comforting.",
+            "Feels like playing a guitar cord",
+            "It makes me feel alert",
+            "It made me feel like another human is trying to connect to me. As a tap on the shoulder or like a phone call vibration a phone makes.",
+            "it makes me feel pleasent.",
+            "It makes me feel like i am playing NFS and having a good time.",
+            "It makes me feel anxious, and panicky.",
+            "It evevated my sense and make me active, definetly it felt like an emergency haptic tying to send a signal of evacuation of some sort. ",
+            "N.A",
+            "It makes me feel like I need to take action on something"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "guitar, striking, heart beat, exercise, phone call vibration, smartphone, alarm vibration, washing machine, Need for Speed, jackhammer, strong, repetitive, earthquake evacuation, vibrating chair, picking up a call"
+        ],
+        "descriptions": [
+            "NA",
+            "It reminds me of striking the same cord of a guitar four times",
+            "It resembles a faster heart beat, something that could occur after one has exercised.",
+            "A phone call vibration pattern made by a smartphone or a morning alarm vibration pattern that I have felt before numerous times.",
+            "i get the sensation i get when i touch a washing machine",
+            "Yes, It reminds me of time i used to play Need for Speed.",
+            "it is similar to a jackhammer, strong and repetitive",
+            "Yea I feel I have experienced something of this sort while praticing eartquake evacuation.",
+            "It reminds me off a vibrating chair ",
+            "It rminds me of picking up a call"
+        ]
+    }
+}

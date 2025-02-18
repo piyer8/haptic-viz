@@ -1,0 +1,54 @@
+{
+    "signal_id": "155",
+    "sensory": {
+        "keywords": [
+            "beats, burst, vibration, intensity, buzzing, machine-like, beeps, harsh, pulse, high frequency, interval, gradually decreases, clapclap, dumdumdum, strong, stable, varying, intense, non-intense, moving, not smooth, harsh, smooth, rhythm, small vibrations, big vibrations, long vibration, stop"
+        ],
+        "descriptions": [
+            "This signal can be described as two small beats followed by a sudden burst of vibration or intensity.",
+            "Sensation felt very buzzing and machine like",
+            "this sensation starts with two short beeps followed by 3 harsh buzz",
+            "The sensation was two soft barely noticable pulse followed by three high frequency vibration where the interval between those three vibration gradually decreases.",
+            "I would describe this sensation as a clapclap dumdumdum.",
+            "I would describe the sensation as a strong stable vibration to someone else.",
+            "The sensation is varrying between intense and non intense bips.",
+            "The signal gives me the sensation for moving not really smoothly.",
+            "This sensation is harsh at first and smooth in the next rythm",
+            "It feels like two small vibrations followed by two big and long vibration, but there's a stop in the middle of the second big vibration."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "alert, determined, cheerful, uncomfortable, anxious, alarming, panic, fear, surprise"
+        ],
+        "descriptions": [
+            "I felt like I am alert.",
+            "NA",
+            "this sensation makes me feel determined.",
+            "It made me feel cheerful.",
+            "N.A.",
+            "The sensation makes me feel uncomfortable and anxious",
+            "It feels alarming.",
+            "It makes me feel like a little bit panic and anxious.",
+            "NA",
+            "It reminds me of the feeling of fear or surprise."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "sixth sense, observing, spidey sense, buzzing machine, determined, coursework, orchestra, transition, exciting phone alarm, vibration, shouting, mistake, fire alarm, homework, scared, big jump"
+        ],
+        "descriptions": [
+            "This is reminds me of something we say sixth sense, we sense that something is not right and keep observing and we find something or we obseve something all of a sudden. more like spidey sense.",
+            "Sensation felt like someone is operating a buzzing machine",
+            "this sensation reminds me of being determined for my coursework",
+            "It reminds me of some of the orchestra I heard where they transition between movement.",
+            "This sensation reminds me of a exciting phone alarmm vibration.",
+            "The sensation feels as if someone is shouting at me for a mistake.",
+            "It feels like a fire alarm.",
+            "It makes me to associated to not make my homework before the due.",
+            "NA",
+            "The sensation reminds me of the action of being scared. One moment it's fine the second moment there's a big jump."
+        ]
+    }
+}

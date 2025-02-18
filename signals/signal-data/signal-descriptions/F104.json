@@ -1,0 +1,54 @@
+{
+    "signal_id": "104",
+    "sensory": {
+        "keywords": [
+            "constant vibration, not steady, mix, low intensity, intense haptics, ringing bells, huge bell, constant interval, intense scene, something about to happen, very low intensity, prickly vibrations, coarse vibration, following a rhythm, continuous buzzes, periodic vibration, uplifting tone, repetitive nature, rhythm, dance instructor, 4 bursts, high intensity, alternating, electronic song, rock music genre"
+        ],
+        "descriptions": [
+            "The sensation is a constant not so steady vibration",
+            "The sensation is a mix of low and intense haptics",
+            "The sensation is ringing multiple bells with a huge bell at constant interval",
+            "This sensation is like an intense scene or something is about to happen\t",
+            "This vibration has very low intensity prickly vibrations then it transitions into coarse vibration but it feels like its following a rythem.",
+            "The sensation was like contiinous buzzes, which was like the first two buzzes were less intense than the next two buzzes. It was a periodic vibration.",
+            "The sensation had an uplifting tone to it and was of a repetitive nature.",
+            "This sensation is a rhythm you'd expect to hear from a dance instructor when they are trying to teach you",
+            "The sensation has 4 burst each of low intensity followed by those of high intensity alternating.",
+            "it feels like an electronic song. feels like a rock music genere"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "neutral, calming, anxious, energetic, attentive, draws attention, enjoyable, funny, thrilling, reassured, exciting, happy, want to dance"
+        ],
+        "descriptions": [
+            "This makes me feel neutral and calming.",
+            "The sensation made me feel anxious",
+            "The sensation feels energetic\t",
+            "This sensation makes me attentive and draws my attention.",
+            "This vibration makes me feel enjoyable and funny.",
+            "This sensation made me feel anxious and thrilling. ",
+            "The sensation made me feel reassured",
+            "It certainly feels exciting and happy. ",
+            "The sensation makes me feel thrilling.",
+            "it makes me want to dance"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "trimmers, massage machines, phone haptics, call, morning alarm, intense scene, game, thrilling music, suspense movies, climax scenes, marching band, big dance event, school, wedding, suspense movie, waves, concerts"
+        ],
+        "descriptions": [
+            "This reminds me of trimmers and massage machines.",
+            "The sensation reminds me of the phone haptics during a call.",
+            "It reminds me of morning alarm",
+            "This reminds me of an intense scene in a game.",
+            "NA",
+            "This reminds me of the thrillingg music that is played in suspense movies at the climax scenes.",
+            "This sensation reminded me a marching band.",
+            "This sensation feels like practising for a big upcoming dance event at your school or wedding. ",
+            "The sensation reminds me of a suspense movie where the climax is being built up slowly in waves of up and down.",
+            "yes it reminds me of concerts"
+        ]
+    }
+}

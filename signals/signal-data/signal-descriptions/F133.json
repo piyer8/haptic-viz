@@ -1,0 +1,54 @@
+{
+    "signal_id": "133",
+    "sensory": {
+        "keywords": [
+            "low rumble, 2/3 seconds, repeats, small 12v motor, low voltage, continuous, dull vibration, mild vibrations, videogame, gun shooting, continuous, slow paced, consistent, short pause, very soft, felt long, too soft, light, calm, short intervals, slightly long intervals"
+        ],
+        "descriptions": [
+            "I would describe this sensation as a low rumble that goes on for about 2/3 seconds, then repeats. ",
+            "sensation feels like a small 12v motor running at low voltage.",
+            "This sensation is a continuous dull vibration",
+            "Sensation is so mild vibrations.",
+            "I would describe this sensation as something like using the gun in a videogame to shoot on the target. ",
+            "the sensation is continuous slow paced",
+            "I would describe the sensation as consistent but with short pause.",
+            "The sensation was very soft and felt long.",
+            "This sensation is too soft and very light. ",
+            "The sensation is calm with short and slightly long time intervals"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "discontent, struggling, tiresome, monotonous, joyful, calm, relaxed, depressed, attentive, content, electric, confused, light, soft, calm"
+        ],
+        "descriptions": [
+            "The sensation or emotion I feel from this feedback is a kind of discontent. It makes me feel as though I'm struggling through something that is tiresome and monotonous. ",
+            "feels like a joyful",
+            "This sensation makes me feel calm and relaxed",
+            "Sensation feels like being depressed.",
+            "It makes me feel more attentive to my surrondings. ",
+            "sensation make me feel content,calm",
+            "The sensation make me feel electric.",
+            "N.A.",
+            "This sensation made me feel quite confused, it was too light and soft.",
+            "The sensation is calm."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "Tom, Jerry, mouse, pushing, heavy, oval-ish object, cobblestone path, faint feeling, light, motor, remote car, massager, vibration, face timing, Mac, post mediation time, ceiling fan, soft, heartbeats, fingertips, travelling, car, highways, pulling, thread, spool"
+        ],
+        "descriptions": [
+            "The immediate mental image this reminds me of is Tom or Jerry (whichever one is the mouse) kind of pushing a heavy, for mouse, oval-ish object up a cobblestone path. It is a very faint feeliing very light, but it comes in and out over few seconds. ",
+            "feels like i am having a motor of a remote car in my hand.",
+            "This sensation reminds me of a massager",
+            "N.A.",
+            "This is reminds me of the vibration I feel when someone is face timing me on my Mac. ",
+            "its reminds me after post mediation time",
+            "This reminds me of ceiling fan.",
+            "The sensation was too soft, but I could feel my heartbeats at my fingertips.",
+            "This sensation is similar to something which I feel which travelling in a car on highways",
+            "The sensation reminds me of pulling a thread from a spool."
+        ]
+    }
+}

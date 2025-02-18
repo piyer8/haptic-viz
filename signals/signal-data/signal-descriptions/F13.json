@@ -1,0 +1,60 @@
+{
+    "signal_id": "13",
+    "sensory": {
+        "keywords": [
+            "moderately long, moderately paced, pulsing vibrations, vibration, alarm, elongated, periodic vibrations, siren sensation, buzzing, fire alarm, repeating on off, longer on period, off period, hand, dragging chair, electric appliance, mixer grinder, phone alarm, rock music, beats dropping, rough, uneven, self-start button, motor bikes, calling, sense of urgency"
+        ],
+        "descriptions": [
+            "The sensation is characterized by moderately long, moderately paced pulsing vibrations. ",
+            "It is the vibration you feel when your alarm goes off and your phone/clock is under your pillow, elongated periodic vibrations.",
+            "this felt like a siren sensation , that is buzzing beacuse fire alarm has started",
+            "it is a repeating on off, where the on period is longer than the off period.",
+            "it feels like when we place the hand on the Dragging chair",
+            "This feels like an electric appliance, like  a mixer grinder",
+            "it feels like the phone alarm you set to wake up every morning",
+            "This sensation felt like rock music with beats dropping. ",
+            "The vibration is rough and uneven",
+            "This reminds me of the Self-Start button in the motor bikes. ",
+            "Its like someone is calling you on your phone and you have it in your hand",
+            "This haptics creates a sense of urgency"
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "frustration, waking up, alarm, uneasy, alarming, urgency, run, weird, neutral, annoyed, rap music, rock music, strong beats, drops, familiar, incomplete, ok, ready, as soon as possible"
+        ],
+        "descriptions": [
+            "This sensation elicited the specific type of frustration that comes with waking up in the morning to an alarm when you don't feel ready to get out of bed. ",
+            "It makes me feel uneasy.",
+            "sensation and emotions felt quite alarming and also created a urgency to reun in my mind",
+            "N.A.",
+            "it feels weird",
+            "It makes me feel neutral.",
+            "it makes me feel annoyed",
+            "This sensation reminds me of rap music or rock music which strong beats and drops. ",
+            "It is good and familiar",
+            "No specific sensation, yet the end of the vibration does make me feel that something is incomplete.",
+            "I feel ok with this vibration",
+            "It makes me feel I need to be ready as soon as possible"
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "alarms, get up, bed, morning, fire drill, office, garden, siren, haunting sensation, massage chair, dragging the chair, household chores, phone alarms, wake up, concert, raps, vibration, washing machine, self start button, motor bike, urgency, late"
+        ],
+        "descriptions": [
+            "This sensation reminds me of alarms I have had in the past to get me out of bed in the morning. ",
+            "It reminds me of when my alarm goes off and my phone is under the pillow.",
+            "this remind me on a fire drill that happend in my office , same alarm stated and i had to run to the garden , the beats felt like same siren and was haounting sensation",
+            "This sound reminds me of a massage chair.",
+            "i can relate to Dragging the Chair",
+            "It reminds me of regular household chores",
+            "it reminds me of the phone alarms we use to wake up in the mornings",
+            "I have felt this before when I am in a concert or listening to raps. ",
+            "The vibration reminds me of vibration from a washing machine",
+            "Yes, while using the self start button of the motor bike, and it does feel that it is not yet started.",
+            "Similar to a phone call vibration",
+            "It reminds me of the times I was late to go out somewhere and the urgency it created"
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "signal_id": "34",
+    "sensory": {
+        "keywords": [
+            "soft, quick, rhythm, small pulses, beats, smoothly, gentle, consistent vibration, wake you up, short continuous vibrations, continuous sensation, pulsing, never stopped, rotating object, periodic, vibrations, up and down in strength, rapid, repetitive vibration, constant taps, Arythmic Heartbeat, rhythmic, short duration movement"
+        ],
+        "descriptions": [
+            "this feels like a soft, quick rhythm",
+            "This sensation felt like small pulses and beats playing smoothly.",
+            "It's a gentle but consistent vibration, something that reminds you of someone trying to wake you up.",
+            "This sensation feels like short continuous vibrations",
+            "It was a continuous sensation, it kept pulsing but never stopped or paused",
+            "this sensations feels like that of an object rotating as it is periodic and the vibrations go up n down in strength.",
+            "I would describe this sensation as a rapid repitative vibration.",
+            "The sensation feels like constant taps or vibrations.",
+            "It feels like Arythmic Heartbeat.",
+            "The sensation is a rhymtic short duration movement."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "hurry, calm, steadily convey, alert, urgency, run, uneasy, unpleasant memories, triggered, instant action, emergency, on edge, panicky, anxious"
+        ],
+        "descriptions": [
+            "this sensation makes me feel in some hurry. ",
+            "it made me feel calm.",
+            "It reminds me of something steadily trying convey something to me.",
+            "This sensation makes me feel like its giving me an alert",
+            "Feels like hurry, like I have to run",
+            "this sensation makes me feel uneasy as my situatios and memories associated with it are not pleasant.",
+            "This sensation makes me feel triggered.",
+            "I feel I need to do something instantly or attend to some emergency instantly.",
+            "It makes me feel on edge.",
+            "The sensation makes me feel like panicky and anxious."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "emotion, urgency, water flowing, phone call, vibration, motor, churning butter, food processor, pulse mode, old IC engine, washing machine, high load, rusty tires, bicycle, brakes, pedalled, SOS warning, phone vibration, important message, emergency broadcast, weather condition, water bottle, falling, heartbeat, run"
+        ],
+        "descriptions": [
+            "it feels like describing an emotion associated with urgency",
+            "This sensation felt similar to water flowing freely.",
+            "It reminds me of getting a phone call when my phone is on vibration.",
+            "It reminds me of a motor",
+            "felt a bit like churning butter, operating a food processor on pulse mode and trying to cranck an old IC engine ",
+            "this vibration reminds me of the washing machine running on very high load of clothes and the really rusty tires of a bycicle and brakes as they are pedalled hard to move forward.",
+            "This reminds me of SOS warning.",
+            "It feels like a phone vibration with some imporatant message such as emergency broadcast for weather condition.",
+            "It is like a water bottle falling down 6 steps and then an interval and then 6 steps again.",
+            "The sensation reminded me of my heartbeat after a run."
+        ]
+    }
+}

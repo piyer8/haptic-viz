@@ -1,0 +1,54 @@
+{
+    "signal_id": "118",
+    "sensory": {
+        "keywords": [
+            "chaotic, continuous, vibration, coarse, rough, bumpy, weird, blend, oscillating, pattern, heartbeat, rapid intervals, slower waves, aggressive, intense, dips in intensity, calm, slow, random, concert noise, low magnitude, stomach sounds, grainy"
+        ],
+        "descriptions": [
+            "The sensation was a chaotic continous vibration",
+            "The sensation is coarse and rough.",
+            "The sensation feels like sitting in a car while going over a bumpy road.",
+            "The sensation was weirdly a blend of more than 1 sensation oscillating and making a pattern.",
+            "Sensations feel like a heatbeat but with short rapid intervals",
+            "The sensation starts with slower waves of vibration and as time passes gets a little aggresive. ",
+            "the vibrations were intense with some dips in intensity",
+            "this senstaion is very calm, slow and almost feels nothing has happened",
+            "This feels like a random concert noise in low magnitude",
+            "This sensation is like, when you don't have anything for too long and your stomach makes weird sounds. These vibrations were exactly like that. The Vibrations were very grainy."
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "energised, weird, dirty, irritating, excited, anxious, curious, prickly, unpleasant, uncomfortable, calmness, warm, concert, vibrations, hungry"
+        ],
+        "descriptions": [
+            "The sensation made me feel energised.",
+            "The sensation makes me feel weird and feels dirty.",
+            "The sensation feels a bit irritating.",
+            "The sensation made me feel excited.",
+            "Sensation makes me feel anxious and curious",
+            "This sensation felt moderately prickly and was a litttle unpleasent to feel. It made me feel unconfortable and weird. ",
+            "the vibrations gave me a feeling of calmness",
+            "This sensation makes me feel warm\t",
+            "When you are in surroundings of concert. the concert vibrations looks like this",
+            "It made me feel hungry."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "video game controller, driving vehicles, gravel, sitting back of car, mother drives, mildly bumpy road, drums, festival, finishing an exam, no study, pricked by thorn, flowers, feeling pricked, stung, vibrations, musical instrument, cycle wheel, road, concerts, vibrations when hungry"
+        ],
+        "descriptions": [
+            "The sensation reminded me of a video game controller",
+            "The sensation reminds me of driving vehicles on gravel.",
+            "This sensation reminds me of sitting at the back of the car while my mother drives on a mildly bumpy road.",
+            "The sensation reminded me of drums that play during a festival. ",
+            "Sensation reminds me of just finishing a exam after doing no study",
+            "Recently I was pricked by a thorn in a bunch of flowers, this sensation made me resonate with that feeling of being pricked or stung. ",
+            "this was similar to the vibrations felt when playing a musical instrument",
+            "This sensation reminds me of cycle wheel while going on a road",
+            "When i am around concerts i felt like this",
+            "Yes, I've felt such kind of vibrations before, they are the first thing I feel when I'm very hungry."
+        ]
+    }
+}

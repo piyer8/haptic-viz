@@ -1,0 +1,54 @@
+{
+    "signal_id": "63",
+    "sensory": {
+        "keywords": [
+            "charging up, electronic, alien gun, repeated, starting, motor bike, vibration, continuous, weak, strong, repeats, vibrations, cycle, low, high point, fades away, looped, stomach, hungry, light, intense, circular, repetitive, amplitude, increases, gradually decreases, dragged out, zig zag, buzzes, pattern, firm"
+        ],
+        "descriptions": [
+            "This sensation felt like a charging up mechanism of an electronic alien gun",
+            "This sensation can be described as repeated starting a motor bike but not actually driving it.",
+            "The vibration is continous but it changes from weak to strong but doesnt go all the way and repeats itself.",
+            "This sensation is like vibrations in a cycle",
+            "A sensation which starts low at the beginning, reached the high point at the middle and fases away to nothing in the end and this is looped ",
+            "this vibration is like the sound of someone's stomach when theyare vey hungry",
+            "The sensation is like light to intense circular vibration but repitive.",
+            "This sensation is vibrations of some amplitude not too high, which increases in the start and then gradually deacreases.",
+            "it gives out dragged out zig zag buzzez, which is shorter on one end.",
+            "The sensation is in a pattern and firm. "
+        ]
+    },
+    "emotional": {
+        "keywords": [
+            "curious, aroused, energized, constant action, flying, helicopter, hungry, exciting, sporadic, intense, tired, thrilled, urgent"
+        ],
+        "descriptions": [
+            "This sensation makes me curious and aroused, wanting to learn more about where it came from",
+            "This sensation made me feel energized.",
+            "It makes me feel like i'm doing something that's happening constantly without breaks.",
+            "NA",
+            "This sensation makes me feel like I'm flying maybe because it reminds me of a helicopter. ",
+            "this sensation makes me feel very hungry, n funny how it is so similar.",
+            "This sensation makes me feel excited.",
+            "This makes me feel spradic and intense.",
+            "it makes me feel tired.",
+            "The sensation made me feel thrilled and urgent."
+        ]
+    },
+    "associative": {
+        "keywords": [
+            "weapons, Guardians of the Galaxy, breaking down, vehicle, yo-yo, spinning, moving, circles, doppler effect, propeller aircraft, stomach grumbled, yoga class, grinder, flying, propeller plane, starting engine, vibration, low caliber weapon, firing burst shots, mopping, rough surface, heartbeat"
+        ],
+        "descriptions": [
+            "It felt like it was coming from weapons from the Guardians of the Galaxy",
+            "This reminded me of something breaking down like a vehicle.",
+            "It reminds me of when I was holding a yo-yo in my hand and was spinning it around.",
+            "This sensation reminds me of moving something in circles",
+            "This sensation reminded me of the doppler effect observed when propellor aircraft flies past us ",
+            "it reminds me of a situation when my stomach grumbled so loudly during a yoga class.",
+            "This remind me of a grinder.",
+            "This reminds of flying a propeller plane and strarting it's engine which makes this vibration when it is starting. It also feels like low caliber weapon firing burst shots.",
+            "it feels like mopping on a rough surface.",
+            "The sensation reminds me of a heartbeat."
+        ]
+    }
+}
