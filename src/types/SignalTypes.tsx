@@ -15,5 +15,5 @@ export interface EmotionalKeyword {
 }
 export interface SignalEmotions {
     signal_index: string;
-    keywords: EmotionalKeyword[];
+    emotional_keywords: EmotionalKeyword[];
 }
