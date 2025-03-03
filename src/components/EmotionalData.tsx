@@ -1,15 +1,15 @@
 import { EmotionalKeyword, SignalEmotions} from "../types/SignalTypes";
 import {useEffect, useState} from "react";
 import { WordPlot } from "./WordPlot";
-import { useParams, useSearchParams } from "react-router-dom";
-export default function EmotionalData() {
-    const [signalIndex, setSignalIndex] = useState<string>();
+import { useParams } from "react-router-dom";
+export default function EmotionalData(props:{signalIndex?: number}) {
+    const [signalIndex, setSignalIndex] = useState<string>(`F${props.signalIndex}`);
     const [signalEmotions, setSignalEmotions] = useState<SignalEmotions>();
     const [signalPlot, setSignalPlot] = useState<string>();
     const [uniqueWords, setUniqueWords] = useState<string[]>();
     const [wavePlot, setWavePlot] = useState<string>();
     const { signalID } = useParams();
-    const loadData = (): void => {
+    const loadDataFromParams = (): void => {
         let si = signalID;
         if(si){
             setSignalIndex(si)
@@ -22,8 +22,21 @@ export default function EmotionalData() {
     }
 
     useEffect(() => {
-        loadData()
+        if(!signalIndex)
+            loadDataFromParams()
+        else{
+            setSignalIndex(`F${props.signalIndex}`);
+            setSignalPlot('/emotion-plots/'+props.signalIndex +'.png');
+            setWavePlot('/wave-plots/' + props.signalIndex + '_loop.png');
+        }
     },[])
+    useEffect(() => {
+        if(props.signalIndex){
+            setSignalIndex(`F${props.signalIndex}`);
+            setSignalPlot('/emotion-plots/F'+props.signalIndex +'.png');
+            setWavePlot('/wave-plots/F' + props.signalIndex + '_loop.png');
+        }
+    }, [props.signalIndex]);
 
     useEffect(() => {
         setUniqueWords([...new Set(signalEmotions?.emotional_keywords?.map((emotion: EmotionalKeyword) => emotion.word))])

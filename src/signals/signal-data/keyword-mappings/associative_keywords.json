@@ -1,0 +1,7182 @@
+{
+    "heartbeat": [
+        "113",
+        "100",
+        "135",
+        "137",
+        "138",
+        "33",
+        "59",
+        "47",
+        "34",
+        "36",
+        "63",
+        "1",
+        "8",
+        "19",
+        "95"
+    ],
+    "alarm": [
+        "113",
+        "114",
+        "121",
+        "123",
+        "105",
+        "108",
+        "161",
+        "152",
+        "153",
+        "129",
+        "141",
+        "41",
+        "45",
+        "49",
+        "69",
+        "80",
+        "43",
+        "26",
+        "26",
+        "31",
+        "2",
+        "4",
+        "15",
+        "20",
+        "27",
+        "82",
+        "91"
+    ],
+    "phone vibrating": [
+        "113",
+        "85"
+    ],
+    "sonography": [
+        "113"
+    ],
+    "mobile notification": [
+        "113",
+        "146"
+    ],
+    "alert": [
+        "113",
+        "114",
+        "158",
+        "55"
+    ],
+    "doorbell ring": [
+        "113"
+    ],
+    "car crash": [
+        "113"
+    ],
+    "video game": [
+        "113",
+        "161",
+        "156",
+        "140",
+        "24",
+        "27"
+    ],
+    "car honking": [
+        "114"
+    ],
+    "getting late": [
+        "114"
+    ],
+    "fire alarm": [
+        "114",
+        "155",
+        "33",
+        "46",
+        "10",
+        "31",
+        "4",
+        "29"
+    ],
+    "running across a field": [
+        "114"
+    ],
+    "gaming console": [
+        "114",
+        "43"
+    ],
+    "racing car game": [
+        "114"
+    ],
+    "musical instrument": [
+        "114",
+        "118"
+    ],
+    "wave travelling fast": [
+        "114"
+    ],
+    "phone vibration": [
+        "114",
+        "146",
+        "140",
+        "34",
+        "40",
+        "60",
+        "9"
+    ],
+    "vehicle": [
+        "115",
+        "141",
+        "63"
+    ],
+    "moving": [
+        "115",
+        "138",
+        "63"
+    ],
+    "stopping": [
+        "115",
+        "75"
+    ],
+    "massager": [
+        "115",
+        "129",
+        "133",
+        "42",
+        "39"
+    ],
+    "standing": [
+        "115"
+    ],
+    "ocean": [
+        "115"
+    ],
+    "waves": [
+        "115",
+        "104",
+        "131",
+        "50",
+        "76"
+    ],
+    "feet": [
+        "115"
+    ],
+    "autoclave machine": [
+        "115"
+    ],
+    "operation": [
+        "115"
+    ],
+    "brother": [
+        "115"
+    ],
+    "massaging legs": [
+        "115"
+    ],
+    "slowly": [
+        "115"
+    ],
+    "momentum": [
+        "115"
+    ],
+    "video game controller": [
+        "115",
+        "116",
+        "118"
+    ],
+    "motor": [
+        "115",
+        "116",
+        "122",
+        "125",
+        "130",
+        "133",
+        "34",
+        "39",
+        "23",
+        "84"
+    ],
+    "mill factory": [
+        "115"
+    ],
+    "head massages": [
+        "115"
+    ],
+    "accu-puncture": [
+        "115"
+    ],
+    "muscle relaxation": [
+        "115"
+    ],
+    "hitting metal": [
+        "116"
+    ],
+    "hammer": [
+        "116"
+    ],
+    "standing in front of a wave": [
+        "116"
+    ],
+    "big wave": [
+        "116"
+    ],
+    "old phone's ringtone": [
+        "116"
+    ],
+    "gripping the ball": [
+        "116"
+    ],
+    "last throw": [
+        "116"
+    ],
+    "bus": [
+        "116",
+        "17"
+    ],
+    "train": [
+        "116",
+        "147",
+        "129",
+        "141"
+    ],
+    "slow and gentle": [
+        "116"
+    ],
+    "battery": [
+        "116"
+    ],
+    "last stage": [
+        "116"
+    ],
+    "factory siren": [
+        "116"
+    ],
+    "boat": [
+        "116"
+    ],
+    "sailing": [
+        "116"
+    ],
+    "marching band": [
+        "117",
+        "104",
+        "161"
+    ],
+    "poking": [
+        "117",
+        "55"
+    ],
+    "finger": [
+        "117"
+    ],
+    "shoulder": [
+        "117"
+    ],
+    "water": [
+        "117",
+        "76",
+        "43",
+        "10",
+        "25"
+    ],
+    "dripping": [
+        "117"
+    ],
+    "roof": [
+        "117"
+    ],
+    "puddle": [
+        "117",
+        "11"
+    ],
+    "soldiers": [
+        "117",
+        "36"
+    ],
+    "marching": [
+        "117",
+        "56"
+    ],
+    "national holiday": [
+        "117"
+    ],
+    "aftermath": [
+        "117"
+    ],
+    "football match": [
+        "117",
+        "110"
+    ],
+    "notification": [
+        "117"
+    ],
+    "social media": [
+        "117"
+    ],
+    "instagram": [
+        "117"
+    ],
+    "mobile phones": [
+        "117"
+    ],
+    "mobile phone rings": [
+        "117"
+    ],
+    "sharp object": [
+        "117",
+        "70",
+        "53"
+    ],
+    "nudge": [
+        "117"
+    ],
+    "current": [
+        "117",
+        "136"
+    ],
+    "passing through": [
+        "117"
+    ],
+    "earthing": [
+        "117"
+    ],
+    "driving vehicles": [
+        "118"
+    ],
+    "gravel": [
+        "118"
+    ],
+    "sitting back of car": [
+        "118"
+    ],
+    "mother drives": [
+        "118"
+    ],
+    "mildly bumpy road": [
+        "118"
+    ],
+    "drums": [
+        "118",
+        "125",
+        "109",
+        "135",
+        "142",
+        "49",
+        "74",
+        "17",
+        "30",
+        "31",
+        "29"
+    ],
+    "festival": [
+        "118"
+    ],
+    "finishing an exam": [
+        "118"
+    ],
+    "no study": [
+        "118"
+    ],
+    "pricked by thorn": [
+        "118"
+    ],
+    "flowers": [
+        "118"
+    ],
+    "feeling pricked": [
+        "118"
+    ],
+    "stung": [
+        "118"
+    ],
+    "cycle wheel": [
+        "118"
+    ],
+    "road": [
+        "118",
+        "67",
+        "23"
+    ],
+    "concerts": [
+        "118",
+        "104",
+        "45",
+        "16",
+        "30"
+    ],
+    "vibrations when hungry": [
+        "118"
+    ],
+    "riding a bike": [
+        "119"
+    ],
+    "using a blender": [
+        "119",
+        "140"
+    ],
+    "making a paste": [
+        "119"
+    ],
+    "water bike riding experience": [
+        "119"
+    ],
+    "hand fracture removal": [
+        "119"
+    ],
+    "constant vibration": [
+        "119"
+    ],
+    "sitting in an aircraft": [
+        "119"
+    ],
+    "washing machine running": [
+        "119"
+    ],
+    "something even and flat": [
+        "119"
+    ],
+    "medical checkup": [
+        "119"
+    ],
+    "greasy feeling": [
+        "119"
+    ],
+    "buzz-sound": [
+        "119"
+    ],
+    "fast heartbeat": [
+        "120",
+        "145",
+        "33",
+        "43"
+    ],
+    "beats of music": [
+        "120"
+    ],
+    "marching in the band": [
+        "120"
+    ],
+    "rhythm of the drums": [
+        "120"
+    ],
+    "nerves pulsating": [
+        "120"
+    ],
+    "ride": [
+        "120"
+    ],
+    "roller coaster": [
+        "120",
+        "144",
+        "94"
+    ],
+    "machines starting": [
+        "120"
+    ],
+    "excited": [
+        "120",
+        "1"
+    ],
+    "phone notification": [
+        "120"
+    ],
+    "bus horn": [
+        "120"
+    ],
+    "music from speakers": [
+        "120"
+    ],
+    "dancing": [
+        "120",
+        "35",
+        "12",
+        "26",
+        "31"
+    ],
+    "music": [
+        "120",
+        "122",
+        "125",
+        "100",
+        "147",
+        "161",
+        "158",
+        "137",
+        "38",
+        "45",
+        "48",
+        "60",
+        "14",
+        "16",
+        "18",
+        "31",
+        "8",
+        "15",
+        "19",
+        "20",
+        "28",
+        "92"
+    ],
+    "car": [
+        "121",
+        "121",
+        "123",
+        "89",
+        "111",
+        "156",
+        "133",
+        "143",
+        "51",
+        "67",
+        "60",
+        "12",
+        "18",
+        "21",
+        "81",
+        "92"
+    ],
+    "trucking": [
+        "121"
+    ],
+    "honking": [
+        "121"
+    ],
+    "highway": [
+        "121"
+    ],
+    "hand": [
+        "121",
+        "112",
+        "131",
+        "134",
+        "136",
+        "138",
+        "143",
+        "12",
+        "26"
+    ],
+    "numb": [
+        "121"
+    ],
+    "tingling": [
+        "121"
+    ],
+    "phone call": [
+        "121",
+        "144",
+        "34",
+        "4",
+        "7",
+        "22"
+    ],
+    "volume feature": [
+        "121"
+    ],
+    "daily routine": [
+        "121"
+    ],
+    "upshifts": [
+        "121"
+    ],
+    "accelerates": [
+        "121"
+    ],
+    "running grinder": [
+        "121"
+    ],
+    "old car": [
+        "121",
+        "40",
+        "28"
+    ],
+    "bike": [
+        "121",
+        "126",
+        "108",
+        "161",
+        "150",
+        "132",
+        "143",
+        "51",
+        "59",
+        "56",
+        "12",
+        "14",
+        "83",
+        "87",
+        "92"
+    ],
+    "dead": [
+        "121"
+    ],
+    "subject": [
+        "121"
+    ],
+    "washing machine": [
+        "122",
+        "123",
+        "124",
+        "107",
+        "108",
+        "112",
+        "141",
+        "77",
+        "78",
+        "80",
+        "34",
+        "62",
+        "10",
+        "13",
+        "14",
+        "31",
+        "3",
+        "15",
+        "83",
+        "84"
+    ],
+    "EDM music": [
+        "122",
+        "111"
+    ],
+    "grandma patting head": [
+        "122"
+    ],
+    "dishwasher": [
+        "122"
+    ],
+    "gym": [
+        "122"
+    ],
+    "morning exercise": [
+        "122"
+    ],
+    "yoga session": [
+        "122"
+    ],
+    "in-app notifications": [
+        "122"
+    ],
+    "mobile phone": [
+        "122",
+        "123",
+        "143",
+        "2"
+    ],
+    "damaged state": [
+        "122"
+    ],
+    "song intro": [
+        "122"
+    ],
+    "similar vibrations": [
+        "122"
+    ],
+    "anxious": [
+        "122",
+        "1",
+        "24",
+        "31"
+    ],
+    "ECG machine": [
+        "123"
+    ],
+    "clothes": [
+        "123",
+        "62"
+    ],
+    "drum": [
+        "123",
+        "161",
+        "152",
+        "136",
+        "54",
+        "6"
+    ],
+    "spinning": [
+        "123",
+        "63",
+        "25"
+    ],
+    "greasy hands": [
+        "123"
+    ],
+    "signal": [
+        "123",
+        "108",
+        "158",
+        "37",
+        "24",
+        "23"
+    ],
+    "fan": [
+        "123",
+        "128",
+        "143",
+        "71",
+        "62",
+        "32"
+    ],
+    "scratching materials": [
+        "123"
+    ],
+    "rough": [
+        "123",
+        "125"
+    ],
+    "high intensity": [
+        "123"
+    ],
+    "ships": [
+        "123"
+    ],
+    "xerox machine": [
+        "124"
+    ],
+    "kickstart": [
+        "124"
+    ],
+    "old scooter": [
+        "124"
+    ],
+    "treadmill": [
+        "124",
+        "7"
+    ],
+    "walking mode": [
+        "124"
+    ],
+    "climbing": [
+        "124",
+        "60"
+    ],
+    "high hill": [
+        "124"
+    ],
+    "peak": [
+        "124",
+        "144"
+    ],
+    "electronic razor": [
+        "124"
+    ],
+    "trimming device": [
+        "124"
+    ],
+    "pauses": [
+        "124"
+    ],
+    "intense vibrations": [
+        "124",
+        "127"
+    ],
+    "dryer": [
+        "124"
+    ],
+    "mobile buzz": [
+        "124",
+        "127"
+    ],
+    "table": [
+        "124",
+        "12"
+    ],
+    "bed": [
+        "124",
+        "13"
+    ],
+    "old door": [
+        "124"
+    ],
+    "locked": [
+        "124"
+    ],
+    "squeaky noise": [
+        "124"
+    ],
+    "shaking": [
+        "125",
+        "26"
+    ],
+    "jar": [
+        "125",
+        "57"
+    ],
+    "stones": [
+        "125"
+    ],
+    "beats": [
+        "125",
+        "48",
+        "10",
+        "12",
+        "14",
+        "17",
+        "26",
+        "26"
+    ],
+    "song": [
+        "125",
+        "101",
+        "112",
+        "55",
+        "60",
+        "88"
+    ],
+    "father's old scooter": [
+        "125"
+    ],
+    "noise": [
+        "125",
+        "143",
+        "49",
+        "64",
+        "53",
+        "62"
+    ],
+    "starting": [
+        "125",
+        "136",
+        "51",
+        "62",
+        "28",
+        "88"
+    ],
+    "Believer": [
+        "125"
+    ],
+    "Imagine Dragons": [
+        "125"
+    ],
+    "losing argument": [
+        "125"
+    ],
+    "electronic toothbrush": [
+        "125"
+    ],
+    "batteries": [
+        "125"
+    ],
+    "uncertain": [
+        "125"
+    ],
+    "device": [
+        "125",
+        "51",
+        "20"
+    ],
+    "club": [
+        "125",
+        "103",
+        "35",
+        "12",
+        "20",
+        "85"
+    ],
+    "electric static": [
+        "125"
+    ],
+    "information": [
+        "125"
+    ],
+    "ending": [
+        "125"
+    ],
+    "blender": [
+        "126",
+        "87",
+        "92"
+    ],
+    "stressed situation": [
+        "126"
+    ],
+    "decision making": [
+        "126"
+    ],
+    "school bus": [
+        "126"
+    ],
+    "popping sounds": [
+        "126"
+    ],
+    "silencer": [
+        "126"
+    ],
+    "mixer": [
+        "126",
+        "127",
+        "7",
+        "88"
+    ],
+    "non-pulse mode": [
+        "126"
+    ],
+    "seeing someone liked": [
+        "126"
+    ],
+    "real life car driving game": [
+        "126"
+    ],
+    "bike driving game": [
+        "126"
+    ],
+    "thrill": [
+        "126",
+        "130"
+    ],
+    "excitement": [
+        "126"
+    ],
+    "phone rings": [
+        "126",
+        "128",
+        "48"
+    ],
+    "hair dryer": [
+        "126"
+    ],
+    "orchestra": [
+        "126",
+        "99",
+        "155"
+    ],
+    "authority": [
+        "126"
+    ],
+    "importance": [
+        "126"
+    ],
+    "vibrations in movies": [
+        "126"
+    ],
+    "communicate dialogues": [
+        "126"
+    ],
+    "earthquake": [
+        "127",
+        "94"
+    ],
+    "overnight local bus": [
+        "127"
+    ],
+    "train in transit": [
+        "127"
+    ],
+    "train journey": [
+        "127"
+    ],
+    "bad memory": [
+        "127"
+    ],
+    "phone alarm": [
+        "127",
+        "89",
+        "158",
+        "77",
+        "40"
+    ],
+    "river": [
+        "127"
+    ],
+    "flow of water": [
+        "127"
+    ],
+    "NY coastline": [
+        "127"
+    ],
+    "motor bike": [
+        "128",
+        "109",
+        "13"
+    ],
+    "revving": [
+        "128",
+        "143",
+        "56"
+    ],
+    "motorcycle": [
+        "128",
+        "156",
+        "67",
+        "78",
+        "54",
+        "82",
+        "92"
+    ],
+    "filling a jar": [
+        "128"
+    ],
+    "candies": [
+        "128"
+    ],
+    "vibrating mobile": [
+        "128"
+    ],
+    "ceiling": [
+        "128"
+    ],
+    "peak summer": [
+        "128"
+    ],
+    "constant": [
+        "128",
+        "128"
+    ],
+    "continuous": [
+        "128"
+    ],
+    "mild vibrations": [
+        "128"
+    ],
+    "micro oven": [
+        "128"
+    ],
+    "starting a new bike": [
+        "128"
+    ],
+    "full range motion": [
+        "128"
+    ],
+    "rubbery feel": [
+        "128"
+    ],
+    "kitchen sink grinder": [
+        "89"
+    ],
+    "sci-fi film": [
+        "89",
+        "107"
+    ],
+    "phone call vibration": [
+        "89",
+        "3",
+        "21"
+    ],
+    "cell phone silent mode": [
+        "89"
+    ],
+    "rough sandstone material": [
+        "89"
+    ],
+    "sea breeze": [
+        "89"
+    ],
+    "vibrating phone": [
+        "89"
+    ],
+    "sand under feet": [
+        "89"
+    ],
+    "beach": [
+        "89",
+        "50",
+        "32"
+    ],
+    "wind": [
+        "89",
+        "131"
+    ],
+    "open windows": [
+        "89"
+    ],
+    "accelerating a bike": [
+        "98"
+    ],
+    "sudden surges": [
+        "98"
+    ],
+    "horror film": [
+        "98"
+    ],
+    "revving the vehicle": [
+        "98"
+    ],
+    "high speed vehicle": [
+        "98"
+    ],
+    "barking dog": [
+        "98"
+    ],
+    "steady train on a track": [
+        "98"
+    ],
+    "game situation": [
+        "98"
+    ],
+    "sitting in a vehicle": [
+        "98"
+    ],
+    "pushing brake": [
+        "98"
+    ],
+    "bike revving engine": [
+        "98"
+    ],
+    "cat's purr": [
+        "98",
+        "162"
+    ],
+    "rhythmic vibrations": [
+        "98"
+    ],
+    "pulling a string chopper": [
+        "98"
+    ],
+    "cutting vegetables": [
+        "98"
+    ],
+    "holding a drill machine": [
+        "98"
+    ],
+    "jerk in a moving vehicle": [
+        "98"
+    ],
+    "alarm system vibration": [
+        "98"
+    ],
+    "rough vibrations": [
+        "98"
+    ],
+    "radio frequency signals": [
+        "98"
+    ],
+    "steady heartbeat": [
+        "98"
+    ],
+    "train vibrations": [
+        "98"
+    ],
+    "washing machine spinning clothes": [
+        "98"
+    ],
+    "fast heart pumping": [
+        "98"
+    ],
+    "bees": [
+        "99"
+    ],
+    "buzz": [
+        "99",
+        "145",
+        "44",
+        "65",
+        "72"
+    ],
+    "low vibratory machine": [
+        "99"
+    ],
+    "honey bee": [
+        "99"
+    ],
+    "yo-yo": [
+        "99",
+        "60",
+        "63",
+        "10"
+    ],
+    "grinder": [
+        "99",
+        "141",
+        "63",
+        "7"
+    ],
+    "printer": [
+        "99",
+        "53",
+        "55",
+        "26",
+        "82",
+        "91",
+        "93"
+    ],
+    "printing": [
+        "99",
+        "53",
+        "55",
+        "26"
+    ],
+    "heavy box": [
+        "99"
+    ],
+    "uneven surface": [
+        "99"
+    ],
+    "hard": [
+        "99"
+    ],
+    "singer": [
+        "99"
+    ],
+    "high pitch": [
+        "99"
+    ],
+    "pulling": [
+        "99",
+        "130",
+        "133",
+        "72",
+        "53"
+    ],
+    "string attached": [
+        "99"
+    ],
+    "army parade band": [
+        "100"
+    ],
+    "driving on rough road": [
+        "100"
+    ],
+    "SOS signal": [
+        "100"
+    ],
+    "vibration through phone": [
+        "100"
+    ],
+    "PS5 controller": [
+        "100",
+        "39"
+    ],
+    "shuffling through home screen": [
+        "100"
+    ],
+    "boat sailing": [
+        "100"
+    ],
+    "waves crashing": [
+        "100"
+    ],
+    "patting": [
+        "101"
+    ],
+    "back": [
+        "101"
+    ],
+    "sad": [
+        "101"
+    ],
+    "drum pattern": [
+        "101",
+        "103"
+    ],
+    "beat boxing": [
+        "101",
+        "88"
+    ],
+    "base": [
+        "101"
+    ],
+    "loud speakers": [
+        "101"
+    ],
+    "irregular heart beat": [
+        "101"
+    ],
+    "water droplets": [
+        "101"
+    ],
+    "continuous notifications": [
+        "101"
+    ],
+    "phone": [
+        "101",
+        "148",
+        "150",
+        "49",
+        "47",
+        "61",
+        "9",
+        "31",
+        "15",
+        "20",
+        "82",
+        "88",
+        "90"
+    ],
+    "vibration mode": [
+        "101",
+        "108",
+        "112",
+        "37",
+        "49",
+        "47",
+        "77"
+    ],
+    "time": [
+        "101",
+        "45",
+        "53"
+    ],
+    "ticking": [
+        "101"
+    ],
+    "browsing": [
+        "101"
+    ],
+    "game library": [
+        "101"
+    ],
+    "console": [
+        "101"
+    ],
+    "drummer": [
+        "101"
+    ],
+    "playing": [
+        "101",
+        "136",
+        "143",
+        "39",
+        "32"
+    ],
+    "dribbling": [
+        "101"
+    ],
+    "basketball": [
+        "101",
+        "87"
+    ],
+    "flashing search lights": [
+        "102"
+    ],
+    "emergency lights": [
+        "102"
+    ],
+    "mass destruction": [
+        "102"
+    ],
+    "tennis ball dropping": [
+        "102"
+    ],
+    "party DJ": [
+        "102"
+    ],
+    "door stopper": [
+        "102"
+    ],
+    "growling stomach": [
+        "102"
+    ],
+    "deflating balloon": [
+        "102"
+    ],
+    "being chased": [
+        "102",
+        "6"
+    ],
+    "heavy creature": [
+        "102"
+    ],
+    "jerk movements": [
+        "102"
+    ],
+    "flight of stairs": [
+        "102"
+    ],
+    "intense game": [
+        "102"
+    ],
+    "hide and seek": [
+        "102"
+    ],
+    "farting": [
+        "102"
+    ],
+    "scary movies": [
+        "102"
+    ],
+    "background music": [
+        "102",
+        "105",
+        "156",
+        "40",
+        "55",
+        "6",
+        "20",
+        "90"
+    ],
+    "alarm ringtones": [
+        "103"
+    ],
+    "reminder notifications": [
+        "103"
+    ],
+    "tabla sound": [
+        "103"
+    ],
+    "beats of a song": [
+        "103",
+        "6"
+    ],
+    "speakers": [
+        "103",
+        "137",
+        "91"
+    ],
+    "sub-woofers": [
+        "103"
+    ],
+    "playing guitar": [
+        "103",
+        "65"
+    ],
+    "late night party": [
+        "103"
+    ],
+    "friends": [
+        "103",
+        "12"
+    ],
+    "loud music": [
+        "103",
+        "110",
+        "37",
+        "10",
+        "12",
+        "26",
+        "31",
+        "11"
+    ],
+    "army parade": [
+        "103"
+    ],
+    "happy song": [
+        "103"
+    ],
+    "trimmers": [
+        "104"
+    ],
+    "massage machines": [
+        "104",
+        "71"
+    ],
+    "phone haptics": [
+        "104",
+        "108"
+    ],
+    "call": [
+        "104",
+        "108",
+        "143",
+        "67",
+        "68",
+        "24",
+        "15"
+    ],
+    "morning alarm": [
+        "104",
+        "136",
+        "33",
+        "44",
+        "2"
+    ],
+    "intense scene": [
+        "104"
+    ],
+    "game": [
+        "104",
+        "110",
+        "159",
+        "134",
+        "55",
+        "56",
+        "62",
+        "62",
+        "29",
+        "84",
+        "85",
+        "87",
+        "91"
+    ],
+    "thrilling music": [
+        "104"
+    ],
+    "suspense movies": [
+        "104"
+    ],
+    "climax scenes": [
+        "104"
+    ],
+    "big dance event": [
+        "104"
+    ],
+    "school": [
+        "104"
+    ],
+    "wedding": [
+        "104"
+    ],
+    "suspense movie": [
+        "104"
+    ],
+    "song with bass": [
+        "105"
+    ],
+    "party song": [
+        "105"
+    ],
+    "Microsoft Teams call ring": [
+        "105"
+    ],
+    "cloth tearing": [
+        "105"
+    ],
+    "song intensifies": [
+        "105"
+    ],
+    "reloading a gun": [
+        "105"
+    ],
+    "game console": [
+        "105"
+    ],
+    "Call of Duty": [
+        "105",
+        "144",
+        "39"
+    ],
+    "fading frequency": [
+        "105"
+    ],
+    "tuning fork": [
+        "105"
+    ],
+    "teen ages": [
+        "105"
+    ],
+    "trains": [
+        "106",
+        "82"
+    ],
+    "bass guitar": [
+        "106"
+    ],
+    "motivation": [
+        "106"
+    ],
+    "ringing phone": [
+        "106",
+        "15",
+        "27"
+    ],
+    "PC games": [
+        "106"
+    ],
+    "Covid pandemic": [
+        "106"
+    ],
+    "fire alarm drill": [
+        "106"
+    ],
+    "mobile phone ringing": [
+        "106"
+    ],
+    "morse code": [
+        "107",
+        "18",
+        "94"
+    ],
+    "communicate information": [
+        "107"
+    ],
+    "background score": [
+        "107"
+    ],
+    "horror movie scenes": [
+        "107"
+    ],
+    "urgent braking": [
+        "107"
+    ],
+    "life": [
+        "107"
+    ],
+    "up and down": [
+        "107"
+    ],
+    "important meeting": [
+        "107"
+    ],
+    "interview": [
+        "107"
+    ],
+    "phone ringing": [
+        "107",
+        "108",
+        "112",
+        "37",
+        "50",
+        "10"
+    ],
+    "obnoxious ringtone": [
+        "107"
+    ],
+    "bubble gum": [
+        "107"
+    ],
+    "inflating": [
+        "107"
+    ],
+    "bursting": [
+        "107",
+        "64"
+    ],
+    "lifting weights": [
+        "107"
+    ],
+    "stressful": [
+        "107"
+    ],
+    "easier once done": [
+        "107"
+    ],
+    "movies": [
+        "108",
+        "78",
+        "6",
+        "30",
+        "21"
+    ],
+    "action sequences": [
+        "108"
+    ],
+    "jump cuts": [
+        "108"
+    ],
+    "warning": [
+        "108",
+        "37",
+        "69",
+        "73"
+    ],
+    "results": [
+        "108"
+    ],
+    "smartphone": [
+        "108",
+        "3",
+        "15"
+    ],
+    "full intensity": [
+        "108"
+    ],
+    "wash cycle": [
+        "108"
+    ],
+    "getting up": [
+        "108",
+        "156"
+    ],
+    "lazy": [
+        "108"
+    ],
+    "hungry": [
+        "108",
+        "64",
+        "96"
+    ],
+    "leftover pizza": [
+        "108"
+    ],
+    "non-ideal": [
+        "108"
+    ],
+    "silent mode": [
+        "108"
+    ],
+    "accelerating": [
+        "108",
+        "136",
+        "53",
+        "12",
+        "30",
+        "82",
+        "92",
+        "95"
+    ],
+    "dropping": [
+        "108"
+    ],
+    "loop": [
+        "108",
+        "42"
+    ],
+    "lo-fi songs": [
+        "109"
+    ],
+    "gear": [
+        "109"
+    ],
+    "toy": [
+        "109"
+    ],
+    "musician": [
+        "109"
+    ],
+    "last beat": [
+        "109"
+    ],
+    "machine": [
+        "109",
+        "159",
+        "51",
+        "51",
+        "76",
+        "79",
+        "39",
+        "18",
+        "92"
+    ],
+    "repetitive task": [
+        "109"
+    ],
+    "brushing": [
+        "109",
+        "72"
+    ],
+    "door": [
+        "109",
+        "76",
+        "25"
+    ],
+    "tiring day": [
+        "109"
+    ],
+    "bouncing ball": [
+        "109"
+    ],
+    "dropped": [
+        "109"
+    ],
+    "height": [
+        "109",
+        "17",
+        "94"
+    ],
+    "kick starting": [
+        "109"
+    ],
+    "phone ringtone": [
+        "110"
+    ],
+    "contra": [
+        "110"
+    ],
+    "video games": [
+        "110",
+        "137",
+        "138",
+        "70",
+        "72",
+        "74",
+        "78"
+    ],
+    "climbing hills": [
+        "110"
+    ],
+    "night club": [
+        "110"
+    ],
+    "pub": [
+        "110"
+    ],
+    "shooting": [
+        "110",
+        "157",
+        "158",
+        "62",
+        "27"
+    ],
+    "Reno Nevada": [
+        "110"
+    ],
+    "automatic gun": [
+        "110",
+        "158"
+    ],
+    "ICU": [
+        "110"
+    ],
+    "ECG": [
+        "110"
+    ],
+    "energetic song": [
+        "110",
+        "150"
+    ],
+    "high-adrenalin situations": [
+        "111"
+    ],
+    "quickly": [
+        "111"
+    ],
+    "stomping sound": [
+        "111"
+    ],
+    "warning bell": [
+        "111"
+    ],
+    "gaming": [
+        "111"
+    ],
+    "player introduction": [
+        "111"
+    ],
+    "stadium": [
+        "111",
+        "137",
+        "88"
+    ],
+    "phone alarms": [
+        "111",
+        "13"
+    ],
+    "loud bass": [
+        "111"
+    ],
+    "roommate's phone ringing": [
+        "111"
+    ],
+    "wake up call": [
+        "111"
+    ],
+    "annoying ringtone": [
+        "111"
+    ],
+    "4 AM": [
+        "111"
+    ],
+    "pressing accelerator": [
+        "111"
+    ],
+    "drum beats": [
+        "111",
+        "135",
+        "42"
+    ],
+    "concert night": [
+        "111"
+    ],
+    "gear rotating": [
+        "112"
+    ],
+    "music band": [
+        "112"
+    ],
+    "games": [
+        "112"
+    ],
+    "washing cycle": [
+        "112"
+    ],
+    "Android phone": [
+        "112"
+    ],
+    "feeling": [
+        "112",
+        "147",
+        "150",
+        "134",
+        "41",
+        "67"
+    ],
+    "old friends": [
+        "112"
+    ],
+    "old home": [
+        "112"
+    ],
+    "mechanical typewriter": [
+        "112"
+    ],
+    "entering letters": [
+        "112"
+    ],
+    "sliding bar": [
+        "112"
+    ],
+    "new line": [
+        "112"
+    ],
+    "listening": [
+        "112",
+        "157",
+        "138",
+        "1",
+        "5",
+        "26"
+    ],
+    "feel low": [
+        "112"
+    ],
+    "alarm vibration": [
+        "145",
+        "146",
+        "78",
+        "18",
+        "3"
+    ],
+    "phones": [
+        "145"
+    ],
+    "mobile game": [
+        "145"
+    ],
+    "attention": [
+        "145",
+        "129",
+        "50",
+        "55"
+    ],
+    "notification vibration": [
+        "145"
+    ],
+    "swimming": [
+        "145",
+        "136"
+    ],
+    "pool": [
+        "145"
+    ],
+    "Mixer": [
+        "145"
+    ],
+    "musical rhythm": [
+        "145"
+    ],
+    "tapping foot": [
+        "145"
+    ],
+    "biking": [
+        "146"
+    ],
+    "watering plants": [
+        "146"
+    ],
+    "heart rate monitor readings": [
+        "146"
+    ],
+    "closing dishwasher lid": [
+        "146"
+    ],
+    "adrenaline rush": [
+        "146"
+    ],
+    "driving motorcycle": [
+        "146"
+    ],
+    "sleep with anxiety": [
+        "146"
+    ],
+    "incorrect action": [
+        "146"
+    ],
+    "videogame": [
+        "146"
+    ],
+    "waterdrops": [
+        "147"
+    ],
+    "pail": [
+        "147"
+    ],
+    "beating heart": [
+        "147",
+        "5"
+    ],
+    "loud party": [
+        "147"
+    ],
+    "bass-heavy song": [
+        "147"
+    ],
+    "big test": [
+        "147"
+    ],
+    "sneaking around": [
+        "147"
+    ],
+    "action movie": [
+        "148"
+    ],
+    "fast pace video game": [
+        "148"
+    ],
+    "starting motor": [
+        "148"
+    ],
+    "engine": [
+        "148",
+        "143",
+        "67",
+        "68",
+        "53",
+        "24",
+        "30",
+        "28",
+        "32"
+    ],
+    "belt": [
+        "148"
+    ],
+    "physical force": [
+        "148"
+    ],
+    "failed to start": [
+        "148",
+        "150"
+    ],
+    "receive call": [
+        "148"
+    ],
+    "old car engine": [
+        "148"
+    ],
+    "revved up": [
+        "148"
+    ],
+    "small electric motor": [
+        "148"
+    ],
+    "speeding motorcycle": [
+        "148"
+    ],
+    "talk to roommate": [
+        "148"
+    ],
+    "uncomfortable": [
+        "148"
+    ],
+    "remote control car": [
+        "148"
+    ],
+    "wheels": [
+        "148"
+    ],
+    "driving": [
+        "148",
+        "162",
+        "156",
+        "44",
+        "51",
+        "58",
+        "67",
+        "48",
+        "17",
+        "83",
+        "87",
+        "92"
+    ],
+    "pairing controller": [
+        "148"
+    ],
+    "movie scene": [
+        "161",
+        "156"
+    ],
+    "alcohol addiction": [
+        "161"
+    ],
+    "string of a bass": [
+        "161"
+    ],
+    "vibrating": [
+        "161",
+        "162",
+        "67",
+        "12",
+        "26",
+        "11",
+        "20",
+        "32"
+    ],
+    "rev of a motorcycle engine": [
+        "161"
+    ],
+    "electric toothbrush": [
+        "161",
+        "11"
+    ],
+    "drum beat": [
+        "161"
+    ],
+    "talking to boss": [
+        "161"
+    ],
+    "music beats": [
+        "161"
+    ],
+    "motorcycles": [
+        "161"
+    ],
+    "turn the pedal": [
+        "161"
+    ],
+    "freeway": [
+        "150",
+        "51",
+        "92"
+    ],
+    "appliance": [
+        "150"
+    ],
+    "beat": [
+        "150",
+        "42",
+        "18"
+    ],
+    "loud": [
+        "150"
+    ],
+    "urgent task": [
+        "150"
+    ],
+    "working hard": [
+        "150"
+    ],
+    "score": [
+        "150"
+    ],
+    "goal": [
+        "150"
+    ],
+    "soccer match": [
+        "150"
+    ],
+    "boring lunch": [
+        "150"
+    ],
+    "buzzing": [
+        "150",
+        "58",
+        "35",
+        "27",
+        "29",
+        "92"
+    ],
+    "fighting": [
+        "150",
+        "156"
+    ],
+    "rapid vibrations": [
+        "150"
+    ],
+    "distinct hits": [
+        "150"
+    ],
+    "shifting to higher gear": [
+        "151"
+    ],
+    "manual sports car": [
+        "151"
+    ],
+    "chain saw": [
+        "151"
+    ],
+    "focusing in a game": [
+        "151"
+    ],
+    "drumlike": [
+        "151"
+    ],
+    "high pitched": [
+        "151"
+    ],
+    "traditional chinese instrument": [
+        "151"
+    ],
+    "lion dance": [
+        "151"
+    ],
+    "tapping": [
+        "151"
+    ],
+    "muffled piano key": [
+        "151"
+    ],
+    "vacation": [
+        "151"
+    ],
+    "missed deadlines": [
+        "151"
+    ],
+    "homeworks": [
+        "151"
+    ],
+    "sporatic movie": [
+        "151"
+    ],
+    "car wouldn't start": [
+        "151"
+    ],
+    "pushing engine key": [
+        "151"
+    ],
+    "long vibration": [
+        "151"
+    ],
+    "4 light vibrations": [
+        "151"
+    ],
+    "not starting": [
+        "151",
+        "75"
+    ],
+    "crying": [
+        "152"
+    ],
+    "surfing": [
+        "152"
+    ],
+    "rough road": [
+        "152",
+        "79"
+    ],
+    "annoyance": [
+        "152"
+    ],
+    "confidence": [
+        "152"
+    ],
+    "training": [
+        "152"
+    ],
+    "intensive feeling": [
+        "152"
+    ],
+    "waking up": [
+        "152",
+        "153"
+    ],
+    "reluctance": [
+        "152"
+    ],
+    "slipping": [
+        "153"
+    ],
+    "upwards slide": [
+        "153"
+    ],
+    "solving a math problem": [
+        "153"
+    ],
+    "dying engine": [
+        "153"
+    ],
+    "bad headache": [
+        "153"
+    ],
+    "escape": [
+        "153",
+        "8"
+    ],
+    "traffic": [
+        "153",
+        "134",
+        "17",
+        "87"
+    ],
+    "speeding": [
+        "153"
+    ],
+    "study": [
+        "153"
+    ],
+    "loud room": [
+        "153"
+    ],
+    "late to class": [
+        "153"
+    ],
+    "basketball shot": [
+        "162"
+    ],
+    "stomach sound": [
+        "162"
+    ],
+    "something I don't want to": [
+        "162"
+    ],
+    "bad earthquake": [
+        "162"
+    ],
+    "drill": [
+        "162"
+    ],
+    "massage": [
+        "162",
+        "156"
+    ],
+    "walk quietly": [
+        "162"
+    ],
+    "dirt road": [
+        "162"
+    ],
+    "gravel road": [
+        "162",
+        "129"
+    ],
+    "sixth sense": [
+        "155"
+    ],
+    "observing": [
+        "155"
+    ],
+    "spidey sense": [
+        "155"
+    ],
+    "buzzing machine": [
+        "155"
+    ],
+    "determined": [
+        "155"
+    ],
+    "coursework": [
+        "155"
+    ],
+    "transition": [
+        "155"
+    ],
+    "exciting phone alarm": [
+        "155"
+    ],
+    "shouting": [
+        "155"
+    ],
+    "mistake": [
+        "155"
+    ],
+    "homework": [
+        "155"
+    ],
+    "scared": [
+        "155",
+        "140"
+    ],
+    "big jump": [
+        "155"
+    ],
+    "couple": [
+        "156"
+    ],
+    "dating": [
+        "156"
+    ],
+    "playing chess": [
+        "156"
+    ],
+    "enemy": [
+        "156"
+    ],
+    "wheezing": [
+        "156"
+    ],
+    "rough patches": [
+        "156"
+    ],
+    "morning": [
+        "156",
+        "55",
+        "13"
+    ],
+    "clock ringing": [
+        "156"
+    ],
+    "suddenly braking": [
+        "156"
+    ],
+    "RPG games": [
+        "157"
+    ],
+    "PUBG": [
+        "157"
+    ],
+    "automatic machine gun": [
+        "157"
+    ],
+    "scary movie": [
+        "157"
+    ],
+    "background radiomagnetic noise": [
+        "157"
+    ],
+    "universe": [
+        "157"
+    ],
+    "nearby helicopter": [
+        "157"
+    ],
+    "large fan": [
+        "157"
+    ],
+    "hiking": [
+        "157"
+    ],
+    "insect sounds": [
+        "157"
+    ],
+    "feeling of getting something done": [
+        "157"
+    ],
+    "calling": [
+        "157"
+    ],
+    "waiting for answer": [
+        "157"
+    ],
+    "smooth music": [
+        "157"
+    ],
+    "lawnmower": [
+        "157",
+        "97"
+    ],
+    "weak electric razor": [
+        "157"
+    ],
+    "microwave": [
+        "158"
+    ],
+    "heating": [
+        "158"
+    ],
+    "rice cooker": [
+        "158"
+    ],
+    "whistle": [
+        "158"
+    ],
+    "walking": [
+        "158",
+        "138",
+        "36",
+        "55",
+        "56"
+    ],
+    "growling dog": [
+        "158"
+    ],
+    "sleep": [
+        "158",
+        "83"
+    ],
+    "tedious task": [
+        "158"
+    ],
+    "pistol": [
+        "158"
+    ],
+    "co-ordinates": [
+        "159"
+    ],
+    "shutting down": [
+        "159",
+        "53",
+        "32"
+    ],
+    "losing": [
+        "159"
+    ],
+    "hum": [
+        "159"
+    ],
+    "AC": [
+        "159"
+    ],
+    "massage gun": [
+        "159",
+        "73",
+        "9"
+    ],
+    "plastic": [
+        "159"
+    ],
+    "stuck": [
+        "159",
+        "38",
+        "28"
+    ],
+    "bicycle": [
+        "159",
+        "34",
+        "15"
+    ],
+    "wheel": [
+        "159",
+        "51"
+    ],
+    "missing": [
+        "159"
+    ],
+    "deadline": [
+        "159"
+    ],
+    "run": [
+        "159",
+        "34"
+    ],
+    "10 km": [
+        "159"
+    ],
+    "marathon": [
+        "159",
+        "1"
+    ],
+    "audience": [
+        "159",
+        "49"
+    ],
+    "clapping": [
+        "159"
+    ],
+    "slowing down": [
+        "159"
+    ],
+    "emergency alarm": [
+        "160",
+        "64",
+        "7"
+    ],
+    "examination room": [
+        "160"
+    ],
+    "Nokia ringtone": [
+        "160"
+    ],
+    "adjacent room": [
+        "160"
+    ],
+    "shooting a gun": [
+        "160",
+        "35",
+        "24",
+        "96"
+    ],
+    "gameplay": [
+        "160"
+    ],
+    "attending a program": [
+        "160"
+    ],
+    "pleasurable chat": [
+        "160"
+    ],
+    "beyblades": [
+        "160"
+    ],
+    "intense battle": [
+        "160"
+    ],
+    "butterfly": [
+        "129"
+    ],
+    "persistent": [
+        "129"
+    ],
+    "water drops": [
+        "129"
+    ],
+    "iPhone": [
+        "129"
+    ],
+    "panicking": [
+        "129"
+    ],
+    "anxious moments": [
+        "129"
+    ],
+    "travelling": [
+        "129",
+        "133",
+        "82"
+    ],
+    "annoying": [
+        "129"
+    ],
+    "taps": [
+        "129"
+    ],
+    "lite": [
+        "129"
+    ],
+    "easy": [
+        "129"
+    ],
+    "tiny mobile vibration": [
+        "129"
+    ],
+    "bike ride": [
+        "129"
+    ],
+    "consistent": [
+        "129"
+    ],
+    "strong": [
+        "130",
+        "3"
+    ],
+    "frog croaking": [
+        "130"
+    ],
+    "audible sound": [
+        "130"
+    ],
+    "crrrr-crrr-crrroak": [
+        "130"
+    ],
+    "car starts": [
+        "130"
+    ],
+    "bike revving": [
+        "130"
+    ],
+    "focus music": [
+        "130"
+    ],
+    "control": [
+        "130"
+    ],
+    "steering wheel": [
+        "130",
+        "134",
+        "75"
+    ],
+    "active": [
+        "130"
+    ],
+    "cheerful": [
+        "130"
+    ],
+    "drill machine": [
+        "130",
+        "18",
+        "88"
+    ],
+    "console car games": [
+        "130"
+    ],
+    "haptic feedback": [
+        "130"
+    ],
+    "rock beat music": [
+        "130"
+    ],
+    "high volume": [
+        "130",
+        "48"
+    ],
+    "feel": [
+        "130",
+        "132"
+    ],
+    "steel wire": [
+        "130"
+    ],
+    "quiet": [
+        "131"
+    ],
+    "popcorn fart": [
+        "131"
+    ],
+    "water bubbles": [
+        "131",
+        "134"
+    ],
+    "tank filling": [
+        "131"
+    ],
+    "hand out of car window": [
+        "131"
+    ],
+    "afar": [
+        "131"
+    ],
+    "people arguing": [
+        "131"
+    ],
+    "secluded beach": [
+        "131"
+    ],
+    "growling sound": [
+        "131"
+    ],
+    "empty stomach": [
+        "131"
+    ],
+    "soft vibration": [
+        "131"
+    ],
+    "water running": [
+        "131"
+    ],
+    "small motor": [
+        "131"
+    ],
+    "riding lawnmower": [
+        "132"
+    ],
+    "feedback": [
+        "132",
+        "134"
+    ],
+    "spark plug": [
+        "132"
+    ],
+    "ripping": [
+        "132"
+    ],
+    "starting a bike": [
+        "132"
+    ],
+    "gradual increase": [
+        "132"
+    ],
+    "engine whirr": [
+        "132"
+    ],
+    "study music": [
+        "132"
+    ],
+    "frequency of sound": [
+        "132"
+    ],
+    "hesitant": [
+        "132"
+    ],
+    "acceleration": [
+        "132",
+        "18",
+        "81"
+    ],
+    "first phone": [
+        "132"
+    ],
+    "vibrate": [
+        "132",
+        "137",
+        "141"
+    ],
+    "message notifications": [
+        "132"
+    ],
+    "exciting": [
+        "132",
+        "56"
+    ],
+    "thrilled": [
+        "132"
+    ],
+    "riding bike": [
+        "132"
+    ],
+    "high speeds": [
+        "132"
+    ],
+    "cars vibration": [
+        "132"
+    ],
+    "changing gear": [
+        "132",
+        "136"
+    ],
+    "Tom": [
+        "133"
+    ],
+    "Jerry": [
+        "133"
+    ],
+    "mouse": [
+        "133"
+    ],
+    "pushing": [
+        "133",
+        "53"
+    ],
+    "heavy": [
+        "133"
+    ],
+    "oval-ish object": [
+        "133"
+    ],
+    "cobblestone path": [
+        "133"
+    ],
+    "faint feeling": [
+        "133"
+    ],
+    "light": [
+        "133"
+    ],
+    "remote car": [
+        "133"
+    ],
+    "face timing": [
+        "133"
+    ],
+    "Mac": [
+        "133"
+    ],
+    "post mediation time": [
+        "133"
+    ],
+    "ceiling fan": [
+        "133"
+    ],
+    "soft": [
+        "133"
+    ],
+    "heartbeats": [
+        "133",
+        "1"
+    ],
+    "fingertips": [
+        "133"
+    ],
+    "highways": [
+        "133"
+    ],
+    "thread": [
+        "133"
+    ],
+    "spool": [
+        "133"
+    ],
+    "reverberation": [
+        "134"
+    ],
+    "snare drum": [
+        "134"
+    ],
+    "muted": [
+        "134"
+    ],
+    "someone snoring": [
+        "134"
+    ],
+    "electric sound": [
+        "134"
+    ],
+    "sharpner": [
+        "134"
+    ],
+    "massage mat": [
+        "134"
+    ],
+    "printing machine": [
+        "134"
+    ],
+    "dying insect": [
+        "135"
+    ],
+    "alarm clock vibration": [
+        "135"
+    ],
+    "smashing": [
+        "135"
+    ],
+    "playing fortnite": [
+        "135"
+    ],
+    "shooting target": [
+        "135"
+    ],
+    "riffle": [
+        "135"
+    ],
+    "low beat jazz": [
+        "135"
+    ],
+    "playing drums": [
+        "135"
+    ],
+    "sound system vibrations": [
+        "135"
+    ],
+    "XBox 360": [
+        "136"
+    ],
+    "Nintendo Wii": [
+        "136",
+        "22"
+    ],
+    "weak": [
+        "136"
+    ],
+    "not fully functional": [
+        "136"
+    ],
+    "cycle": [
+        "136"
+    ],
+    "pulses": [
+        "136"
+    ],
+    "scratching": [
+        "136",
+        "139"
+    ],
+    "swimming pool": [
+        "136",
+        "139",
+        "143",
+        "1"
+    ],
+    "opposite direction": [
+        "136"
+    ],
+    "plane instruments": [
+        "136"
+    ],
+    "sudden": [
+        "136"
+    ],
+    "children": [
+        "136"
+    ],
+    "broken motorbike": [
+        "136"
+    ],
+    "tug-of-war": [
+        "137"
+    ],
+    "rope": [
+        "137"
+    ],
+    "sliding": [
+        "137"
+    ],
+    "rubbing": [
+        "137",
+        "80",
+        "39",
+        "62"
+    ],
+    "nails": [
+        "137"
+    ],
+    "blackboard": [
+        "137",
+        "38",
+        "28"
+    ],
+    "stethoscope": [
+        "137",
+        "1",
+        "5",
+        "2"
+    ],
+    "drilling": [
+        "137",
+        "37",
+        "32",
+        "84"
+    ],
+    "wall": [
+        "137",
+        "138"
+    ],
+    "floor": [
+        "137",
+        "28"
+    ],
+    "shootings": [
+        "137"
+    ],
+    "guitar music": [
+        "137"
+    ],
+    "rusty machine": [
+        "137"
+    ],
+    "woofer": [
+        "137"
+    ],
+    "hands": [
+        "137",
+        "81"
+    ],
+    "watching": [
+        "137"
+    ],
+    "match": [
+        "137"
+    ],
+    "noisy frequency": [
+        "137"
+    ],
+    "radio": [
+        "137",
+        "64",
+        "19"
+    ],
+    "pulse": [
+        "138",
+        "37",
+        "38",
+        "42",
+        "5",
+        "14"
+    ],
+    "characters": [
+        "138"
+    ],
+    "jumping": [
+        "138",
+        "52",
+        "56",
+        "60"
+    ],
+    "theatre": [
+        "138"
+    ],
+    "nearby screen": [
+        "138"
+    ],
+    "sound": [
+        "138",
+        "142",
+        "41",
+        "41",
+        "49",
+        "64",
+        "53",
+        "54",
+        "12",
+        "19",
+        "28",
+        "32",
+        "82"
+    ],
+    "speaker": [
+        "138",
+        "139",
+        "141",
+        "143",
+        "54",
+        "26",
+        "15",
+        "84"
+    ],
+    "low volume": [
+        "138"
+    ],
+    "weak cough": [
+        "139"
+    ],
+    "chalkboard": [
+        "139"
+    ],
+    "unzippping": [
+        "139"
+    ],
+    "sweater": [
+        "139"
+    ],
+    "sounds": [
+        "139",
+        "81"
+    ],
+    "submerged": [
+        "139"
+    ],
+    "horror movie": [
+        "139",
+        "40"
+    ],
+    "forcibly close": [
+        "139"
+    ],
+    "rusted chains": [
+        "139"
+    ],
+    "zipper": [
+        "139",
+        "32"
+    ],
+    "music concert": [
+        "139"
+    ],
+    "playing music": [
+        "139",
+        "91"
+    ],
+    "ATM machine": [
+        "139"
+    ],
+    "dispensing cash": [
+        "139"
+    ],
+    "shooting a taser": [
+        "140"
+    ],
+    "going through a portal": [
+        "140"
+    ],
+    "neck massager": [
+        "140"
+    ],
+    "low intensity": [
+        "140"
+    ],
+    "loud noises": [
+        "140"
+    ],
+    "starting an engine": [
+        "140",
+        "81"
+    ],
+    "iPhone on silent": [
+        "140"
+    ],
+    "ringing": [
+        "140",
+        "69",
+        "53",
+        "54",
+        "56",
+        "82"
+    ],
+    "hard surface": [
+        "140"
+    ],
+    "edm": [
+        "140"
+    ],
+    "beat drop": [
+        "140"
+    ],
+    "frogs croaking": [
+        "140"
+    ],
+    "tensed": [
+        "140"
+    ],
+    "trimming hair": [
+        "140"
+    ],
+    "hair trimmer device": [
+        "140"
+    ],
+    "shovelling": [
+        "141"
+    ],
+    "shovel": [
+        "141"
+    ],
+    "loose dirt": [
+        "141"
+    ],
+    "snoring": [
+        "141",
+        "144",
+        "30"
+    ],
+    "watch": [
+        "141"
+    ],
+    "underwater": [
+        "141",
+        "143",
+        "95"
+    ],
+    "controller feedback": [
+        "141"
+    ],
+    "health reduction": [
+        "141"
+    ],
+    "damage": [
+        "141"
+    ],
+    "character": [
+        "141"
+    ],
+    "sudden acceleration": [
+        "141"
+    ],
+    "bumpy road": [
+        "141",
+        "44",
+        "79"
+    ],
+    "ECG report": [
+        "141"
+    ],
+    "printing device": [
+        "141"
+    ],
+    "water dripping": [
+        "142",
+        "1",
+        "25",
+        "27"
+    ],
+    "open palm": [
+        "142"
+    ],
+    "mechanical watch": [
+        "142"
+    ],
+    "laser removal": [
+        "142"
+    ],
+    "tattoo": [
+        "142"
+    ],
+    "mild background sounds": [
+        "142"
+    ],
+    "hands under water": [
+        "142"
+    ],
+    "pump": [
+        "142"
+    ],
+    "bubbles": [
+        "142"
+    ],
+    "footsteps": [
+        "142",
+        "42"
+    ],
+    "raindrops": [
+        "142"
+    ],
+    "doctor": [
+        "142"
+    ],
+    "knees": [
+        "142"
+    ],
+    "hammer tap": [
+        "142"
+    ],
+    "water droplet": [
+        "142"
+    ],
+    "metal utensil": [
+        "142"
+    ],
+    "military parade": [
+        "142"
+    ],
+    "short distance": [
+        "142"
+    ],
+    "scraping": [
+        "143",
+        "23"
+    ],
+    "rough surface": [
+        "143",
+        "63",
+        "7"
+    ],
+    "fingernail": [
+        "143"
+    ],
+    "not able to start": [
+        "143"
+    ],
+    "whir": [
+        "143"
+    ],
+    "PC": [
+        "143"
+    ],
+    "touch": [
+        "143",
+        "26"
+    ],
+    "side": [
+        "143"
+    ],
+    "songs": [
+        "143",
+        "91"
+    ],
+    "damp shoes": [
+        "143"
+    ],
+    "moving furniture": [
+        "143"
+    ],
+    "intensity": [
+        "143"
+    ],
+    "lite note": [
+        "143"
+    ],
+    "riding": [
+        "143"
+    ],
+    "heavy traffic": [
+        "143",
+        "82"
+    ],
+    "pinwheel": [
+        "144"
+    ],
+    "short of breath": [
+        "144"
+    ],
+    "duration": [
+        "144"
+    ],
+    "repeats": [
+        "144"
+    ],
+    "phone vibrations": [
+        "144",
+        "81"
+    ],
+    "breathing continuously": [
+        "144"
+    ],
+    "PS4 controller": [
+        "144"
+    ],
+    "kids toys": [
+        "144",
+        "65"
+    ],
+    "small balls": [
+        "144"
+    ],
+    "drizzling sound": [
+        "144"
+    ],
+    "reaching": [
+        "144"
+    ],
+    "phone alert vibrations": [
+        "33"
+    ],
+    "vanilla vibrations": [
+        "33"
+    ],
+    "physical activity": [
+        "33"
+    ],
+    "rush": [
+        "33"
+    ],
+    "old iphones": [
+        "33"
+    ],
+    "vibrating alarm": [
+        "33"
+    ],
+    "mornings": [
+        "33"
+    ],
+    "full game of soccer": [
+        "33"
+    ],
+    "rapid pace": [
+        "33"
+    ],
+    "constant chopping": [
+        "33"
+    ],
+    "wood": [
+        "33",
+        "54"
+    ],
+    "carpenter": [
+        "33"
+    ],
+    "wrist": [
+        "33"
+    ],
+    "game controller": [
+        "33",
+        "14",
+        "2"
+    ],
+    "wrong direction": [
+        "33"
+    ],
+    "heart beating": [
+        "33",
+        "73",
+        "1",
+        "2"
+    ],
+    "alarm bells": [
+        "37"
+    ],
+    "emergency sirens": [
+        "37"
+    ],
+    "action scene": [
+        "37"
+    ],
+    "movie": [
+        "37",
+        "8"
+    ],
+    "party club": [
+        "37"
+    ],
+    "wrong choice": [
+        "37"
+    ],
+    "incoming call": [
+        "37",
+        "49"
+    ],
+    "old phone": [
+        "37"
+    ],
+    "old bike": [
+        "37"
+    ],
+    "India": [
+        "37"
+    ],
+    "speed up": [
+        "37"
+    ],
+    "Yoga classes": [
+        "37"
+    ],
+    "DJ music pattern": [
+        "37"
+    ],
+    "electric drill": [
+        "37"
+    ],
+    "crowd": [
+        "38",
+        "58",
+        "88"
+    ],
+    "nowhere to go": [
+        "38"
+    ],
+    "timer": [
+        "38",
+        "2"
+    ],
+    "wake up alarm": [
+        "38"
+    ],
+    "servo motor": [
+        "38"
+    ],
+    "rotating": [
+        "38",
+        "73"
+    ],
+    "chalk": [
+        "38",
+        "28"
+    ],
+    "scratched": [
+        "38"
+    ],
+    "humming": [
+        "38",
+        "21"
+    ],
+    "lyrics": [
+        "38",
+        "48"
+    ],
+    "pop song": [
+        "38"
+    ],
+    "water filters": [
+        "38"
+    ],
+    "808 beats": [
+        "38"
+    ],
+    "rap music": [
+        "38"
+    ],
+    "bike thrusters": [
+        "38"
+    ],
+    "alarm clock": [
+        "38",
+        "61",
+        "69",
+        "72",
+        "79",
+        "35",
+        "43",
+        "55"
+    ],
+    "computer games": [
+        "41"
+    ],
+    "action games": [
+        "41",
+        "35",
+        "55"
+    ],
+    "shooting guns": [
+        "41"
+    ],
+    "heart thumping": [
+        "41"
+    ],
+    "hear heart": [
+        "41"
+    ],
+    "notifications": [
+        "41",
+        "26",
+        "2"
+    ],
+    "pins falling": [
+        "41"
+    ],
+    "good height": [
+        "41"
+    ],
+    "clinging teeth": [
+        "41"
+    ],
+    "shivering": [
+        "41"
+    ],
+    "drum beat pattern": [
+        "41"
+    ],
+    "holding heart": [
+        "41"
+    ],
+    "measuring heartbeat": [
+        "41"
+    ],
+    "mini-marathon": [
+        "41"
+    ],
+    "rain": [
+        "41",
+        "24",
+        "24"
+    ],
+    "foot injury": [
+        "42"
+    ],
+    "movements": [
+        "42"
+    ],
+    "daily tasks": [
+        "42"
+    ],
+    "sports": [
+        "42"
+    ],
+    "start of songs": [
+        "42"
+    ],
+    "rhythmic": [
+        "42",
+        "19",
+        "81"
+    ],
+    "rotating fan": [
+        "42"
+    ],
+    "electric vibration": [
+        "42"
+    ],
+    "high sense": [
+        "42"
+    ],
+    "speed": [
+        "42",
+        "51",
+        "76",
+        "39",
+        "87"
+    ],
+    "tickle": [
+        "42"
+    ],
+    "bell": [
+        "42",
+        "69"
+    ],
+    "temple": [
+        "42",
+        "69"
+    ],
+    "bass": [
+        "42"
+    ],
+    "washing soap": [
+        "42"
+    ],
+    "smoothness": [
+        "42",
+        "67"
+    ],
+    "clock ticking.": [
+        "42"
+    ],
+    "unorganised structure": [
+        "44"
+    ],
+    "chaos": [
+        "44",
+        "58"
+    ],
+    "controller dying": [
+        "44"
+    ],
+    "running out of battery": [
+        "44"
+    ],
+    "reconnect": [
+        "44"
+    ],
+    "Visa interview": [
+        "44"
+    ],
+    "batching": [
+        "44"
+    ],
+    "ball bouncing": [
+        "44"
+    ],
+    "height decreasing": [
+        "44"
+    ],
+    "damping": [
+        "44"
+    ],
+    "lost energy": [
+        "44"
+    ],
+    "burping sound": [
+        "44"
+    ],
+    "throat infection": [
+        "44"
+    ],
+    "church bell": [
+        "44"
+    ],
+    "media": [
+        "45"
+    ],
+    "wars": [
+        "45"
+    ],
+    "missiles": [
+        "45"
+    ],
+    "panicky situation": [
+        "45"
+    ],
+    "stop": [
+        "45"
+    ],
+    "important": [
+        "45",
+        "29"
+    ],
+    "sabotaged": [
+        "45"
+    ],
+    "gun fire": [
+        "45"
+    ],
+    "first person shooting game": [
+        "45"
+    ],
+    "rappers": [
+        "45"
+    ],
+    "fast pace": [
+        "45",
+        "91"
+    ],
+    "sound effect": [
+        "45",
+        "49"
+    ],
+    "disco lights": [
+        "45"
+    ],
+    "EDM concert": [
+        "45"
+    ],
+    "clubs": [
+        "45"
+    ],
+    "gun-shaped joysticks": [
+        "45"
+    ],
+    "arcade": [
+        "45"
+    ],
+    "annoy": [
+        "45"
+    ],
+    "urgency": [
+        "45",
+        "50",
+        "73",
+        "34",
+        "13"
+    ],
+    "task": [
+        "45",
+        "67"
+    ],
+    "driving on the freeway": [
+        "46"
+    ],
+    "speed bump": [
+        "46"
+    ],
+    "frog sound": [
+        "46"
+    ],
+    "process running into errors": [
+        "46"
+    ],
+    "cricket bat": [
+        "46"
+    ],
+    "train running on a track": [
+        "46"
+    ],
+    "cleaning a glass surface": [
+        "46"
+    ],
+    "chainsaw": [
+        "46",
+        "72",
+        "52"
+    ],
+    "slicing down a tree": [
+        "46"
+    ],
+    "active vibration": [
+        "46"
+    ],
+    "sound of cricket": [
+        "46"
+    ],
+    "suspense": [
+        "49",
+        "49",
+        "8"
+    ],
+    "thriller movies": [
+        "49",
+        "90"
+    ],
+    "final phase": [
+        "49"
+    ],
+    "bumpy": [
+        "49",
+        "67"
+    ],
+    "uneven road": [
+        "49"
+    ],
+    "bug": [
+        "49"
+    ],
+    "wandering": [
+        "49"
+    ],
+    "ear": [
+        "49",
+        "5",
+        "94"
+    ],
+    "tuning": [
+        "49"
+    ],
+    "instrument": [
+        "49"
+    ],
+    "not tuned well": [
+        "49"
+    ],
+    "machines": [
+        "49"
+    ],
+    "working": [
+        "49"
+    ],
+    "novice": [
+        "49"
+    ],
+    "secret communication": [
+        "49"
+    ],
+    "frog": [
+        "49",
+        "83"
+    ],
+    "shore": [
+        "50"
+    ],
+    "feet massaging tool": [
+        "50"
+    ],
+    "treatment": [
+        "50"
+    ],
+    "rhythmic alarm": [
+        "50"
+    ],
+    "game character": [
+        "50"
+    ],
+    "health": [
+        "50"
+    ],
+    "leg massage": [
+        "50"
+    ],
+    "car engine": [
+        "50",
+        "75",
+        "53"
+    ],
+    "drilling machine": [
+        "50",
+        "52"
+    ],
+    "bore well": [
+        "50"
+    ],
+    "warning alarm": [
+        "50"
+    ],
+    "fading voice": [
+        "50"
+    ],
+    "tension": [
+        "51"
+    ],
+    "surprise": [
+        "51"
+    ],
+    "ready": [
+        "51"
+    ],
+    "updates": [
+        "51"
+    ],
+    "deep breaths": [
+        "51"
+    ],
+    "sprint session": [
+        "51"
+    ],
+    "small": [
+        "51"
+    ],
+    "banging": [
+        "51"
+    ],
+    "boring": [
+        "51"
+    ],
+    "well": [
+        "51"
+    ],
+    "police siren": [
+        "51",
+        "66"
+    ],
+    "orator": [
+        "51"
+    ],
+    "talking": [
+        "51"
+    ],
+    "pop music": [
+        "51"
+    ],
+    "clock timer": [
+        "57"
+    ],
+    "time ticking": [
+        "57",
+        "39"
+    ],
+    "last phase": [
+        "57"
+    ],
+    "time bound": [
+        "57"
+    ],
+    "starting motorcycle": [
+        "57"
+    ],
+    "heavy rainfall": [
+        "57"
+    ],
+    "machine gun shooting": [
+        "57"
+    ],
+    "muffled": [
+        "57"
+    ],
+    "ticking clock": [
+        "57",
+        "71",
+        "83"
+    ],
+    "shaking object": [
+        "57"
+    ],
+    "light dims": [
+        "57"
+    ],
+    "sound of water": [
+        "57"
+    ],
+    "falling drop by drop": [
+        "57"
+    ],
+    "2020": [
+        "58"
+    ],
+    "covid outbreak": [
+        "58"
+    ],
+    "unpredictability": [
+        "58"
+    ],
+    "happy summer day": [
+        "58"
+    ],
+    "energetic situation": [
+        "58"
+    ],
+    "rock band concert": [
+        "58"
+    ],
+    "high bass sound system": [
+        "58"
+    ],
+    "concert": [
+        "58",
+        "13",
+        "84"
+    ],
+    "music festival": [
+        "58"
+    ],
+    "unable to start vehicle": [
+        "58"
+    ],
+    "weird noises": [
+        "58"
+    ],
+    "electronic music intro": [
+        "58"
+    ],
+    "snake": [
+        "58"
+    ],
+    "climbing up skin": [
+        "58"
+    ],
+    "bumpers": [
+        "58"
+    ],
+    "knocking door": [
+        "58"
+    ],
+    "brick paved road": [
+        "59"
+    ],
+    "pattern": [
+        "59",
+        "20"
+    ],
+    "techno rave": [
+        "59"
+    ],
+    "machine breakdown": [
+        "59"
+    ],
+    "running": [
+        "59",
+        "73",
+        "36",
+        "6",
+        "31",
+        "7",
+        "8",
+        "11"
+    ],
+    "homesick": [
+        "59"
+    ],
+    "covid": [
+        "59"
+    ],
+    "getting out of the house": [
+        "59"
+    ],
+    "musical theatre": [
+        "59"
+    ],
+    "rock band": [
+        "59"
+    ],
+    "revving motorcycle": [
+        "59"
+    ],
+    "listening to a motivator": [
+        "59"
+    ],
+    "sound of ambulance": [
+        "59"
+    ],
+    "flying drone": [
+        "64"
+    ],
+    "start/end": [
+        "64"
+    ],
+    "important event": [
+        "64"
+    ],
+    "life or death situation": [
+        "64"
+    ],
+    "trimmer battery": [
+        "64"
+    ],
+    "school bell": [
+        "64"
+    ],
+    "mixer grinding": [
+        "64"
+    ],
+    "coarse rice": [
+        "64"
+    ],
+    "stomach": [
+        "64"
+    ],
+    "food": [
+        "64"
+    ],
+    "small crackers": [
+        "64"
+    ],
+    "crackling": [
+        "64"
+    ],
+    "construction work": [
+        "64"
+    ],
+    "system shutdown": [
+        "64"
+    ],
+    "scientific facility": [
+        "64"
+    ],
+    "old cycle bell": [
+        "64"
+    ],
+    "trinkling sound": [
+        "64"
+    ],
+    "switching stations": [
+        "64"
+    ],
+    "competitive track days": [
+        "65"
+    ],
+    "empire countdown": [
+        "65"
+    ],
+    "air pistol": [
+        "65"
+    ],
+    "green signal": [
+        "65"
+    ],
+    "random noises": [
+        "65"
+    ],
+    "bored": [
+        "65"
+    ],
+    "dissatisfied": [
+        "65"
+    ],
+    "alarming situation": [
+        "65"
+    ],
+    "online video games": [
+        "65"
+    ],
+    "continuous use": [
+        "65"
+    ],
+    "keypads": [
+        "65"
+    ],
+    "video controllers": [
+        "65"
+    ],
+    "broken machine": [
+        "65"
+    ],
+    "plucking strings": [
+        "65"
+    ],
+    "playing chord": [
+        "65"
+    ],
+    "trying hard to speak": [
+        "65"
+    ],
+    "coughs": [
+        "65"
+    ],
+    "whistle sound": [
+        "65"
+    ],
+    "light object": [
+        "47"
+    ],
+    "falling": [
+        "47",
+        "34"
+    ],
+    "normal person's heartbeat": [
+        "47"
+    ],
+    "watching movies": [
+        "47"
+    ],
+    "slight movement": [
+        "47"
+    ],
+    "table lamp": [
+        "47"
+    ],
+    "video game tutorial": [
+        "47"
+    ],
+    "controller": [
+        "47",
+        "35",
+        "56",
+        "27"
+    ],
+    "correct action": [
+        "47"
+    ],
+    "motor boat": [
+        "61",
+        "93"
+    ],
+    "smart watch alarm": [
+        "61"
+    ],
+    "massage chair": [
+        "61",
+        "70",
+        "79",
+        "9",
+        "13",
+        "16",
+        "8",
+        "27",
+        "84"
+    ],
+    "rhythmical machine": [
+        "61"
+    ],
+    "signals": [
+        "61"
+    ],
+    "fitness band": [
+        "61"
+    ],
+    "electronic wrist band": [
+        "61"
+    ],
+    "failure": [
+        "61"
+    ],
+    "quick time events": [
+        "61",
+        "72"
+    ],
+    "buzzing sound": [
+        "61"
+    ],
+    "tablet": [
+        "61"
+    ],
+    "parked": [
+        "67"
+    ],
+    "medium vibration": [
+        "67"
+    ],
+    "mobile alarm": [
+        "67",
+        "69",
+        "97"
+    ],
+    "cell phone": [
+        "67"
+    ],
+    "noisy": [
+        "67"
+    ],
+    "speedbreakers": [
+        "67"
+    ],
+    "patterns": [
+        "67"
+    ],
+    "getting ready": [
+        "67"
+    ],
+    "cutting": [
+        "67",
+        "53",
+        "11"
+    ],
+    "thick sheet": [
+        "67"
+    ],
+    "cardboard": [
+        "67"
+    ],
+    "barber": [
+        "68"
+    ],
+    "trimmer": [
+        "68",
+        "55"
+    ],
+    "cut hair": [
+        "68"
+    ],
+    "electric heating vibrator": [
+        "68"
+    ],
+    "period cramps": [
+        "68"
+    ],
+    "scooter": [
+        "68",
+        "82"
+    ],
+    "motorbike": [
+        "68",
+        "6"
+    ],
+    "engine starting": [
+        "68"
+    ],
+    "foot massager": [
+        "68"
+    ],
+    "revving engine": [
+        "68"
+    ],
+    "machine starting": [
+        "68"
+    ],
+    "thrilling activity": [
+        "68"
+    ],
+    "ring": [
+        "68",
+        "35"
+    ],
+    "receiver": [
+        "68"
+    ],
+    "accelerate": [
+        "69",
+        "82",
+        "87"
+    ],
+    "parked motorcycle": [
+        "69"
+    ],
+    "sense": [
+        "69"
+    ],
+    "hitting": [
+        "69"
+    ],
+    "snooze": [
+        "69"
+    ],
+    "beating": [
+        "69"
+    ],
+    "big musical drum": [
+        "69"
+    ],
+    "gongs": [
+        "69"
+    ],
+    "bells": [
+        "69"
+    ],
+    "trigger": [
+        "69",
+        "62"
+    ],
+    "video game tutorials": [
+        "69"
+    ],
+    "hammer hit game": [
+        "69"
+    ],
+    "hammer strikes": [
+        "69"
+    ],
+    "surface": [
+        "69",
+        "62"
+    ],
+    "low frequency water flosser": [
+        "70"
+    ],
+    "bullet motor bike engine": [
+        "70"
+    ],
+    "medium speed": [
+        "70",
+        "80"
+    ],
+    "soft droplets of water": [
+        "70"
+    ],
+    "firing guns": [
+        "70"
+    ],
+    "scratching wood": [
+        "70"
+    ],
+    "laptop fan": [
+        "71"
+    ],
+    "dust": [
+        "71"
+    ],
+    "running train": [
+        "71"
+    ],
+    "mobile's virtual keyboard": [
+        "71"
+    ],
+    "random noise": [
+        "71"
+    ],
+    "wind patterns": [
+        "71"
+    ],
+    "specific area": [
+        "71"
+    ],
+    "sound of breeze": [
+        "71"
+    ],
+    "quiet beach": [
+        "71"
+    ],
+    "releasing": [
+        "72"
+    ],
+    "spring": [
+        "72"
+    ],
+    "hair": [
+        "72"
+    ],
+    "blow brush": [
+        "72"
+    ],
+    "sirens": [
+        "72"
+    ],
+    "tickling": [
+        "72"
+    ],
+    "washer dryer machine": [
+        "72"
+    ],
+    "drying clothes": [
+        "72"
+    ],
+    "sports motor bike": [
+        "72"
+    ],
+    "engine starts": [
+        "72"
+    ],
+    "water gun": [
+        "73"
+    ],
+    "sound of a bike": [
+        "73"
+    ],
+    "engine noise": [
+        "73"
+    ],
+    "sprinklers": [
+        "73"
+    ],
+    "garden": [
+        "73",
+        "13"
+    ],
+    "spraying water": [
+        "73"
+    ],
+    "moving bulldozer": [
+        "73"
+    ],
+    "electric guitar": [
+        "74"
+    ],
+    "party clubs": [
+        "74"
+    ],
+    "DJs": [
+        "74"
+    ],
+    "small vibration": [
+        "74"
+    ],
+    "high vibration": [
+        "74"
+    ],
+    "drum band": [
+        "74"
+    ],
+    "engine accelerating": [
+        "74"
+    ],
+    "charging": [
+        "74"
+    ],
+    "final move": [
+        "74"
+    ],
+    "drum-roll": [
+        "74"
+    ],
+    "CD player": [
+        "75"
+    ],
+    "blowing water": [
+        "75"
+    ],
+    "drinking": [
+        "75"
+    ],
+    "cup": [
+        "75"
+    ],
+    "holding": [
+        "75",
+        "75",
+        "39"
+    ],
+    "PC starting": [
+        "75"
+    ],
+    "electric razor": [
+        "75",
+        "90"
+    ],
+    "low battery": [
+        "75",
+        "43"
+    ],
+    "pipe": [
+        "75"
+    ],
+    "high intensity fluid": [
+        "75"
+    ],
+    "mixer-grinder": [
+        "75"
+    ],
+    "low speed": [
+        "75",
+        "80"
+    ],
+    "creating": [
+        "76"
+    ],
+    "delivering": [
+        "76"
+    ],
+    "intervals": [
+        "76"
+    ],
+    "alarm sound": [
+        "76"
+    ],
+    "continuous knocking": [
+        "76"
+    ],
+    "energy": [
+        "76"
+    ],
+    "steady dropping": [
+        "76"
+    ],
+    "leaking faucet": [
+        "76"
+    ],
+    "parking sensor": [
+        "76"
+    ],
+    "proximity sensor": [
+        "76"
+    ],
+    "cars": [
+        "76",
+        "62"
+    ],
+    "hitting body": [
+        "76"
+    ],
+    "strong vibration": [
+        "76"
+    ],
+    "old mobile phones": [
+        "76"
+    ],
+    "bike engine": [
+        "77",
+        "5",
+        "6"
+    ],
+    "low temperature": [
+        "77"
+    ],
+    "sex toy": [
+        "77"
+    ],
+    "buzz sound": [
+        "77"
+    ],
+    "phone alert": [
+        "77"
+    ],
+    "water charging port": [
+        "77"
+    ],
+    "moisture": [
+        "77"
+    ],
+    "high tide pool": [
+        "77"
+    ],
+    "waves crash": [
+        "77"
+    ],
+    "musical songs": [
+        "78"
+    ],
+    "disturbing sound": [
+        "78"
+    ],
+    "intense scenes": [
+        "78"
+    ],
+    "correcting flow": [
+        "78"
+    ],
+    "resistance": [
+        "78"
+    ],
+    "end of cycle": [
+        "78"
+    ],
+    "cut weeds": [
+        "79"
+    ],
+    "alarm rings": [
+        "79"
+    ],
+    "fitbit watch": [
+        "79"
+    ],
+    "activity goal": [
+        "79"
+    ],
+    "pumping water": [
+        "80"
+    ],
+    "dropping rain": [
+        "80"
+    ],
+    "low vibration": [
+        "80"
+    ],
+    "fire training alarm": [
+        "80"
+    ],
+    "fire drills": [
+        "80"
+    ],
+    "evacuation drills": [
+        "80"
+    ],
+    "electronic music": [
+        "80"
+    ],
+    "hand fan": [
+        "80"
+    ],
+    "emotion": [
+        "34"
+    ],
+    "water flowing": [
+        "34"
+    ],
+    "churning butter": [
+        "34",
+        "56"
+    ],
+    "food processor": [
+        "34"
+    ],
+    "pulse mode": [
+        "34"
+    ],
+    "old IC engine": [
+        "34"
+    ],
+    "high load": [
+        "34"
+    ],
+    "rusty tires": [
+        "34"
+    ],
+    "brakes": [
+        "34"
+    ],
+    "pedalled": [
+        "34"
+    ],
+    "SOS warning": [
+        "34"
+    ],
+    "important message": [
+        "34"
+    ],
+    "emergency broadcast": [
+        "34"
+    ],
+    "weather condition": [
+        "34"
+    ],
+    "water bottle": [
+        "34"
+    ],
+    "semi automatic machine gun": [
+        "35"
+    ],
+    "vibrating object": [
+        "35"
+    ],
+    "EDM": [
+        "35",
+        "48"
+    ],
+    "vintage vehicle": [
+        "35"
+    ],
+    "Royal Enfield bike": [
+        "35",
+        "25"
+    ],
+    "tractor": [
+        "35",
+        "24"
+    ],
+    "tone": [
+        "35"
+    ],
+    "fast paced ticking": [
+        "35"
+    ],
+    "table fan": [
+        "35"
+    ],
+    "playing call of duty": [
+        "35"
+    ],
+    "gun mechanics": [
+        "35"
+    ],
+    "relaxed heartbeat": [
+        "36"
+    ],
+    "normal pulse": [
+        "36"
+    ],
+    "veins": [
+        "36"
+    ],
+    "pumping blood": [
+        "36"
+    ],
+    "workout": [
+        "36"
+    ],
+    "human pulse": [
+        "36",
+        "95"
+    ],
+    "low pulse": [
+        "36"
+    ],
+    "swamp": [
+        "36"
+    ],
+    "night time": [
+        "36"
+    ],
+    "stealth": [
+        "36"
+    ],
+    "impending death": [
+        "36"
+    ],
+    "leaking tap": [
+        "36"
+    ],
+    "heart pounded": [
+        "36"
+    ],
+    "tiring": [
+        "36"
+    ],
+    "altitude": [
+        "36"
+    ],
+    "metronome": [
+        "36",
+        "14"
+    ],
+    "heartbeat of a newborn baby": [
+        "36"
+    ],
+    "machinery": [
+        "39",
+        "11"
+    ],
+    "paper shredder": [
+        "39"
+    ],
+    "hair trimmer": [
+        "39",
+        "16"
+    ],
+    "refrigerator": [
+        "39"
+    ],
+    "construction site": [
+        "39",
+        "18"
+    ],
+    "operating": [
+        "39",
+        "55"
+    ],
+    "grass cutter": [
+        "39"
+    ],
+    "PS4 joystick": [
+        "39"
+    ],
+    "relief": [
+        "39"
+    ],
+    "muscle pain": [
+        "39"
+    ],
+    "hand massager": [
+        "39"
+    ],
+    "lawn mower": [
+        "39"
+    ],
+    "cutting grass": [
+        "39"
+    ],
+    "jet ski": [
+        "39"
+    ],
+    "drifting": [
+        "39"
+    ],
+    "lost in thoughts": [
+        "39"
+    ],
+    "pager": [
+        "40"
+    ],
+    "shooting game": [
+        "40"
+    ],
+    "xbox controller": [
+        "40"
+    ],
+    "jumpstart": [
+        "40"
+    ],
+    "winter morning": [
+        "40"
+    ],
+    "old equipment": [
+        "40"
+    ],
+    "grunting noises": [
+        "40"
+    ],
+    "mixer grinder": [
+        "40"
+    ],
+    "starting a car": [
+        "40"
+    ],
+    "cold weather": [
+        "40"
+    ],
+    "turning the key": [
+        "40"
+    ],
+    "calling someone": [
+        "40"
+    ],
+    "water sprays": [
+        "40"
+    ],
+    "opening a door": [
+        "40"
+    ],
+    "smart watch": [
+        "43",
+        "18",
+        "26"
+    ],
+    "rat": [
+        "43"
+    ],
+    "motor boat engine": [
+        "43"
+    ],
+    "bullets": [
+        "43",
+        "6",
+        "25"
+    ],
+    "competitions": [
+        "43"
+    ],
+    "countdowns": [
+        "43"
+    ],
+    "light alarm clock": [
+        "43"
+    ],
+    "flying a helicopter": [
+        "43"
+    ],
+    "faint vibration beats": [
+        "43"
+    ],
+    "spigot": [
+        "43"
+    ],
+    "catching pokemon": [
+        "43"
+    ],
+    "Nintendo DS": [
+        "43"
+    ],
+    "light rain": [
+        "43"
+    ],
+    "beaches": [
+        "43"
+    ],
+    "California": [
+        "43"
+    ],
+    "silent": [
+        "48",
+        "20"
+    ],
+    "listening to music": [
+        "48",
+        "12"
+    ],
+    "calls": [
+        "48"
+    ],
+    "Instagram": [
+        "48"
+    ],
+    "ringtone vibration": [
+        "48"
+    ],
+    "olden era": [
+        "48"
+    ],
+    "Nokia brick phones": [
+        "48"
+    ],
+    "playlist": [
+        "48"
+    ],
+    "Bollywood": [
+        "48"
+    ],
+    "upbeat song": [
+        "48"
+    ],
+    "lane": [
+        "48"
+    ],
+    "edge of the road": [
+        "48"
+    ],
+    "resistive strips": [
+        "48"
+    ],
+    "car rattle": [
+        "48"
+    ],
+    "horse galloping": [
+        "48"
+    ],
+    "disco": [
+        "48"
+    ],
+    "comical sounds": [
+        "52"
+    ],
+    "vibrating cell phone": [
+        "52"
+    ],
+    "mom waking you up": [
+        "52"
+    ],
+    "beyblade matches": [
+        "52"
+    ],
+    "trampolines": [
+        "52"
+    ],
+    "inflated houses": [
+        "52"
+    ],
+    "laughter": [
+        "52"
+    ],
+    "car starting": [
+        "52"
+    ],
+    "intense alarm": [
+        "52"
+    ],
+    "big siren": [
+        "52"
+    ],
+    "nuclear bunker": [
+        "52"
+    ],
+    "cutting through wood": [
+        "52"
+    ],
+    "Nintendo switch vibration": [
+        "52"
+    ],
+    "pokemon": [
+        "52"
+    ],
+    "chalk on blackboard": [
+        "52"
+    ],
+    "squeaking shoes on floor": [
+        "52"
+    ],
+    "intensive care unit": [
+        "53"
+    ],
+    "hospital": [
+        "53",
+        "5"
+    ],
+    "doctors": [
+        "53"
+    ],
+    "efforts": [
+        "53"
+    ],
+    "save patient": [
+        "53"
+    ],
+    "saw": [
+        "53",
+        "54"
+    ],
+    "knife": [
+        "53"
+    ],
+    "clock": [
+        "53"
+    ],
+    "exam hall": [
+        "53"
+    ],
+    "neutral": [
+        "53"
+    ],
+    "2 stroke bike": [
+        "53"
+    ],
+    "yamaha rx": [
+        "53"
+    ],
+    "sawing": [
+        "53",
+        "28"
+    ],
+    "chunk of wood": [
+        "53"
+    ],
+    "cuts": [
+        "53"
+    ],
+    "left and right": [
+        "53"
+    ],
+    "manual car": [
+        "53"
+    ],
+    "clutch": [
+        "53"
+    ],
+    "grinding halt": [
+        "53"
+    ],
+    "cat": [
+        "53",
+        "32"
+    ],
+    "dog": [
+        "53"
+    ],
+    "breathing": [
+        "53",
+        "54"
+    ],
+    "fast": [
+        "53",
+        "60",
+        "87"
+    ],
+    "loads of paper": [
+        "53"
+    ],
+    "war environments": [
+        "54"
+    ],
+    "world war 2": [
+        "54"
+    ],
+    "utensil": [
+        "54",
+        "87"
+    ],
+    "water orb": [
+        "54"
+    ],
+    "crystal balls": [
+        "54"
+    ],
+    "metal bars": [
+        "54"
+    ],
+    "clanking": [
+        "54"
+    ],
+    "bass boosted speaker": [
+        "54"
+    ],
+    "water jumping": [
+        "54"
+    ],
+    "door bell": [
+        "54"
+    ],
+    "table saw": [
+        "54"
+    ],
+    "old telephones": [
+        "54"
+    ],
+    "pet": [
+        "54"
+    ],
+    "huffing": [
+        "54"
+    ],
+    "sick": [
+        "54"
+    ],
+    "army marching": [
+        "54"
+    ],
+    "battalion": [
+        "54"
+    ],
+    "irritating friend": [
+        "55"
+    ],
+    "sibling": [
+        "55"
+    ],
+    "rhythmical sound": [
+        "55"
+    ],
+    "calling name": [
+        "55"
+    ],
+    "blood pressure monitor": [
+        "55"
+    ],
+    "iphone": [
+        "55"
+    ],
+    "electric cooker": [
+        "55"
+    ],
+    "buzzer": [
+        "55"
+    ],
+    "cooking finished": [
+        "55"
+    ],
+    "selecting item": [
+        "55"
+    ],
+    "skipping": [
+        "55"
+    ],
+    "fax": [
+        "55"
+    ],
+    "paper": [
+        "55"
+    ],
+    "trampoline": [
+        "56"
+    ],
+    "accuracy": [
+        "56"
+    ],
+    "aligning": [
+        "56"
+    ],
+    "shot": [
+        "56"
+    ],
+    "grandma": [
+        "56"
+    ],
+    "spinning top": [
+        "56"
+    ],
+    "fun": [
+        "56"
+    ],
+    "snoozing clock": [
+        "56"
+    ],
+    "rough terrain": [
+        "56"
+    ],
+    "doorbell": [
+        "56"
+    ],
+    "sports day": [
+        "56"
+    ],
+    "house flag": [
+        "56"
+    ],
+    "parkour": [
+        "60"
+    ],
+    "electric": [
+        "60",
+        "66"
+    ],
+    "indian traffic junctures": [
+        "60"
+    ],
+    "music pattern": [
+        "60"
+    ],
+    "reverse": [
+        "60"
+    ],
+    "club music": [
+        "60"
+    ],
+    "parties": [
+        "60",
+        "10"
+    ],
+    "heavy machine": [
+        "60"
+    ],
+    "crane": [
+        "60"
+    ],
+    "bulldozer": [
+        "60"
+    ],
+    "robot": [
+        "60"
+    ],
+    "Transformers": [
+        "60"
+    ],
+    "computer screen": [
+        "60"
+    ],
+    "loading circle": [
+        "60"
+    ],
+    "slows down": [
+        "60"
+    ],
+    "Dune": [
+        "62"
+    ],
+    "Sandworms": [
+        "62"
+    ],
+    "sand": [
+        "62"
+    ],
+    "shifting": [
+        "62"
+    ],
+    "bikes": [
+        "62"
+    ],
+    "racing": [
+        "62",
+        "16",
+        "83"
+    ],
+    "gun": [
+        "62"
+    ],
+    "pressing": [
+        "62"
+    ],
+    "heats up": [
+        "62"
+    ],
+    "stops shooting": [
+        "62"
+    ],
+    "pencil": [
+        "62"
+    ],
+    "wooden surface": [
+        "62"
+    ],
+    "frogs": [
+        "62"
+    ],
+    "rainy season": [
+        "62"
+    ],
+    "night": [
+        "62"
+    ],
+    "hot summer days": [
+        "62"
+    ],
+    "kids": [
+        "62"
+    ],
+    "top speed": [
+        "62"
+    ],
+    "motion": [
+        "62",
+        "29"
+    ],
+    "tool": [
+        "62"
+    ],
+    "building": [
+        "62",
+        "11"
+    ],
+    "roller skating": [
+        "62"
+    ],
+    "hungry stomach.": [
+        "62"
+    ],
+    "weapons": [
+        "63"
+    ],
+    "Guardians of the Galaxy": [
+        "63"
+    ],
+    "breaking down": [
+        "63"
+    ],
+    "circles": [
+        "63"
+    ],
+    "doppler effect": [
+        "63"
+    ],
+    "propeller aircraft": [
+        "63"
+    ],
+    "stomach grumbled": [
+        "63"
+    ],
+    "yoga class": [
+        "63",
+        "87"
+    ],
+    "flying": [
+        "63"
+    ],
+    "propeller plane": [
+        "63"
+    ],
+    "starting engine": [
+        "63"
+    ],
+    "low caliber weapon": [
+        "63"
+    ],
+    "firing burst shots": [
+        "63"
+    ],
+    "mopping": [
+        "63"
+    ],
+    "ball": [
+        "66"
+    ],
+    "drawing a line": [
+        "66"
+    ],
+    "opening a suitcase": [
+        "66"
+    ],
+    "zipper bag": [
+        "66"
+    ],
+    "pulling a rope": [
+        "66"
+    ],
+    "ringing of a big bell": [
+        "66"
+    ],
+    "church": [
+        "66"
+    ],
+    "loud ringing": [
+        "66"
+    ],
+    "echo": [
+        "66"
+    ],
+    "flood warnings": [
+        "66"
+    ],
+    "fire siren": [
+        "66"
+    ],
+    "vibration pattern": [
+        "66",
+        "7",
+        "88"
+    ],
+    "radar searching": [
+        "66"
+    ],
+    "forgetting the answer": [
+        "66"
+    ],
+    "exam": [
+        "66"
+    ],
+    "remembering parts": [
+        "66"
+    ],
+    "going blank": [
+        "66"
+    ],
+    "heart races": [
+        "1"
+    ],
+    "sputtering motor boat": [
+        "1"
+    ],
+    "engine dying": [
+        "1"
+    ],
+    "slow eating": [
+        "1"
+    ],
+    "chips": [
+        "1"
+    ],
+    "teeth crushing": [
+        "1"
+    ],
+    "chewing": [
+        "1"
+    ],
+    "phone's emergency alert": [
+        "1"
+    ],
+    "daily alarm": [
+        "1"
+    ],
+    "anxiety": [
+        "1"
+    ],
+    "fast ticking": [
+        "1"
+    ],
+    "stopwatch": [
+        "1"
+    ],
+    "tough workout": [
+        "5"
+    ],
+    "chest": [
+        "5",
+        "16",
+        "84"
+    ],
+    "heart beat": [
+        "5",
+        "3"
+    ],
+    "accurate": [
+        "5"
+    ],
+    "hug": [
+        "5"
+    ],
+    "television shows": [
+        "5"
+    ],
+    "deep meditation": [
+        "5"
+    ],
+    "calm": [
+        "5"
+    ],
+    "relaxed": [
+        "5"
+    ],
+    "text messages": [
+        "6"
+    ],
+    "stressful situation": [
+        "6"
+    ],
+    "beating spoon": [
+        "6"
+    ],
+    "empty glass": [
+        "6"
+    ],
+    "palm sensation": [
+        "6"
+    ],
+    "sputtering": [
+        "6"
+    ],
+    "error notification": [
+        "6"
+    ],
+    "engine sound": [
+        "6"
+    ],
+    "nervousness": [
+        "6"
+    ],
+    "exams": [
+        "6"
+    ],
+    "washing dishes": [
+        "6"
+    ],
+    "slow water": [
+        "6"
+    ],
+    "tap sensation": [
+        "6"
+    ],
+    "startled": [
+        "6"
+    ],
+    "extreme fear": [
+        "6"
+    ],
+    "being played": [
+        "6"
+    ],
+    "tune": [
+        "6",
+        "21"
+    ],
+    "nerf gun": [
+        "6"
+    ],
+    "magazine": [
+        "6"
+    ],
+    "symphonic band": [
+        "9"
+    ],
+    "bass drum": [
+        "9"
+    ],
+    "steady beat": [
+        "9",
+        "14"
+    ],
+    "phone on vibrate": [
+        "9"
+    ],
+    "alarm ringing": [
+        "9"
+    ],
+    "high intense beats": [
+        "9"
+    ],
+    "musical dance": [
+        "9"
+    ],
+    "muscle massager": [
+        "9"
+    ],
+    "car-racing games": [
+        "9"
+    ],
+    "initial vibration": [
+        "9"
+    ],
+    "apartment moving experience": [
+        "9"
+    ],
+    "horror movie scene": [
+        "9"
+    ],
+    "rambling sound": [
+        "9"
+    ],
+    "pointed edges": [
+        "9"
+    ],
+    "comb": [
+        "9",
+        "14"
+    ],
+    "getting a call": [
+        "9"
+    ],
+    "alarm goes on": [
+        "9"
+    ],
+    "phone vibrates": [
+        "10"
+    ],
+    "massage chairs": [
+        "10"
+    ],
+    "massaging": [
+        "10"
+    ],
+    "messaging": [
+        "10"
+    ],
+    "mobile vibration": [
+        "10"
+    ],
+    "uneasy sensation": [
+        "10"
+    ],
+    "rubber band": [
+        "10"
+    ],
+    "cavity": [
+        "10"
+    ],
+    "dentist drilling": [
+        "10"
+    ],
+    "apartment": [
+        "10"
+    ],
+    "video game controllers": [
+        "12"
+    ],
+    "party": [
+        "12",
+        "12",
+        "31"
+    ],
+    "edm concert": [
+        "12"
+    ],
+    "head bang": [
+        "12"
+    ],
+    "dance": [
+        "12",
+        "17"
+    ],
+    "groovy musical beats": [
+        "12"
+    ],
+    "musical sensation": [
+        "12"
+    ],
+    "dance floors": [
+        "12"
+    ],
+    "tong": [
+        "12"
+    ],
+    "flashmob": [
+        "12"
+    ],
+    "dance floor": [
+        "12"
+    ],
+    "drilling gun": [
+        "12"
+    ],
+    "alarms": [
+        "13"
+    ],
+    "get up": [
+        "13"
+    ],
+    "fire drill": [
+        "13"
+    ],
+    "office": [
+        "13"
+    ],
+    "siren": [
+        "13"
+    ],
+    "haunting sensation": [
+        "13"
+    ],
+    "dragging the chair": [
+        "13"
+    ],
+    "household chores": [
+        "13"
+    ],
+    "wake up": [
+        "13"
+    ],
+    "raps": [
+        "13"
+    ],
+    "self start button": [
+        "13"
+    ],
+    "late": [
+        "13"
+    ],
+    "tap foot": [
+        "14"
+    ],
+    "massage machine": [
+        "14"
+    ],
+    "swirl mode": [
+        "14"
+    ],
+    "circular massage": [
+        "14"
+    ],
+    "ball rolling": [
+        "14"
+    ],
+    "ambulance": [
+        "14"
+    ],
+    "bluetooth speaker": [
+        "14"
+    ],
+    "short strokes": [
+        "14"
+    ],
+    "cut strokes": [
+        "14"
+    ],
+    "violin": [
+        "14"
+    ],
+    "ruler": [
+        "14"
+    ],
+    "irritation": [
+        "14"
+    ],
+    "disturbance": [
+        "14"
+    ],
+    "class": [
+        "14"
+    ],
+    "toy cars": [
+        "16"
+    ],
+    "submarine": [
+        "16"
+    ],
+    "pulpy orange juice": [
+        "16"
+    ],
+    "neck": [
+        "16"
+    ],
+    "sports day practice": [
+        "16"
+    ],
+    "MRI machine": [
+        "16"
+    ],
+    "numbness": [
+        "16"
+    ],
+    "long springs": [
+        "16"
+    ],
+    "car racing games": [
+        "16"
+    ],
+    "Mario Kart": [
+        "16",
+        "22",
+        "88"
+    ],
+    "head massage": [
+        "16"
+    ],
+    "pedestal fan": [
+        "16"
+    ],
+    "barber's shop": [
+        "16"
+    ],
+    "white noise": [
+        "17"
+    ],
+    "sprinting": [
+        "17"
+    ],
+    "race": [
+        "17"
+    ],
+    "focusing": [
+        "17"
+    ],
+    "fast dance moves": [
+        "17"
+    ],
+    "quick 1234 beat step": [
+        "17"
+    ],
+    "pause": [
+        "17",
+        "23"
+    ],
+    "drop": [
+        "17"
+    ],
+    "rocky road": [
+        "17",
+        "96"
+    ],
+    "panic": [
+        "17"
+    ],
+    "rotary engine car": [
+        "17"
+    ],
+    "throwing stones": [
+        "17"
+    ],
+    "buildup": [
+        "17"
+    ],
+    "rhythm": [
+        "17",
+        "15",
+        "82",
+        "83"
+    ],
+    "desire to dance": [
+        "18"
+    ],
+    "groove": [
+        "18"
+    ],
+    "happy": [
+        "18"
+    ],
+    "knocking on door": [
+        "18"
+    ],
+    "entering room": [
+        "18"
+    ],
+    "faulty sensation": [
+        "18"
+    ],
+    "CFL tubelight": [
+        "18"
+    ],
+    "switching on": [
+        "18"
+    ],
+    "break reminders": [
+        "18"
+    ],
+    "dance lessons": [
+        "18"
+    ],
+    "teacher yelling beats": [
+        "18"
+    ],
+    "practice": [
+        "18"
+    ],
+    "pleasant music": [
+        "18"
+    ],
+    "indicator": [
+        "18"
+    ],
+    "command": [
+        "18"
+    ],
+    "clicking buttons": [
+        "18"
+    ],
+    "motor starts": [
+        "18"
+    ],
+    "angry": [
+        "24"
+    ],
+    "sending messages": [
+        "24"
+    ],
+    "convey emotions": [
+        "24"
+    ],
+    "resolve conflict": [
+        "24"
+    ],
+    "Arizona": [
+        "24"
+    ],
+    "tapping noise": [
+        "24"
+    ],
+    "soothing environment": [
+        "24"
+    ],
+    "eating sand": [
+        "24"
+    ],
+    "grainy": [
+        "24"
+    ],
+    "coarse": [
+        "24"
+    ],
+    "palm twitching": [
+        "24"
+    ],
+    "shooting range": [
+        "24"
+    ],
+    "heavy rain season": [
+        "24"
+    ],
+    "rain hitting window": [
+        "24"
+    ],
+    "continuous firing": [
+        "24"
+    ],
+    "crossing road": [
+        "24"
+    ],
+    "crosswalk": [
+        "24"
+    ],
+    "dial tone": [
+        "24"
+    ],
+    "football": [
+        "24"
+    ],
+    "smartphones": [
+        "25"
+    ],
+    "typing": [
+        "25"
+    ],
+    "one finger": [
+        "25"
+    ],
+    "round objects": [
+        "25"
+    ],
+    "washing": [
+        "25"
+    ],
+    "splattering sound": [
+        "25"
+    ],
+    "grapes": [
+        "25"
+    ],
+    "container": [
+        "25"
+    ],
+    "flow": [
+        "25"
+    ],
+    "leaking": [
+        "25"
+    ],
+    "sink": [
+        "25"
+    ],
+    "elevator": [
+        "25"
+    ],
+    "escalator": [
+        "25"
+    ],
+    "helicopter blades": [
+        "25"
+    ],
+    "takeoff": [
+        "25"
+    ],
+    "knocking": [
+        "25"
+    ],
+    "intravenous drips": [
+        "25"
+    ],
+    "medicinal flow": [
+        "25"
+    ],
+    "automatic rifle": [
+        "25"
+    ],
+    "dj": [
+        "26"
+    ],
+    "south indian song": [
+        "26"
+    ],
+    "musical vibration": [
+        "26"
+    ],
+    "skating": [
+        "26"
+    ],
+    "smooth floor": [
+        "26"
+    ],
+    "bottle": [
+        "26"
+    ],
+    "pebbles": [
+        "26"
+    ],
+    "slow swing": [
+        "26"
+    ],
+    "boxing": [
+        "26"
+    ],
+    "pillow": [
+        "26"
+    ],
+    "people": [
+        "26"
+    ],
+    "music beat": [
+        "26"
+    ],
+    "heavy bass": [
+        "26"
+    ],
+    "rock music": [
+        "26"
+    ],
+    "bass-heavy pop songs": [
+        "30"
+    ],
+    "sense of rhythm": [
+        "30"
+    ],
+    "intro sound": [
+        "30"
+    ],
+    "vibrating groove": [
+        "30"
+    ],
+    "not working properly": [
+        "30"
+    ],
+    "wall drilling": [
+        "30"
+    ],
+    "appliance not working properly": [
+        "30"
+    ],
+    "loud vibrations": [
+        "30"
+    ],
+    "multiple beats": [
+        "30"
+    ],
+    "no pattern": [
+        "30"
+    ],
+    "beach buggy": [
+        "30"
+    ],
+    "accelerator handle": [
+        "30"
+    ],
+    "listening to speeches": [
+        "30"
+    ],
+    "heart rate": [
+        "31"
+    ],
+    "hitting drumsticks": [
+        "31"
+    ],
+    "build up": [
+        "31"
+    ],
+    "beatbox": [
+        "31"
+    ],
+    "covering mouth": [
+        "31"
+    ],
+    "similar beats": [
+        "31"
+    ],
+    "punch": [
+        "31"
+    ],
+    "musical": [
+        "31"
+    ],
+    "Brownian motion": [
+        "31"
+    ],
+    "molecules": [
+        "31"
+    ],
+    "visiting factories": [
+        "31"
+    ],
+    "firing": [
+        "31"
+    ],
+    "machine gun": [
+        "31"
+    ],
+    "burst rounds": [
+        "31"
+    ],
+    "similar feel": [
+        "31"
+    ],
+    "alarm going off": [
+        "31"
+    ],
+    "heavy tone": [
+        "31"
+    ],
+    "grooving": [
+        "31"
+    ],
+    "human heart beat": [
+        "2"
+    ],
+    "character's health": [
+        "2"
+    ],
+    "unique": [
+        "2",
+        "23"
+    ],
+    "new": [
+        "2",
+        "23"
+    ],
+    "spaced out phone ringing": [
+        "2"
+    ],
+    "guitar": [
+        "3",
+        "19"
+    ],
+    "striking": [
+        "3"
+    ],
+    "exercise": [
+        "3"
+    ],
+    "Need for Speed": [
+        "3"
+    ],
+    "jackhammer": [
+        "3"
+    ],
+    "repetitive": [
+        "3"
+    ],
+    "earthquake evacuation": [
+        "3"
+    ],
+    "vibrating chair": [
+        "3",
+        "22"
+    ],
+    "picking up a call": [
+        "3"
+    ],
+    "hardware machinery": [
+        "4"
+    ],
+    "manufacturing industry": [
+        "4"
+    ],
+    "car reverse": [
+        "4"
+    ],
+    "tight parking spot": [
+        "4"
+    ],
+    "nerf toy machine gun trigger": [
+        "4"
+    ],
+    "scared animal": [
+        "4"
+    ],
+    "heart beating fast": [
+        "4"
+    ],
+    "hear own heartbeat": [
+        "4"
+    ],
+    "time bomb": [
+        "4"
+    ],
+    "vibrating remote": [
+        "4"
+    ],
+    "emergency fire alarm": [
+        "7"
+    ],
+    "sensory manner": [
+        "7"
+    ],
+    "library": [
+        "7"
+    ],
+    "warning signal": [
+        "7"
+    ],
+    "cinema hall": [
+        "7"
+    ],
+    "sand paper": [
+        "7"
+    ],
+    "ambulance sound": [
+        "7"
+    ],
+    "apartment security alarm": [
+        "7"
+    ],
+    "car racing": [
+        "7"
+    ],
+    "foot down": [
+        "7"
+    ],
+    "gushing sound": [
+        "7"
+    ],
+    "vehicles": [
+        "8"
+    ],
+    "reverse gear": [
+        "8"
+    ],
+    "exam grades": [
+        "8"
+    ],
+    "lats": [
+        "8"
+    ],
+    "upper back": [
+        "8"
+    ],
+    "baby": [
+        "8"
+    ],
+    "drumbeats": [
+        "8"
+    ],
+    "horror game": [
+        "8"
+    ],
+    "monster": [
+        "8"
+    ],
+    "war game": [
+        "8"
+    ],
+    "haptic": [
+        "8"
+    ],
+    "ringtones": [
+        "8",
+        "20"
+    ],
+    "waiting": [
+        "8",
+        "23",
+        "90"
+    ],
+    "something happening": [
+        "8"
+    ],
+    "huge sheets of paper": [
+        "11"
+    ],
+    "plywood": [
+        "11"
+    ],
+    "low speed setting": [
+        "11"
+    ],
+    "beeping device": [
+        "11"
+    ],
+    "car indicators": [
+        "11"
+    ],
+    "throbbing": [
+        "11"
+    ],
+    "waiting period": [
+        "11"
+    ],
+    "Nokia phone": [
+        "15",
+        "20"
+    ],
+    "old fan": [
+        "15"
+    ],
+    "heavy metal songs": [
+        "15"
+    ],
+    "bumpy puddle": [
+        "15"
+    ],
+    "vibrate mode": [
+        "15"
+    ],
+    "rock guitar": [
+        "15"
+    ],
+    "pendulum": [
+        "19"
+    ],
+    "yoga": [
+        "19"
+    ],
+    "hot Jacuzzi": [
+        "19"
+    ],
+    "meditate": [
+        "19"
+    ],
+    "breathe": [
+        "19"
+    ],
+    "buddhist temple": [
+        "19"
+    ],
+    "indie folk song": [
+        "19"
+    ],
+    "drawing strings": [
+        "19"
+    ],
+    "moments": [
+        "19"
+    ],
+    "declared": [
+        "19"
+    ],
+    "negative result": [
+        "19"
+    ],
+    "energetic": [
+        "20"
+    ],
+    "smartwatch": [
+        "20"
+    ],
+    "incoming calls": [
+        "20"
+    ],
+    "beep": [
+        "20"
+    ],
+    "thriller movie": [
+        "20",
+        "81"
+    ],
+    "process": [
+        "20"
+    ],
+    "preparing": [
+        "20"
+    ],
+    "on the go": [
+        "20"
+    ],
+    "applying brake": [
+        "21"
+    ],
+    "uneven manner": [
+        "21"
+    ],
+    "random song": [
+        "21"
+    ],
+    "shopping mall": [
+        "21"
+    ],
+    "broken videogame controller": [
+        "21"
+    ],
+    "level glitch": [
+        "21"
+    ],
+    "touching": [
+        "21",
+        "84",
+        "91"
+    ],
+    "old ashing machine": [
+        "21"
+    ],
+    "broken": [
+        "21"
+    ],
+    "hairy spider": [
+        "21"
+    ],
+    "dangerous spider": [
+        "21"
+    ],
+    "crawling": [
+        "21"
+    ],
+    "video game vibration": [
+        "21"
+    ],
+    "actions": [
+        "21"
+    ],
+    "training scenes": [
+        "21"
+    ],
+    "audio": [
+        "21"
+    ],
+    "emergency room": [
+        "22"
+    ],
+    "rev the engine": [
+        "22"
+    ],
+    "Harley Davidson": [
+        "22"
+    ],
+    "incoming sea shore waves": [
+        "22"
+    ],
+    "holding a radio": [
+        "22"
+    ],
+    "comforting song": [
+        "22"
+    ],
+    "constant notes": [
+        "22"
+    ],
+    "scratching skin": [
+        "22"
+    ],
+    "train passing": [
+        "22"
+    ],
+    "lower speeds": [
+        "22"
+    ],
+    "starting car": [
+        "22"
+    ],
+    "stopping car": [
+        "22"
+    ],
+    "fire": [
+        "23"
+    ],
+    "rubbing wood": [
+        "23"
+    ],
+    "leg massager": [
+        "23"
+    ],
+    "low pressure": [
+        "23"
+    ],
+    "subtle vibrations": [
+        "23"
+    ],
+    "see-saw swing": [
+        "23"
+    ],
+    "park": [
+        "23"
+    ],
+    "woodwork": [
+        "23"
+    ],
+    "wooden bark": [
+        "23"
+    ],
+    "trapped": [
+        "23"
+    ],
+    "underneath": [
+        "23"
+    ],
+    "engine roar": [
+        "23"
+    ],
+    "lights": [
+        "23"
+    ],
+    "musical sounds": [
+        "27"
+    ],
+    "faucet": [
+        "27"
+    ],
+    "bathtub": [
+        "27"
+    ],
+    "back massage": [
+        "27"
+    ],
+    "birds chirping": [
+        "27"
+    ],
+    "sub machine gun": [
+        "27"
+    ],
+    "cursor": [
+        "27"
+    ],
+    "stimuli": [
+        "27"
+    ],
+    "emergency call": [
+        "27"
+    ],
+    "frequency": [
+        "27"
+    ],
+    "sporting events": [
+        "28"
+    ],
+    "stadiums": [
+        "28"
+    ],
+    "sidewalk": [
+        "28",
+        "29"
+    ],
+    "police cars": [
+        "28"
+    ],
+    "speeding car": [
+        "28"
+    ],
+    "music instruments": [
+        "28"
+    ],
+    "handsaw": [
+        "28"
+    ],
+    "block of wood": [
+        "28"
+    ],
+    "writing": [
+        "28"
+    ],
+    "panicky situations": [
+        "28"
+    ],
+    "electronic music concert": [
+        "28"
+    ],
+    "body": [
+        "28"
+    ],
+    "intense runs": [
+        "28"
+    ],
+    "workouts": [
+        "28"
+    ],
+    "something moving": [
+        "28"
+    ],
+    "pipes": [
+        "28"
+    ],
+    "up": [
+        "28"
+    ],
+    "down": [
+        "28"
+    ],
+    "trouble": [
+        "28"
+    ],
+    "reverse camera": [
+        "29"
+    ],
+    "alerting": [
+        "29"
+    ],
+    "parking": [
+        "29"
+    ],
+    "water sprinkler": [
+        "29"
+    ],
+    "backyard": [
+        "29"
+    ],
+    "thoughts": [
+        "29"
+    ],
+    "intro": [
+        "29"
+    ],
+    "police TV show": [
+        "29"
+    ],
+    "old school cars": [
+        "32"
+    ],
+    "early morning": [
+        "32",
+        "91"
+    ],
+    "road worker": [
+        "32"
+    ],
+    "laptop": [
+        "32"
+    ],
+    "closing": [
+        "32"
+    ],
+    "opening": [
+        "32"
+    ],
+    "sling bag": [
+        "32"
+    ],
+    "purring": [
+        "32"
+    ],
+    "drone": [
+        "32"
+    ],
+    "starting up": [
+        "32"
+    ],
+    "broken piece of tech": [
+        "32"
+    ],
+    "medium frequency": [
+        "32"
+    ],
+    "roar": [
+        "32"
+    ],
+    "running machine": [
+        "32"
+    ],
+    "functional": [
+        "32"
+    ],
+    "massages": [
+        "81"
+    ],
+    "back pain": [
+        "81"
+    ],
+    "mobile phone vibration": [
+        "81"
+    ],
+    "steady": [
+        "81"
+    ],
+    "roaring": [
+        "81"
+    ],
+    "lion": [
+        "81"
+    ],
+    "incoming phone call": [
+        "81"
+    ],
+    "something bad": [
+        "81"
+    ],
+    "musical arrangement": [
+        "81"
+    ],
+    "simple chords": [
+        "81"
+    ],
+    "sound vibrations": [
+        "81",
+        "87"
+    ],
+    "movie theatre": [
+        "81"
+    ],
+    "hurry": [
+        "82"
+    ],
+    "finish task": [
+        "82"
+    ],
+    "smoothly running": [
+        "82"
+    ],
+    "sudden jerk": [
+        "82"
+    ],
+    "conveyor belt": [
+        "82"
+    ],
+    "supermarkets": [
+        "82"
+    ],
+    "red signal": [
+        "82"
+    ],
+    "copy machine": [
+        "82"
+    ],
+    "grinding nails": [
+        "82"
+    ],
+    "SOS vibrations": [
+        "82"
+    ],
+    "uneven vibrations": [
+        "82"
+    ],
+    "motorcycle accelerator": [
+        "82"
+    ],
+    "resting": [
+        "83"
+    ],
+    "head": [
+        "83"
+    ],
+    "bus window": [
+        "83"
+    ],
+    "big drum": [
+        "83"
+    ],
+    "drum set": [
+        "83"
+    ],
+    "steady door knock": [
+        "83"
+    ],
+    "middle of a cycle": [
+        "83"
+    ],
+    "boiling water": [
+        "83"
+    ],
+    "croaking": [
+        "83"
+    ],
+    "grabbing attention": [
+        "83"
+    ],
+    "vibrating patterns": [
+        "83"
+    ],
+    "bee": [
+        "84",
+        "92"
+    ],
+    "house fly": [
+        "84"
+    ],
+    "irritates": [
+        "84"
+    ],
+    "soft vibrations": [
+        "84"
+    ],
+    "filling water tank": [
+        "84"
+    ],
+    "electric grinder": [
+        "84"
+    ],
+    "character dying": [
+        "84"
+    ],
+    "electronic mixer": [
+        "84"
+    ],
+    "blend mode": [
+        "84"
+    ],
+    "electric fan": [
+        "84"
+    ],
+    "marching bands": [
+        "84"
+    ],
+    "vicinity": [
+        "84"
+    ],
+    "full body massage": [
+        "85"
+    ],
+    "relaxing": [
+        "85"
+    ],
+    "vehicle moving smoothly": [
+        "85"
+    ],
+    "running over stones": [
+        "85"
+    ],
+    "phone alarm vibrations": [
+        "85"
+    ],
+    "percussion instrument": [
+        "85"
+    ],
+    "punching a bag": [
+        "85"
+    ],
+    "revving a car engine": [
+        "85"
+    ],
+    "failing a task": [
+        "85"
+    ],
+    "retry": [
+        "85"
+    ],
+    "dance floor vibrations": [
+        "85"
+    ],
+    "fuel scooter": [
+        "87"
+    ],
+    "ignite": [
+        "87"
+    ],
+    "moderate": [
+        "87"
+    ],
+    "medium": [
+        "87"
+    ],
+    "slow": [
+        "87"
+    ],
+    "two wheeler": [
+        "87"
+    ],
+    "bouncing": [
+        "87"
+    ],
+    "death bell": [
+        "87"
+    ],
+    "metal spoon": [
+        "87"
+    ],
+    "ringtone": [
+        "87",
+        "88"
+    ],
+    "soundtrack": [
+        "87"
+    ],
+    "fight scene": [
+        "87"
+    ],
+    "action": [
+        "87"
+    ],
+    "failing": [
+        "87"
+    ],
+    "fuel-based vehicle": [
+        "88"
+    ],
+    "rap songs": [
+        "88"
+    ],
+    "chants": [
+        "88"
+    ],
+    "football game": [
+        "88"
+    ],
+    "juicer": [
+        "88"
+    ],
+    "car breaking down": [
+        "90"
+    ],
+    "huge bell": [
+        "90"
+    ],
+    "giant's footsteps": [
+        "90"
+    ],
+    "Godzilla": [
+        "90"
+    ],
+    "ringing a call": [
+        "90"
+    ],
+    "meditating": [
+        "90"
+    ],
+    "driving game": [
+        "90"
+    ],
+    "car hits a wall": [
+        "90"
+    ],
+    "iPad": [
+        "90"
+    ],
+    "table clock": [
+        "91"
+    ],
+    "desk": [
+        "91"
+    ],
+    "laundry machine": [
+        "91"
+    ],
+    "team": [
+        "91"
+    ],
+    "fight": [
+        "91"
+    ],
+    "jump into action": [
+        "91"
+    ],
+    "vibrating dance floor": [
+        "91"
+    ],
+    "waltz": [
+        "91"
+    ],
+    "drumming pattern": [
+        "91"
+    ],
+    "machine vibrations": [
+        "91"
+    ],
+    "carving shop": [
+        "91"
+    ],
+    "decelerating": [
+        "92"
+    ],
+    "unsteady vibrations": [
+        "92"
+    ],
+    "polish": [
+        "92"
+    ],
+    "surfaces": [
+        "92",
+        "94"
+    ],
+    "space flight game": [
+        "92"
+    ],
+    "mosquito": [
+        "92"
+    ],
+    "off tune": [
+        "92"
+    ],
+    "uneven": [
+        "92"
+    ],
+    "coarse road": [
+        "92"
+    ],
+    "moving liquid": [
+        "92"
+    ],
+    "milkshakes": [
+        "92"
+    ],
+    "mobile phone alarm": [
+        "93"
+    ],
+    "typewriter": [
+        "93"
+    ],
+    "alarm bell": [
+        "93"
+    ],
+    "strong vibrations": [
+        "93"
+    ],
+    "aggressive typing": [
+        "93"
+    ],
+    "phone keypad": [
+        "93"
+    ],
+    "gun shootings": [
+        "93"
+    ],
+    "printing paper": [
+        "93"
+    ],
+    "fast beating heart": [
+        "93"
+    ],
+    "intense physical activity": [
+        "93"
+    ],
+    "starts slowly": [
+        "94"
+    ],
+    "takes up speed": [
+        "94"
+    ],
+    "pulling with force": [
+        "94"
+    ],
+    "dropping to smaller height": [
+        "94"
+    ],
+    "person snoring": [
+        "94"
+    ],
+    "building falling down": [
+        "94"
+    ],
+    "films": [
+        "94"
+    ],
+    "whispering": [
+        "94"
+    ],
+    "animals scratching": [
+        "94"
+    ],
+    "claws": [
+        "94"
+    ],
+    "human breathing pattern": [
+        "94"
+    ],
+    "long breaths": [
+        "94"
+    ],
+    "washing machine cycle": [
+        "94"
+    ],
+    "water tank": [
+        "95"
+    ],
+    "filling water": [
+        "95"
+    ],
+    "old scooters": [
+        "95"
+    ],
+    "knocking on a door": [
+        "95"
+    ],
+    "epillator": [
+        "95"
+    ],
+    "oxygen bubbles": [
+        "95"
+    ],
+    "hospital screen": [
+        "95"
+    ],
+    "telephone ringing": [
+        "95"
+    ],
+    "vibration form": [
+        "95"
+    ],
+    "smoothly running cycle": [
+        "96"
+    ],
+    "sewing machine": [
+        "96"
+    ],
+    "car moving at high speed": [
+        "96"
+    ],
+    "helicopter": [
+        "96"
+    ],
+    "stomach growling": [
+        "96"
+    ],
+    "birds flapping wings": [
+        "96"
+    ],
+    "driving on a dirt road": [
+        "96"
+    ],
+    "filling a water bottle": [
+        "96"
+    ],
+    "brim": [
+        "96"
+    ],
+    "mattress": [
+        "97"
+    ],
+    "rocks rolling": [
+        "97"
+    ],
+    "hill": [
+        "97"
+    ],
+    "mountain": [
+        "97"
+    ],
+    "gokart": [
+        "97"
+    ],
+    "handle": [
+        "97"
+    ],
+    "chatter": [
+        "97"
+    ],
+    "classroom": [
+        "97"
+    ],
+    "engine failing": [
+        "97"
+    ],
+    "start up": [
+        "97"
+    ],
+    "gritty machine": [
+        "97"
+    ],
+    "gastric movements": [
+        "97"
+    ],
+    "abdomen": [
+        "97"
+    ],
+    "indigestion": [
+        "97"
+    ]
+}

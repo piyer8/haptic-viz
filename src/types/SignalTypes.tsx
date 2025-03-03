@@ -1,5 +1,5 @@
 export interface Signal {
-    signal_index: string;
+    signal_id: string;
     sensory_descriptions: string[];
     emotion_descriptions: string[];
     associative_descriptions: string[];
