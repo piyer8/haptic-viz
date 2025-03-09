@@ -3,10 +3,12 @@ import { Signal } from '../types/SignalTypes';
 import { Button, Box, Typography, Paper, Stack, TextField, MenuItem, Select } from '@mui/material';
 import allSignalsData from '../signals/signal-data/signal-descriptions/all_signals.json';
 import EmotionalData from './EmotionalData';
+import wcData from '../signals/signal-data/word-count/separate_word_counts.json';
 import sensoryKeywords from '../signals/signal-data/keyword-mappings/sensory_keywords.json';
 import emotionalKeywords from '../signals/signal-data/keyword-mappings/emotional_keywords.json';
 import associativeKeywords from '../signals/signal-data/keyword-mappings/associative_keywords.json';
 import { SignalPanel } from './SignalPanel';
+import { Wordcloud } from './Visualizations/WordCloud';
 
 export default function Dashboard() {
     const [allSignals, setAllSignals] = useState<any[]>([]);
@@ -15,6 +17,7 @@ export default function Dashboard() {
     const [sensoryFilter, setSensoryFilter] = useState<string>("");
     const [emotionalFilter, setEmotionalFilter] = useState<string>("");
     const [associativeFilter, setAssociativeFilter] = useState<string>("");
+    const [wordCloudData, setWordCloudData] = useState<any[]>([]);
 
     useEffect(() => {
         setAllSignals(allSignalsData ? allSignalsData : []);
@@ -24,6 +27,10 @@ export default function Dashboard() {
     useEffect(() => {
         console.log("Loaded all signals", allSignals);
     }, [allSignals]);
+
+    useEffect(() => {
+        aggregateWordCounts(filteredSignals);
+    }, [filteredSignals]);
 
     const handleFilter = () => {
         let matchingSignals = new Set<number>(allSignals.map(signal => signal.signal_id));
@@ -44,6 +51,22 @@ export default function Dashboard() {
         if (associativeMatches) matchingSignals = new Set([...matchingSignals].filter(id => associativeMatches.has(id)));
         const filtered = allSignals.filter(signal => matchingSignals.has(signal.signal_id));
         setFilteredSignals(filtered);
+    };
+
+    const aggregateWordCounts = (filteredSignals: any[]) => {
+        const wordCountMap: { [key: string]: number } = {};
+        const signalIds = new Set(filteredSignals.map(signal => signal.signal_id.toString()));
+        
+        wcData.forEach(entry => {
+            if (signalIds.has(entry.signal_index)) {
+                [...entry.sensory_word_count, ...entry.emotional_word_count, ...entry.associative_word_count].forEach(wordEntry => {
+                    wordCountMap[wordEntry.text] = (wordCountMap[wordEntry.text] || 0) + wordEntry.value;
+                });
+            }
+        });
+        
+        const wordCloudArray = Object.keys(wordCountMap).map(word => ({ text: word, value: wordCountMap[word] }));
+        setWordCloudData(wordCloudArray);
     };
 
     return (
@@ -79,14 +102,14 @@ export default function Dashboard() {
                         <MenuItem key={keyword} value={keyword}>{keyword}</MenuItem>
                     ))}
                 </Select>
-                <Stack direction="row" spacing={2} padding={2}>
-                    
-                </Stack>
                 <Button variant="contained" onClick={handleFilter}>Apply Filters</Button>
             </Stack>
             <Box display="flex" flexGrow={1}>
                 <SignalList signals={filteredSignals} currentSignal={currentSignal} setCurrentSignal={(id) => setCurrentSignal(id)} />
-                {currentSignal && <SignalPanel signalId={currentSignal} />}
+                <Box display="flex" flexDirection="column">
+                    {currentSignal && <SignalPanel signalId={currentSignal} />}
+                    {wordCloudData.length > 0 && <Wordcloud width={200} height={200} data={wordCloudData} />}
+                </Box>
             </Box>
         </Box>
     );
