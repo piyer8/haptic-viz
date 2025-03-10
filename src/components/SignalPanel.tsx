@@ -22,7 +22,6 @@ export const SignalPanel = (props: {signalId: number}) => {
         setsignalid(`F${props.signalId}`);
         let f = require('../signals/signal-data/signal-descriptions/F' + props.signalId + '.json');
         if(f){
-            console.log(f)
             setsignalData(f);
             loadSensoryData(f.sensory)
             loadEmotionalData(f.emotional)

@@ -1,19 +1,16 @@
 import React, { useEffect, useState } from 'react';
-import { Signal } from '../types/SignalTypes';
-import { Button, Box, Typography, Paper, Stack, TextField, MenuItem, Select } from '@mui/material';
+import { Button, Box,Stack, MenuItem, Select } from '@mui/material';
 import allSignalsData from '../signals/signal-data/signal-descriptions/all_signals.json';
-import EmotionalData from './EmotionalData';
 import wcData from '../signals/signal-data/word-count/separate_word_counts.json';
 import sensoryKeywords from '../signals/signal-data/keyword-mappings/sensory_keywords.json';
 import emotionalKeywords from '../signals/signal-data/keyword-mappings/emotional_keywords.json';
 import associativeKeywords from '../signals/signal-data/keyword-mappings/associative_keywords.json';
-import { SignalPanel } from './SignalPanel';
-import { Wordcloud } from './Visualizations/WordCloud';
+import {WordcloudPanel} from './Visualizations/WordCloudPanel';
+import { SignalGallery } from './SignalGallery';
 
 export default function Dashboard() {
     const [allSignals, setAllSignals] = useState<any[]>([]);
     const [filteredSignals, setFilteredSignals] = useState<any[]>([]);
-    const [currentSignal, setCurrentSignal] = useState<number | undefined>(undefined);
     const [sensoryFilter, setSensoryFilter] = useState<string>("");
     const [emotionalFilter, setEmotionalFilter] = useState<string>("");
     const [associativeFilter, setAssociativeFilter] = useState<string>("");
@@ -66,12 +63,13 @@ export default function Dashboard() {
         });
         
         const wordCloudArray = Object.keys(wordCountMap).map(word => ({ text: word, value: wordCountMap[word] }));
+        console.log(wordCloudArray)
         setWordCloudData(wordCloudArray);
     };
 
     return (
-        <Box display="flex" height="100vh" flexDirection="column">
-            <Stack direction="row" spacing={2} padding={2}>
+        <Box display="flex" height="100vh" width={"100%"} flexDirection="column">
+            <Stack direction="row" spacing={2} padding={2} height="10vh">
                 <Select
                     displayEmpty
                     value={sensoryFilter}
@@ -104,40 +102,40 @@ export default function Dashboard() {
                 </Select>
                 <Button variant="contained" onClick={handleFilter}>Apply Filters</Button>
             </Stack>
-            <Box display="flex" flexGrow={1}>
-                <SignalList signals={filteredSignals} currentSignal={currentSignal} setCurrentSignal={(id) => setCurrentSignal(id)} />
-                <Box display="flex" flexDirection="column">
-                    {currentSignal && <SignalPanel signalId={currentSignal} />}
-                    {wordCloudData.length > 0 && <Wordcloud width={200} height={200} data={wordCloudData} />}
+            <Box display="flex" width={'100%'} flexGrow={1} height="90vh">
+                {/* <SignalList signals={filteredSignals} currentSignal={currentSignal} setCurrentSignal={(id) => setCurrentSignal(id)} /> */}
+                <SignalGallery signals={filteredSignals} />
+                <Box display="flex" flexDirection="column"height={'100vh'}>
+                    {wordCloudData.length > 0 && <WordcloudPanel data={wordCloudData} width={300} height={300} />}
                 </Box>
             </Box>
         </Box>
     );
 }
 
-const SignalList = (props: {signals: Signal[], currentSignal: number | undefined, setCurrentSignal: React.Dispatch<React.SetStateAction<number | undefined>>}) => {
-    const [signals, setsignals] = useState<Signal[]>(props.signals);
-    const [currentSignal, setcurrentSignal] = useState<number | undefined>(props.currentSignal);
-    useEffect(() => {
-        setsignals(props.signals);
-        setcurrentSignal(props.currentSignal);
-    }, [props.signals, props.currentSignal]);
-    return (
-        <Paper sx={{ width: '50%', height: '100vh', overflowY: 'auto', p: 2, bgcolor: 'grey.100' }}>
-            <Typography variant="h6" gutterBottom>
-                Signals
-            </Typography>
-            {signals.map((signal) => (
-                <Button 
-                    key={signal.signal_id} 
-                    variant={currentSignal === Number.parseInt(signal.signal_id) ? "contained" : "outlined"} 
-                    fullWidth 
-                    sx={{ my: 0, color: {   } }} 
-                    onClick={() => props.setCurrentSignal(Number.parseInt(signal.signal_id))}
-                >
-                    F{signal.signal_id}
-                </Button>
-            ))}
-        </Paper>
-    );
-};
+// const SignalList = (props: {signals: Signal[], currentSignal: number | undefined, setCurrentSignal: React.Dispatch<React.SetStateAction<number | undefined>>}) => {
+//     const [signals, setsignals] = useState<Signal[]>(props.signals);
+//     const [currentSignal, setcurrentSignal] = useState<number | undefined>(props.currentSignal);
+//     useEffect(() => {
+//         setsignals(props.signals);
+//         setcurrentSignal(props.currentSignal);
+//     }, [props.signals, props.currentSignal]);
+//     return (
+//         <Paper sx={{ width: '50%', height: '100vh', overflowY: 'auto', p: 2, bgcolor: 'grey.100' }}>
+//             <Typography variant="h6" gutterBottom>
+//                 Signals
+//             </Typography>
+//             {signals.map((signal) => (
+//                 <Button 
+//                     key={signal.signal_id} 
+//                     variant={currentSignal === Number.parseInt(signal.signal_id) ? "contained" : "outlined"} 
+//                     fullWidth 
+//                     sx={{ my: 0, color: {   } }} 
+//                     onClick={() => props.setCurrentSignal(Number.parseInt(signal.signal_id))}
+//                 >
+//                     F{signal.signal_id}
+//                 </Button>
+//             ))}
+//         </Paper>
+//     );
+// };
