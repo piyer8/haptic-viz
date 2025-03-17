@@ -1,0 +1,3781 @@
+[
+  {
+    "signal_id": "F113",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "slow heartbeat",
+      "slow",
+      "heartbeat",
+      "buzz notification",
+      "enjoyable",
+      "comforted",
+      "calm",
+      "reassuring"
+    ],
+    "roughness_keywords": [
+      "bumpy-feeling",
+      "anxiety",
+      "greasy",
+      "pulse-check",
+      "alarm",
+      "mobile notification vibration",
+      "door bell ring",
+      "crashing car"
+    ]
+  },
+  {
+    "signal_id": "F114",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "continuous",
+      "long buzz",
+      "slow continuous vibrations",
+      "long duration",
+      "few break-points",
+      "slow down",
+      "pleasent feeling",
+      "happy",
+      "enjoyable",
+      "wave travelling fast"
+    ],
+    "roughness_keywords": [
+      "panicky",
+      "fast",
+      "quick vibrations",
+      "suddenly slow down",
+      "anxiety",
+      "urgent",
+      "annoyed",
+      "alarm",
+      "harsh vibration",
+      "car honking",
+      "getting late",
+      "moderate panic state",
+      "panic",
+      "alert"
+    ]
+  },
+  {
+    "signal_id": "F115",
+    "smoothness": 8,
+    "smoothness_keywords": [
+      "continuous wave",
+      "steady",
+      "even",
+      "slowly increasing",
+      "soothing",
+      "relaxed feeling",
+      "pleasurable",
+      "constant waves",
+      "relaxes",
+      "soft vibrations"
+    ],
+    "roughness_keywords": ["none"]
+  },
+  {
+    "signal_id": "F116",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "gentle",
+      "smooth wave",
+      "steady",
+      "calm",
+      "reassuring"
+    ],
+    "roughness_keywords": [
+      "loud",
+      "strong buzz",
+      "fast heartbeat",
+      "intense",
+      "siren",
+      "inconsistent",
+      "anxious",
+      "discomfort",
+      "irritated"
+    ]
+  },
+  {
+    "signal_id": "F117",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "mild",
+      "comfortable",
+      "steady",
+      "calm",
+      "quick",
+      "familiar",
+      "nudge"
+    ],
+    "roughness_keywords": [
+      "sporadic",
+      "irregular",
+      "prickly",
+      "breaks",
+      "bursts",
+      "taps",
+      "poking",
+      "electric-rythemical",
+      "frictional",
+      "irritated",
+      "unsettling",
+      "sharp"
+    ]
+  },
+  {
+    "signal_id": "F118",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "calm",
+      "slow",
+      "smooth",
+      "patterns",
+      "calmness",
+      "warm",
+      "energized"
+    ],
+    "roughness_keywords": [
+      "chaotic",
+      "rough",
+      "bumpy",
+      "grainy",
+      "irritating",
+      "prickly",
+      "unpleasant",
+      "concer",
+      "weird",
+      "dirty",
+      "nervous",
+      "intense",
+      "aggressive",
+      "hungry"
+    ]
+  },
+  {
+    "signal_id": "F119",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "continuous buzz",
+      "steady",
+      "constant",
+      "calm",
+      "relaxed",
+      "pleasant",
+      "happy",
+      "positive",
+      "relaxation",
+      "rest"
+    ],
+    "roughness_keywords": [
+      "gritty",
+      "tingling",
+      "rough",
+      "unpleasant",
+      "greasy",
+      "buzz-sound"
+    ]
+  },
+  {
+    "signal_id": "F120",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "rhythmic",
+      "marching rhythm",
+      "slow drumrolls",
+      "familiar",
+      "exciting",
+      "enjoyable",
+      "happy",
+      "curious"
+    ],
+    "roughness_keywords": [
+      "bump",
+      "sudden",
+      "start and stop",
+      "less frequency",
+      "anxious",
+      "tensed",
+      "irritating",
+      "thumping energy",
+      "urgency"
+    ]
+  },
+  {
+    "signal_id": "F121",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "calm",
+      "steady",
+      "exciting",
+      "familiar",
+      "routine"
+    ],
+    "roughness_keywords": [
+      "scratches",
+      "uneven",
+      "truck honking",
+      "mixture of sensations",
+      "vibrations",
+      "machine",
+      "engine",
+      "old car",
+      "weird noises",
+      "frictional",
+      "tense",
+      "angry",
+      "weird",
+      "helpless",
+      "anxious",
+      "numb",
+      "grinder",
+      "old car/bike",
+      "getting dead"
+    ]
+  },
+  {
+    "signal_id": "F122",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "pleasant",
+      "constant vibrations",
+      "patting",
+      "neutral",
+      "slow",
+      "mild"
+    ],
+    "roughness_keywords": [
+      "disconnected rumbling",
+      "sharp",
+      "breaks",
+      "medium intensity",
+      "sudden stops",
+      "bumpy",
+      "damaged state",
+      "anxiety",
+      "distress"
+    ]
+  },
+  {
+    "signal_id": "F123",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "constant vibration",
+      "neutral",
+      "steady",
+      "composed",
+      "buzz"
+    ],
+    "roughness_keywords": [
+      "bumpy",
+      "strong and intense",
+      "irritating",
+      "unpleasant vibration",
+      "scratching",
+      "rough",
+      "high intensity"
+    ]
+  },
+  {
+    "signal_id": "F124",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "fading pulse",
+      "continuous",
+      "smoothly transitioned",
+      "steady rise and fall",
+      "constant vibrations",
+      "active sensations"
+    ],
+    "roughness_keywords": [
+      "fuzzy",
+      "kickstart",
+      "squeaky noise",
+      "wooly",
+      "not constant",
+      "irritating feeling"
+    ]
+  },
+  {
+    "signal_id": "F125",
+    "smoothness": 2,
+    "smoothness_keywords": ["rhythmic", "pleasant", "excited", "active"],
+    "roughness_keywords": [
+      "grainy",
+      "discontinuous",
+      "uncertain",
+      "jerk",
+      "sharp",
+      "aggressive",
+      "irritating",
+      "vibrating object at the end of its lifecycle",
+      "frequent ups and downs"
+    ]
+  },
+  {
+    "signal_id": "F126",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "stable",
+      "soothing",
+      "exciting",
+      "strong",
+      "pleasant",
+      "pattern",
+      "familiar",
+      "urgency"
+    ],
+    "roughness_keywords": [
+      "loud",
+      "strong intensity",
+      "high intensity",
+      "start stop",
+      "fast paced",
+      "jittery",
+      "alarmed",
+      "stressed"
+    ]
+  },
+  {
+    "signal_id": "F127",
+    "smoothness": 3,
+    "smoothness_keywords": ["constant", "steady", "relaxing"],
+    "roughness_keywords": [
+      "shaky",
+      "discontinuous",
+      "heavy vibrations",
+      "intense",
+      "irritating",
+      "aggressive",
+      "unpleasant",
+      "bad memory"
+    ]
+  },
+  {
+    "signal_id": "F128",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "familiar",
+      "calmness",
+      "continuity",
+      "exciting",
+      "predictable",
+      "constant"
+    ],
+    "roughness_keywords": [
+      "rough",
+      "buzz",
+      "kick",
+      "thumping",
+      "nudge",
+      "rattle"
+    ]
+  },
+  {
+    "signal_id": "F89",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "mild",
+      "light vibration",
+      "calm",
+      "comfortable",
+      "relaxed"
+    ],
+    "roughness_keywords": [
+      "frictional",
+      "coarse",
+      "irritating",
+      "unpleasant",
+      "rough sandstone",
+      "sand under feet",
+      "kitchen sink grinder",
+      "buzzing sound vibration",
+      "intensity increasing",
+      "sci-fi film"
+    ]
+  },
+  {
+    "signal_id": "F98",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "steady",
+      "smooth",
+      "rhythmic",
+      "soft",
+      "continuous",
+      "comfortable",
+      "relaxing",
+      "steady"
+    ],
+    "roughness_keywords": [
+      "rough",
+      "intense",
+      "irregular",
+      "sharp",
+      "banging",
+      "gritty",
+      "energetic",
+      "hammering",
+      "discontinuous",
+      "sporadic",
+      "urgent",
+      "obstructed"
+    ]
+  },
+  {
+    "signal_id": "F99",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "buzz",
+      "constant",
+      "continuous",
+      "light buzz",
+      "soothing",
+      "exciting",
+      "relaxing"
+    ],
+    "roughness_keywords": [
+      "irregular patterns",
+      "sporadic",
+      "jaggedy",
+      "not steady",
+      "no structure",
+      "abrupt",
+      "high intensity peaks",
+      "dragging",
+      "uncomfortable",
+      "tense",
+      "heavy",
+      "uneven surface"
+    ]
+  },
+  {
+    "signal_id": "F100",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "rhythmic",
+      "steady",
+      "calm",
+      "quiet",
+      "relaxing",
+      "good buzz"
+    ],
+    "roughness_keywords": [
+      "jagged",
+      "abrupt",
+      "prickly",
+      "faint",
+      "low intensity",
+      "rough road"
+    ]
+  },
+  {
+    "signal_id": "F101",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "smooth",
+      "familiar",
+      "enjoyable",
+      "pleasant",
+      "excited",
+      "rhythmical"
+    ],
+    "roughness_keywords": [
+      "intense",
+      "irregular",
+      "bumpy",
+      "discontinuous",
+      "short pulses",
+      "irregular heart beat"
+    ]
+  },
+  {
+    "signal_id": "F102",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "low intensity",
+      "regular",
+      "uniform intensity",
+      "short",
+      "calm",
+      "buzz",
+      "periodic vibration"
+    ],
+    "roughness_keywords": [
+      "fade-out effect",
+      "drop sound",
+      "discontinuous",
+      "aggressive",
+      "thrilling",
+      "impending doom",
+      "no pattern",
+      "weird",
+      "scary",
+      "jerk like movements"
+    ]
+  },
+  {
+    "signal_id": "F103",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "rhythmic",
+      "steady",
+      "musical",
+      "pleasant",
+      "calm",
+      "enjoyable",
+      "thrilling",
+      "excited"
+    ],
+    "roughness_keywords": ["discontinuous", "bursts", "alarming", "resistive"]
+  },
+  {
+    "signal_id": "F104",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "constant",
+      "rhythm",
+      "uplifting tone",
+      "periodic",
+      "repetitive",
+      "overall energizing"
+    ],
+    "roughness_keywords": [
+      "not so steady",
+      "low intensity prickly",
+      "coarse vibration",
+      "buzzes",
+      "thrilling",
+      "anxious"
+    ]
+  },
+  {
+    "signal_id": "F105",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "calm",
+      "short burst",
+      "refreshing",
+      "repeating pattern",
+      "buzz",
+      "alarm"
+    ],
+    "roughness_keywords": [
+      "sharp",
+      "jaggedy",
+      "uneven",
+      "unsteady",
+      "intense",
+      "active",
+      "nasty",
+      "uncomfortable",
+      "annoying",
+      "panicky",
+      "anxious"
+    ]
+  },
+  {
+    "signal_id": "F106",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "buzz",
+      "rhythm",
+      "motivated",
+      "excited",
+      "optimistic",
+      "energetic",
+      "purposeful",
+      "nostalgic"
+    ],
+    "roughness_keywords": [
+      "quirky",
+      "sharp",
+      "rough",
+      "uneven",
+      "irregular",
+      "stronger",
+      "anxious",
+      "uncomfortable",
+      "panicky",
+      "vibrate",
+      "burst",
+      "spikes",
+      "mixed"
+    ]
+  },
+  {
+    "signal_id": "F107",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "soft vibrations",
+      "calm",
+      "relieved",
+      "gradually soft"
+    ],
+    "roughness_keywords": [
+      "intense",
+      "sharp",
+      "aggressive",
+      "gritty",
+      "periodic",
+      "discontinuous",
+      "intense and prolonged",
+      "unpleasant",
+      "panicky",
+      "annoying",
+      "sporadic",
+      "obnoxious"
+    ]
+  },
+  {
+    "signal_id": "F108",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "steady",
+      "continuous",
+      "rhythm",
+      "uniform",
+      "calm",
+      "steady"
+    ],
+    "roughness_keywords": [
+      "jump cuts",
+      "gritty",
+      "intense",
+      "warning",
+      "urgent",
+      "discomfort",
+      "action",
+      "alarm",
+      "cut",
+      "intense vibrations"
+    ]
+  },
+  {
+    "signal_id": "F109",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "calm",
+      "pleasant",
+      "quiet",
+      "good",
+      "complete",
+      "interesting",
+      "musical",
+      "lo-fi"
+    ],
+    "roughness_keywords": [
+      "irregular",
+      "jaggedy",
+      "intense drops",
+      "sporadic",
+      "barely felt",
+      "slight pain",
+      "annoying"
+    ]
+  },
+  {
+    "signal_id": "F110",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "subtle buzzes",
+      "constant smooth vibrations",
+      "rhythmical",
+      "good",
+      "energetic",
+      "upbeat",
+      "steady",
+      "desirable"
+    ],
+    "roughness_keywords": [
+      "sporadic sharp vibration",
+      "irregular",
+      "mix of low and intense",
+      "periodic",
+      "occasional disruption",
+      "random stronger vibrations",
+      "alarming",
+      "anxious",
+      "confusing",
+      "exciting",
+      "persistent",
+      "active"
+    ]
+  },
+  {
+    "signal_id": "F111",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "regular",
+      "strong",
+      "intense",
+      "aggressive",
+      "continuous",
+      "periodic",
+      "rhythmic"
+    ],
+    "roughness_keywords": [
+      "fade-out effect",
+      "short intense prickly vibrations",
+      "not steady",
+      "loud",
+      "annoying",
+      "aggressive motion",
+      "bursts with high intensity",
+      "irritated",
+      "alarming",
+      "unpleasant"
+    ]
+  },
+  {
+    "signal_id": "F112",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "steady",
+      "rhythmic",
+      "medium intensity",
+      "regular",
+      "constant buzzing",
+      "periodic",
+      "persistent",
+      "upbeat",
+      "casual",
+      "calm",
+      "enjoyable",
+      "exciting",
+      "motivating",
+      "energetic"
+    ],
+    "roughness_keywords": [
+      "short clicks",
+      "bursts",
+      "low intensity",
+      "reminds of mechanical typewriter",
+      "reminds of washing machine"
+    ]
+  },
+  {
+    "signal_id": "F145",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "soft",
+      "rhythmic",
+      "calm",
+      "gentle",
+      "even",
+      "mild touch gesture",
+      "light",
+      "pulsating"
+    ],
+    "roughness_keywords": [
+      "alarming",
+      "alerting",
+      "urgent",
+      "nervous",
+      "jittery",
+      "fast",
+      "discrete",
+      "high frequency"
+    ]
+  },
+  {
+    "signal_id": "F146",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "smooth vibration",
+      "flat steady vibration",
+      "two long vibrations with two smaller vibrations"
+    ],
+    "roughness_keywords": [
+      "pulsating",
+      "sharp pulses",
+      "sporadic pulsing",
+      "strong pattern",
+      "buzzes",
+      "intense",
+      "high frequency",
+      "anxiety",
+      "urgency",
+      "alarm",
+      "vibration reminder"
+    ]
+  },
+  {
+    "signal_id": "F147",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "soft",
+      "continuous",
+      "repetitive",
+      "buzz",
+      "drumming rhythm",
+      "low intensity",
+      "mild touch gesture",
+      "joyful",
+      "cheerful"
+    ],
+    "roughness_keywords": [
+      "random beats",
+      "uncertain",
+      "baffled",
+      "creepy sensation",
+      "nervous"
+    ]
+  },
+  {
+    "signal_id": "F148",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "continuous vibration",
+      "strong and steady",
+      "long high frequency",
+      "building energy",
+      "intense and rushing",
+      "alert",
+      "focused",
+      "happy",
+      "continuous sensation"
+    ],
+    "roughness_keywords": [
+      "jerking fashion",
+      "decresed in intencity",
+      "softer intermittent buzz",
+      "four smaller vibrations",
+      "feel uncomfortable",
+      "emotion for urgency",
+      "failed to start motor",
+      "old car engine revved up"
+    ]
+  },
+  {
+    "signal_id": "F161",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "mild buzz",
+      "constant light vibration",
+      "calm",
+      "comfortable",
+      "relaxed"
+    ],
+    "roughness_keywords": [
+      "harsh buzz",
+      "intense",
+      "sudden change",
+      "anxious",
+      "longing"
+    ]
+  },
+  {
+    "signal_id": "F150",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "intense",
+      "changing frequency",
+      "directionless pulsing",
+      "zigzag pattern",
+      "2 beats at once",
+      "disorganized",
+      "confused",
+      "weird",
+      "discomfort",
+      "adrenaline"
+    ],
+    "roughness_keywords": [
+      "jagged",
+      "aggressive",
+      "random strong patterns",
+      "high pulses of vibration",
+      "dampened pulse of vibration",
+      "4 rapid vibrations",
+      "failure",
+      "urgent task",
+      "fighting",
+      "hits"
+    ]
+  },
+  {
+    "signal_id": "F151",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "long pulse",
+      "softer rhythmic pulses",
+      "continuous",
+      "tingly"
+    ],
+    "roughness_keywords": [
+      "intense vibration",
+      "sudden reduction",
+      "frictional",
+      "sporadic",
+      "strong short patterns",
+      "high pitched vibration",
+      "light short vibrations",
+      "annoyed",
+      "frustrated"
+    ]
+  },
+  {
+    "signal_id": "F152",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "smooth",
+      "wavy pattern",
+      "rhythmic",
+      "soothing",
+      "tight",
+      "neat"
+    ],
+    "roughness_keywords": [
+      "buzzing",
+      "intense",
+      "annoying",
+      "rough road",
+      "stutter",
+      "puzzled",
+      "angry"
+    ]
+  },
+  {
+    "signal_id": "F153",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "soft",
+      "long vibration",
+      "high frequency",
+      "muffled",
+      "spasmodic"
+    ],
+    "roughness_keywords": [
+      "slippery",
+      "discomfortable",
+      "confusing",
+      "nervous",
+      "panicky",
+      "stagnant",
+      "uncomfortable",
+      "arousing",
+      "noising",
+      "doubtful",
+      "worried",
+      "slipping"
+    ]
+  },
+  {
+    "signal_id": "F162",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "steady",
+      "long vibrating",
+      "low constant vibration",
+      "low humming",
+      "smooth",
+      "calm",
+      "content",
+      "comfortable",
+      "relaxed",
+      "steady",
+      "calm"
+    ],
+    "roughness_keywords": [
+      "waning intensity",
+      "short and repetitive",
+      "mild tone",
+      "gradually decrease in amplitude",
+      "less intense",
+      "vibration that dies down",
+      "irritating",
+      "cautious",
+      "numb",
+      "tired or unfocused",
+      "hungry stomach sound",
+      "something I don't want to",
+      "bad earthquake",
+      "drill",
+      "drive on a dirt/gravel road"
+    ]
+  },
+  {
+    "signal_id": "F155",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "soft",
+      "stable",
+      "smooth",
+      "buzzing",
+      "barely noticeable",
+      "strong"
+    ],
+    "roughness_keywords": [
+      "harsh",
+      "sudden burst",
+      "high frequency",
+      "intense",
+      "sharp",
+      "alarming",
+      "panic",
+      "fear",
+      "jumps",
+      "uncomfortable"
+    ]
+  },
+  {
+    "signal_id": "F156",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "continuous",
+      "wavey",
+      "joyful",
+      "calm",
+      "pleasant",
+      "massage"
+    ],
+    "roughness_keywords": [
+      "mild intense vibration",
+      "fuzzy",
+      "puzzled",
+      "raspy droning",
+      "intense",
+      "varying frequency",
+      "dizzy",
+      "suddenly braking",
+      "rough patches",
+      "wheezing"
+    ]
+  },
+  {
+    "signal_id": "F157",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "steady",
+      "soft",
+      "continuous",
+      "rhythmical",
+      "smooth"
+    ],
+    "roughness_keywords": [
+      "intense",
+      "strong",
+      "chopping",
+      "short pulses",
+      "agitated",
+      "nervious",
+      "hesitant",
+      "surprised"
+    ]
+  },
+  {
+    "signal_id": "F158",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "smooth",
+      "mild",
+      "periodic",
+      "rhythmic",
+      "low frequency",
+      "alert",
+      "joyful"
+    ],
+    "roughness_keywords": [
+      "sticky",
+      "weird",
+      "impatient",
+      "buzzing",
+      "discomfortable",
+      "confused",
+      "anxious",
+      "tired",
+      "bored",
+      "tedious"
+    ]
+  },
+  {
+    "signal_id": "F159",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "continuous",
+      "tender",
+      "soft",
+      "mild",
+      "rhythmic",
+      "weak pulse",
+      "passive dragging"
+    ],
+    "roughness_keywords": [
+      "short",
+      "fading",
+      "slow rhythm",
+      "exhausted",
+      "drained",
+      "sad",
+      "sleepy",
+      "defeated",
+      "burn out",
+      "distracted",
+      "ending",
+      "losing",
+      "hum",
+      "machine",
+      "stuck",
+      "missing"
+    ]
+  },
+  {
+    "signal_id": "F160",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "smooth",
+      "soft",
+      "higher frequency",
+      "long vibration",
+      "medium length vibrations"
+    ],
+    "roughness_keywords": [
+      "intense",
+      "sporadic",
+      "aggressive",
+      "buzzing",
+      "strong vibes",
+      "stomp stomp roar",
+      "changing frequency",
+      "feel agitated",
+      "controlled",
+      "shaken",
+      "confused",
+      "changing pattern",
+      "emergency alarm"
+    ]
+  },
+  {
+    "signal_id": "F129",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "soft",
+      "consistent",
+      "calm",
+      "peaceful",
+      "light",
+      "smooth",
+      "soft and smooth",
+      "tiny soft taps",
+      "enjoyable",
+      "relaxed"
+    ],
+    "roughness_keywords": [
+      "harsh",
+      "decaying",
+      "irritated",
+      "annoying",
+      "alarmed",
+      "panicky"
+    ]
+  },
+  {
+    "signal_id": "F130",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "calm",
+      "natural vibration",
+      "wave",
+      "continuous",
+      "medium pace",
+      "energetic",
+      "cheerful"
+    ],
+    "roughness_keywords": [
+      "petering",
+      "bumpy",
+      "inconsistent",
+      "triggered on uneven time intervals",
+      "uneasy",
+      "annoying",
+      "strong",
+      "frog croaking"
+    ]
+  },
+  {
+    "signal_id": "F131",
+    "smoothness": 9,
+    "smoothness_keywords": [
+      "consistent",
+      "light",
+      "continuous",
+      "smooth",
+      "calm",
+      "gentle",
+      "mild"
+    ],
+    "roughness_keywords": [
+      "growl",
+      "sensation",
+      "uneasy",
+      "sad",
+      "vibrant",
+      "scare"
+    ]
+  },
+  {
+    "signal_id": "F132",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "fast paced",
+      "energetic",
+      "building",
+      "increasing",
+      "jubilant",
+      "celebrating",
+      "reminds me of excitement",
+      "vibrations"
+    ],
+    "roughness_keywords": [
+      "unsteady",
+      "wobbly",
+      "disoriented",
+      "erratic pattern",
+      "uneven",
+      "long pause",
+      "continuous unorganized",
+      "irritating",
+      "hesitant",
+      "anxiety",
+      "distant"
+    ]
+  },
+  {
+    "signal_id": "F133",
+    "smoothness": 8,
+    "smoothness_keywords": [
+      "low rumble",
+      "continuous dull vibration",
+      "mild vibrations",
+      "consistent",
+      "soft",
+      "calm",
+      "light",
+      "relaxed",
+      "faint feeling",
+      "gentle"
+    ],
+    "roughness_keywords": [
+      "struggling",
+      "tiresome",
+      "monotonous",
+      "confused",
+      "too soft",
+      "electric",
+      "heavy"
+    ]
+  },
+  {
+    "signal_id": "F134",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "persistent vibration",
+      "soft tapping",
+      "smooth waves",
+      "soft at start",
+      "light intensity vibration"
+    ],
+    "roughness_keywords": [
+      "sharp vibration",
+      "dull vibration",
+      "discontinuous sensation",
+      "resistive",
+      "medium pace",
+      "sharp",
+      "confused",
+      "annoyed",
+      "drained",
+      "rusty"
+    ]
+  },
+  {
+    "signal_id": "F135",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "stable",
+      "equal rhythm",
+      "cheering",
+      "happy",
+      "energizing"
+    ],
+    "roughness_keywords": [
+      "intense vibration",
+      "discontinuous beat",
+      "awkward",
+      "dull vibration"
+    ]
+  },
+  {
+    "signal_id": "F136",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "continuous",
+      "loop",
+      "waves",
+      "calm",
+      "reassuring"
+    ],
+    "roughness_keywords": [
+      "random pattern",
+      "jolt",
+      "bump",
+      "weak vibration",
+      "coarse",
+      "irritating",
+      "weak functional",
+      "scratching",
+      "broken motorbike",
+      "pulses",
+      "annoying",
+      "defeated",
+      "confused",
+      "weird"
+    ]
+  },
+  {
+    "signal_id": "F137",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "continuous vibration",
+      "long continuous vibration",
+      "not sharp",
+      "good",
+      "exciting",
+      "energizing",
+      "feel good",
+      "guitar music"
+    ],
+    "roughness_keywords": [
+      "uncomfortable",
+      "cracky",
+      "hard to discern",
+      "angry",
+      "annoyed",
+      "irritating",
+      "rusty machine",
+      "rubbing nails on black board",
+      "noisy frequency"
+    ]
+  },
+  {
+    "signal_id": "F138",
+    "smoothness": 8,
+    "smoothness_keywords": [
+      "soft",
+      "discrete",
+      "barely noticeable",
+      "dull",
+      "mild",
+      "low consistent beats",
+      "comfortable",
+      "confusing"
+    ],
+    "roughness_keywords": ["weak", "too low", "empty", "guarded"]
+  },
+  {
+    "signal_id": "F139",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "buzz",
+      "joyful",
+      "upbeat",
+      "enjoyable",
+      "curious",
+      "thrilling"
+    ],
+    "roughness_keywords": [
+      "stuttering",
+      "random",
+      "harshly pulled",
+      "scratchy",
+      "fluctuating",
+      "weird",
+      "choked up",
+      "dejected",
+      "impatient",
+      "reluctant",
+      "weak cough",
+      "scratching",
+      "forcibly close",
+      "rusted",
+      "horror movie",
+      "uneven intervals"
+    ]
+  },
+  {
+    "signal_id": "F140",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "consistent",
+      "wave-like",
+      "soothing",
+      "continuous",
+      "smooth",
+      "linearly increasing",
+      "even time intervals"
+    ],
+    "roughness_keywords": [
+      "burst",
+      "quick",
+      "draining",
+      "medium intensity",
+      "pulses",
+      "croaks",
+      "foggy",
+      "annoyed",
+      "distraction",
+      "tense",
+      "bloating",
+      "drained",
+      "scared"
+    ]
+  },
+  {
+    "signal_id": "F141",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "smoother vibration",
+      "discrete vibrations",
+      "long low intensity vibration"
+    ],
+    "roughness_keywords": [
+      "discontinuous beat",
+      "short medium intensity vibration",
+      "bumpy road",
+      "strong beats",
+      "disturbed",
+      "sudden acceleration"
+    ]
+  },
+  {
+    "signal_id": "F142",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "soft",
+      "comfortable",
+      "mild",
+      "calm",
+      "peaceful",
+      "relaxed",
+      "uniform",
+      "low intensity",
+      "rhythmic"
+    ],
+    "roughness_keywords": [
+      "short",
+      "low vibrations",
+      "quick",
+      "dull",
+      "discontinuous",
+      "ticks",
+      "knocks",
+      "bubbles",
+      "background sounds",
+      "steps",
+      "dripping"
+    ]
+  },
+  {
+    "signal_id": "F143",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "waves",
+      "continuous",
+      "light",
+      "buzz",
+      "calm",
+      "neutral"
+    ],
+    "roughness_keywords": [
+      "scraping",
+      "rough surface",
+      "irregular",
+      "uneven intensity",
+      "struggling engine",
+      "irritating",
+      "nervous",
+      "disappointed",
+      "bored"
+    ]
+  },
+  {
+    "signal_id": "F144",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "long and continuous",
+      "stable",
+      "neutral",
+      "breathing rate"
+    ],
+    "roughness_keywords": [
+      "rumble",
+      "disoriented vibration",
+      "lumpy",
+      "discontinuous beat",
+      "dull quick vibrations",
+      "medium intensity vibration",
+      "short low intensity vibrations"
+    ]
+  },
+  {
+    "signal_id": "F33",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "steady",
+      "fast pulse",
+      "continuous",
+      "repeating",
+      "pulsating",
+      "satisfactory"
+    ],
+    "roughness_keywords": [
+      "hard to notice",
+      "rapid short burst",
+      "aggressive",
+      "intense",
+      "nervous",
+      "urgency",
+      "discomfort"
+    ]
+  },
+  {
+    "signal_id": "F37",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "calm",
+      "relaxed",
+      "rhythmic",
+      "short vibrations",
+      "long pulse",
+      "pattern"
+    ],
+    "roughness_keywords": [
+      "aggressive",
+      "intense",
+      "alarming",
+      "urgent",
+      "anxious",
+      "bumpy",
+      "discomfort",
+      "weird"
+    ]
+  },
+  {
+    "signal_id": "F38",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "cyclic vibration",
+      "long pulse",
+      "regular interval",
+      "rhythm",
+      "wave-like",
+      "reassuring",
+      "stable emotions",
+      "musical",
+      "intense"
+    ],
+    "roughness_keywords": [
+      "big pulse",
+      "short pulses",
+      "heavy bass",
+      "zig zag",
+      "confusing",
+      "unpredictable",
+      "aggressive",
+      "uncomfortable",
+      "annoyed",
+      "discomfort"
+    ]
+  },
+  {
+    "signal_id": "F41",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "steady low beats",
+      "repeating low intensity vibrations",
+      "steady rhythmical small pulses",
+      "regular pattern",
+      "very small and frequency is high",
+      "feels pleasant",
+      "calming",
+      "comforting",
+      "rhythmic and warm"
+    ],
+    "roughness_keywords": [
+      "short blunt sensations",
+      "intense",
+      "feeble short vibrations",
+      "panicky",
+      "discomfort",
+      "unpleasant",
+      "little anger",
+      "anxious and quiet",
+      "makes me feel unimportant",
+      "trivial notifications",
+      "pins falling on the floor",
+      "clinging teeth while shivering"
+    ]
+  },
+  {
+    "signal_id": "F42",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "repeating vibrations",
+      "steady",
+      "smoothly",
+      "calm",
+      "reassuring",
+      "looping",
+      "vibrational beat",
+      "noticable"
+    ],
+    "roughness_keywords": [
+      "pointy",
+      "sharp",
+      "rough manner",
+      "anxious",
+      "uncomfortable",
+      "passive aggressive",
+      "minor foot injury",
+      "electric vibration/massager",
+      "footsteps",
+      "buzz"
+    ]
+  },
+  {
+    "signal_id": "F44",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "low intensity",
+      "medium intensity",
+      "weak",
+      "relatively growing weaker",
+      "short",
+      "long",
+      "irregular pattern",
+      "discontinuous",
+      "small intervals",
+      "quick loud buzz"
+    ],
+    "roughness_keywords": [
+      "jagged",
+      "rough",
+      "bumpy",
+      "coarse",
+      "irritating",
+      "annoying",
+      "dissatisfied",
+      "chaotic",
+      "unorganized",
+      "reminds me of bumpy road"
+    ]
+  },
+  {
+    "signal_id": "F45",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "fast",
+      "continuous",
+      "strong",
+      "high intensity",
+      "intense",
+      "buzz",
+      "repeating",
+      "bursts"
+    ],
+    "roughness_keywords": [
+      "thudding",
+      "poking",
+      "panicky",
+      "aggressive",
+      "urgent",
+      "difficult",
+      "sabotaged"
+    ]
+  },
+  {
+    "signal_id": "F46",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "continuous pulse",
+      "rhythmical pulse",
+      "long pulse",
+      "regular intervals",
+      "buzz",
+      "heavy but calm",
+      "familiar and intense"
+    ],
+    "roughness_keywords": [
+      "short pulse",
+      "bumpy",
+      "heavy sensation",
+      "aggressive",
+      "weird and sporadic",
+      "interruptions",
+      "speed bump",
+      "vibration from a cricket bat",
+      "train running on a track",
+      "fire alarm"
+    ]
+  },
+  {
+    "signal_id": "F49",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "long buzz",
+      "soft sound",
+      "medium duration",
+      "equal duration"
+    ],
+    "roughness_keywords": [
+      "coarse",
+      "short beats",
+      "irregular",
+      "intense",
+      "weird",
+      "jagged",
+      "bumpy",
+      "uneven",
+      "discontinuous",
+      "random pulses",
+      "not tuned well"
+    ]
+  },
+  {
+    "signal_id": "F50",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "continuous pulse",
+      "rhythm",
+      "long buzz",
+      "fading speech",
+      "calm",
+      "enjoyable",
+      "exciting",
+      "happy",
+      "buzzing"
+    ],
+    "roughness_keywords": [
+      "irregular pulse",
+      "course",
+      "high intensity vibrations",
+      "random",
+      "strong",
+      "intense",
+      "growing intensive",
+      "fading voice",
+      "warning alarm"
+    ]
+  },
+  {
+    "signal_id": "F51",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "steady intensity",
+      "pleasant",
+      "rhythmic",
+      "regular",
+      "small beats",
+      "repeating vibrations",
+      "medium vibration",
+      "long vibration",
+      "pattern",
+      "in sync",
+      "energetic",
+      "enjoyable"
+    ],
+    "roughness_keywords": [
+      "buzzes",
+      "low to mid varying vibrations",
+      "not too strong",
+      "reminds me of a washing machine",
+      "like a wave",
+      "like a cycling alarm",
+      "tension",
+      "surprise",
+      "banging",
+      "stuck on a wheel",
+      "police siren"
+    ]
+  },
+  {
+    "signal_id": "F57",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "low intensity",
+      "steady beat",
+      "continuous low vibrations",
+      "series of repeating short pulses",
+      "short low beats"
+    ],
+    "roughness_keywords": [
+      "pointy and alarming buzz",
+      "knocking at a high frequency",
+      "annoying and unpleasant",
+      "gritty",
+      "intense",
+      "feel anxious",
+      "feel irritated"
+    ]
+  },
+  {
+    "signal_id": "F58",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "steady buzz",
+      "high vibration",
+      "normal repetitions",
+      "medium level vibrations",
+      "continuous high vibration",
+      "smooth sensations"
+    ],
+    "roughness_keywords": [
+      "continuous pulses",
+      "intense vibrations",
+      "chaotic",
+      "bumpy",
+      "fast buzzes",
+      "weird noises",
+      "knocking continuously"
+    ]
+  },
+  {
+    "signal_id": "F59",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "steady pulse",
+      "short pulse",
+      "smooth rhythm",
+      "constant vibration",
+      "continuous set of vibrations",
+      "one-two beat",
+      "rhythmic",
+      "similar to a heartbeat"
+    ],
+    "roughness_keywords": [
+      "fast paced buzz",
+      "varied vibrations",
+      "strong",
+      "alarming vibrations",
+      "rubbery",
+      "panicky",
+      "intense",
+      "anticipated breaks",
+      "similar to a motorcycle rev",
+      "like going down a brick paved road"
+    ]
+  },
+  {
+    "signal_id": "F64",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "steady",
+      "rhythm",
+      "long vibrations",
+      "continuous"
+    ],
+    "roughness_keywords": [
+      "low intensity pulses",
+      "rough buzz",
+      "coarse",
+      "grainy buzz",
+      "coarse continuous medium vibrations",
+      "short vibrations",
+      "buzz",
+      "unpleasant",
+      "irritating",
+      "crackling pulse",
+      "crackers bursting",
+      "emergency alarm"
+    ]
+  },
+  {
+    "signal_id": "F65",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "medium intensity",
+      "short pulses",
+      "long pulse",
+      "vibration timing",
+      "buzz",
+      "irregular",
+      "sporadic",
+      "lumpy",
+      "non rhythmic",
+      "repeating pattern"
+    ],
+    "roughness_keywords": [
+      "low intensity",
+      "variation",
+      "pause",
+      "sick person",
+      "anxious",
+      "dissatisfied",
+      "neutral",
+      "bad",
+      "disgust",
+      "uncomfortable",
+      "lethargic",
+      "thrill",
+      "enjoyable",
+      "broken machine"
+    ]
+  },
+  {
+    "signal_id": "F47",
+    "smoothness": 8,
+    "smoothness_keywords": [
+      "mild",
+      "steady",
+      "comfortable",
+      "rhythmical",
+      "light",
+      "repeating",
+      "calm",
+      "relaxed",
+      "neutral",
+      "barely noticeable"
+    ],
+    "roughness_keywords": [
+      "ticking",
+      "gap between ticks",
+      "medium frequency",
+      "short duration",
+      "low amplitude loop"
+    ]
+  },
+  {
+    "signal_id": "F61",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "smooth",
+      "quit overall",
+      "nice vibration",
+      "good",
+      "active"
+    ],
+    "roughness_keywords": [
+      "harsh",
+      "grainy vibration",
+      "intense",
+      "strong",
+      "hard vibrations",
+      "unpleasant",
+      "not steady",
+      "annoying",
+      "warning",
+      "urgent",
+      "buzzing",
+      "failure",
+      "ticking pattern"
+    ]
+  },
+  {
+    "signal_id": "F67",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "soothing",
+      "comforting",
+      "calming",
+      "good",
+      "steady",
+      "subtle"
+    ],
+    "roughness_keywords": [
+      "grainy",
+      "frictional",
+      "bumpy",
+      "jerk",
+      "not rhythmical",
+      "noisy",
+      "coarse",
+      "discomfort"
+    ]
+  },
+  {
+    "signal_id": "F68",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "steady",
+      "rhythmical",
+      "ascending",
+      "buzz",
+      "light",
+      "grows stronger",
+      "relaxing",
+      "familiar",
+      "reassuring",
+      "exciting"
+    ],
+    "roughness_keywords": ["aggressive", "sudden drop", "energizing"]
+  },
+  {
+    "signal_id": "F69",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "steady",
+      "continuous",
+      "high speed",
+      "smooth",
+      "calm",
+      "exciting"
+    ],
+    "roughness_keywords": [
+      "burst",
+      "thumpy",
+      "intense",
+      "harsh",
+      "alarming",
+      "urgent"
+    ]
+  },
+  {
+    "signal_id": "F70",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "continuous vibration",
+      "quick and continuous",
+      "active",
+      "small gaps",
+      "medium frequency",
+      "repeating waves",
+      "pleasant",
+      "enjoyable",
+      "calm and comfortable"
+    ],
+    "roughness_keywords": [
+      "continuous jerking",
+      "descending intensity",
+      "submissive",
+      "short bursts",
+      "gritty",
+      "annoying",
+      "panicking",
+      "discomfort",
+      "irritation",
+      "low frequency water flosser",
+      "scratching wood with a sharp object"
+    ]
+  },
+  {
+    "signal_id": "F71",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "soothing",
+      "calm",
+      "relaxing",
+      "steady",
+      "pleasant"
+    ],
+    "roughness_keywords": [
+      "jerking",
+      "uncomfortable",
+      "unpleasant",
+      "random",
+      "uneven",
+      "confused",
+      "weird",
+      "no rhythm",
+      "busting wind",
+      "noise"
+    ]
+  },
+  {
+    "signal_id": "F72",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "continuous high speed vibration",
+      "strong",
+      "energetic",
+      "exciting",
+      "long burst",
+      "calm",
+      "loop of high intensity waves",
+      "natural active buzz",
+      "energetic",
+      "urgent",
+      "active"
+    ],
+    "roughness_keywords": [
+      "burst of frequency",
+      "low frequency",
+      "intense",
+      "aggressive",
+      "panicky",
+      "urgent",
+      "alarming",
+      "aggressive",
+      "less frequency",
+      "buzzing",
+      "tickling",
+      "reminds me of sirens",
+      "reminds me of alarm clock",
+      "chainsaw",
+      "pulling and releasing a spring",
+      "quick time events"
+    ]
+  },
+  {
+    "signal_id": "F73",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "fast",
+      "continuous",
+      "constant",
+      "rhythm",
+      "in sync",
+      "enjoyable",
+      "pleasurable",
+      "energized",
+      "excited"
+    ],
+    "roughness_keywords": [
+      "aggressive",
+      "unpleasant",
+      "weird",
+      "warning",
+      "urgency",
+      "like a bull-dozer",
+      "water gun",
+      "engine noise"
+    ]
+  },
+  {
+    "signal_id": "F74",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "soothing",
+      "steady",
+      "desirable",
+      "comforting",
+      "enjoyable"
+    ],
+    "roughness_keywords": [
+      "grainy",
+      "harsh",
+      "coarse",
+      "weird",
+      "uneven",
+      "lumpy",
+      "discomforting",
+      "annoying",
+      "irritating",
+      "aggressive"
+    ]
+  },
+  {
+    "signal_id": "F75",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "calming",
+      "relaxing",
+      "pleasant",
+      "mild",
+      "continuous",
+      "comforting",
+      "satisfied",
+      "quiet",
+      "active"
+    ],
+    "roughness_keywords": [
+      "very low frequency",
+      "immediate stopping",
+      "jerk",
+      "short bursts",
+      "repeating pattern",
+      "low intensity",
+      "low amplitude",
+      "not starting",
+      "dying off",
+      "high intensity fluid"
+    ]
+  },
+  {
+    "signal_id": "F76",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "constant",
+      "steady",
+      "repeating",
+      "short",
+      "medium frequency",
+      "calm",
+      "relaxed",
+      "comforted",
+      "soothing"
+    ],
+    "roughness_keywords": [
+      "aggressive",
+      "intense",
+      "unpleasant",
+      "irritating",
+      "alarming",
+      "knocking",
+      "fast"
+    ]
+  },
+  {
+    "signal_id": "F77",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "steady",
+      "round in motion",
+      "long burst",
+      "continuous",
+      "constant amplitude"
+    ],
+    "roughness_keywords": [
+      "grainy",
+      "high frequency",
+      "pause",
+      "alarming",
+      "aggressive",
+      "intense",
+      "uncomfortable",
+      "panicky",
+      "anxious",
+      "buzz sound"
+    ]
+  },
+  {
+    "signal_id": "F78",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "low frequency",
+      "high frequency",
+      "steady",
+      "fast",
+      "quick evenly spaced waves",
+      "constant rate",
+      "repeating pattern",
+      "musical songs"
+    ],
+    "roughness_keywords": [
+      "mixed pitch levels",
+      "jerk",
+      "uneven",
+      "weird",
+      "unpleasant",
+      "abrupt change",
+      "disturbing sound",
+      "intense",
+      "anxious",
+      "vibrations were steady and sharp",
+      "correcting flow of resistance"
+    ]
+  },
+  {
+    "signal_id": "F79",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "pleasurable",
+      "enjoyable",
+      "smooth",
+      "energetic",
+      "active"
+    ],
+    "roughness_keywords": [
+      "jerk",
+      "rough",
+      "dissatisfied",
+      "not that good",
+      "rough road",
+      "bumpy road",
+      "weird",
+      "intense",
+      "urgent"
+    ]
+  },
+  {
+    "signal_id": "F80",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "steady",
+      "mild",
+      "smooth",
+      "quiet",
+      "repeating",
+      "loop",
+      "continuous",
+      "neutral"
+    ],
+    "roughness_keywords": [
+      "grainy",
+      "frictional",
+      "vibration",
+      "intense",
+      "low frequency",
+      "gap",
+      "unpleasant",
+      "restless",
+      "alarming",
+      "panicky"
+    ]
+  },
+  {
+    "signal_id": "F34",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "soft",
+      "quick rhythm",
+      "gentle",
+      "consistent",
+      "smoothly",
+      "continuous",
+      "pulsing",
+      "steady",
+      "rhythmic",
+      "calm",
+      "freely",
+      "heartbeat"
+    ],
+    "roughness_keywords": [
+      "hurry",
+      "uneasy",
+      "on edge",
+      "panicky",
+      "anxious",
+      "urgent",
+      "rusty",
+      "churning butter",
+      "high load",
+      "SOS warning",
+      "emergency broadcast"
+    ]
+  },
+  {
+    "signal_id": "F35",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "rapid",
+      "short breaks",
+      "beating",
+      "oscillating",
+      "high frequency",
+      "dot like vibration",
+      "rhythmic shooting",
+      "buzzing",
+      "ticking",
+      "fast paced"
+    ],
+    "roughness_keywords": [
+      "extreme fast burst",
+      "very fast paced",
+      "shooting",
+      "alarm bell",
+      "urgency",
+      "powerful",
+      "energetic",
+      "active",
+      "panicky"
+    ]
+  },
+  {
+    "signal_id": "F36",
+    "smoothness": 8,
+    "smoothness_keywords": [
+      "extremely soft beat",
+      "subtle",
+      "gentle taps",
+      "low pulse",
+      "relaxed heartbeat",
+      "periodic",
+      "calm",
+      "soothing",
+      "like a heartbeat"
+    ],
+    "roughness_keywords": [
+      "weak vibration",
+      "anxious",
+      "agitated",
+      "anticipation",
+      "impending death",
+      "quiet",
+      "leaking tap",
+      "soft"
+    ]
+  },
+  {
+    "signal_id": "F39",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "continuous vibration",
+      "light vibration",
+      "buzzing sensation",
+      "strong",
+      "steady",
+      "calm",
+      "uniform",
+      "relaxing",
+      "persistent",
+      "active"
+    ],
+    "roughness_keywords": [
+      "unpleasant",
+      "discomfort",
+      "anxious",
+      "uneasy",
+      "heavy machinery",
+      "operating machinery",
+      "harsh",
+      "tapping"
+    ]
+  },
+  {
+    "signal_id": "F40",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "moderate pulses",
+      "equal intervals",
+      "repetitive",
+      "builds up",
+      "catchy"
+    ],
+    "roughness_keywords": [
+      "breaking",
+      "trying hard",
+      "pause",
+      "anxiety",
+      "grunting noises",
+      "old equipment",
+      "starting issues"
+    ]
+  },
+  {
+    "signal_id": "F43",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "quick",
+      "soft alarm",
+      "constant repeated tapping",
+      "little pressure",
+      "subtle",
+      "light wave vibration",
+      "extremely faint vibrations",
+      "small successive buzzes",
+      "very light but evident",
+      "soothing",
+      "pleasant",
+      "light alarm clock",
+      "fast heart beat",
+      "light rain"
+    ],
+    "roughness_keywords": [
+      "weak",
+      "anxious",
+      "distracted",
+      "restless",
+      "intense",
+      "reminds me of low battery vibration",
+      "vibrations of an alarm clock",
+      "countdowns sound",
+      "faint vibration beats",
+      "water dripping fast"
+    ]
+  },
+  {
+    "signal_id": "F48",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "smooth rhythm",
+      "good melody",
+      "pleasant sensation",
+      "enjoyable",
+      "happy",
+      "familiar",
+      "interesting"
+    ],
+    "roughness_keywords": [
+      "frictional",
+      "high friction",
+      "irritating",
+      "uncomfortable",
+      "resistive"
+    ]
+  },
+  {
+    "signal_id": "F52",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "buzzing loop",
+      "gradually increasing vibrations",
+      "spaced out intervals",
+      "long vibration",
+      "medium long buzzes",
+      "repetitive vibration"
+    ],
+    "roughness_keywords": [
+      "not very pleasant",
+      "aggressive",
+      "panicky",
+      "disappointed",
+      "irritated",
+      "annoyed",
+      "intense",
+      "reminds of a drilling machine",
+      "siren going off",
+      "chainsaw cutting through wood"
+    ]
+  },
+  {
+    "signal_id": "F53",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "intense",
+      "light",
+      "combined",
+      "constant",
+      "pleasurable",
+      "comforted",
+      "calm"
+    ],
+    "roughness_keywords": [
+      "sharp",
+      "gritty",
+      "vibration",
+      "saw",
+      "cutting",
+      "uncomfortable",
+      "anxious",
+      "passive",
+      "tiring"
+    ]
+  },
+  {
+    "signal_id": "F54",
+    "smoothness": 1,
+    "smoothness_keywords": [
+      "precise vibration",
+      "sharp vibrations",
+      "distinct reverberation",
+      "clanked",
+      "disharmony",
+      "constant pressure",
+      "aggressive",
+      "intense",
+      "vexing",
+      "alert"
+    ],
+    "roughness_keywords": [
+      "marching battalion",
+      "pressure hit",
+      "scratch surface",
+      "clanking metal rods",
+      "loud speaker vibrations",
+      "hollow echoes",
+      "frictional",
+      "rhythmic",
+      "drum hits",
+      "buzzing",
+      "vibration from motorcycle",
+      "saw on wood"
+    ]
+  },
+  {
+    "signal_id": "F55",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "calming",
+      "pleasant",
+      "rhythmic",
+      "prominent",
+      "alerting",
+      "repeating"
+    ],
+    "roughness_keywords": ["irritated", "annoying", "panicky", "poking"]
+  },
+  {
+    "signal_id": "F56",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "soft vibration",
+      "steady",
+      "consistent",
+      "jumping on a trampoline",
+      "smooth rhythm",
+      "pendulum buzz",
+      "active",
+      "energetic",
+      "sharp and attentive"
+    ],
+    "roughness_keywords": [
+      "ding-dong oscillation",
+      "vibrations skipping or jumping",
+      "vibration cycling weak to strong",
+      "footsteps of a marching band",
+      "walking on rough terrain",
+      "ringing a doorbell",
+      "construction site",
+      "manual saw in to and fro motion"
+    ]
+  },
+  {
+    "signal_id": "F60",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "good flow",
+      "pleasant",
+      "melodic",
+      "neutral",
+      "calm"
+    ],
+    "roughness_keywords": [
+      "sharp vibrations",
+      "aggressive vibrations",
+      "chaos",
+      "annoying",
+      "distracted",
+      "discomfort"
+    ]
+  },
+  {
+    "signal_id": "F62",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "subtle vibration",
+      "light circular vibration",
+      "zig zag buzz",
+      "weak and short",
+      "without any break"
+    ],
+    "roughness_keywords": [
+      "multi step miniscule discrete set",
+      "low humming vibration",
+      "stimulativa",
+      "resistive",
+      "burning"
+    ]
+  },
+  {
+    "signal_id": "F63",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "continuous",
+      "light to intense",
+      "pattern",
+      "firm",
+      "repetitive",
+      "looped",
+      "dragged out"
+    ],
+    "roughness_keywords": [
+      "weak to strong",
+      "breaking down",
+      "mopping on a rough surface",
+      "zig zag buzzes",
+      "sudden changes",
+      "spradic"
+    ]
+  },
+  {
+    "signal_id": "F66",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "steady",
+      "calm",
+      "long",
+      "continuous",
+      "fine",
+      "irregular"
+    ],
+    "roughness_keywords": [
+      "energetic",
+      "vibrations",
+      "echo",
+      "thrilled",
+      "anxious",
+      "irritated",
+      "alien"
+    ]
+  },
+  {
+    "signal_id": "F1",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "regular on off",
+      "continuous signal",
+      "equally spaced",
+      "constant beat",
+      "familiar",
+      "calming",
+      "heartbeat",
+      "buzzing sound"
+    ],
+    "roughness_keywords": [
+      "fast-paced pulsing",
+      "sputtering sensation",
+      "less sensitive",
+      "feels like a timer is ticking",
+      "dissatisfied",
+      "panicky emotions",
+      "unpredictable",
+      "anxiety",
+      "sputtering motor boat",
+      "emergency alert mechanism"
+    ]
+  },
+  {
+    "signal_id": "F5",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "heartbeat",
+      "pulsing",
+      "rhythm",
+      "reassuring",
+      "calm",
+      "relaxed",
+      "pulse",
+      "intense"
+    ],
+    "roughness_keywords": ["sporadic", "on off", "uneasy", "uncomfortable"]
+  },
+  {
+    "signal_id": "F6",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "pleasant",
+      "comfortable",
+      "good",
+      "exciting",
+      "attentive",
+      "tapping",
+      "continuous tap"
+    ],
+    "roughness_keywords": [
+      "rapidly pulsing",
+      "button pressing",
+      "hollow drum",
+      "fast on off beat",
+      "buzzing",
+      "clicking",
+      "fast beats",
+      "intensity",
+      "fast paced",
+      "emergency",
+      "anxious and nervous",
+      "water leaking",
+      "fear",
+      "nervous",
+      "beating spoon",
+      "sputtering",
+      "error notification",
+      "startled"
+    ]
+  },
+  {
+    "signal_id": "F9",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "periodic vibration",
+      "long vibration",
+      "equal spacing"
+    ],
+    "roughness_keywords": [
+      "pulsing vibrations",
+      "not quite equal intervals",
+      "intense beating",
+      "heavy and intense",
+      "rough surface",
+      "irritating",
+      "makes me feel anxious"
+    ]
+  },
+  {
+    "signal_id": "F10",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "relaxing sensation",
+      "water gushing mode",
+      "pulsating vibrations",
+      "massage chairs",
+      "playful emotion"
+    ],
+    "roughness_keywords": [
+      "aggressive vibrations",
+      "creaking sensation",
+      "strong vibration",
+      "dental drill",
+      "fire alarm",
+      "uneasy feeling",
+      "tensed sensation",
+      "sense of urgency"
+    ]
+  },
+  {
+    "signal_id": "F12",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "continuous vibration",
+      "soothing",
+      "musical",
+      "exciting",
+      "good",
+      "enjoyable",
+      "thrilling",
+      "energetic",
+      "familiar"
+    ],
+    "roughness_keywords": [
+      "strong",
+      "fast",
+      "rock band",
+      "head banging",
+      "noise",
+      "irritated",
+      "annoying",
+      "drilling gun"
+    ]
+  },
+  {
+    "signal_id": "F13",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "moderately long",
+      "moderately paced",
+      "elongated periodic",
+      "good and familiar",
+      "feel neutral"
+    ],
+    "roughness_keywords": [
+      "buzzing",
+      "rough",
+      "uneven",
+      "siren sensation",
+      "create a sense of urgency",
+      "makes me feel uneasy",
+      "frustration",
+      "annoyed",
+      "incomplete",
+      "haunting sensation"
+    ]
+  },
+  {
+    "signal_id": "F14",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "short",
+      "rapidly paced",
+      "pleasant",
+      "relaxing",
+      "calm",
+      "enjoyable",
+      "steady beat"
+    ],
+    "roughness_keywords": [
+      "pulsing vibrations",
+      "fast on off vibration",
+      "irritate",
+      "annoyed",
+      "car trying to start",
+      "emergency vehicle",
+      "irritated"
+    ]
+  },
+  {
+    "signal_id": "F16",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "steady vibration",
+      "smooth transition",
+      "continuous vibration",
+      "relaxing",
+      "pleasant",
+      "wave kind of feel"
+    ],
+    "roughness_keywords": [
+      "pulses of intense vibration",
+      "drilling",
+      "twitching",
+      "uneasy",
+      "numbness",
+      "hair trimmer"
+    ]
+  },
+  {
+    "signal_id": "F17",
+    "smoothness": 2,
+    "smoothness_keywords": ["rhythm", "dance", "concentrated", "excitement"],
+    "roughness_keywords": [
+      "rapid",
+      "uneven",
+      "unpleasant",
+      "heavy objects dropping",
+      "hammering",
+      "rocky road",
+      "anxiety",
+      "uncomfortable",
+      "panic"
+    ]
+  },
+  {
+    "signal_id": "F18",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "vibrating sensation",
+      "rhythmical",
+      "pleasant music",
+      "like music beats",
+      "feels good in the hand"
+    ],
+    "roughness_keywords": [
+      "knocking",
+      "drill machine",
+      "like another alarm vibrations",
+      "pleasurable",
+      "annoys me",
+      "unpleasant"
+    ]
+  },
+  {
+    "signal_id": "F24",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "fast",
+      "quick",
+      "on off",
+      "rhythmic",
+      "sporadic",
+      "constant",
+      "short",
+      "ticking",
+      "tapping",
+      "heavy rainfall"
+    ],
+    "roughness_keywords": [
+      "twitching",
+      "incomplete",
+      "greasy",
+      "grainy",
+      "coarse",
+      "engine",
+      "annoying",
+      "uneasy",
+      "angry",
+      "anxious"
+    ]
+  },
+  {
+    "signal_id": "F25",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "mellow",
+      "constant",
+      "steady",
+      "equally spaced",
+      "smooth",
+      "comfortable",
+      "exciting"
+    ],
+    "roughness_keywords": [
+      "fast paced",
+      "short",
+      "urgent",
+      "low intensity",
+      "leaking",
+      "fast flowing"
+    ]
+  },
+  {
+    "signal_id": "F26",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "fast rhythmic beat",
+      "energetic",
+      "dj vibes",
+      "happy",
+      "rock music",
+      "excited"
+    ],
+    "roughness_keywords": [
+      "intense",
+      "overwhelmed",
+      "irritated",
+      "panicky",
+      "urgent",
+      "alarm",
+      "clicks"
+    ]
+  },
+  {
+    "signal_id": "F30",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "soft",
+      "quiet",
+      "neutral",
+      "growl",
+      "irregular",
+      "weird",
+      "unfamiliar",
+      "unpleasant"
+    ],
+    "roughness_keywords": [
+      "short vibrating pulses",
+      "discomforting motion",
+      "uneven beats",
+      "no pattern",
+      "faulty appliance",
+      "drums",
+      "loud vibrations",
+      "no sense of rhythm",
+      "not working properly",
+      "sharp",
+      "irritated"
+    ]
+  },
+  {
+    "signal_id": "F31",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "periodic",
+      "rhythmic",
+      "linear",
+      "musical beats",
+      "party vibe",
+      "fast music",
+      "exciting",
+      "thrilling emotions",
+      "happy"
+    ],
+    "roughness_keywords": [
+      "strong",
+      "sharp",
+      "fast vibration",
+      "sporadic pattern",
+      "heavy machinery",
+      "burst of shots",
+      "loud music",
+      "intense vibration",
+      "aggressive",
+      "alarming",
+      "tense",
+      "panicky",
+      "feel in danger",
+      "fire alarm",
+      "machine gun burst",
+      "heavy tone",
+      "alarm"
+    ]
+  },
+  {
+    "signal_id": "F2",
+    "smoothness": 7,
+    "smoothness_keywords": [
+      "mild",
+      "calming",
+      "subtle",
+      "familiar",
+      "passive",
+      "exciting",
+      "eases into",
+      "not irritating",
+      "reminder"
+    ],
+    "roughness_keywords": [
+      "anxious",
+      "fast pacing",
+      "stressful",
+      "attention needing",
+      "light buzz"
+    ]
+  },
+  {
+    "signal_id": "F3",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "constant vibration",
+      "pleasant",
+      "tap",
+      "nudge",
+      "strong pulse"
+    ],
+    "roughness_keywords": [
+      "prolonged beep",
+      "sudden breakdown",
+      "rapid beat",
+      "bump bump",
+      "vibration resembling call",
+      "emergency haptic",
+      "anxiety",
+      "jackhammer",
+      "striking a guitar cord",
+      "vibrating chair"
+    ]
+  },
+  {
+    "signal_id": "F4",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "continuous",
+      "short",
+      "pulses",
+      "vibration",
+      "active",
+      "alertness"
+    ],
+    "roughness_keywords": [
+      "bits and pieces",
+      "rapid pulsating",
+      "coarse",
+      "urgency",
+      "panic",
+      "anxious",
+      "rushed"
+    ]
+  },
+  {
+    "signal_id": "F7",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "long drawn out",
+      "prolonged",
+      "delayed signal",
+      "constant buzz",
+      "long vibration",
+      "short intervals",
+      "buzzing sound",
+      "dynamic",
+      "dramatic",
+      "vroom vroom",
+      "running on treadmill",
+      "energetic"
+    ],
+    "roughness_keywords": [
+      "emergency alarm",
+      "distress alarm",
+      "buzz",
+      "rebound like vibration",
+      "need to evacuate",
+      "frictional",
+      "resistive",
+      "scratchy",
+      "sand paper",
+      "gushing sound"
+    ]
+  },
+  {
+    "signal_id": "F8",
+    "smoothness": 5,
+    "smoothness_keywords": [
+      "steady",
+      "calming",
+      "relaxed",
+      "slow pulsating",
+      "heartbeat",
+      "joyous"
+    ],
+    "roughness_keywords": [
+      "intense vibration",
+      "tugging against your palm",
+      "makes me feel lumpy",
+      "slightly sporadic",
+      "annoying",
+      "threatening"
+    ]
+  },
+  {
+    "signal_id": "F11",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "mild",
+      "subtle",
+      "quiet",
+      "low vibration",
+      "small",
+      "faint",
+      "steady",
+      "calm"
+    ],
+    "roughness_keywords": [
+      "vibrating",
+      "strong jerks",
+      "cutting",
+      "scratching",
+      "aggressive",
+      "damp",
+      "beats",
+      "nudging",
+      "machinery",
+      "throbbing"
+    ]
+  },
+  {
+    "signal_id": "F15",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "rhythmical",
+      "three sectioned pattern",
+      "alert",
+      "vibration",
+      "thumping",
+      "energized",
+      "grabbed attention"
+    ],
+    "roughness_keywords": [
+      "abrupt vibrations",
+      "short intervals",
+      "strong vibration",
+      "loud",
+      "discomfort",
+      "unpleasant",
+      "needs immediate attention",
+      "bumpy"
+    ]
+  },
+  {
+    "signal_id": "F19",
+    "smoothness": 8,
+    "smoothness_keywords": [
+      "damp",
+      "subtle",
+      "calm",
+      "relaxed",
+      "fainted",
+      "constant",
+      "neutral",
+      "comforted"
+    ],
+    "roughness_keywords": [
+      "strong buzz",
+      "deep",
+      "higher frequency",
+      "collapse",
+      "negative result"
+    ]
+  },
+  {
+    "signal_id": "F20",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "light buzz",
+      "slightly drawn out buzz",
+      "continuous vibrations",
+      "mixed frequencies",
+      "strong vibration"
+    ],
+    "roughness_keywords": [
+      "scraping",
+      "struggling to get free",
+      "irritating",
+      "unpleasant",
+      "anxious"
+    ]
+  },
+  {
+    "signal_id": "F21",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "subtle",
+      "relaxed",
+      "drawn out",
+      "two small beeps",
+      "repetition",
+      "long one"
+    ],
+    "roughness_keywords": [
+      "strong vibration",
+      "inconsistent",
+      "bumpy",
+      "weird",
+      "sporadic",
+      "nasty",
+      "uncomfortable",
+      "irritated",
+      "uneven manner"
+    ]
+  },
+  {
+    "signal_id": "F22",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "slightly longer frequency",
+      "constant vibration",
+      "constant notes",
+      "single stretch beat",
+      "rising wave pattern",
+      "low frequency drawn out buzz",
+      "one constant vibration",
+      "comforting",
+      "soothing"
+    ],
+    "roughness_keywords": [
+      "revving of a bike engine",
+      "scratching in rhythm",
+      "annoying",
+      "intense moment is coming up",
+      "vibration my phone makes when getting a call",
+      "urgent",
+      "emergency situations",
+      "train passing me"
+    ]
+  },
+  {
+    "signal_id": "F23",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "relaxing",
+      "mild",
+      "soothing",
+      "comfortable",
+      "unique"
+    ],
+    "roughness_keywords": [
+      "dry",
+      "rough",
+      "cutting",
+      "oscillating",
+      "irritating",
+      "active",
+      "difficult",
+      "scraping",
+      "vibration",
+      "pause"
+    ]
+  },
+  {
+    "signal_id": "F27",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "soothing",
+      "mild",
+      "rhythmical",
+      "calm",
+      "relaxed",
+      "smooth"
+    ],
+    "roughness_keywords": [
+      "uneven",
+      "dripping",
+      "buzzes",
+      "short",
+      "pointy",
+      "urgent",
+      "annoyed",
+      "aggressive",
+      "active"
+    ]
+  },
+  {
+    "signal_id": "F28",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "soothing",
+      "calming",
+      "vibration",
+      "rhythmic",
+      "up and down"
+    ],
+    "roughness_keywords": [
+      "sawing",
+      "panicky",
+      "racing heartbeat",
+      "squeaky",
+      "intense",
+      "uncomfortable",
+      "like something is stuck"
+    ]
+  },
+  {
+    "signal_id": "F29",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "mild",
+      "pleasant",
+      "unique",
+      "calm",
+      "relaxed",
+      "neutral"
+    ],
+    "roughness_keywords": [
+      "annoying",
+      "multi frequency",
+      "rough",
+      "irritating",
+      "uncomfortable",
+      "urgent",
+      "nervous"
+    ]
+  },
+  {
+    "signal_id": "F32",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "mild buzz",
+      "constant vibration",
+      "subtle roar",
+      "steady",
+      "calm",
+      "intrigued",
+      "purring cat"
+    ],
+    "roughness_keywords": [
+      "dark noise",
+      "gritty",
+      "frictional",
+      "irritated",
+      "annoyed",
+      "uncomfortable",
+      "anxious",
+      "static",
+      "drilling sound",
+      "vibration",
+      "old cars",
+      "road worker",
+      "drone"
+    ]
+  },
+  {
+    "signal_id": "F81",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "long vibrations",
+      "shorter vibrations",
+      "rhythmic",
+      "calming",
+      "comforting",
+      "steady",
+      "musical arrangement",
+      "melody"
+    ],
+    "roughness_keywords": [
+      "scratching",
+      "buzz",
+      "pulsing",
+      "irregular",
+      "lumpy",
+      "irritation",
+      "annoyed",
+      "sporadic",
+      "weird",
+      "urgent",
+      "suspense",
+      "energetic",
+      "apprehensive",
+      "roaring"
+    ]
+  },
+  {
+    "signal_id": "F82",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "smooth",
+      "soft vibration",
+      "initially soothing",
+      "smoothly running",
+      "rhythm"
+    ],
+    "roughness_keywords": [
+      "rough vibration",
+      "grating sensation",
+      "pricking",
+      "a bit uncomfortable",
+      "gritty",
+      "agitated",
+      "irritated",
+      "tiring",
+      "erratic",
+      "uneven vibrations"
+    ]
+  },
+  {
+    "signal_id": "F83",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "steady",
+      "light",
+      "calming",
+      "quiet",
+      "subtle",
+      "rhythmic",
+      "mild"
+    ],
+    "roughness_keywords": [
+      "difficult to recognize",
+      "irregular",
+      "faint",
+      "hard to identify",
+      "less affective"
+    ]
+  },
+  {
+    "signal_id": "F84",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "steady vibration",
+      "steady speed",
+      "steady short vibrations",
+      "continuous",
+      "buzz",
+      "regular intervals",
+      "strong",
+      "fast",
+      "continuous rhythm",
+      "relaxing",
+      "familiar",
+      "excited",
+      "soft continuous vibrations"
+    ],
+    "roughness_keywords": [
+      "intense",
+      "rough",
+      "active",
+      "firm",
+      "panicky",
+      "nervous",
+      "agitated",
+      "unpleasant",
+      "urgency",
+      "irritating",
+      "electric grinder",
+      "drilling",
+      "machine vibrations",
+      "marching bands"
+    ]
+  },
+  {
+    "signal_id": "F85",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "smooth",
+      "continuous pattern",
+      "small hums",
+      "long pulling vibration",
+      "pleasurable",
+      "comforting",
+      "enjoyable",
+      "relaxing",
+      "smoothly"
+    ],
+    "roughness_keywords": [
+      "gap between vibrations",
+      "uneven",
+      "coarse",
+      "urgent",
+      "discomforting",
+      "annoyed",
+      "negative feeling",
+      "running over stones"
+    ]
+  },
+  {
+    "signal_id": "F87",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "smooth vibrations",
+      "soothing",
+      "calming sensation",
+      "light",
+      "fading rhythm"
+    ],
+    "roughness_keywords": [
+      "harsh vibrations",
+      "irritable sensation",
+      "thrill",
+      "ominous",
+      "dissatisfaction"
+    ]
+  },
+  {
+    "signal_id": "F88",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "rhythmic",
+      "melodic",
+      "pattern",
+      "pleasant",
+      "exciting",
+      "active"
+    ],
+    "roughness_keywords": [
+      "irregular",
+      "irritating",
+      "uncomfortable",
+      "itchy",
+      "restless"
+    ]
+  },
+  {
+    "signal_id": "F90",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "smooth",
+      "soothing",
+      "calm",
+      "steady",
+      "relaxing",
+      "humming"
+    ],
+    "roughness_keywords": [
+      "gritty",
+      "rumbling",
+      "coarse",
+      "restlessness",
+      "panicky"
+    ]
+  },
+  {
+    "signal_id": "F91",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "smooth rhythm",
+      "feedback",
+      "continuous rhythm",
+      "fast pace drumming",
+      "modern waltz"
+    ],
+    "roughness_keywords": [
+      "rough three beats",
+      "bumpy",
+      "strong and aggressive",
+      "no pattern",
+      "unpleasant",
+      "anxious",
+      "irritated",
+      "faint"
+    ]
+  },
+  {
+    "signal_id": "F92",
+    "smoothness": 2,
+    "smoothness_keywords": [
+      "steady",
+      "concentric circles",
+      "small but constant",
+      "faint",
+      "familiar"
+    ],
+    "roughness_keywords": [
+      "gritty",
+      "uneven",
+      "chaotic",
+      "jagged",
+      "irregular",
+      "rough",
+      "unpleasant",
+      "annoying",
+      "uncomfortable",
+      "anxiety"
+    ]
+  },
+  {
+    "signal_id": "F93",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "constant vibration",
+      "fast continuous dropping beats",
+      "rhythmical",
+      "steady",
+      "fast pace rhythmic vibration",
+      "short and fast vibrations"
+    ],
+    "roughness_keywords": [
+      "medium strength",
+      "strong buzzing",
+      "irregular timing",
+      "repetitive knocking",
+      "fast ticking clock",
+      "edgy",
+      "tickling in hands",
+      "urgency",
+      "panicky",
+      "alarmed",
+      "discomfort",
+      "active feeling",
+      "aggressive version",
+      "gun shootings",
+      "fast beating heart"
+    ]
+  },
+  {
+    "signal_id": "F94",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "very mild",
+      "fuller vibration",
+      "calming",
+      "soothing",
+      "comforted",
+      "neutral",
+      "different strength of buzzes",
+      "pattern on exhaling and inhaling",
+      "sporadic vibrations"
+    ],
+    "roughness_keywords": [
+      "sudden rough strong vibrations",
+      "resistive and fuzzy",
+      "sudden scratching",
+      "feel nasty",
+      "discomfort",
+      "uneasy",
+      "annoyed",
+      "like a roller coaster",
+      "earthquake",
+      "animals scratching claws"
+    ]
+  },
+  {
+    "signal_id": "F95",
+    "smoothness": 6,
+    "smoothness_keywords": [
+      "very smooth",
+      "calming",
+      "soothing",
+      "relaxing",
+      "reassuring",
+      "enjoyable",
+      "steady",
+      "repeating pattern"
+    ],
+    "roughness_keywords": [
+      "bumpy",
+      "muddy",
+      "sharp",
+      "knocking",
+      "medium strength",
+      "two soft beats",
+      "panicky",
+      "nervous"
+    ]
+  },
+  {
+    "signal_id": "F96",
+    "smoothness": 3,
+    "smoothness_keywords": [
+      "small continuous vibrations",
+      "repetitive vibrations",
+      "smoothly running cycle",
+      "sewing machine"
+    ],
+    "roughness_keywords": [
+      "bumby",
+      "weak signals",
+      "frictional",
+      "prickly",
+      "uneven and coarse road",
+      "irritating",
+      "unpleasant",
+      "dirt and rocky road"
+    ]
+  },
+  {
+    "signal_id": "F97",
+    "smoothness": 4,
+    "smoothness_keywords": [
+      "smooth vibrations",
+      "vell lubricated machine",
+      "low and long vibrations",
+      "shorter vibrations"
+    ],
+    "roughness_keywords": [
+      "harsh beats",
+      "rough pattern",
+      "low to high frequency",
+      "grating sensation",
+      "very irregular",
+      "discontinuous",
+      "erratic",
+      "car with a broken engine",
+      "chaotic",
+      "uncomfortable",
+      "gritty machine"
+    ]
+  }
+]
