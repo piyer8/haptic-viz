@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Button, Box,Stack, MenuItem, Select } from '@mui/material';
+import { Button, Box,Stack, MenuItem, Select, Tab, Tabs } from '@mui/material';
 import allSignalsData from '../signals/signal-data/signal-descriptions/all_signals.json';
 import wcData from '../signals/signal-data/word-count/separate_word_counts.json';
 import sensoryKeywords from '../signals/signal-data/keyword-mappings/sensory_keywords.json';
@@ -8,6 +8,7 @@ import associativeKeywords from '../signals/signal-data/keyword-mappings/associa
 import {WordcloudPanel} from './Visualizations/WordCloudPanel';
 import { SignalGallery } from './SignalGallery';
 import { ChipList } from './ChipList';
+import { ScatterPlot } from './Visualizations/ScatterPlot';
 
 interface FilterWord {
     word: string,
@@ -22,6 +23,7 @@ export default function Dashboard() {
     const [emotionalFilter, setEmotionalFilter] = useState<string>("");
     const [associativeFilter, setAssociativeFilter] = useState<string>("");
     const [wordCloudData, setWordCloudData] = useState<any[]>([]);
+    const [view, setview] = useState<number>(0);
 
     useEffect(() => {
         setAllSignals(allSignalsData ? allSignalsData : []);
@@ -152,9 +154,14 @@ export default function Dashboard() {
                 {/* <Button variant="contained" onClick={handleFilter}>Apply Filters</Button> */}
             </Stack>
             <ChipList chipList={filterList} deleteWord={(word) => deleteFromFilter(word)} />
+            <Tabs value={view} onChange={(e, newValue) => setview(newValue)} >
+                <Tab label="Signal Gallery" value={0} />
+                <Tab label="Scatter Plot" value={1} />
+            </Tabs>
             <Box display="flex" width={'100%'} flexGrow={1} height="90vh">
                 {/* <SignalList signals={filteredSignals} currentSignal={currentSignal} setCurrentSignal={(id) => setCurrentSignal(id)} /> */}
-                <SignalGallery signals={filteredSignals} />
+                {view === 0 ?<SignalGallery signals={filteredSignals} /> :
+                <ScatterPlot signals={filteredSignals} />}
                 <Box display="flex" flexDirection="column"height={'100vh'}>
                     {wordCloudData.length > 0 && <WordcloudPanel data={wordCloudData} width={300} height={300} />}
                 </Box>
