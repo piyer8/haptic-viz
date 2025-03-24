@@ -3,9 +3,9 @@ import { Signal } from '../types/SignalTypes';
 import { Box, Button, Card, CardActions, CardContent, Modal, Typography } from '@mui/material';
 import { SignalPanel } from './SignalPanel';
 
-const SignalCard = (props: {signal: Signal, onClick: (signal_id: string) => void}) => {
+export const SignalCard = (props: {signal: Signal, onClick: (signal_id: string) => void}) => {
     return (
-        <Card sx={{m: 2}} key={props.signal.signal_id} style={{width: 300, height: 'auto', maxHeight: '135px', display: 'flex', flexDirection: 'column', justifyContent: 'space-around'}} >
+        <Card sx={{m: 2}} key={props.signal.signal_id} style={{width: 270, height: 'auto', maxHeight: '135px', display: 'flex', flexDirection: 'column', justifyContent: 'space-around'}} >
                 <CardContent style={{display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '4px'}}>
                     <Typography fontWeight={'bold'} gutterBottom sx={{ color: 'text.secondary', fontSize: 14,  }}>
                         F{props.signal.signal_id}
@@ -30,7 +30,7 @@ export const SignalGallery = (props: {signals: Signal[]}) => {
     const onSignalClick = (signal_id: string) => {setopen(true);setcurrentSignal(Number.parseInt(signal_id))}
 
     return(
-        <Box width={"100%"} bgcolor={"grey.100"} display="flex" height={"auto"} overflow={"auto"} flexDirection={"row"} flexWrap={"wrap"}>
+        <Box width={"100%"} bgcolor={"grey.100"} display="flex" height={"auto"} overflow={"auto"} flexDirection={"row"} flexWrap={"wrap"} justifyContent={"center"}>
             {signals.map((signal) => 
             <SignalCard key={signal.signal_id} signal={signal} onClick={onSignalClick} />
             )}

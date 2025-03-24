@@ -3,7 +3,6 @@ import { Signal } from '../../types/SignalTypes'
 import smoothnessScores from '../../signals/signal-data/signal-scores/smoothness_scores.json';
 import worryScores from '../../signals/signal-data/signal-scores/worry_scores.json'
 import * as d3 from "d3";
-import { sign } from 'crypto';
 import { Modal } from '@mui/material';
 import { SignalPanel } from '../SignalPanel';
 
@@ -19,6 +18,7 @@ export const ScatterPlot = (props: {signals: Signal[]}) => {
     const svgRef = useRef<SVGSVGElement | null>(null);
     const [currentSignal, setcurrentSignal] = useState<number>();
     const [open, setopen] = useState<boolean>(false);
+    const [hoveredPoint, sethoveredPoint] = useState<number>();
 
     useEffect(() => {
         setSignals(props.signals);
@@ -40,6 +40,10 @@ export const ScatterPlot = (props: {signals: Signal[]}) => {
     const onClick = (signal_id: string) => {
         setcurrentSignal(Number.parseInt(signal_id));
         setopen(true);
+    }
+
+    const onHover =  (signal_id: string) => {
+        sethoveredPoint(Number.parseInt(signal_id));
     }
 
     useEffect(() => {
@@ -107,6 +111,8 @@ export const ScatterPlot = (props: {signals: Signal[]}) => {
             .attr("r", 5)
             .attr("fill", "blue")
             .on("click", (event, d) => onClick(d.signal_index));
+        
+        points.on('mouseover', (d)=> onHover(d.signal_index));
 
         points.exit().remove();
 
