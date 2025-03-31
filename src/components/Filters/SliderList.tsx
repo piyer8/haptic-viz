@@ -2,7 +2,7 @@ import { Accordion, AccordionDetails, AccordionSummary, Box, Slider, Stack, Typo
 import React, { useEffect, useState } from 'react'
 
 const OptionSlider = (props: {option: string, value: number[], onChange: (e: Event, newValue: number[]) => void}) => {
-    const [value, setvalue] = useState<number[]>(props.value);
+    const [value, setvalue] = useState<number[]>([0, 100]);
     useEffect(() => {
         setvalue(props.value);
     }, [props]);
@@ -14,21 +14,14 @@ const OptionSlider = (props: {option: string, value: number[], onChange: (e: Eve
     )
 }
 
-export const SliderList = (props: {name: string, options: string[], applySliderFilter: (option: string, value: number[]) => void}) => {
-    const [values, setvalues] = useState<any>();
+export const SliderList = (props: {name: string, filters: any, options: string[], applySliderFilter: (option: string, value: number[]) => void}) => {
+    const [values, setvalues] = useState<any>(props.filters);
     useEffect(() => {
-        let vals: any = {};
-        props.options.forEach((option) => {
-            vals[option] = [0, 100];
-        })
-        setvalues(vals);
+        setvalues(props.filters);
     }, [props]);
 
     const handleChange = (option: string, newValue: number[]) => {
         props.applySliderFilter(option, newValue);
-        let newValues = {...values, [option]: newValue};
-        setvalues(newValues);
-        console.log(values[option]);
     }
 
     return(<Accordion>
