@@ -3,17 +3,17 @@ import { Signal } from '../types/SignalTypes';
 import { Box, Button, Card, CardActions, CardContent, Modal, Typography } from '@mui/material';
 import { SignalPanel } from './SignalPanel';
 
-export const SignalCard = (props: {signal: Signal, onClick: (signal_id: string) => void}) => {
+export const SignalCard = (props: {signal_id: string, onClick: (signal_id: string) => void}) => {
     return (
-        <Card sx={{m: 2}} key={props.signal.signal_id} style={{width: 270, height: 'auto', maxHeight: '135px', display: 'flex', flexDirection: 'column', justifyContent: 'space-around'}} >
+        <Card sx={{m: 2}} key={props.signal_id} style={{width: 270, height: 'auto', maxHeight: '135px', display: 'flex', flexDirection: 'column', justifyContent: 'space-around'}} >
                 <CardContent style={{display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '4px'}}>
                     <Typography fontWeight={'bold'} gutterBottom sx={{ color: 'text.secondary', fontSize: 14,  }}>
-                        F{props.signal.signal_id}
+                        F{props.signal_id}
                     </Typography>
-                    <img src = {'/wave-plots/F'+props.signal.signal_id + '_loop.png'} width={'100%'} alt = "wave plot" />
+                    <img src = {'/wave-plots/F'+props.signal_id + '_loop.png'} width={'100%'} alt = "wave plot" />
                 </CardContent>
                 <CardActions style={{display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 0}}>
-                    <Button size="small" onClick={() => {props.onClick(props.signal.signal_id)}}>See more</Button>
+                    <Button size="small" onClick={() => {props.onClick(props.signal_id)}}>See more</Button>
                 </CardActions>
             </Card>
     )
@@ -32,7 +32,7 @@ export const SignalGallery = (props: {signals: Signal[]}) => {
     return(
         <Box width={"100%"} bgcolor={"grey.100"} display="flex" height={"auto"} overflow={"auto"} flexDirection={"row"} flexWrap={"wrap"} justifyContent={"center"}>
             {signals.map((signal) => 
-            <SignalCard key={signal.signal_id} signal={signal} onClick={onSignalClick} />
+            <SignalCard key={signal.signal_id} signal_id={signal.signal_id} onClick={onSignalClick} />
             )}
             {currentSignal && <Modal open={open} onClose={() => setopen(false)}>
                 <SignalPanel signalId={currentSignal}/>

@@ -1,9 +1,10 @@
-import { Autocomplete, Checkbox, Stack, TextField } from '@mui/material'
+import { Autocomplete, Checkbox, Slider, Stack, TextField } from '@mui/material'
 import sensoryKeywords from '../signals/signal-data/keyword-mappings/sensory_keywords.json';
 import emotionalKeywords from '../signals/signal-data/keyword-mappings/emotional_keywords.json';
 import associativeKeywords from '../signals/signal-data/keyword-mappings/associative_keywords.json';
 import {CheckBoxOutlineBlank, CheckBox} from '@mui/icons-material'
 import React, { useState } from 'react'
+import { SliderList } from './Filters/SliderList';
 
 interface FilterWord {
     word: string,
@@ -59,12 +60,14 @@ export default function CheckboxesTags(props: { label: string,options: string[],
       />
     );
   }
-export const FilterPanel = (props: { applyFilters: (word: FilterWord) => void, deleteFromFilter: (word: FilterWord) => void}) => {
+
+export const FilterPanel = (props: { applyFilters: (word: FilterWord) => void, deleteFromFilter: (word: FilterWord) => void, applySliderFilter: (option: string, value: number[], keywordType: 'sensory' | 'emotional' | 'associative') => void}) => {
+
     return (
         <Stack height={"100%"} padding={5} width={"18vw"} gap={2}>
-            <CheckboxesTags label="Sensory" options = {Object.keys(sensoryKeywords)} {...props}/>
-            <CheckboxesTags label="Emotional" options = {Object.keys(emotionalKeywords)} {...props}/>
-            <CheckboxesTags label="Associative" options = {Object.keys(associativeKeywords)} {...props}/>
+            <CheckboxesTags label="Sensory" options = {Object.keys(sensoryKeywords)} applyFilters={props.applyFilters} deleteFromFilter={props.deleteFromFilter}/>
+            <SliderList name='Emotional' options = {Object.keys(emotionalKeywords)} applySliderFilter = {(option: string, value: number[]) => props.applySliderFilter(option, value, 'emotional')}/>
+            <SliderList name='Associative' options = {Object.keys(associativeKeywords)} applySliderFilter = {(option: string, value: number[]) => props.applySliderFilter(option, value, 'associative')}/>
         </Stack>
     )
 }

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Box, Tab, Tabs } from '@mui/material';
+import { Box, Tab, Tabs, Typography } from '@mui/material';
 import allSignalsData from '../signals/signal-data/signal-descriptions/all_signals.json';
 import wcData from '../signals/signal-data/word-count/separate_word_counts.json';
 import sensoryKeywords from '../signals/signal-data/keyword-mappings/sensory_keywords.json';
@@ -10,6 +10,9 @@ import { SignalGallery } from './SignalGallery';
 import { ScatterPlot } from './Visualizations/ScatterPlot';
 import { FilterPanel } from './FilterPanel';
 import { MDSPlot } from './Visualizations/MDSPlot';
+import emotionCategories from '../signals/signal-data/signal-tags/emotional/tagged-signals.json';
+import associativeCategories from '../signals/signal-data/signal-tags/associative/tagged-signals.json';
+import { KeywordsPlot } from './Visualizations/KeywordsPlot';
 
 interface FilterWord {
     word: string,
@@ -19,6 +22,7 @@ interface FilterWord {
 export default function Dashboard() {
     const [allSignals, setAllSignals] = useState<any[]>([]);
     const [filteredSignals, setFilteredSignals] = useState<any[]>([]);
+    const [filteredSignalsWithSliders, setFilteredSignalsWithSliders] = useState<any[]>([]);
     const [filterList, setfilterList] = useState<Set<FilterWord>>(new Set<FilterWord>());
     const [wordCloudData, setWordCloudData] = useState<any[]>([]);
     const [view, setview] = useState<number>(0);
@@ -26,6 +30,7 @@ export default function Dashboard() {
     useEffect(() => {
         setAllSignals(allSignalsData ? allSignalsData : []);
         setFilteredSignals(allSignalsData ? allSignalsData : []);
+        setFilteredSignalsWithSliders(allSignalsData ? allSignalsData : []);
     }, []);
 
     useEffect(() => {
@@ -51,6 +56,23 @@ export default function Dashboard() {
         if(wordInSet && updatedFilterList.delete(wordInSet[1]))
             setfilterList(updatedFilterList);
     };
+
+    const applySliderFilter = (option: string, value: number[], keywordType: 'sensory' | 'emotional' | 'associative') => {
+        const categoryList = keywordType === 'emotional' ? emotionCategories : associativeCategories;
+        const newFilteredList = new Set();
+        filteredSignals.forEach(signal => {
+            const categories = categoryList.find(cat => cat.signal_index === signal.signal_id);
+            if (categories) {
+                const category = categories.categories.find(cat => cat.category === option);
+                let percent = category ? category.percentageMatch : 0;
+                if (value[0] <= percent && percent <= value[1]) {
+                    newFilteredList.add(signal);
+                }
+            
+            }
+        })
+        setFilteredSignals(Array.from(newFilteredList));
+    }
 
     useEffect(() => {
         console.log('updated filterlist', filterList);
@@ -98,7 +120,7 @@ export default function Dashboard() {
 
     return (
         <Box display="flex" flexDirection={"row"} height="100vh" width={"100%"}>
-        <FilterPanel applyFilters={addToFilter} deleteFromFilter={(word) => deleteFromFilter(word)} />
+        <FilterPanel applySliderFilter={applySliderFilter} applyFilters={addToFilter} deleteFromFilter={(word) => deleteFromFilter(word)} />
         <Box display="flex" height="100vh" width={"100%"} flexDirection="column">
             <Tabs value={view} onChange={(e, newValue) => setview(newValue)} >
                 <Tab label="Signal Gallery" value={0} />
@@ -107,9 +129,10 @@ export default function Dashboard() {
             <Box display="flex" width={'100%'} flexGrow={1} height="90vh">
                 {/* <SignalList signals={filteredSignals} currentSignal={currentSignal} setCurrentSignal={(id) => setCurrentSignal(id)} /> */}
                 {view === 0 ?<SignalGallery signals={filteredSignals} /> :
-                <MDSPlot signals={filteredSignals} />}
+                <KeywordsPlot />}
                 <Box display="flex" flexDirection="column"height={'100vh'} width={'20vw'}>
-                    {wordCloudData.length > 0 && <WordcloudPanel data={wordCloudData} width={200} height={300} />}
+                    <Typography variant="h5" sx={{my: 3, mx: 2}} >Word Cloud</Typography>
+                    {wordCloudData.length > 0 ? <WordcloudPanel data={wordCloudData} width={200} height={300} /> : <Box height={300} width={200} ></Box>}
                 </Box>
             </Box>
         </Box>

@@ -52,12 +52,12 @@ export const MDSPlot = (props: { signals: Signal[] }) => {
 
     const xScale = d3
       .scaleLinear()
-      .domain([-1, 1])
+      .domain([-1.5, 1.5])
       .range([margin.left, width - margin.right]);
 
     const yScale = d3
       .scaleLinear()
-      .domain([-1, 1])
+      .domain([-1.5, 1.5])
       .range([height - margin.bottom, margin.top]);
 
     const xAxis = d3.axisBottom(xScale);
