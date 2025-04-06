@@ -3,7 +3,6 @@ import * as d3 from 'd3';
 import { Box, MenuItem, Modal, Select } from '@mui/material';
 import keyword_embeddings from '../../signals/signal-data/word-cloud-plot/keyword_embeddings_2d.json';
 import keyword_mappings from '../../signals/signal-data/word-cloud-plot/keyword_to_signals.json';
-import ts from 'typescript';
 import { SignalDrawer } from '../SignalDrawer';
 
 interface Keyword {
@@ -88,18 +87,21 @@ export const KeywordsPlot = () => {
     .attr('x', d => xScale(d.embedding[0]))
     .attr('y', d => yScale(d.embedding[1]))
     .text(d => d.word)
-    .attr('font-size', d => `${10 + d.signal_ids.length * 2}px`)  // Adjust the scaling factors as needed
+    .attr('font-size', d => `${14 + d.signal_ids.length * 1}px`)  // Adjust the scaling factors as needed
     .attr('fill', 'steelblue')
     .attr('opacity', 0.8)
     .style('cursor', 'pointer')
     .style('text-anchor', 'middle')
-    .on('click',(e,d) => onClick(d));  // C
+    .on('click',(e,d) => onClick(d))
+    .on('mouseover', (e,d) => e.target.setAttribute('fill', 'red'))
+    .on('mouseout', (e,d) => e.target.setAttribute('fill', 'steelblue'));
   }, [wordData]);
 
   return (
-    <Box overflow={"scroll"} height={"100%"} width={"100%"} display="flex" flexDirection={"column"}>
+    <Box overflow={"scroll"} height={"100%"} maxHeight={'90vh'} width={"100%"} display="flex" flexDirection={"column"} >
         <Select
         value={currentType}
+        autoWidth
         onChange={(e) => setcurrentType(e.target.value as 'sensory' | 'emotional' | 'associative')}
         >
         <MenuItem value="sensory">Sensory</MenuItem>

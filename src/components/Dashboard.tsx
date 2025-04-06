@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { Box, Tab, Tabs, Typography } from '@mui/material';
 import allSignalsData from '../signals/signal-data/signal-descriptions/all_signals.json';
 import wcData from '../signals/signal-data/word-count/separate_word_counts.json';
@@ -28,21 +28,20 @@ export default function Dashboard() {
   const [filteredSignals, setFilteredSignals] = useState<any[]>([]);
   const [filterList, setFilterList] = useState<Set<FilterWord>>(new Set<FilterWord>());
   const [emotionalFilters, setEmotionalFilters] = useState<any>(() => {
-          const vals: any = {};
-          Object.keys(emotionalKeywords).forEach((option) => {
-            vals[option] = [0, 100];
-          });
-          return vals;
-        });
-   const [associativeFilters, setAssociativeFilters] = useState<any>(() => {
-          const vals: any = {};
-          Object.keys(associativeKeywords).forEach((option) => {
-            vals[option] = [0, 100];
-          });
-          return vals;
-   })
+    const vals: any = {};
+    Object.keys(emotionalKeywords).forEach((option) => {
+      vals[option] = [0, 100];
+    });
+    return vals;
+  });
+  const [associativeFilters, setAssociativeFilters] = useState<any>(() => {
+    const vals: any = {};
+    Object.keys(associativeKeywords).forEach((option) => {
+      vals[option] = [0, 100];
+    });
+    return vals;
+  });
   const [sliderFilters, setSliderFilters] = useState<SliderFilter[]>([]);
-  const [wordCloudData, setWordCloudData] = useState<any[]>([]);
   const [view, setView] = useState<number>(0);
 
   // Load initial signals.
@@ -84,12 +83,12 @@ export default function Dashboard() {
     range: number[],
     keywordType: 'emotional' | 'associative'
   ) => {
-    if(keywordType === 'emotional') {
-        const newEmotionalFilters = {...emotionalFilters, [category]: range};
-        setEmotionalFilters(newEmotionalFilters);
-    } else if(keywordType === 'associative') {
-        const newAssociativeFilters = {...associativeFilters, [category]: range};
-        setAssociativeFilters(newAssociativeFilters);
+    if (keywordType === 'emotional') {
+      const newEmotionalFilters = { ...emotionalFilters, [category]: range };
+      setEmotionalFilters(newEmotionalFilters);
+    } else if (keywordType === 'associative') {
+      const newAssociativeFilters = { ...associativeFilters, [category]: range };
+      setAssociativeFilters(newAssociativeFilters);
     }
 
     setSliderFilters(prev => {
@@ -138,22 +137,13 @@ export default function Dashboard() {
     setFilteredSignals(intermediateSignals);
   }, [filterList, sliderFilters, allSignals]);
 
-  // Recompute the word cloud data whenever filteredSignals updates.
-  useEffect(() => {
-    aggregateWordCounts(filteredSignals);
-  }, [filteredSignals]);
-
-  // Now checks both keyword and slider filters.
-  const areThereNoFilters = () => filterList.size === 0 && sliderFilters.length === 0;
-
-  const aggregateWordCounts = (signals: any[]) => {
-    // If no filters are active, don't display the word cloud.
-    if (areThereNoFilters()) {
-      setWordCloudData([]);
-      return;
+  const wordCloudData = useMemo(() => {
+    // If no filters are active, return an empty word cloud.
+    if (filterList.size === 0 && sliderFilters.length === 0) {
+      return [];
     }
     const wordCountMap: { [key: string]: number } = {};
-    const signalIds = new Set(signals.map(signal => signal.signal_id.toString()));
+    const signalIds = new Set(filteredSignals.map(signal => signal.signal_id.toString()));
 
     wcData.forEach(entry => {
       if (signalIds.has(entry.signal_index)) {
@@ -165,13 +155,12 @@ export default function Dashboard() {
       }
     });
 
-    const wordCloudArray = Object.keys(wordCountMap).map(word => ({
+    return Object.keys(wordCountMap).map(word => ({
       text: word,
       value: wordCountMap[word]
     }));
-    setWordCloudData(wordCloudArray);
-  };
-
+  }, [filteredSignals, filterList, sliderFilters]);
+  
   return (
     <Box display="flex" flexDirection="row" height="100vh" width="100%">
       <FilterPanel
@@ -181,27 +170,27 @@ export default function Dashboard() {
         emotionalFilters={emotionalFilters}
         associativeFilters={associativeFilters}
       />
-      <Box display="flex" height="100vh" width="100%" flexDirection="column">
+      <Box display="flex" height="100vh" minWidth={'300px'} width="100%" flexGrow={1} flexDirection="column">
         <Tabs value={view} onChange={(e, newValue) => setView(newValue)}>
           <Tab label="Signal Gallery" value={0} />
-          <Tab label="Scatter Plot" value={1} />
+          <Tab label="Explore Keywords" value={1} />
         </Tabs>
-        <Box display="flex" width="100%" flexGrow={1} height="90vh">
+        <Box display="flex" width="100%" flexGrow={2} height="90vh">
           {view === 0 ? (
             <SignalGallery signals={filteredSignals} />
           ) : (
             <KeywordsPlot />
           )}
-          <Box display="flex" flexDirection="column" height="100vh" width="20vw">
+          {view ===0 && <Box display="flex" flexDirection="column" height="100vh" width="20vw">
             <Typography variant="h5" sx={{ my: 3, mx: 2 }}>
               Word Cloud
             </Typography>
-            {wordCloudData.length > 0 && view === 0 ? (
+            {wordCloudData.length > 0 ? (
               <WordcloudPanel data={wordCloudData} width={200} height={300} />
             ) : (
               <Box height={300} width={200}></Box>
             )}
-          </Box>
+          </Box>}
         </Box>
       </Box>
     </Box>
