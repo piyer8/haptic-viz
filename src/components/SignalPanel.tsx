@@ -1,6 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { Box, Paper, Typography } from '@mui/material';
-import smoothnessScores from '../signals/signal-data/sensory/smoothness_ratings.json'
 import { SignalTags } from './Visualizations/SignalTags';
 import RawData from './RawData';
 import signalData from '../signals/signal-data/signal-descriptions/all_signals_edited.json';
@@ -8,17 +7,6 @@ import { IndividualKeywordPlot } from './Visualizations/IndividualKeywordPlot';
 import { PlutchikChart } from './Visualizations/PlutchikChart';
 import emotionCategories from '../signals/signal-data/signal-tags/emotional/tagged-signals.json';
 
-interface WorryScore {
-    signal_index: string;
-    worry_score: number;
-}
-
-interface Smoothness {
-    signal_id: string;
-    smoothness: number;
-    smoothness_keywords: string[];
-    roughness_keywords: string[];
-}
 interface EmotionValues{
     joy: number;
     trust: number;
