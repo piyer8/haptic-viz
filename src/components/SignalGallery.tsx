@@ -34,7 +34,7 @@ export const SignalGallery = (props: {signals: Signal[]}) => {
             {signals.map((signal) => 
             <SignalCard key={signal.signal_id} signal_id={signal.signal_id} onClick={onSignalClick} />
             )}
-            {currentSignal && <Modal open={open} onClose={() => setopen(false)}>
+            {currentSignal && <Modal open={open} onClose={() => setopen(false)} sx={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
                 <SignalPanel signalId={currentSignal}/>
             </Modal>}
         </Box>

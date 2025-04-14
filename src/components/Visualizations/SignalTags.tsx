@@ -1,4 +1,4 @@
-import { Box, Chip, Stack, Typography } from '@mui/material'
+import { Box, Chip, Typography } from '@mui/material'
 import React, { useState, useEffect } from 'react'
 import emotionCategories from '../../signals/signal-data/signal-tags/emotional/tagged-signals.json';
 import associativeCategories from '../../signals/signal-data/signal-tags/associative/tagged-signals.json';
@@ -52,12 +52,14 @@ export const SignalTags = (props: {signalIndex: string}) => {
     }
 
     return (
-        <Box display = "flex" flexDirection = "row" width = "100%" gap={2}>
-            <Box display="flex" flexDirection={"row"} flexWrap="wrap" gap={1} width="100%" justifyContent={"space-between"}>
+        <Box display = "flex" flexDirection = "row" width = "auto" justifyContent={"space-between"} gap={2} marginY= "5%">
+            <Box display="flex" flexDirection={"column"} flexWrap={"wrap"} gap={1}>
+                <Typography variant="h6">Emotion categories</Typography>
                 <TagChips tags={emotionalTags} onCLick={chipOnClickEmotional}/>
+                <Typography variant="h6">Associative categories</Typography>
                 <TagChips tags={associativeTags} onCLick={chipOnClickAssociative}/>
             </Box>
-            <Box display = "flex" flexDirection = "column" width = "100%">
+            <Box display = "flex" flexDirection = "column" width = "500px" border={"1px solid black"} padding="1%" borderRadius={2}>
                 {emotionKeywords.length > 0 && <Typography variant='body1'><b>{selectedEmotion}</b>: {emotionKeywords.join(', ')}</Typography>}
                 {assocKeywords.length > 0 && <Typography variant='body1'><b>{selectedAssoc}</b>: {assocKeywords.join(', ')}</Typography>}
             </Box>
@@ -66,15 +68,15 @@ export const SignalTags = (props: {signalIndex: string}) => {
 }
 
 const TagChips = (props: {tags: Category[], onCLick: (tag: Category) => void}) => {
-    return (<Stack>
+    return (<Box display="flex" width={"100%"} flexDirection={"row"} flexWrap={"wrap"} gap={1}>
         {props.tags.map((tag: Category) => {
             return (
-                <Box key={tag.name} display="flex" flexDirection="row" justifyContent={"space-between"}>
-                    <Chip label={tag.name} variant="outlined" onClick={() => {props.onCLick(tag)}} />
-                    <Typography variant='body2'>{tag.percentage}%</Typography>
+                <Box key={tag.name} display="flex" flexDirection="column" justifyContent={"space-between"}>
+                    <Chip label={tag.name} variant="outlined" onClick={() => {props.onCLick(tag)}} sx={{width: 'fit-content'}} />
+                    {/* <Typography variant='body2'>{tag.percentage}%</Typography> */}
                 </Box>
             )
         })}
-    </Stack>
+    </Box>
     )
 }

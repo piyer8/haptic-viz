@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import * as d3 from 'd3';
-import { Box, MenuItem, Modal, Select } from '@mui/material';
+import { Box, MenuItem, Select } from '@mui/material';
 import keyword_embeddings from '../../signals/signal-data/word-cloud-plot/keyword_embeddings_2d.json';
 import keyword_mappings from '../../signals/signal-data/word-cloud-plot/keyword_to_signals.json';
 
@@ -75,17 +75,17 @@ export const IndividualKeywordPlot = (props: KeywordsProps) => {
   }, [wordData]);
 
   return (
-    <Box overflow={"scroll"} height={"100%"} width={"100%"} display="flex" flexDirection={"column"}>
+    <Box overflow={"scroll"} height={"100%"} width={"100%"} minWidth={"500px"} padding="1%" display="flex" flexDirection={"column"}>
         <Select
         value={currentType}
-        autoWidth
         onChange={(e) => setcurrentType(e.target.value as 'sensory' | 'emotional' | 'associative')}
+        sx={{width: '200px'}}
         >
         <MenuItem value="sensory">Sensory</MenuItem>
         <MenuItem value="emotional">Emotional</MenuItem>
         <MenuItem value="associative">Associative</MenuItem>
         </Select>
-    <Box overflow={"scroll"} height={"100%"} width={"100%"}>
+    <Box overflow={"scroll"} height={"100%"} width={"fit-content"} minWidth={"500px"} border="1px solid black" borderRadius={2} marginY={"1%"}>
         <svg ref={svgRef}></svg>
     </Box>
     </Box>

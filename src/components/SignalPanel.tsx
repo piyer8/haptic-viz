@@ -80,19 +80,23 @@ export const SignalPanel = (props: {signalId: number}) => {
         setWavePlot('/wave-plots/F' + props.signalId + '_loop.png');
     }, [props]);
     return (
-        <Paper sx = {{ width: '50%', height: '100vh', overflowY: 'auto', p: 2, bgcolor: 'grey.100', display: 'flex', flexDirection: 'column' }}>
-            <Typography variant = "h2">
+        <Box sx = {{ width: '70%', padding: '5%', height: '100vh', overflowY: 'auto', p: 2, bgcolor: 'white', display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+            <Typography variant = "h4">
                 {signalid}
             </Typography>
             <img src = {wavePlot} alt = "wave plot" width={"100%"} />
             <SignalTags signalIndex={props.signalId.toString()} />
-            <Box width={"100%"} height="auto">
-            <IndividualKeywordPlot sensory_keywords={sensoryKeywords} emotional_keywords={emotionalKeywords} associative_keywords={associativeKeywords} />
-            </Box>
-            <Box width={"100%"} height="auto">
-            <PlutchikChart width={400} height={400} emotions={getEmotionValues} />
+            <Box display="flex" width="100%" flexDirection={"row"} alignContent={"start"} justifyContent={"space-between"} flexWrap={"wrap"} gap={1}>
+                <Box width={"auto"} display="flex" flexDirection={"column"} height="auto" margin="2%">
+                    <Typography variant="h6">Keyword plot</Typography>
+                    <IndividualKeywordPlot sensory_keywords={sensoryKeywords} emotional_keywords={emotionalKeywords} associative_keywords={associativeKeywords} />
+                </Box>
+                <Box width={"auto"} height="auto" padding="1%" display="flex" flexDirection={"column"}>
+                    <Typography variant="h6">Emotion plot</Typography>
+                    <PlutchikChart width={400} height={400} emotions={getEmotionValues} />
+                </Box>
             </Box>
             <RawData sensoryData={sensoryData} emotionalData={emotionalData} associativeData={associativeData} styles={{marginY: 2}} />
-        </Paper>
+        </Box>
     )
 }
