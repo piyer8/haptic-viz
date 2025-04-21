@@ -21,7 +21,9 @@ export const KeywordsPlot = (props: {signals: string[]}) => {
   const [signalList, setsignalList] = useState<string[]>([]);
   const [openDrawer, setopenDrawer] = useState<boolean>(false);
   const [currentKeyword, setcurrentKeyword] = useState<string>('');
-  const [size, setSize] = useState<number>(1500);
+  const boxRef = useRef(null);
+  const [width, setWidth] = useState<number>(1500);
+  const [height, setHeight] = useState<number>(1500);
 
   const onClick = (keyword: Keyword) => {
     setsignalList(keyword.signal_ids);
@@ -68,14 +70,16 @@ export const KeywordsPlot = (props: {signals: string[]}) => {
           // @ts-ignore
           isCentroid: word.is_centroid
       }))
+      //@ts-ignore
+      setWidth(boxRef.current ? boxRef.current.clientWidth : 1500);
+      //@ts-ignore
+      setHeight(boxRef.current ? boxRef.current.clientHeight : 1500);
       setwordData(wordList);
     }
     initSignals();
   }, [props.signals, currentType]);
 
   useEffect(() => {
-    const width = size;
-    const height = size;
     const margin = { top: 20, right: 80, bottom: 20, left: 80 };
 
     const svg = d3
@@ -122,11 +126,17 @@ export const KeywordsPlot = (props: {signals: string[]}) => {
 
     //const breakPoints = [2500, 1500, 500];
 
-      const textData = size < 4000 ?
-        wordData.filter(d => d.isCentroid === true  || d.signal_ids.length > 4) : wordData;
-      
-      const pointData =
-        (size >= 1500 && size < 4000) ? wordData.filter(d => d.isCentroid === false) : [];
+    const isZoomedIn = width >= 3000;
+    const isSuperZoomedOut = width < 1000;
+
+    const textData = isZoomedIn
+      ? wordData // show all words as text
+      : wordData.filter(d => d.isCentroid || d.signal_ids.length > 4); // show important words only
+    
+    const pointData = isZoomedIn
+      ? [] // hide points when zoomed in
+      : isSuperZoomedOut ? [] : 
+      wordData.filter(d => !d.isCentroid); // show non-centroid words as points
       
       svg.selectAll('text.word-label')
         .data(textData)
@@ -136,7 +146,7 @@ export const KeywordsPlot = (props: {signals: string[]}) => {
         .attr('x', d => xScale(d.embedding[0]))
         .attr('y', d => yScale(d.embedding[1]))
         .text(d => d.word)
-        .attr('font-size', d => `${10 +d.signal_ids.length}px`)
+        .attr('font-size', d => `${11 +d.signal_ids.length/2}px`)
         .attr('fill', 'black')
         .attr('opacity', 1)
         .style('cursor', 'pointer')
@@ -153,9 +163,9 @@ export const KeywordsPlot = (props: {signals: string[]}) => {
         .attr('class', 'word-dot')
         .attr('cx', d => xScale(d.embedding[0]))
         .attr('cy', d => yScale(d.embedding[1]))
-        .attr('r', 5)
+        .attr('r', 4)
         .attr('fill', 'gray')
-        .attr('opacity', 0.5)
+        .attr('opacity', 0.6)
         .style('cursor', 'pointer')
         .on('click', (e, d) => onClick(d))
         .on('mouseover', function (e, d) {
@@ -173,6 +183,8 @@ export const KeywordsPlot = (props: {signals: string[]}) => {
             .attr('text-anchor', 'middle')
             .attr('font-size', '12px')
             .attr('fill', 'black')
+            .attr('z-index', -1)
+            .attr('position', 'relative')
             .text(d.word);
         })
         .on('mouseout', function (e, d) {
@@ -183,7 +195,7 @@ export const KeywordsPlot = (props: {signals: string[]}) => {
       
           svg.select('#tooltip').remove();
         });
-  }, [wordData, size, currentType]);
+  }, [wordData, height, width, currentType]);
 
   return (
     <Box height={"90vh"} width={"100%"} display="flex" flexDirection={"row"} justifyContent={"space-between"} bgcolor={"white"} >
@@ -198,11 +210,11 @@ export const KeywordsPlot = (props: {signals: string[]}) => {
         <MenuItem value="associative">Associative</MenuItem>
         </Select>
         <Box display="flex" flexDirection={"row"}>
-          <Button variant='outlined' onClick={(()=> setSize(size + 200))}>+</Button>
-          <Button variant='outlined' onClick={(()=> setSize(size - 200))}>-</Button>
+          <Button variant='outlined' onClick={(()=> {setWidth(width * 1.2); setHeight(height *1.2)})}>+</Button>
+          <Button variant='outlined' onClick={(()=> {setWidth(width * 0.8); setHeight(height * 0.8)})}>-</Button>
         </Box>
     </Box>
-    <Box overflow={"scroll"} height={'100%'} width={"80%"} border={"1px solid black"}>
+    <Box ref={boxRef} overflow={"scroll"} height={'100%'} width={"80%"} border={"1px solid black"} >
         <svg ref={svgRef}></svg>
     </Box>
     {signalList && <SignalDrawer open={openDrawer} signals={signalList} keyword={currentKeyword} onClose={onCloseDrawer} />}

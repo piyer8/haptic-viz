@@ -7,6 +7,9 @@ import { IndividualKeywordPlot } from './Visualizations/IndividualKeywordPlot';
 import { PlutchikChart } from './Visualizations/PlutchikChart';
 import emotionCategories from '../signals/signal-data/signal-tags/emotional/tagged-signals.json';
 
+import { send_ws_pcm_signal } from '../Websocket/websocket';
+import { load_and_send_pcm } from '../Websocket/load_and_send_pcm';
+
 interface EmotionValues{
     joy: number;
     trust: number;
@@ -38,6 +41,27 @@ export const SignalPanel = (props: {signalId: number}) => {
     const loadAssociativeData = (associativeData: any) => {
         setassociativeData(associativeData);
     }
+
+    useEffect(() => {
+        (async () => {
+          const url = `/Signals_all/${signalid}_loop.wav`;
+          const response = await fetch(url);
+      
+          if (!response.ok) {
+            console.error(`Failed to fetch ${url}: ${response.statusText}`);
+            return;
+          }
+      
+          const blob = await response.blob();
+          const file = new File([blob], `${signalid}_loop.wav`, { type: blob.type });
+      
+          try {
+            await load_and_send_pcm(file);
+          } catch (err) {
+            console.error(`Failed to load PCM from ${file.name}:`, err);
+          }
+        })();
+      }, [signalid]);
 
     useEffect(() => {
         let signal =signalData.find((signal: any) => signal.signal_id === `${props.signalId}`);

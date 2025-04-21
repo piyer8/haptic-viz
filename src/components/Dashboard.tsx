@@ -1,6 +1,7 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { Box, Tab, Tabs, Typography } from "@mui/material";
 import allSignalsData from "../signals/signal-data/signal-descriptions/all_signals.json";
+import signalProperties  from "../signals/signal-data/physical_properties/signal_properties.json";
 import wcData from "../signals/signal-data/word-count/separate_word_counts.json";
 import sensoryKeywords from "../signals/signal-data/keyword-mappings/sensory_keywords.json";
 import emotionalKeywords from "../signals/signal-data/keyword-mappings/emotional_keywords.json";
@@ -11,6 +12,8 @@ import { FilterPanel } from "./FilterPanel";
 import emotionCategories from "../signals/signal-data/signal-tags/emotional/tagged-signals.json";
 import associativeCategories from "../signals/signal-data/signal-tags/associative/tagged-signals.json";
 import { KeywordsPlot } from "./Visualizations/KeywordsPlot";
+//import { KeywordsForcePlot } from "./Visualizations/KeywordsForcePlot";
+
 
 interface FilterWord {
   word: string;
@@ -22,6 +25,12 @@ type SliderFilter = {
   category: string;
   range: number[];
 };
+
+export interface PhysicalFilter {
+  tempo: number[];
+  energy: number[];
+  pulseType: string[];
+}
 
 export default function Dashboard() {
   const [allSignals, setAllSignals] = useState<any[]>([]);
@@ -45,6 +54,11 @@ export default function Dashboard() {
   });
   const [sliderFilters, setSliderFilters] = useState<SliderFilter[]>([]);
   const [view, setView] = useState<number>(0);
+  const [physicalFilters, setphysicalFilters] = useState<PhysicalFilter>({
+    tempo: [0, 1400],
+    energy: [0, 100],
+    pulseType: [],
+  });
 
   // Load initial signals.
   useEffect(() => {
@@ -54,6 +68,10 @@ export default function Dashboard() {
   useEffect(() => {
     console.log("Loaded all signals", allSignals);
   }, [allSignals]);
+
+  const updatePhysicalFilter = (filter: PhysicalFilter) => {
+    setphysicalFilters(filter);
+  }
 
   const getSignalListFromKeyword = (keyword: string, keywordMapping: any) => {
     if (keyword && keywordMapping[keyword]) {
@@ -104,11 +122,22 @@ export default function Dashboard() {
     });
   };
 
-  // Combined filtering effect: first apply word filters, then reapply all slider filters.
+  
   useEffect(() => {
-    console.log("Updating filters", { filterList, sliderFilters });
-    // Step 1: Apply keyword filters.
+
     let signalIdSet = new Set(allSignals.map((signal) => signal.signal_id));
+    console.log('curr', signalIdSet);
+    signalIdSet = new Set([...signalIdSet].filter((id) => {
+      const signalProps = signalProperties.find((signal: any) => signal.signal_id === 'F'+id);
+      if(signalProps === undefined) return false;
+      const { tempo, pulse_type } = signalProps;
+      return (
+        tempo >= physicalFilters.tempo[0] &&
+        tempo <= physicalFilters.tempo[1] &&
+        (physicalFilters.pulseType.length === 0 || physicalFilters.pulseType.includes(pulse_type))
+      )
+    }))
+
     filterList.forEach((keyword) => {
       let keywordSignalList = new Set();
       const mapping = {
@@ -128,7 +157,7 @@ export default function Dashboard() {
       signalIdSet.has(signal.signal_id)
     );
 
-    // Step 2: Apply all active slider filters.
+
     sliderFilters.forEach((slider) => {
       const categoryList =
         slider.keywordType === "emotional"
@@ -148,7 +177,7 @@ export default function Dashboard() {
     });
 
     setFilteredSignals(intermediateSignals);
-  }, [filterList, sliderFilters, allSignals]);
+  }, [filterList, sliderFilters, allSignals, physicalFilters]);
 
   const wordCloudData = useMemo(() => {
     // If no filters are active, return an empty word cloud.
@@ -177,7 +206,7 @@ export default function Dashboard() {
       text: word,
       value: wordCountMap[word],
     }));
-  }, [filteredSignals, filterList, sliderFilters]);
+  }, [filteredSignals, filterList, sliderFilters, physicalFilters]);
 
   return (
     <Box display="flex" flexDirection="row" height="80vh" width="100%">
@@ -187,6 +216,8 @@ export default function Dashboard() {
         deleteFromFilter={(word) => deleteFromFilter(word)}
         emotionalFilters={emotionalFilters}
         associativeFilters={associativeFilters}
+        updatePhysicalFilters={updatePhysicalFilter}
+        physicalFilter={physicalFilters}
       />
       <Box
         display="flex"

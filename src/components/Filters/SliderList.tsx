@@ -1,7 +1,7 @@
 import { Accordion, AccordionDetails, AccordionSummary, Box, Slider, Stack, Typography } from '@mui/material';
 import React, { useEffect, useState } from 'react'
 
-const OptionSlider = (props: {option: string, value: number[], onChange: (e: Event, newValue: number[]) => void}) => {
+export const OptionSlider = (props: {option: string, value: number[], onChange: (e: Event, newValue: number[]) => void}) => {
     const [value, setvalue] = useState<number[]>([0, 100]);
     useEffect(() => {
         setvalue(props.value);
