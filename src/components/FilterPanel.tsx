@@ -1,21 +1,16 @@
 import {
-  Accordion,
-  AccordionDetails,
-  AccordionSummary,
   Autocomplete,
-  Box,
   Checkbox,
   Stack,
   TextField,
-  Typography,
 } from "@mui/material";
 import sensoryKeywords from "../signals/signal-data/keyword-mappings/sensory_keywords.json";
 import emotionalKeywords from "../signals/signal-data/keyword-mappings/emotional_keywords.json";
 import associativeKeywords from "../signals/signal-data/keyword-mappings/associative_keywords.json";
 import { CheckBoxOutlineBlank, CheckBox } from "@mui/icons-material";
-import React, { useEffect, useState } from "react";
-import { OptionSlider, SliderList } from "./Filters/SliderList";
-import { PhysicalFilter } from "./Dashboard";
+import React, { useState } from "react";
+import { SliderList } from "./Filters/SliderList";
+import featureRanges from "../signals/signal-data/physical_properties/feature_ranges.json";
 
 interface FilterWord {
   word: string;
@@ -79,58 +74,6 @@ export default function CheckboxesTags(props: {
   );
 }
 
-const PhysicalFilters = (props: {
-  updatePhysicalFilters: (filters: PhysicalFilter) => void;
-  value: PhysicalFilter;
-}) => {
-  const [tempo, setTempo] = useState<number[]>(props.value.tempo);
-  const [pulseType, setpulseType] = useState<string[]>(props.value.pulseType);
-  const PULSE_TYPES = ["short", "medium", "long", "varied", "continuous"];
-
-  useEffect(() => {
-    setTempo(props.value.tempo);
-    setpulseType(props.value.pulseType);
-  }, [props.value]);
-
-  useEffect(() => {
-    props.updatePhysicalFilters({ ...props.value, tempo, pulseType });
-  }, [tempo, pulseType]);
-
-  return (
-    <Accordion>
-      <AccordionSummary>
-        <Typography>{"Signal Properties"}</Typography>
-      </AccordionSummary>
-      <AccordionDetails>
-        <Box>
-          <OptionSlider
-            option="tempo"
-            value={tempo}
-            onChange={(e: any, newValue: number[]) =>
-              setTempo(newValue as number[])
-            }
-          />
-          <Typography variant="body2">Pulse type</Typography>
-          {PULSE_TYPES.map((pulse) => (
-            <li key={pulse}>
-            <Checkbox
-                icon={icon}
-                checkedIcon={checkedIcon}
-                checked={pulseType.includes(pulse)}
-                onChange={(e: any) => {
-                  if (e.target.checked) setpulseType([...pulseType, pulse]);
-                  else setpulseType(pulseType.filter((p) => p !== pulse));
-                }}
-              />
-            {pulse}
-            </li>
-          ))}
-        </Box>
-      </AccordionDetails>
-    </Accordion>
-  );
-};
-
 export const FilterPanel = (props: {
   applyFilters: (word: FilterWord) => void;
   deleteFromFilter: (word: FilterWord) => void;
@@ -141,8 +84,8 @@ export const FilterPanel = (props: {
   ) => void;
   emotionalFilters: any;
   associativeFilters: any;
-  updatePhysicalFilters: (filters: PhysicalFilter) => void;
-  physicalFilter: PhysicalFilter;
+  updatePhysicalFilters: (filters: any) => void;
+  physicalFilter: any;
 }) => {
   return (
     <Stack
@@ -152,7 +95,15 @@ export const FilterPanel = (props: {
       width={"18vw"}
       gap={2}
     >
-      <PhysicalFilters updatePhysicalFilters={props.updatePhysicalFilters} value={props.physicalFilter} />
+      <SliderList 
+        name="Signal Features"
+        filters={props.physicalFilter}
+        options={Object.keys(props.physicalFilter)}
+        applySliderFilter={(option: string, value: number[]) =>
+          props.updatePhysicalFilters({ ...props.physicalFilter, [option]: value })
+        }
+        minMaxValues={featureRanges}
+        />
       <CheckboxesTags
         label="Sensory"
         options={Object.keys(sensoryKeywords)}

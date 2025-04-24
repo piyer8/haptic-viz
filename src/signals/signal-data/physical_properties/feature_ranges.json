@@ -1,0 +1,30 @@
+{
+    "mean_amplitude": [
+        -2191.93,
+        4452.46
+    ],
+    "rms": [
+        703.58,
+        30972.78
+    ],
+    "pulse_count": [
+        3,
+        77
+    ],
+    "std_pulse_dist": [
+        0.67,
+        201.29
+    ],
+    "zero_count": [
+        14,
+        319141
+    ],
+    "mean_onset_strength": [
+        0.12,
+        4.17
+    ],
+    "spectral_centroid": [
+        99.78,
+        15823.19
+    ]
+}

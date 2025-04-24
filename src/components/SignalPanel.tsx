@@ -7,8 +7,8 @@ import { IndividualKeywordPlot } from './Visualizations/IndividualKeywordPlot';
 import { PlutchikChart } from './Visualizations/PlutchikChart';
 import emotionCategories from '../signals/signal-data/signal-tags/emotional/tagged-signals.json';
 
-import { send_ws_pcm_signal } from '../Websocket/websocket';
-import { load_and_send_pcm } from '../Websocket/load_and_send_pcm';
+// import { send_ws_pcm_signal } from '../Websocket/websocket';
+// import { load_and_send_pcm } from '../Websocket/load_and_send_pcm';
 
 interface EmotionValues{
     joy: number;
@@ -56,7 +56,7 @@ export const SignalPanel = (props: {signalId: number}) => {
           const file = new File([blob], `${signalid}_loop.wav`, { type: blob.type });
       
           try {
-            await load_and_send_pcm(file);
+            //await load_and_send_pcm(file);
           } catch (err) {
             console.error(`Failed to load PCM from ${file.name}:`, err);
           }

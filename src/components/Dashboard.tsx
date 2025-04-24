@@ -1,7 +1,6 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { Box, Tab, Tabs, Typography } from "@mui/material";
 import allSignalsData from "../signals/signal-data/signal-descriptions/all_signals.json";
-import signalProperties  from "../signals/signal-data/physical_properties/signal_properties.json";
 import wcData from "../signals/signal-data/word-count/separate_word_counts.json";
 import sensoryKeywords from "../signals/signal-data/keyword-mappings/sensory_keywords.json";
 import emotionalKeywords from "../signals/signal-data/keyword-mappings/emotional_keywords.json";
@@ -12,6 +11,11 @@ import { FilterPanel } from "./FilterPanel";
 import emotionCategories from "../signals/signal-data/signal-tags/emotional/tagged-signals.json";
 import associativeCategories from "../signals/signal-data/signal-tags/associative/tagged-signals.json";
 import { KeywordsPlot } from "./Visualizations/KeywordsPlot";
+import { WordcloudProps } from "@visx/wordcloud/lib/Wordcloud";
+import physicalFeatures from '../signals/signal-data/physical_properties/features.json';
+import featureRanges from '../signals/signal-data/physical_properties/feature_ranges.json';
+import { parse } from "path";
+
 //import { KeywordsForcePlot } from "./Visualizations/KeywordsForcePlot";
 
 
@@ -27,9 +31,13 @@ type SliderFilter = {
 };
 
 export interface PhysicalFilter {
-  tempo: number[];
-  energy: number[];
-  pulseType: string[];
+  mean_amplitude: number[];
+  rms: number[];
+  pulse_count: number[];
+  std_pulse_dist: number[];
+  zero_count: number[];
+  mean_onset_strength: number[];
+  spectral_centroid: number[]
 }
 
 export default function Dashboard() {
@@ -54,11 +62,9 @@ export default function Dashboard() {
   });
   const [sliderFilters, setSliderFilters] = useState<SliderFilter[]>([]);
   const [view, setView] = useState<number>(0);
-  const [physicalFilters, setphysicalFilters] = useState<PhysicalFilter>({
-    tempo: [0, 1400],
-    energy: [0, 100],
-    pulseType: [],
-  });
+
+  //@ts-ignore
+  const [physFilters, setphysFilters] = useState<any>(featureRanges);
 
   // Load initial signals.
   useEffect(() => {
@@ -70,7 +76,7 @@ export default function Dashboard() {
   }, [allSignals]);
 
   const updatePhysicalFilter = (filter: PhysicalFilter) => {
-    setphysicalFilters(filter);
+    setphysFilters(filter);
   }
 
   const getSignalListFromKeyword = (keyword: string, keywordMapping: any) => {
@@ -124,20 +130,22 @@ export default function Dashboard() {
 
   
   useEffect(() => {
-
+    // ALL SIGNALS
     let signalIdSet = new Set(allSignals.map((signal) => signal.signal_id));
-    console.log('curr', signalIdSet);
+
+    // PHYSICAL FILTER
     signalIdSet = new Set([...signalIdSet].filter((id) => {
-      const signalProps = signalProperties.find((signal: any) => signal.signal_id === 'F'+id);
-      if(signalProps === undefined) return false;
-      const { tempo, pulse_type } = signalProps;
-      return (
-        tempo >= physicalFilters.tempo[0] &&
-        tempo <= physicalFilters.tempo[1] &&
-        (physicalFilters.pulseType.length === 0 || physicalFilters.pulseType.includes(pulse_type))
-      )
+      const signalProps = physicalFeatures.find((s) => s.id === `F${id}`);
+      if (!signalProps) return false;
+      return Object.keys(physFilters).every((feature) => {
+        //@ts-ignore
+        const val = parseFloat(signalProps[feature][0]);
+        //@ts-ignore
+        return !(physFilters[feature][0] > val || physFilters[feature][1] < val);
+      });
     }))
 
+    //SENSORY KEYWORDS
     filterList.forEach((keyword) => {
       let keywordSignalList = new Set();
       const mapping = {
@@ -147,17 +155,17 @@ export default function Dashboard() {
       }[keyword.wordType];
       if (mapping) {
         keywordSignalList = getSignalListFromKeyword(keyword.word, mapping);
+        signalIdSet = new Set(
+          [...signalIdSet].filter((id) => keywordSignalList.has(id))
+        );
       }
-      signalIdSet = new Set(
-        [...signalIdSet].filter((id) => keywordSignalList.has(id))
-      );
     });
 
     let intermediateSignals = allSignals.filter((signal) =>
       signalIdSet.has(signal.signal_id)
     );
 
-
+    //Emotional and associative filters
     sliderFilters.forEach((slider) => {
       const categoryList =
         slider.keywordType === "emotional"
@@ -177,12 +185,14 @@ export default function Dashboard() {
     });
 
     setFilteredSignals(intermediateSignals);
-  }, [filterList, sliderFilters, allSignals, physicalFilters]);
+  }, [filterList, sliderFilters, allSignals, physFilters]);
 
-  const wordCloudData = useMemo(() => {
+  const [wordCloudData, setWordCloudData] = useState<Array<{ text: string; value: number }>>([]);
+
+  const calculateWordCloudData = (filterList: Set<FilterWord> = new Set(), sliderFilters: SliderFilter[] = [], filteredSignals: any[] = []) => {
     // If no filters are active, return an empty word cloud.
     if (filterList.size === 0 && sliderFilters.length === 0) {
-      return [];
+      return ([]);
     }
     const wordCountMap: { [key: string]: number } = {};
     const signalIds = new Set(
@@ -202,11 +212,15 @@ export default function Dashboard() {
       }
     });
 
-    return Object.keys(wordCountMap).map((word) => ({
+    return (Object.keys(wordCountMap).map((word) => ({
       text: word,
       value: wordCountMap[word],
-    }));
-  }, [filteredSignals, filterList, sliderFilters, physicalFilters]);
+    })));
+  }
+
+  useEffect(() => {
+    setWordCloudData(calculateWordCloudData(filterList, sliderFilters, filteredSignals));
+  }, [filteredSignals]);
 
   return (
     <Box display="flex" flexDirection="row" height="80vh" width="100%">
@@ -217,7 +231,7 @@ export default function Dashboard() {
         emotionalFilters={emotionalFilters}
         associativeFilters={associativeFilters}
         updatePhysicalFilters={updatePhysicalFilter}
-        physicalFilter={physicalFilters}
+        physicalFilter={physFilters}
       />
       <Box
         display="flex"
